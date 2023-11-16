@@ -1,0 +1,7 @@
+{
+  "name": "Algorithm_Practice",
+  "version": "1.0.0",
+  "main": "practical.js",
+  "license": "MIT",
+  "type": "module"
+}
