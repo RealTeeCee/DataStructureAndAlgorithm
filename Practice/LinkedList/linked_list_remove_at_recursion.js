@@ -1,0 +1,241 @@
+export class Node {
+  constructor(value) {
+    this.value = value;
+    this.next = null;
+  }
+}
+
+export default class LinkedList {
+  constructor() {
+    this.head = null;
+    this.tail = this.head;
+    this.length = 0;
+  }
+
+  append(value) {
+    let obj = new Node(value);
+    if (this.length === 0) {
+      this.head = obj;
+      this.tail = this.head;
+    } else {
+      this.tail.next = obj;
+      this.tail = obj;
+    }
+    this.length++;
+  }
+
+  prepend(value) {
+    let obj = new Node(value);
+    obj.next = this.head;
+    this.head = obj;
+    this.length++;
+  }
+
+  removeFirst() {
+    let returnNode = this.head.value;
+    if (this.length !== 0) {
+      this.head = this.head.next;
+      this.length--;
+    }
+    return returnNode;
+  }
+
+  printList() {
+    const array = [];
+    let currentNode = this.head;
+    while (currentNode !== null) {
+      array.push(currentNode.value);
+      currentNode = currentNode.next;
+    }
+
+    return array;
+  }
+
+  insert(index, value) {
+    if (index === 0) {
+      this.prepend(value);
+      return;
+    }
+
+    if (index >= this.length - 1) {
+      this.append(value);
+      return;
+    }
+
+    let node = this.getNodeAt(index - 1);
+    let obj = new Node(value);
+
+    obj.next = node.next;
+    node.next = obj;
+
+    this.length++;
+  }
+
+  // getNodeAt(node, index, i) {
+  //   if (i < index) {
+  //     node = this.getNodeAt(node.next, index, i + 1);
+  //   }
+  //   return node;
+  // }
+  getNodeAt(index) {
+    let i = 0;
+    let node = this.head;
+    while (i < index) {
+      node = node.next;
+      i++;
+    }
+    return node;
+  }
+
+  // remove(index) {
+  //   if (this.length === 0) {
+  //     return;
+  //   }
+
+  //   if (index === 0) {
+  //     this.removeFirst();
+  //   }
+
+  //   if (index >= this.length) {
+  //     index = this.length - 1;
+  //   }
+  //   let currentNode = this.head;
+  //   let node = this.getNodeAt(currentNode, index - 1, 0);
+  //   node.next = node.next.next;
+
+  //   if (index === this.length - 1) {
+  //     this.tail = node;
+  //   }
+  //   this.length--;
+  // }
+
+  remove(node, index, firstIndex) {
+    if (this.length === 0) {
+      return;
+    }
+    if (index === 0) {
+      this.removeFirst();
+    }
+    if (index >= this.length) {
+      index = this.length - 1;
+    }
+    if (firstIndex < index - 1) {
+      node = node.next;
+      this.remove(node, index, firstIndex + 1);
+    } else {
+      if (node.next.next === null) {
+        this.tail = node;
+      } else {
+        node.next = node.next.next;
+      }
+      this.length--;
+    }
+  }
+  deleteNode(start, k) {
+    // If invalid k
+    if (k < 1) return start;
+
+    // If linked list is empty
+    if (start == null) return null;
+
+    // Base case (start needs to be deleted)
+    if (k == 1) {
+      var res = start.next;
+      return res;
+    }
+
+    if (start.next === null) {
+      this.tail = start;
+      this.length--;
+    }
+
+    start.next = this.deleteNode(start.next, k - 1);
+    return start;
+  }
+  traverseToIndexRecursive(node, idx, cnt) {
+    if (idx === cnt) {
+      return node;
+    }
+    return this.traverseToIndexRecursive(node.next, idx + 1, cnt);
+  }
+  // 1 2 3 4 5 6
+  // 0 1 2 3 4 5
+  deleteNodeRecursive(node, idx, cnt) {
+    if (node === null) {
+      return null;
+    }
+    if (idx === cnt) {
+      this.length--;
+      return node.next;
+    }
+    // 1->2->3->4->5->6
+
+    // st 1: 1
+    node.next = this.deleteNodeRecursive(node.next, idx + 1, cnt);
+    if (node.next == null) {
+      this.tail = node;
+    }
+    this.head = node;
+    return node;
+  }
+  //f   s   t
+  //1-->2-->3
+  //1<--2   3
+  //1-->2
+  //2<--3   3
+  //1<--2
+  //1<--2<--3
+  //=========
+  //f   s   t
+  //        2
+
+  //Consider two lists to be equivalent if they have the same length and contents
+  //that are element-by-element equivalent.
+  compare(linkedList2) {
+    if (this.length !== linkedList2.length) return false;
+    let list2Node = linkedList2.head;
+    let currentNode = this.head;
+    while (list2Node !== null) {
+      if (currentNode.value !== list2Node.value) return false;
+      list2Node = list2Node.next;
+      currentNode = currentNode.next;
+    }
+    return true;
+  }
+
+  clone() {
+    if (this.length === 0) return;
+    let currentNode = this.head;
+    const cloneLinkedList = new LinkedList(currentNode.value);
+    while (currentNode.next !== null) {
+      cloneLinkedList.append(currentNode.next?.value);
+      currentNode = currentNode.next;
+    }
+    console.log(cloneLinkedList);
+  }
+}
+
+//1 --> 10 --> x --> 5 --> 16
+// let myLinkedList = {
+//     head: {
+//         value: 10,
+//         next: {
+//             value: 5,
+//             next: {
+//                 value: 16,
+//                 next: null
+//             }
+//         }
+//     }
+// }
+const myLinkedList = new LinkedList();
+myLinkedList.append(1);
+myLinkedList.append(2);
+myLinkedList.append(3);
+myLinkedList.append(4);
+myLinkedList.append(5);
+myLinkedList.append(6);
+
+// myLinkedList.remove(myLinkedList.head, 5, 0);
+console.log(myLinkedList.deleteNodeRecursive(myLinkedList.head, 0, 0));
+let test = "";
