@@ -127,6 +127,29 @@ export default class LinkedList {
 
     console.log(this.printList());
   }
+  reverseRecursiveV2(cur) {
+    if (cur === null || cur.next === null) return cur;
+    else {
+      let node = this.reverseRecursiveV2(cur.next);
+      cur.next.next =cur;
+      cur.next = null;
+      this.tail = cur;
+      this.head = node;
+      return node;
+    }
+  }
+  reverseRecursive(cur, prev, next) {
+    if (cur) {
+      next = cur.next;
+      cur.next = prev;
+      prev = cur;
+      cur = next;
+      this.reverseRecursive(cur, prev, next);
+    } else {
+      this.tail = this.head;
+      this.head = prev;
+    }
+  }
   //p   c   n
   //x   1-->2-->3-->x
   //x<--1   2-->3-->x
@@ -213,6 +236,6 @@ myLinkedList.append(2);
 myLinkedList.append(3);
 myLinkedList.append(4);
 myLinkedList.append(5);
-myLinkedList.reverseV2(myLinkedList.head, null, null);
+myLinkedList.reverseRecursiveV2(myLinkedList.head);
 
 let test = 0;
