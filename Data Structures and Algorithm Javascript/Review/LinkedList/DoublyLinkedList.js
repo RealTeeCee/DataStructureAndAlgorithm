@@ -2,9 +2,10 @@ class Node {
   constructor(value) {
     this.value = value;
     this.next = null;
+    this.prev = null;
   }
 }
-class LinkedList {
+class DoublyLinkedList {
   constructor() {
     this.head = null;
     this.tail = this.head;
@@ -17,6 +18,7 @@ class LinkedList {
       this.head = newNode;
       this.tail = this.head;
     } else {
+      this.head.prev = newNode;
       newNode.next = this.head;
       this.head = newNode;
     }
@@ -29,6 +31,7 @@ class LinkedList {
       this.head = newNode;
       this.tail = newNode;
     } else {
+      newNode.prev = this.tail;
       this.tail.next = newNode;
       this.tail = newNode;
     }
@@ -38,6 +41,7 @@ class LinkedList {
   removeFirst() {
     if (this.length === 0) return;
     this.head = this.head.next;
+    if (this.head) this.head.prev = null;
     this.length--;
     if (this.length === 0) this.tail = null;
     return this.head;
@@ -68,6 +72,7 @@ class LinkedList {
         currentNode = currentNode.next;
         i++;
       }
+      currentNode.next.next.prev = currentNode;
       currentNode.next = currentNode.next.next;
       if (!currentNode.next) this.tail = currentNode;
     }
@@ -77,9 +82,9 @@ class LinkedList {
     if (index === 0) return node;
     else {
       if (index === 1) return node.next;
-      
+
       node.next = this.removeAtRecursion(node.next, index - 1);
-      if(!node.next) this.tail = node;
+      if (!node.next) this.tail = node;
 
       return node;
     }
@@ -96,6 +101,7 @@ class LinkedList {
         i++;
       }
       const newNode = new Node(value);
+      currentNode.next.prev = newNode;
       newNode.next = currentNode.next;
       currentNode.next = newNode;
       this.length++;
@@ -103,18 +109,20 @@ class LinkedList {
   }
 
   reverse() {
-    let first = null;
+    let first = new Node(null);
     let second = this.head;
     this.tail = this.head;
 
     while (second) {
       let third = second.next;
-      second.next = first;
+      first.prev = second;
+      second.next = !first.value ? null : first;
       first = second;
       second = third;
     }
 
     this.head = first;
+    this.head.prev = null;
   }
 
   reverseRecursive(cur) {
@@ -123,7 +131,14 @@ class LinkedList {
     } else {
       let node = this.reverseRecursive(cur.next);
       cur.next.next = cur;
+      if(cur.next.next) cur.next.next.prev = cur.next;
       cur.next = null;
+      
+      if (!node.next.next) {
+        node.prev = null;
+        node.next.prev = node;
+      }
+      
       this.tail = cur;
       this.head = node;
       return node;
@@ -131,20 +146,23 @@ class LinkedList {
   }
 }
 
-const linkedList = new LinkedList();
-// linkedList.prepend(1);
-// linkedList.prepend(2);
-// linkedList.prepend(4);
-// linkedList.prepend(5);
-// linkedList.prepend(6);
-linkedList.append(1);
-linkedList.append(2);
-linkedList.append(3);
-linkedList.append(4);
-linkedList.append(5);
-// linkedList.removeFirst();
-console.log(linkedList.removeAtRecursion(linkedList.head, 4));
-// linkedList.insertAt(4, 0);
-// linkedList.reverse();
-// linkedList.reverseRecursive(linkedList.head);
+const doublyLinkedList = new DoublyLinkedList();
+// doublyLinkedList.prepend(1);
+// doublyLinkedList.prepend(2);
+// doublyLinkedList.prepend(3);
+// doublyLinkedList.prepend(4);
+// doublyLinkedList.prepend(5);
+// doublyLinkedList.prepend(6);
+doublyLinkedList.append(1);
+doublyLinkedList.append(2);
+doublyLinkedList.append(3);
+doublyLinkedList.append(4);
+doublyLinkedList.append(5);
+// doublyLinkedList.removeFirst();
+// doublyLinkedList.removeAt(2);
+
+// console.log(doublyLinkedList.removeAtRecursion(doublyLinkedList.head, 4));
+// doublyLinkedList.insertAt(4, 0);
+// doublyLinkedList.reverseRe();
+doublyLinkedList.reverseRecursive(doublyLinkedList.head);
 let test = 0;

@@ -57,56 +57,64 @@ class BinarySearchTree {
     while (currentNode) {
       if (value < currentNode.value) {
         parentNode = currentNode;
-        currentNode = currentNode.right;
+        currentNode = currentNode.left;
       } else if (value > currentNode.value) {
         parentNode = currentNode;
-        currentNode = currentNode.left;
+        currentNode = currentNode.right;
       } else if (value === currentNode.value) {
         //We have a match, get to work!
 
         //Option 1: No right child:
         if (!currentNode.right) {
-          if (!parentNode) this.root = currentNode.left;
+          if (!parentNode) this.root = null;
           else {
             //If parent > current value, make current left child a child of parent
             if (currentNode.value < parentNode.value)
               parentNode.left = currentNode.left;
+            //If parent < current value, make current right child a child of parent
             else if (currentNode.value > parentNode.value)
               parentNode.right = currentNode.left;
           }
           //Option 2: Right child which doesnt have a left child
         } else if (!currentNode.right.left) {
+          if (!parentNode) this.root = null;
+          else {
+            currentNode.right.left = currentNode.left;
+            //If parent > current value, make current left child a child of parent
+            if (currentNode.right.value < parentNode.value) {
+              parentNode.left = currentNode.right;
+            }
+            //If parent < current value, make current right child a child of parent
+            else if (currentNode.right.value > parentNode.value) {
+              parentNode.right = currentNode.right;
+            }
+          }
+          //Option 3: Right child that have a left child
         } else {
-        }
-        let temp = currentNode;
-        let parentTemp = null;
-        let check = false;
-        let isRightMost = false;
-        if (!currentNode.right && !currentNode.left) parentNode.right = null;
-        while (!check) {
-          if (temp.right) {
-            parentTemp = temp;
-            temp = temp.right;
-          } else if (!temp.right && !temp.left) {
-            parentTemp.right = null;
-            check = true;
-          } else if (!temp.right && temp.left) {
-            parentTemp = temp;
-            temp = temp.left;
-            isRightMost = true;
+          //find the Right child 's left most child
+          let leftmost = currentNode.right.left;
+          let leftmostParent = currentNode.right;
+          while (leftmost.left) {
+            leftmostParent = leftmost;
+            leftmost = leftmost.left;
           }
-          if (!temp.left && isRightMost) {
-            check = true;
+
+          //Parent's left subtree is now leftmost 's right subtree
+          leftmostParent.left = leftmost.right;
+          leftmost.left = currentNode.left;
+          leftmost.right = currentNode.right;
+
+          if (!parentNode) {
+            this.root = leftmost;
+          } else {
+            if (currentNode.value < parentNode.value) {
+              parentNode.left = leftmost;
+            } else if (currentNode.value > parentNode.value) {
+              parentNode.right = leftmost;
+            }
           }
         }
-        temp.left = currentNode.left;
-        parentTemp.left = temp.right;
-        parentTemp.right = null;
-        temp.right = parentTemp;
-        // temp.right =
-        parentNode.right = temp;
-        let test = "";
-        return this;
+        return true;
       }
     }
   }
@@ -123,16 +131,21 @@ const traverse = (node) => {
 
 console.log("Start");
 const tree = new BinarySearchTree();
-tree.insert(9);
-tree.insert(4);
-tree.insert(6);
-tree.insert(20);
-tree.insert(170);
-tree.insert(15);
-tree.insert(1);
-tree.insert(9);
-tree.lookup(9);
+tree.insert(7);
+tree.insert(42);
+tree.insert(56);
+tree.insert(47);
+tree.insert(51);
+tree.insert(71);
+tree.insert(58);
+tree.insert(95);
+tree.insert(83);
+tree.insert(99);
+tree.insert(96);
 // JSON.stringify(traverse(tree.root));
-// tree.remove(65);
+tree.remove(56);
+tree.remove(71);
 console.log(tree);
 console.log("End");
+
+7, 42, 56, 47, 51, 71, 58, 95, 83, 99, 96;
