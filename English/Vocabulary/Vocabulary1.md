@@ -1,6 +1,3 @@
-========================================================================================================================
-# VOCABULARY 1
-
 handout /ˈhændaʊt/: tài liệu, tờ rơi
 flyer /ˈflaɪə(r)/: tờ rơi, phi công, chim chóc, con vật bay
 screwdriver /ˈskruːdraɪvə(r)/: tua vít

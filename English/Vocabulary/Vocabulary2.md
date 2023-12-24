@@ -1,6 +1,3 @@
-========================================================================================================================
-# VOCABULARY 2
-
 tranquillity /træŋˈkwɪləti/: yên bình
 rural /ˈrʊrəl ˈrʊərəl/: mang vẻ nông thôn, quê
 apartment /əˈpɑːrtmənt/: căn hộ

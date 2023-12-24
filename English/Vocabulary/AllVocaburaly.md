@@ -560,3 +560,187 @@ glossy /ˈɡlɔsi/: bóng loáng, sáng
 sticky /ˈstɪki/: dẻo, dính
 fragance /ˈfreɪɡrəns/: hương thơm
 attentive /əˈtɛntɪv/: chú ý, lưu ý, niềm nở
+shape /ʃeɪp/: dáng (người), hình dạng
+collab (collaboration): cộng tác
+collaborate /kəˈlæbəˌreɪt/: hợp tác
+dust /dʌst/: (n) bụi, phấn hoa = pollen, rác
+dusting: quét nhà
+sweep /swip/: quét, vét bùn, cạo ống
+sweeping: quét nhà
+vacuum /ˈvækyum/: (v) hút chân không (n) máy hút bụi, khoảng chân không
+vacuuming: (v) húi bụi
+mop /mɑp/: (n) chổi lau nhà
+mopping: (v) lau nhà
+seek /sik/: tìm kiếm
+caretaker /ˈkɛrˌteɪkər/: giữ nhà, giữ chỗ
+prompt /prɑmpt/: lời nhắc
+promptly /ˈprɑmptli/: kịp thời, nhanh chóng
+navigate /ˈnævəˌɡeɪt/: đi tàu, đi biển, điều hướng
+navigation /ˌnævəˈɡeɪʃn/: dẫn tàu, sự vượt biển, sự dẫn đường, điều hướng
+possess /pəˈzɛs/: sở hữu
+accurate /ˈækyərət/: chính xác
+accuracy /ˈækyərəsi/: sự chính xác, tính đúng đắn
+routine /ruˈtin/: lịch trình, thói quen
+direct /daɪˈrɛkt/: (n) đi thẳng, rõ ràng minh bạch (v)
+greeting /ˈɡrit̮ɪŋ/: chào hỏi
+welcoming: chào đón
+directing guests: hướng dẫn khách
+refund /ˈrifʌnd/: (v) đền bù trả lại (n) sự đền trả
+telecommunication /ˌtɛləkəˌmyunəˈkeɪʃnz/: viễn thông
+exchange /ɪksˈtʃeɪndʒ/: (n) giao dịch, sự đổi, thị trường chứng khoáng (v) giao dịch, giao hoán, trao đổi
+nanny  /ˈnæni/: bảo mẫu, giữ trẻ, vú em (= mamma)
+inspect /ɪnˈspɛkt/: quan sát
+inspection /ɪnˈspɛkʃn/: sự điều tra, kiểm duyệt, khám xét
+assist /əˈsɪst/: hỗ trợ, giúp sức
+assistant /əˈsɪstənt/: trợ thủ, trợ lý, phụ tá
+assistant manager /ˈmænɪdʒər/: trợ lý giám đốc
+inventory /ˈɪnvənˌtɔri/: sự kiểm kê, bản kê hàng hóa, tiền bạc, ruộng đất
+bind /baɪnd/: (n) dấu = mark, sign, point, note (v) trói buộc, ưng thuận
+binding: (a) ràng buộc (n) sự đóng dính
+binding booklet /ˈbʊklət/: đóng kẹp ghim tài liệu, đóng sách
+laminate /ˈlæmənət/: gia công, ép, thành lá mỏng
+lamination /,læmi'neiʃn/: sự gia công, cán kim loại, ép kim loại
+lamination machine = laminator: máy cán, ép nhựa
+tutor /ˈtut̮ər/: gia sư (n), dạy kèm (v)
+vendor /ˈvɛndər/: nhà cung cấp hàng hóa hoặc dịch vụ, nhà bán hàng, bên bán
+zip /zɪp/: (v) kéo khóa, phẹt ma tua (n) khí động lực
+zipper /ˈzɪpər/: (n) dây kéo, phẹt ma tua
+station /ˈsteɪʃn/: nhà ga, trạm, bến, đồn
+coniferous /ˈkɑnəfər/: họ lá kim
+evergreen /ˈɛvərˌɡrin/: (a) xanh tươi, xanh thẳm (n) cây có lá xanh, cây tươi tốt
+pine /paɪn/: (a) thuộc cây tùng, cây thông (v) trở nên suy nhược, khao khát 1 người, 1 điều hoặc 1 thời gian đã qua
+pine tree: cây thông
+tar /tɑr/: hắc ín, dầu hắc
+timber /ˈtɪmbər/: gỗ
+turpentine /ˈtərpənˌtaɪn/: (n) nhựa thông (v) lấy nhựa thông
+shrink /ʃrɪŋk/: co lại
+fuzz /fʌz/: lông tơ
+luggage /ˈlʌɡɪdʒ/: hành lý
+basement /ˈbeɪsmənt/: tầng hầm
+boil /bɔɪl/: (v) đun sôi (n) mụn nhọt
+daisy /ˈdeɪzi/: hoa cúc
+trefoil /ˈtrifɔɪl/: hình cây ba lá, cây chĩa ba
+birdsfoot trefoil: cây ba lá chân chim
+wobble /ˈwɑbl/: (v) lung lay, rung (n) sự đu đưa, sự lung lay
+knee /ni/: đầu gối
+elbow /ˈɛlboʊ/: cù chỏ, khuỷu tay
+omnivore /ˈɑmnəˌvɔr/: động vật ăn tạp
+pod /pɑd/: cái giỏ bắt lươn, cái lờ bắt cá, vỏ (đậu, trứng), kén 
+cocoa  /ˈkoʊkoʊ/: ca cao
+bitter /ˈbɪt̮ər/: vị đắng
+perhaps /pərˈhæps/: có lẽ
+paddle /ˈpædl/: mái chèo
+gear /ɡɪr/: (nghĩa chung) trang bị, bánh răng
+cuisine /kwɪˈzin/: ẩm thực
+armchair /ˈɑrmtʃɛr/: ghế bành, ghế tay vịn
+eager /ˈiɡər/: háo hức, hăng hái, sẵn lòng
+seedling /ˈsidlɪŋ/: cây giống
+sprout /spraʊt/: nẩy mầm, đâm chồi
+omelet /ˈɑmlət/: ốp lết, trứng ốp la
+onion /ˈʌnyən/: hành tây
+spring onion: hành lá
+worm /wərm/: sâu
+earthworm /ˈərθwərm/ : giun đất
+mug /mʌɡ/: cốc tròn có quai
+jar /dʒɑr/: cái lọ
+pit /pɪt/: (n) hố, huyệt
+seashell /ˈsiʃɛl/: vỏ sò
+smoothie /ˈsmuði/: sinh tố
+civil /ˈsɪvl: dân sự (ko liên quan đến quân đội, tư bản)
+civilian /səˈvɪlyən/: dân thường (ko phải quân đội)
+civil war //: nội chiến
+well-presented: trình bày tốt
+verbal /ˈvərbl/: bằng lời nói, bằng miệng
+pace /peɪs/: nhịp độ, nước đi
+fast-paced //: nhịp độ nhanh
+detergent  /dɪˈtərdʒənt/ : chất tẩy rửa
+allergy /ˈælərdʒi: (n) dị ứng
+punctual /ˈpʌŋktʃuəl/: đúng giờ
+trustworthy /ˈtrʌstˌwərði/: đáng tin cậy 
+lost for words //: không nói nên lời
+household /ˈhaʊshoʊld/: hộ gia đình, chung một nhà
+manufacture /ˌmænyəˈfæktʃər/: sản xuất
+forbidden /fərˈbɪdn/: cấm, ko đc phép
+burn /bərn/: đốt
+sun burnt /ˈsʌnbərnd/: sự cháy nắng
+misfortune /ˌmɪsˈfɔrtʃən/: bất hạnh misfortune > unfortune
+fortune /ˈfɔrtʃən/: vận may mắn
+unfortunately /ʌnˈfɔrtʃənətli/: không may
+unfortune childhood //: tuổi thơ bất hạnh 
+pity /ˈpɪt̮i/: sự thương hại
+pitiable /ˈpɪt̮iəbl/: đáng thương
+esteem /ɪˈstim/: kính trọng, kính mến
+straw /strɔ/: rơm
+slave /sleɪv/: nô lệ
+slavery /ˈsleɪvəri/: chế độ nô lệ
+vacancy /ˈveɪkənsi/ : vị trí tuyển dụng
+facility /fəˈsɪlət̮i/: cơ sở, sự thuận tiện
+designated /ˈdɛzɪɡˌneɪt/: được chỉ định
+casual /ˈkæʒuəl/: bình thường
+overlook /ˌoʊ.vəˈlʊk/: (v) bỏ lỡ, bỏ qua; tha thứ; coi nhẹ
+         /ˈoʊ.vɚ.lʊk/: (n) cảnh quan từ trên cao, vị trí cao để quan sát
+neptune /ˈnep.tuːn/: sao Hải Vương
+iceberg /ˈaɪs.bɝːg/: tảng băng trôi
+osprey /ˈɑː.spri/: chim ưng biển
+beak /biːk/: mỏ, vật hình mỏ chim; mũi đe (đầu nhọn của cái đe)
+neck /nek/: cổ
+streak /stri:k/: vệt, sọc
+streak of light //: một vệt sáng
+streak of lightning //: tia chớp
+steam /sti:m/: (n) hơi nước (v) bay hơi
+steamed: hấp
+get/pick up steam //: nghị lực, sức cố gắng
+to let off steam //: xả hơi
+whisper /ˈwɪs.pɚ/: thì thầm
+whistle /ˈwɪs.əl/: cái còi, tiếng hót
+matter  /'mætə/: vấn đề, vật chất
+grey matter /'grei' mætə/: chất xám
+turmeric /'tə:mərik/: cây , củ nghệ
+garlic /'gɑ:lik/: tỏi
+flu (influenza) /flu/: bệnh cúm
+vibe /vaɪb/: (n) sự rung cảm (v) phiêu theo (nhạc, cảm hứng, bầu không khí)
+viber /vaɪbə/: "Viber" is derived from the English word "vibe," which refers to a feeling or atmosphere that is conveyed or created by a person or situation
+awake /ə'weik/: (v) đánh thức (some one), thức dậy (self), làm thức tỉnh
+awaken /ə'weikən/: (a) thức tỉnh, giác ngộ
+a bunch of /ə bʌntʃ ov/: một loạt, một lũ, bầy; búi, chùm
+drawer /'drɔ:ə/: ngăn tủ; người kéo; người nhổ (răng); người vẽ
+allowance /əˈlaʊ.əns/: phụ cấp
+salary /ˈsæl.ɚ.i/: lương lậu
+bankbook /ˈbæŋkbʊk/: sổ tiết kiệm
+deposit / withdraw /dɪˈpɑː.zɪt wɪðˈdrɑː/: gửi/rút tiền
+anger /ˈæŋ.gɚ/: sự giận dữ (giận dữ, căm phẫn hoặc khó chịu)
+mad /mæd/: sự điên tiết (sự tức giận tạm thời hoặc không kiểm soát)
+fury /ˈfjʊr.i/: sự sôi máu (cảm giác mất kiểm soát hoặc sự bùng nổ mạnh mẽ của cảm xúc tức giận)
+resentment /rɪˈzent.mənt/: sự căm phẫn, oán trách phẫn uất (tức giận và oán trách do cảm giác bị xúc phạm, tổn thương hoặc bất công)
+crust /krʌst/: vỏ bánh mì, vỏ tôm, lớp rỉ sét
+the upper crust //: tầng lớp thượng lưu
+to earn one's crust //: kiếm ăn hàng ngày
+core /kɔ:/: lõi, nhân, hạch; trung tâm
+The Earth's crust //: vỏ trái đất
+The Earth's core //: lõi trái đất
+fit together //: khớp với nhau
+plate /pleit/: đỉa, tấm, miếng, mảng, bản
+continent /'kɔntinənt/: lục địa
+wrath /rɑːθ/: sự phẫn nộ (sự nổi giận mạnh mẽ và có thể dẫn đến hành động bạo lực hoặc hủy diệt)
+erupt /i'rʌpt/: phun trào (núi lửa); nổ ra (chiến tranh); nhú lên (răng)
+volcano /vɔl'keinou/: núi lửa
+hurricane /'hʌrikən/: cuồng phong, bão lớn phổ biến ở Đại Tây Dương
+typhoon /tai'fu:n/: bão lớn (bão nhiệt đới) phổ biến ở Thái Bình Dương, đặc biệt là ở khu vực Đông Á
+cyclone /'saikloun/: bão lớn phổ biến ở Ấn Độ Dương
+storm /stɔ:m/: mưa giông, cơn bão nhỏ
+tornado /tɔ:'neidou/: lốc xoáy
+earthquake /'ə:θkweik/: động đất
+tsunami /tsuːˈnɑː.mi/: sóng thần
+erosion /i'rouʤn/: sự xói mòn, ăn mòn
+flash flood /ˌflæʃ ˈflʌd/: lũ quét
+rockfall /ˈrɑːk.fɑːl/: lở đá, đá rơi
+mudslide = landslide /ˈmʌd.slaɪd ˈlænd.slaɪd/: lở đất
+thermometer /θɚˈmɑː.mə.t̬ɚ/: nhiệt kế
+barometer /bəˈrɑː.mə.t̬ɚ/: áp kế
+gauge /geɪdʒ/: (n) máy đo (v) đo, đánh giá
+cylinder /'silində/: ống xilanh, hình trụ; cọc, trục lăn
+vinegar /'vinigə/: giấm
+rain gauge /ˈreɪn ˌgeɪdʒ/: máy đo mưa 
+wind vane /win vein/: cờ chỉ cánh gió, hướng gió, mũi tên gió
+atmospheric /ˌæt.məsˈfer.ɪk/: khí quyển
+atmosphere /ˈæt.mə.sfɪr/: bầu không khí

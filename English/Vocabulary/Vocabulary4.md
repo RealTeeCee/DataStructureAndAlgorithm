@@ -1,6 +1,3 @@
-========================================================================================================================
-# VOCABULARY 4
-
 narrator /ˈnærət̮ər/: người dẫn chuyện
 goggle /ˈɡɑɡl/: (n) kính bơi, kính bảo hộ (a) tròn xoe mắt, mắt lồi (v) mắt thao láo, trợn tròn
 jump rope /dʒʌmp roʊp/: nhảy dây
