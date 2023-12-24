@@ -1,0 +1,11 @@
+crunchy:
+mild:
+crawl:
+feverishly: 
+flaky:
+glossy:
+reluctant:
+fragrance:
+attentive:
+crunchy:
+vapor:

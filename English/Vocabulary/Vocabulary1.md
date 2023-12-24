@@ -1,0 +1,81 @@
+========================================================================================================================
+# VOCABULARY 1
+
+handout /ˈhændaʊt/: tài liệu, tờ rơi
+flyer /ˈflaɪə(r)/: tờ rơi, phi công, chim chóc, con vật bay
+screwdriver /ˈskruːdraɪvə(r)/: tua vít
+spring roll /ˌsprɪŋ ˈrəʊl/: chả giò
+fresh spring roll /frɛʃ sprɪŋ rəʊl/: gỏi cuốn
+roof /ruːf/: trần nhà
+floor /flɔː(r)/: sàn nhà, tầng
+clinic /ˈklɪnɪk/: phòng khám
+clerk /klɑːk/: nhân viên (văn phòng)
+driveway /ˈdraɪvweɪ/: đường xe chạy
+drop off to sleep /drɒp ɒf tuː sliːp/ = go to bed: đi ngủ
+wick /wɪk/: tim nến, bấc nến
+candle /ˈkændl/: nến
+wax /wæks/: sáp nến
+pajamas /pəˈdʒɑːməz/: đồ ngủ
+vice principal /ˌvaɪs ˈprɪnsəpl/: phó hiệu trưởng
+charm /tʃɑːm/: sự quyến rũ
+rhythm /ˈrɪðəm/: nhịp
+inflate /ɪnˈfleɪt/: bơm, thổi phồng
+puddles /ˈpʌdl/: vũng nước
+potholes /ˈpɒthəʊl/: ổ gà
+popsicle /ˈpɒpsɪkl/: que kem
+propeller /prəˈpelə(r)/: cánh quạt chân vịt
+oak tree /əʊk/: cây sồi
+wag /wæɡ/: lắc lư, quẫy (đuôi)
+attic /ˈætɪk/: gác xép
+porch /pɔːtʃ/: hiên nhà
+reddish /ˈredɪʃ/: đo đỏ, hơi đỏ
+pasture /ˈpɑːstʃə(r)/: đồng cỏ
+tissue /ˈtɪʃuː/: khăn giấy
+card stocks /kɑːd stɒks/: bìa cứng
+cardboard /ˈkɑːdbɔːd/: các tông
+confetti /kənˈfeti/: hoa giấy
+biodegradable /ˌbaɪəʊdɪˈɡreɪdəbl/: phân hủy sinh học
+sustainable /səˈsteɪnəbl/: bền vững
+brook /brʊk/: dòng suối
+coil up /kɔɪl ʌp/: cuộn lại
+rustling /ˈrʌslɪŋ/: xào xạc
+pond /pɒnd/: ao
+yacht /jɒt jɑːt/: thuyền buồm
+dig /dɪɡ/- dug /dʌɡ/ - dug: đào
+doe dəʊ/: thỏ cái
+buck /bʌk/: thỏ đực
+conduction /kənˈdʌkʃn/: sự dẫn truyền
+convection /kənˈvekʃn/: sự đối lưu
+heat radiation /hiːt ˌreɪdiˈeɪʃn/: bức xạ nhiệt
+gas /ɡæs/ - liquid /ˈlɪkwɪd/ - solid /ˈsɒlɪd/: khí - lỏng - rắn
+broaden /ˈbrɔːdn/: mở mang
+horizontal /ˌhɒrɪˈzɒntl/: chân trời
+broaden horizontal /ˈbrɔːdᵊn ˌhɒrɪˈzɒntᵊl/: mở mang tầm mắt
+convey /kənˈveɪ/: chuyển chở
+therapeutic /ˌθerəˈpjuːtɪk/: trị liệu
+landscape /ˈlændskeɪp/: phong cảnh
+raft /rɑːft/: bè , đi bè
+ecosystem /ˈiːkəʊsɪstəm/: hệ sinh thái
+aesthetic /iːsˈθetɪk/,  /esˈθetɪk/: thẩm mỹ
+urban /ˈɜːbən/: đô thị
+strum /strʌm/: gảy đàn
+interpretation /ɪnˌtɜːprəˈteɪʃn/: diễn dịch
+leisure /ˈleʒə(r)/: nhàn rỗi
+make over the fire /meɪk ˈəʊvə ðə faɪə/: dập tắt lửa
+sense of thrill /sɛns ɒv θrɪl/: cảm giác hồi hộp
+poaching /pəʊtʃ/: săn trộm
+exploitation /ˌɛksplɔɪˈteɪʃᵊn/: khai thác
+slaughter /ˈslɔːtə(r)/: giết mổ
+brink /brɪŋk/: bờ vực
+extinct /ɪkˈstɪŋkt/: tuyệt chủng
+consequences /ˈkɒnsɪkwənsɪz/: hậu quả
+steep /stiːp/: dốc
+narrow /ˈnærəʊ/: hẹp
+yacht /jɒt jɑːt/: thuyền buồm
+dig /dɪɡ/- dug /dʌɡ/ - dug: đào
+doe /dəʊ/: thỏ cái
+buck /bʌk/: thỏ đực
+conduction /kənˈdʌkʃn/: sự dẫn truyền
+convection /kənˈvekʃn/: sự đối lưu
+heat radiation /hiːt ˌreɪdiˈeɪʃn/: bức xạ nhiệt
+gas /ɡæs/ - liquid /ˈlɪkwɪd/ - solid /ˈsɒlɪd/: khí - lỏng - rắn

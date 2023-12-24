@@ -1,0 +1,23 @@
+pasture:
+porcupine:
+domesticated = tame:
+conduction:
+convection:
+marina:
+nectar:
+pollen:
+walrus:
+domestic:
+moat:
+petal:
+reluctant:
+crunchy:
+mild:
+crawl:
+feverishly: 
+flaky:
+glossy:
+fragrance:
+attentive:
+crunchy:
+vapor:
