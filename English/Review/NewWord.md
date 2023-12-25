@@ -2,8 +2,8 @@ adjust /əˈdʒʌst/: điều chỉnh, thiết lập
 unicycle = monocycle /ˈjuː.nəˌsaɪ.kəl 'mɔnousaikl/: xe đạp 1 bánh
 council /'kaunsl/: hội đồng
 pitch /piCH/: sân bóng đá
-hilarious: buồn cười, hài hước
-jungle = forest: rừng
+hilarious /hi'leəriəs/: buồn cười, hài hước
+jungle = forest /ˈjəNGɡəl ˈfôrəst/: rừng
 crime /kraim/: tội ác, tội lỗi
 criminal /'kriminl/: (n) tội phạm (a) có tội, phạm tội (người đã bị chứng minh và công nhận là phạm tội)
 guilt /ɡilt/: tội lỗi 
@@ -27,26 +27,26 @@ tragedy: bi kịch, thê lương
 fisherman /'fiʃəmən/: ngư dân, người đánh cá, thuyền đánh cá
 carpenter /ˈkärpən(t)ər/: thợ mộc
 carnival /ˈkärnəvəl/: ngày hội; cuộc hội hè; lễ hội hóa trang; ngày vui trước tuần trai
-a carnival of bloodshed: sự giết chóc bừa bãi
-stablize: gia cố, làm cho vững vàng
-flat bottom: vật đáy bằng, vật có đáy phẳng
-emerge: nhô lên, hiện ra, trồi lên
+a carnival of bloodshed //: sự giết chóc bừa bãi
+stabilize /ˈsteɪ.bə.laɪz/: gia cố, làm cho vững vàng
+flat bottom /flæt ˈbɑː.t̬əm/: vật đáy bằng, vật có đáy phẳng
+emerge /ɪˈmɝːdʒ/: nhô lên, hiện ra, trồi lên
 brochure /'brouʃjuə/: sách mỏng, sách quảng cáo, thiệp quảng cáo 
-thread: (n) chủ đề, luồng (tin học) (v) xâu
-bead: (n) hạt, giọt; đầu ruồi súng; (v) xâu chuỗi; lấm tấm vài giọt (mồ hôi)
-glue: (n) keo dán
-roll: (n) sự lăn, cuộn (v) lăn, cuộn
+thread /θred/: (n) chủ đề, luồng (tin học) (v) xâu
+bead /biːd/: (n) hạt, giọt; đầu ruồi súng; (v) xâu chuỗi; lấm tấm vài giọt (mồ hôi)
+glue /gluː/: (n) keo dán
+roll /roʊl/: (n) sự lăn, cuộn (v) lăn, cuộn
 mitten /'mitn/: găng tay hở ngón; găng đấu quyền anh
 marsupial /märˈso͞opēəl/: thú có túi
 koala /kou'a:lə/: gấu túi
 joey /'dʤoui/: gấu túi non; kangaroo non
 eclipse /i'klips/: sự che khuất, pha tối, đèn biển
-lunar eclipse: nguyệt thực
-sonar eclipse: nhật thực
-total eclipse: nhật thực toàn phần
-partial eclipse: nhật thực một phần
-trip: (n) chuyến đi, sự hụt chân (v) vấp ngã
-field trip: chuyến đi thực tế, thực địa
-outdoor: ngoài trời
-indoor: trong nhà
-forelimb = foreleg: chi trước
+lunar eclipse /ˈlu.nər ɪˈklɪps/: nguyệt thực
+solar eclipse /ˈsoʊ.lər ɪˈklɪps/: nhật thực
+total eclipse /ˈtoʊ.t̬əl ɪˈklɪps/: nhật thực toàn phần
+partial eclipse /ˈpɑːr.ʃəl ɪˈklɪps/: nhật thực một phần
+trip /trɪp/: (n) chuyến đi, sự hụt chân (v) vấp ngã
+field trip /fiːld trɪp/: chuyến đi thực tế, thực địa
+outdoor /ˈaʊtˌdɔːr/: ngoài trời
+indoor /ˌɪnˈdɔːr/: trong nhà
+forelimb = foreleg /ˈfôrˌlim 'fɔ:leg/: chi trước

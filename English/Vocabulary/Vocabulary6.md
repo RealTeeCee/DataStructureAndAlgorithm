@@ -1,14 +1,14 @@
 shape /ʃeɪp/: dáng (người), hình dạng
-collab (collaboration): cộng tác
+collab (collaboration) //: cộng tác
 collaborate /kəˈlæbəˌreɪt/: hợp tác
-dust /dʌst/: (n) bụi, phấn hoa = pollen, rác
+dust /dʌst/: (n) bụi; phấn hoa = pollen; rác
 dusting: quét nhà
-sweep /swip/: quét, vét bùn, cạo ống
-sweeping: quét nhà
+sweep /swip/: quét; vét bùn, cạo ống
+sweeping //: quét nhà
 vacuum /ˈvækyum/: (v) hút chân không (n) máy hút bụi, khoảng chân không
-vacuuming: (v) húi bụi
+vacuuming //: (v) húi bụi
 mop /mɑp/: (n) chổi lau nhà
-mopping: (v) lau nhà
+mopping //: (v) lau nhà
 seek /sik/: tìm kiếm
 caretaker /ˈkɛrˌteɪkər/: giữ nhà, giữ chỗ
 prompt /prɑmpt/: lời nhắc
@@ -21,8 +21,8 @@ accuracy /ˈækyərəsi/: sự chính xác, tính đúng đắn
 routine /ruˈtin/: lịch trình, thói quen
 direct /daɪˈrɛkt/: (n) đi thẳng, rõ ràng minh bạch (v)
 greeting /ˈɡrit̮ɪŋ/: chào hỏi
-welcoming: chào đón
-directing guests: hướng dẫn khách
+welcoming //: chào đón
+directing guests //: hướng dẫn khách
 refund /ˈrifʌnd/: (v) đền bù trả lại (n) sự đền trả
 telecommunication /ˌtɛləkəˌmyunəˈkeɪʃnz/: viễn thông
 exchange /ɪksˈtʃeɪndʒ/: (n) giao dịch, sự đổi, thị trường chứng khoáng (v) giao dịch, giao hoán, trao đổi
@@ -34,20 +34,20 @@ assistant /əˈsɪstənt/: trợ thủ, trợ lý, phụ tá
 assistant manager /ˈmænɪdʒər/: trợ lý giám đốc
 inventory /ˈɪnvənˌtɔri/: sự kiểm kê, bản kê hàng hóa, tiền bạc, ruộng đất
 bind /baɪnd/: (n) dấu = mark, sign, point, note (v) trói buộc, ưng thuận
-binding: (a) ràng buộc (n) sự đóng dính
+binding //: (a) ràng buộc (n) sự đóng dính
 binding booklet /ˈbʊklət/: đóng kẹp ghim tài liệu, đóng sách
 laminate /ˈlæmənət/: gia công, ép, thành lá mỏng
 lamination /,læmi'neiʃn/: sự gia công, cán kim loại, ép kim loại
-lamination machine = laminator: máy cán, ép nhựa
+lamination machine = laminator //: máy cán, ép nhựa
 tutor /ˈtut̮ər/: gia sư (n), dạy kèm (v)
 vendor /ˈvɛndər/: nhà cung cấp hàng hóa hoặc dịch vụ, nhà bán hàng, bên bán
 zip /zɪp/: (v) kéo khóa, phẹt ma tua (n) khí động lực
 zipper /ˈzɪpər/: (n) dây kéo, phẹt ma tua
 station /ˈsteɪʃn/: nhà ga, trạm, bến, đồn
-coniferous /ˈkɑnəfər/: họ lá kim
+coniferous /ˈkɑnəfərəs/: họ lá kim
 evergreen /ˈɛvərˌɡrin/: (a) xanh tươi, xanh thẳm (n) cây có lá xanh, cây tươi tốt
 pine /paɪn/: (a) thuộc cây tùng, cây thông (v) trở nên suy nhược, khao khát 1 người, 1 điều hoặc 1 thời gian đã qua
-pine tree: cây thông
+pine tree //: cây thông
 tar /tɑr/: hắc ín, dầu hắc
 timber /ˈtɪmbər/: gỗ
 turpentine /ˈtərpənˌtaɪn/: (n) nhựa thông (v) lấy nhựa thông
@@ -57,8 +57,8 @@ luggage /ˈlʌɡɪdʒ/: hành lý
 basement /ˈbeɪsmənt/: tầng hầm
 boil /bɔɪl/: (v) đun sôi (n) mụn nhọt
 daisy /ˈdeɪzi/: hoa cúc
-trefoil /ˈtrifɔɪl/: hình cây ba lá, cây chĩa ba
-birdsfoot trefoil: cây ba lá chân chim
+trefoil /ˈtrifɔɪl/: hình cây ba lá; cây chĩa ba = trident
+birdsfoot trefoil //: cây ba lá chân chim
 wobble /ˈwɑbl/: (v) lung lay, rung (n) sự đu đưa, sự lung lay
 knee /ni/: đầu gối
 elbow /ˈɛlboʊ/: cù chỏ, khuỷu tay
@@ -76,7 +76,7 @@ seedling /ˈsidlɪŋ/: cây giống
 sprout /spraʊt/: nẩy mầm, đâm chồi
 omelet /ˈɑmlət/: ốp lết, trứng ốp la
 onion /ˈʌnyən/: hành tây
-spring onion: hành lá
+spring onion //: hành lá
 worm /wərm/: sâu
 earthworm /ˈərθwərm/ : giun đất
 mug /mʌɡ/: cốc tròn có quai
@@ -114,4 +114,4 @@ slavery /ˈsleɪvəri/: chế độ nô lệ
 vacancy /ˈveɪkənsi/ : vị trí tuyển dụng
 facility /fəˈsɪlət̮i/: cơ sở, sự thuận tiện
 designated /ˈdɛzɪɡˌneɪt/: được chỉ định
-casual /ˈkæʒuəl/: bình thường
+casual /ˈkæʒuəl/: bình thường, giản dị

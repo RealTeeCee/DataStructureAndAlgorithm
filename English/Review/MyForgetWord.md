@@ -21,3 +21,22 @@ fragrance:
 attentive:
 crunchy:
 vapor:
+laminate:
+turpentine:
+fuzz:
+daisy:
+trefoil: 
+birdfoot trefoil:
+wobble: 
+verbal: 
+manufacture: 
+forbidden: 
+designated: 
+caretaker: 
+aroma:
+fragance:
+conserve:
+petal:
+strum: 
+porch:
+attic:
