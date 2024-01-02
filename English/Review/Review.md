@@ -1,149 +1,116 @@
-possess
-vaccum
-inventory
---gia công: laminate
-tutor
-zip
-coniferous
-knee
-elbow
-paddle
-cuisine
-eager
-seedling
-sprout
-worm
-earthworm
-mug
-inspect
-trade = exchange
-evergreen
---nhựa thông: turpentine
-shrink
---lông tơ: fuzz
---hoa cúc: daisy
-trident = trefoil 
---cây ba lá chân chim: birdfoot trefoil
---đung đưa: wobble
-pod
-cacao
+sculpture
+vapor
+sector
+impact
+extensive
+rural
+tranquillity
+dig dug dug
+cricket
+petal
+pigment
+sprinkle
+reluctant
+substitute
+slimmy
+fuzz
 bitter
-omelet
-pit
-jar
-civil
-civil war
---bằng lời nói: verbal
+verbal
 pace
-fast-paced
-detergent
-punctual
-lost for words
-household
---sản xuất: manufacture
-prohibit = forbidden
-sun burnt
-misfortune
-fortune
-pity
-pitiable
-esteem
-slave
-slavery
-vacancy
---được chỉ định: designated
-regular = normal = casual
-pine
-pine tree
-tar
-timber = wood
-support = assist
-inspection
-nanny
---giữ nhà: caretaker
-prompt
-accurate
-sweep
-mop
-mopping
-seek
-navigate
-refund
 allergy
---sự thuận tiện: facility
-greet
-welcome
-directing guest
-telecommunication
-omnivore
-gear
-perhaps = maybe
-fraction
-honor
-yeast
-stratify
-sickle
-domestic
---yêu nước: patriotic
-sneeze
-artifact
-cough
-grill
-meteorologist
-landslide = mudslide
-aviation
-parasite
-hoe
-rosemary
---hương thơm: aroma
---hương thơm (đồ ăn): fragance
-fellow = pal
+slave
+bankbook
+continent
+
+angry
+mad
+fury
+resentment
+wraith
+erupt
+hurricane
+cyclone
+storm
+tornado
+tsunami
+erosion
+thermometer
+barometer
+gauge
+cylinder
+vinegar
+council
+easygoing
+jaguar
+black panther
+leopard
+cheetah
+puma = cougar
+tragedy
+carpenter
+carnival
+stabilize
+emerge
+joey
+scallion
+scallion pancake
+donkey
 sloth
-nectar
-pollen
---cánh hoa: petal
---áp lực: tension
-broth
-predator
---bảo tồn: conserve 
-clams
-arctic
-tusk
-symmetric
-stiff
-humming
-variety
-civilization
-agriculture
-consumption
-water lily
-leisure
-startle
-rustling
-sustainable
-convey
-aesthetic
-urban
---gảy đàn: strum
-poach
-slaughter
-brink
+load
+horn
+antler
+unreasonable
+applaud
+checkup
 extinct
-consequences
-steep
-narrow
-spring roll
-charm
-rhythm
-puddle
-pothole
---hiên nhà: porch
-attic
+urban
+broaden
 confetti
-convection
-pond
-driveway
-screwdriver
-inflate
-go to bed = drop off to sleep
+corridor
+embroider
+porcupine
+quill
+peak
+startled
+sugarcane
+audible
+frequency
+consequences
+variety
+resident
+tension
+piccolo
+flute
+tusk
+arctic
+yeast
+stratus
+cirrus
+cumulus
+honor
+aroma
+essence
+wipe
+poultry
+undercooked
+oyster
+sunken
+referee
+orangutan
+chimpanzee
+ape
+obesity
+diabetes
+colony
+urgent
+drumsticks
+grimace
+revise
+nectar
+drop off to sleep
+
+
+
+
+
 

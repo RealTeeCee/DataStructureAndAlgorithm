@@ -52,12 +52,12 @@ moist /mɔɪst/: ẩm ướt -> wet > damp > moist
 moisture /ˈmɔɪstʃər/: độ ẩm
 commute /kəˈmyut/: trao đổi, đi lại
 stress-free: không căng thẳng
-vivid /ˈvɪvəd/: sống động
+vivid /ˈvɪvəd/: sống động, sặc sỡ
 inevitable /ɪnˈɛvət̮əbl/: không thể tránh khỏi, bất khả kháng
 chill /tʃɪl/: ớn lạnh, lạnh cóng
 chilling out /tʃɪl aʊt/: thư giãn
 fever /ˈfivər/: sốt
-feverishly /ˈfivərɪʃ/: sốt ruột
+feverishly /ˈfivərɪʃly/: sốt ruột
 among /əˈmʌŋ/: giữa
 along /əˈlɔŋ/: dọc theo 
 aside /əˈsaɪd/: về một bên 

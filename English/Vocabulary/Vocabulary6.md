@@ -2,7 +2,7 @@ shape /ʃeɪp/: dáng (người), hình dạng
 collab (collaboration) //: cộng tác
 collaborate /kəˈlæbəˌreɪt/: hợp tác
 dust /dʌst/: (n) bụi; phấn hoa = pollen; rác
-dusting: quét nhà
+dusting: quét nhà, quét bụi
 sweep /swip/: quét; vét bùn, cạo ống
 sweeping //: quét nhà
 vacuum /ˈvækyum/: (v) hút chân không (n) máy hút bụi, khoảng chân không
@@ -103,7 +103,7 @@ burn /bərn/: đốt
 sun burnt /ˈsʌnbərnd/: sự cháy nắng
 misfortune /ˌmɪsˈfɔrtʃən/: bất hạnh misfortune > unfortune
 fortune /ˈfɔrtʃən/: vận may mắn
-unfortunately /ʌnˈfɔrtʃənətli/: không may
+unfortunately /ʌnfɔrtʃənətli/: không may
 unfortune childhood //: tuổi thơ bất hạnh 
 pity /ˈpɪt̮i/: sự thương hại
 pitiable /ˈpɪt̮iəbl/: đáng thương
