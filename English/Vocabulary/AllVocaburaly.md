@@ -888,6 +888,12 @@ college-provided/ˈkälij prəˈvīdəd/: do trường đại học cung cấp
 arrange /ə'reindʤ/: sắp xếp, sửa soạn; bố trí, dàn xếp; cải biên, soạn lại
 footpath /ˈfʊt.pæθ/: vỉa hè, đường đi bộ
 captain /'kæptin/: đội trưởng, người đứng đầu, chỉ huy
+tackle /'tækl/: sự cản phá (football); palăng, ròng rọc; đồ dùng, dụng cụ (v) chặn phá, cản
+slide tackle //: xoạc cản (football)
+standing tackle //: cản chân (football)
+shoulder tackle //: húc vai (football)
+period /'piəriəd/: (n) thời kỳ, giai đoạn, chu kỳ (a) mang tính thời đại
+cup final //: trận chung kết tranh cúp
 impatient != patient /im'peiʃənt != peiʃənt/: thiếu kiên nhẫn, nóng vội, nôn nóng
 tiny /'taini/: tí hon, bé ti, nhỏ xíu
 session /'seʃn/: phiên, kỳ tác vụ; buổi họp
