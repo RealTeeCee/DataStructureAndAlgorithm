@@ -77,3 +77,30 @@ slope /sloup/: (n) dốc, đường dốc, chỗ dốc; độ dốc (v) cắt n
 wirelessly /ˈwīərləslē/: không dây
 hive /hīv/: tổ ong
 let alone + V = not to mention: huống hồ là, chứ đừng nói đến —used especially to emphasize the improbability of a contrasting example.
+express /iks'pres/: (n) người đưa thư hoả tốc, công văn hoả tốc (a) rõ ràng; (giống) như hệt, như in
+to express oneself //: diễn đạt, phát biểu ý kiến (về một vấn đề gì...)
+object /'ɔbdʤikt/: (n) vật thể, đồ vật (v) chống đối, phản đối
+departure /di'pɑ:tʃə/: (n) sự rời khỏi, sự khởi hành; sự đi trệch (hướng), sự lạc (đề); độ lệch, độ sai
+frequency departure //: độ lệch tần số
+coach /koutʃ/: huấn luyện viên; xe ngựa bốn bánh; xe buýt giường nằm
+bishop /'biʃəp/: giám mục
+coat /kout/: áo choàng ngoài, áo bành tô (đàn ông); bộ lông (thú); lớp vỏ áo - chocolate coat: lớp vỏ socola
+college-provided/ˈkälij prəˈvīdəd/: do trường đại học cung cấp
+arrange /ə'reindʤ/: sắp xếp, sửa soạn; bố trí, dàn xếp; cải biên, soạn lại
+footpath /ˈfʊt.pæθ/: vỉa hè, đường đi bộ
+captain /'kæptin/: đội trưởng, người đứng đầu, chỉ huy
+impatient != patient /im'peiʃənt != peiʃənt/: thiếu kiên nhẫn, nóng vội, nôn nóng
+tiny /'taini/: tí hon, bé ti, nhỏ xíu
+session /'seʃn/: phiên, kỳ tác vụ; buổi họp
+heatwave /heat-wave/: đợt nắng nóng
+soaring /'sɔ:riɳ/: (a) tăng vọt, vọt lên; (n) sự tham lam
+rainfall /ˈrānˌfôl/: lượng mưa
+lockdown /lockdown/ : lệnh đóng cửa
+Nepali /nəˈpôlē/:  tiếng Nepan; Nepalian: người Nepan
+touchscreen /ˈtəCH ˌskrēn/: màn hình cảm ứng
+spin /ˈspin/: quay tròn; xe chỉ, kéo sợi
+spinning top //: con quay
+frisbee /frisbi/: dĩa nhựa nhẹ ném (dùng trong trò chơi)
+deal with //: đối phó với, đương đầu với
+carry out //: tiến hành
+stand still //: đứng yên
