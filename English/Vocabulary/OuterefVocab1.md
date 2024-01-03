@@ -24,7 +24,7 @@ a little liquor /a 'litl 'likə/: 1 ít rượu
 a spoonful of sugar /'spu:nful 'ʃugə/: 1 thìa (đầy) đường
 barrel /'bærəl /: thùng tròn, thùng rượu; bánh lăn xe lu
 one barrel of beer /'bærəl əv bir/: 1 thùng bia
-3 sacks of flour /sak əv flouwə/: 3 bao tải bột
+3 sacks of flour /3 saks əv flouwə/: 3 bao tải bột
 one sheaf of straw /SHēf əv strô/: 1 bó rơm
 
 (Learned word)
