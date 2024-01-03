@@ -16,6 +16,7 @@ wick /wɪk/: tim nến, bấc nến
 candle /ˈkændl/: nến
 wax /wæks/: sáp nến
 pajamas /pəˈdʒɑːməz/: đồ ngủ
+principle /ˈprɪnsəpl/: hiệu trưởng
 vice principal /ˌvaɪs ˈprɪnsəpl/: phó hiệu trưởng
 charm /tʃɑːm/: sự quyến rũ
 rhythm /ˈrɪðəm/: nhịp
@@ -756,6 +757,7 @@ guilt /ɡilt/: tội lỗi
 ɡuilty /ˈɡiltē/ : có tội, phạm tội (trạng thái pháp lý và thường đi kèm với quyết định)
 easy-to-watch //: dễ xem
 easygoing /ˌēzēˈɡōiNG/: dễ dãi
+athlete /ˈæθ.liːt/: vận động viên
 triathlon /traɪˈæθ.lɑːn/ : cuộc thi thể thao ba môn phối hợp
 triathlete /traɪˈæθ.liːt/ : vận động viên ba môn phối hợp
 cage /keidʤ/: (n) chuồng, lồng (v) nhốt, giam
@@ -920,6 +922,7 @@ cellophane tape /'seləfein teip/: cuộn giấy gói thức ăn
 surgeon /'sə:dʤən/: nhà phẫu thuật, bác sĩ phẫu thuật
 archaeologist /,ɑ:ki'ɔlədʤist/: nhà khảo cổ
 sweetheart /'swi:thɑ:t/: người yêu, người tình; con yêu
+haughty /'hɔ:ti/: kiêu căng, ngạo mạn
 caring babysitter /caring 'beibi,sitə/: giữ trẻ chu đáo
 wicked /'wikid/: độc ác, tà ác; xấu, hư, tệ, đồi bại, tội lỗi; tinh quái; độc, độc hại
 wicked witch /'wikid 'wit /: mụ phù thuỷ; mụ già xấu xí
@@ -927,6 +930,8 @@ windmill /'winmil/: cối xay gió; máy xay gió
 peacock /'pi:kɔk/: con công (trống)
 peahen /'pi:'hen/ : con công (cái)
 penguin /'peɳgwin/: chim cánh cụt
+chef /ʃef/: đầu bếp, bếp trưởng
+thief /θi:f/: kẻ trộm, kẻ cắp; (số nhiều) thieves: những kẻ trộm
 liquor /'likə/: chất lỏng; rượu; nước luộc (thức ăn); dung dịch (thuộc nước)
 a little liquor /a 'litl 'likə/: 1 ít rượu 
 a spoonful of sugar /'spu:nful 'ʃugə/: 1 thìa (đầy) đường

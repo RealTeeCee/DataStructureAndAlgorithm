@@ -13,6 +13,7 @@ wick /wɪk/: tim nến, bấc nến
 candle /ˈkændl/: nến
 wax /wæks/: sáp nến
 pajamas /pəˈdʒɑːməz/: đồ ngủ
+principle /ˈprɪnsəpl/: hiệu trưởng
 vice principal /ˌvaɪs ˈprɪnsəpl/: phó hiệu trưởng
 charm /tʃɑːm/: sự quyến rũ
 rhythm /ˈrɪðəm/: nhịp

@@ -77,6 +77,7 @@ guilt /ɡilt/: tội lỗi
 ɡuilty /ˈɡiltē/ : có tội, phạm tội (trạng thái pháp lý và thường đi kèm với quyết định)
 easy-to-watch //: dễ xem
 easygoing /ˌēzēˈɡōiNG/: dễ dãi
+athlete /ˈæθ.liːt/: vận động viên
 triathlon /traɪˈæθ.lɑːn/ : cuộc thi thể thao ba môn phối hợp
 triathlete /traɪˈæθ.liːt/ : vận động viên ba môn phối hợp
 cage /keidʤ/: (n) chuồng, lồng (v) nhốt, giam
