@@ -11,7 +11,7 @@ driveway /ˈdraɪvweɪ/: đường xe chạy
 drop off to sleep /drɒp ɒf tuː sliːp/ = go to bed: đi ngủ
 wick /wɪk/: tim nến, bấc nến
 candle /ˈkændl/: nến
-wax /wæks/: sáp nến
+wax /wæks/: sáp
 pajamas /pəˈdʒɑːməz/: đồ ngủ
 principle /ˈprɪnsəpl/: hiệu trưởng
 vice principal /ˌvaɪs ˈprɪnsəpl/: phó hiệu trưởng

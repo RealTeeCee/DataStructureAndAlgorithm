@@ -1,116 +1,112 @@
-sculpture
-vapor
-sector
-impact
-extensive
-rural
-tranquillity
-dig dug dug
-cricket
-petal
-pigment
-sprinkle
-reluctant
-substitute
-slimmy
-fuzz
-bitter
-verbal
-pace
-allergy
-slave
-bankbook
-continent
-
-angry
-mad
-fury
-resentment
-wraith
-erupt
-hurricane
-cyclone
-storm
-tornado
-tsunami
-erosion
-thermometer
-barometer
-gauge
-cylinder
-vinegar
-council
-easygoing
-jaguar
-black panther
-leopard
-cheetah
-puma = cougar
-tragedy
-carpenter
-carnival
-stabilize
-emerge
-joey
-scallion
-scallion pancake
-donkey
-sloth
-load
-horn
-antler
-unreasonable
-applaud
-checkup
-extinct
-urban
-broaden
-confetti
-corridor
-embroider
-porcupine
-quill
-peak
-startled
-sugarcane
-audible
-frequency
-consequences
-variety
-resident
-tension
-piccolo
-flute
+mammal
 tusk
-arctic
+bass
+agriculture
+civilization
+curd
+drain
+spreadable
+ceremony
+resident
+fellow
+conserve
+predator
+wetsuit
+jared
+nectar
+pollen
+perch
+sweater
+jacket
+broth
+tadpole
+ritualistic
 yeast
+cough
+sneeze
+fraction
+-- nối dõi: successor
+stratify
 stratus
-cirrus
 cumulus
-honor
-aroma
-essence
+cirrus
+-- tầng đối lưu: tropospheric layer
+-- tầng trung lưu: mesospheric layer
+-- tầng bình lưu: stratospheric layer
+aviation
+adventurous
+unmotivated
+stable
+landslide = mudslide
+-- thảm picnic: picnic mat
+bed sheet
+artifact
+bake
+grill
+roast
+oven
+arctic
+clam
+whisker
+tension
+sleepwalker
+windbreaker
+argument and fight
+storeroom
+go with
+alcohol
+sloth
+symmetrical
+upward
+scissors
+stiff paper
+consumption
+various
+variety
+tortilla
+muffin
+sunbathe
+flute
+piccolo
+narrator
+bumper
+creature = organism
 wipe
-poultry
-undercooked
+moat
+prey
+tuck
+thoroughly
+rosemary
+essence
+essential
+chase
+monument
+clay
+bury
+parasite
+germ
+bacteria
+hygiene
+pourtry
+-- dụng cụ nhà bếp: cooking utensil
 oyster
 sunken
+conference
+state of the art
+staffed
+depress = sad
+-- đại khái: roughly
+-- khích lệ: encourage = hearten
+incredible
+-- được số đông biết đến: widely considered
+orchestra
 referee
-orangutan
 chimpanzee
+orangutan
 ape
-obesity
-diabetes
-colony
-urgent
-drumsticks
-grimace
-revise
-nectar
-drop off to sleep
-
-
-
-
+gorilla
+-- khích lệ lần 3: incent
+mediate
+-- khẩn cấp: urge
 
 
