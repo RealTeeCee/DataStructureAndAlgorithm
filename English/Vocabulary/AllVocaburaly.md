@@ -475,7 +475,7 @@ candidate /ˈkændədət/: ứng viên
 sincere /sɪnˈsɪr/: trân trọng, thành thật
 concern /kənˈsərn/: bận tâm
 President of Animal Rescue Shelter /ˈprɛzədənt ev ˈænəml ˈrɛskyu ˈʃɛltər/: Chủ tịch Trung tâm cứu hộ động vật
-ski biking /ski baɪk/: đi xe đạp trượt tuyết
+ski biking /ski baɪking/: đi xe đạp trượt tuyết
 snow boarding /snoʊ ˈbɔrdɪŋ/: trượt ván tuyết
 skiing /ˈskiɪŋ/: trượt tuyết (ván đôi tay cầm thanh trượt)
 crunchy /ˈkrʌntʃi/: giòn rụm
@@ -515,7 +515,7 @@ cultural heritage: di sản văn hóa
 moist /mɔɪst/: ẩm ướt -> wet > damp > moist
 moisture /ˈmɔɪstʃər/: độ ẩm
 commute /kəˈmyut/: trao đổi, đi lại
-stress-free: không căng thẳng
+stress-free //: không căng thẳng
 vivid /ˈvɪvəd/: sống động
 inevitable /ɪnˈɛvət̮əbl/: không thể tránh khỏi, bất khả kháng
 chill /tʃɪl/: ớn lạnh, lạnh cóng
@@ -555,13 +555,13 @@ shape /ʃeɪp/: dáng (người), hình dạng
 collab (collaboration): cộng tác
 collaborate /kəˈlæbəˌreɪt/: hợp tác
 dust /dʌst/: (n) bụi, phấn hoa = pollen, rác
-dusting: quét nhà
+dusting //: quét nhà
 sweep /swip/: quét, vét bùn, cạo ống
-sweeping: quét nhà
+sweeping //: quét nhà
 vacuum /ˈvækyum/: (v) hút chân không (n) máy hút bụi, khoảng chân không
-vacuuming: (v) húi bụi
+vacuuming //: (v) húi bụi
 mop /mɑp/: (n) chổi lau nhà
-mopping: (v) lau nhà
+mopping //: (v) lau nhà
 seek /sik/: tìm kiếm
 caretaker /ˈkɛrˌteɪkər/: giữ nhà, giữ chỗ
 prompt /prɑmpt/: lời nhắc
@@ -574,8 +574,8 @@ accuracy /ˈækyərəsi/: sự chính xác, tính đúng đắn
 routine /ruˈtin/: lịch trình, thói quen
 direct /daɪˈrɛkt/: (n) đi thẳng, rõ ràng minh bạch (v)
 greeting /ˈɡrit̮ɪŋ/: chào hỏi
-welcoming: chào đón
-directing guests: hướng dẫn khách
+welcoming //: chào đón
+directing guests //: hướng dẫn khách
 refund /ˈrifʌnd/: (v) đền bù trả lại (n) sự đền trả
 telecommunication /ˌtɛləkəˌmyunəˈkeɪʃnz/: viễn thông
 exchange /ɪksˈtʃeɪndʒ/: (n) giao dịch, sự đổi, thị trường chứng khoáng (v) giao dịch, giao hoán, trao đổi
@@ -587,7 +587,7 @@ assistant /əˈsɪstənt/: trợ thủ, trợ lý, phụ tá
 assistant manager /ˈmænɪdʒər/: trợ lý giám đốc
 inventory /ˈɪnvənˌtɔri/: sự kiểm kê, bản kê hàng hóa, tiền bạc, ruộng đất
 bind /baɪnd/: (n) dấu = mark, sign, point, note (v) trói buộc, ưng thuận
-binding: (a) ràng buộc (n) sự đóng dính
+binding //: (a) ràng buộc (n) sự đóng dính
 binding booklet /ˈbʊklət/: đóng kẹp ghim tài liệu, đóng sách
 laminate /ˈlæmənət/: gia công, ép, thành lá mỏng
 lamination /,læmi'neiʃn/: sự gia công, cán kim loại, ép kim loại
@@ -637,10 +637,10 @@ jar /dʒɑr/: cái lọ
 pit /pɪt/: (n) hố, huyệt
 seashell /ˈsiʃɛl/: vỏ sò
 smoothie /ˈsmuði/: sinh tố
-civil /ˈsɪvl: dân sự (ko liên quan đến quân đội, tư bản)
+civil /ˈsɪvl/: dân sự (ko liên quan đến quân đội, tư bản)
 civilian /səˈvɪlyən/: dân thường (ko phải quân đội)
 civil war //: nội chiến
-well-presented: trình bày tốt
+well-presented //: trình bày tốt
 verbal /ˈvərbl/: bằng lời nói, bằng miệng
 pace /peɪs/: nhịp độ, nước đi
 fast-paced //: nhịp độ nhanh
@@ -982,3 +982,19 @@ architecture /'ɑ:kitektʃə/: công trình kiến trúc, cấu trúc; khoa ki�
 rubbish /'rʌbiʃ/ = trash = garbage: vật bỏ đi, rác rưởi; chuyện tầm phào, nhảm nhí
 overcome /,ouvə'kʌm/: vượt qua, khắc phục (khó khăn...)
 inspiration /,inspə'reiʃn/: sự truyền cảm; sự cảm hứng; sự hít vào, sự thở vào
+postpone /poust'poun/: trì hoãn
+admin = administrator /'ədministreitə = 'ædmin/: người quản trị, quản trị viên
+manor /'mænə/: trang viên, thái ấp
+Baltic /baltic/: vùng Baltic, biển Ban-tích; thuộc một nhánh của ngôn ngữ ấn Âu gồm tiếng Latvia tiếng Lituania và tiếng Phổ cổ; thuộc nhánh Ban-tích
+gallery /'gæləri/: phòng trưng bày (tranh, tượng)
+inn /in/: quán trọ;  khách sạn nhỏ (ở nông thôn, thị trấn); nhà nội trú (của học sinh đại học)
+disco /disco/: sàn nhảy; điệu nhảy
+blanket /'blæɳkit/: (n) mền, chăn; lớp phủ (a) tính bao trùm (v) trùm chăn, đắp chăn
+dessert /di'zə:t/: món tráng miệng; món ngọt cuối bữa
+throughout /θru:'aut/: (adv) suốt, từ đầu đến cuối, khắp, xuyên suốt
+Latin /'ladin/: (n) tiếng La-tinh (a) thuộc latin
+Arabic /'ærəbik/: (a) thuộc Ả Rập (n) Arab /'ærəb/: người Ả Rập
+engage /in'geidʤ/: đính hôn; hứa hẹn, ước hẹn, cam kết
+voyage /ˈvoiij/: hành trình
+fiction /ˈfikSH(ə)n/: viễn tưởng; hư cấu
+non-fiction /nənˈfikSH(ə)n/: chuyện về người thật việc thật; phi giả tưởng

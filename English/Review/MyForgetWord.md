@@ -19,7 +19,6 @@ flaky:
 glossy:
 fragrance:
 attentive:
-crunchy:
 vapor:
 laminate:
 turpentine:
@@ -40,3 +39,13 @@ petal:
 strum: 
 porch:
 attic:
+acute or chronic:
+inevitable:
+significant:
+extensive:
+seminar:
+savory:
+exceptional:
+wobble:
+facility:
+designated:

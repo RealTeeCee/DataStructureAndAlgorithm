@@ -109,11 +109,11 @@ mass /mæs/: khối
 massive /ˈmæsɪv/: to lớn
 meteorologist /ˌmit̮iəˈrɑlədʒɪst/: khí tượng học
 stratify /ˈstræt̮əˌfaɪ/: phân tầng
-stratiform //:  tầng lớp
+stratiform //: tầng lớp
 mesospheric layer /ˈmɛzəˌsfɪr/: tầng trung lưu
 stratospheric layer /ˈstræt̮əˌsfɪr/: tầng bình lưu
 tropospheric layer /ˈtrɑpəˌsfɪr/: tầng đối lưu
-high (cirro-, cirrus), middle (alto-), multi-level (nimbo-, cumulo-, cumulus), and low (strato-, stratus)
+high (cirro-, cirrus), middle (alto-), multi-level (nimbo-, cumulo-, cumulus), and low (strato-, stratus) //:
 cirrus /ˈsɪrəs/: mây quyển (high) a type of light cloud that forms high in the sky
 cumulus /ˈkyumyələs/: mây tích (multi-level - form low to high) a type of thick white cloud
 stratus /ˈstræt̮əs/: Mây tầng (low)

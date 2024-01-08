@@ -51,3 +51,19 @@ architecture /'ɑ:kitektʃə/: công trình kiến trúc, cấu trúc; khoa ki�
 rubbish /'rʌbiʃ/ = trash = garbage: vật bỏ đi, rác rưởi; chuyện tầm phào, nhảm nhí
 overcome /,ouvə'kʌm/: vượt qua, khắc phục (khó khăn...)
 inspiration /,inspə'reiʃn/: sự truyền cảm; sự cảm hứng; sự hít vào, sự thở vào
+postpone /poust'poun/: trì hoãn
+admin = administrator /'ədministreitə = 'ædmin/: người quản trị, quản trị viên
+manor /'mænə/: trang viên, thái ấp
+Baltic /baltic/: vùng Baltic, biển Ban-tích; thuộc một nhánh của ngôn ngữ ấn Âu gồm tiếng Latvia tiếng Lituania và tiếng Phổ cổ; thuộc nhánh Ban-tích
+gallery /'gæləri/: phòng trưng bày (tranh, tượng)
+inn /in/: quán trọ;  khách sạn nhỏ (ở nông thôn, thị trấn); nhà nội trú (của học sinh đại học)
+disco /disco/: sàn nhảy; điệu nhảy
+blanket /'blæɳkit/: (n) mền, chăn; lớp phủ (a) tính bao trùm (v) trùm chăn, đắp chăn
+dessert /di'zə:t/: món tráng miệng; món ngọt cuối bữa
+throughout /θru:'aut/: (adv) suốt, từ đầu đến cuối, khắp, xuyên suốt
+Latin /'ladin/: (n) tiếng La-tinh (a) thuộc latin
+Arabic /'ærəbik/: (a) thuộc Ả Rập (n) Arab /'ærəb/: người Ả Rập
+engage /in'geidʤ/: đính hôn; hứa hẹn, ước hẹn, cam kết
+voyage /ˈvoiij/: hành trình
+fiction /ˈfikSH(ə)n/: viễn tưởng; hư cấu
+non-fiction /nənˈfikSH(ə)n/: chuyện về người thật việc thật; phi giả tưởng
