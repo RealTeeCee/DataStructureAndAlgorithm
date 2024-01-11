@@ -6,30 +6,31 @@ shot /ʃɔt/: (n) phát đạn, phát bắn; viên đạn; sự trả tiền.
 checkup /ˈCHekˌəp/: (n) kiểm tra toàn diện, khám nghiệm
 applaud /əˈplôd/: (v) vỗ tay hoan nghênh, tán thưởng
 applause /əˈplôz/: (n) tràn vỗ tay, tiếng vỗ tay
-unreasonable / n'ri:zn bl/: vô lý; không biết điều; không phi chăng; quá, quá chừng
+unreasonable / n'ri:zn bl/: vô lý; không biết điều;
 airmail /ˈerˌmāl/: thư gởi bằng máy bay
 deer /dir/: con nai, con hươu
 reindeer /'reindiə/: tuần lộc
 antler /ˈantlər/: sừng gạc (nai, hươu, tuần lộc)
 horn /horn/: (n) sừng; cái tù và (v) in dính vào; can thiệp vào; gắn sừng
 permanent /'pə:mənənt/: vĩnh cữu; cố định; lâu dài; bền vững
-doughnut /'dounʌt/: bánh rán, bánh vòng, bánh chữ O
-concert/kən'sə:t/: (n) buổi hòa nhạc (v) dự tính, sắp đặt; phối hợp
+doughnut = donut /'dounʌt = ˈdōˌnət/: bánh rán, bánh vòng, bánh chữ O
+concert/'kənsə:t/: (n) buổi hòa nhạc (v) dự tính, sắp đặt; phối hợp
 punch /pʌntʃ/: đấm
 fist /fist/: nắm đấm, quả đấm (v) đấm nhau
 braise /breiz/: om, rim, kho 
-juggle: (n) trò tung hứng (v) tung hứng, múa rối (+ with) lừa bịp, lừa dối; xuyên tạc
+juggle /ˈjəɡəl/: (n) trò tung hứng (v) tung hứng, múa rối (+ with) lừa bịp, lừa dối; xuyên tạc
 circus /'sə:kəs/: rạp, gánh xiếc
 load /loud/: (v) tải; chất, bốc hàng; chở (n) vật gánh, vật chở
-nutrient /'nju:triənt/: (a) bổ, dinh dưỡng (n) chất dinh dưỡng
+nutrient /'nju:triənt/: (a) bổ, dinh dưỡng = nutritious (n) chất dinh dưỡng
+nutrition /n(y)o͞oˈtriSH(ə)n/: đồ ăn bổ dưỡng; sự dinh dưỡng
 donkey /ˈdôNGkē/: con lừa; người ngu đần (như lừa)
-cotton /ˈkätn/: bông gòn
+cotton /ˈkätn/: bông (gòn, vải)
 cotton candy /ˈkätn 'kændi/: kẹo bông gòn
 scallion /'skæljən/: hành tăm
 pancake /'pænkeik/: bánh kếp
 dim sum /ˌdim ˈsəm/: món dim sum
-scallion pancakes: bánh xèo hành
-Generational /ˌjenəˈrāSH(ə)nəl/ : thế hệ
+scallion pancakes //: bánh xèo hành
+generational /ˌjenəˈrāSH(ə)nəl/: (thuộc) thế hệ
 demonstrate /'demənstreit/: biểu diễn, phô diễn; biểu tình; chứng minh, giải thích; bày tỏ, biểu lộ, làm thấy rõ
 trophy /'troufi/: cúp; vật kỷ niệm chiến công, chiến tích
 magic staff /'mædʤik stɑ:f/: gậy phép
@@ -46,19 +47,19 @@ an attack of fever //: cơn sốt
 a heart attack //: cơn đau tim
 anxiety attacks //: cơn lo âu
 landfill /ˈlænd.fɪl/: đắp đất
-flea /flea/: con bọ chét
+flea /flē/: con bọ chét
 second-hand /'sekənd'hænd/: cũ, mua lại, hàng đã dùng qua
-promote /promote/: thăng cấp, thăng chức; sáng lập, đề xướng; làm tăng tiến, đẩy mạnh, xúc tiến
+promote /prəˈmōt/: thăng cấp, thăng chức; sáng lập, đề xướng; làm tăng tiến, đẩy mạnh, xúc tiến
 strict /strikt/: nghiêm ngặt, nghiêm khắc; nghiêm chỉnh
 convince /kən'vins/: làm cho tin, làm cho nghe theo, thuyết phục
 bubbly /'bʌbli/: có bong bóng, nhiều bọt, nhiều tăm; sủi bọt, sủi tăm
 bubbly student /'bʌbli student/: sinh viên sôi nổi
-supervisor /'sju:pəvaizə/: người giám sát
+supervisor /ˈso͞opərˌvīzər/: người giám sát
 remain /ri'mein/: (v) còn lại, vẫn (n) đồ còn lại, còn sót; tàn tích, di tích, di hài
 get rid of: thoát khỏi; dẹp sạch
 stationary /'steiʃnəri/: (n) người ở một chỗ; vật để ở một chỗ (a) đứng ở một chỗ, không di chuyển; không mang đi được, để một chỗ 
 decide /dəˈsīd/: quyết định 
-team decider: /dəˈsīdər/: người quyết định đội
+team decider: /dəˈsīdər/: người quyết định đội; người phân đội
 tidy /'taidi/: sạch sẽ, ngăn nắp, gọn gàng
 strategy /ˈstradəjē/: chiến lược
 observe /əb'zə:v/: quan sát, nhận xét, theo dõi; cử hành, làm (lễ kỷ niệm...); (+ on) nhận xét
@@ -69,14 +70,14 @@ overwhelming /,ouvə'welmiɳ/: quá mạnh, át hẳn, không chống lại đư
 gesture /'dʤestʃə/: điệu bộ, cử chỉ, động tác
 waggle /'wægl/: sự lắc, sự lúc lắc, sự vẫy, sự ve vẩy
 vibrate /'vaibrənt/: (v) rung, rung động, chấn động, lúc lắc
-vibration /vai'breiʃn/: sự rung động; sự làm rung động
+vibration /vai'breiʃn/: sự rung lắc; sự làm rung lắc
 imply /im'plai/: (v) ý nói, ngụ ý; bao hàm
 figure /'figə/: hình dáng; sơ đồ; nhân vật
 resort /'ri:'sɔ:t/: (n) khu nghỉ mát; phương kế, phương sách (v) thường xuyên lui tới; dùng đến, cầu đến, nhớ vào
 slope /sloup/: (n) dốc, đường dốc, chỗ dốc; độ dốc (v) cắt nghiêng, làm nghiêng
 wirelessly /ˈwīərləslē/: không dây
 hive /hīv/: tổ ong
-let alone + V = not to mention: huống hồ là, chứ đừng nói đến —used especially to emphasize the improbability of a contrasting example.
+let alone + V = not to mention //: huống hồ là, chứ đừng nói đến —used especially to emphasize the improbability of a contrasting example.
 express /iks'pres/: (n) người đưa thư hoả tốc, công văn hoả tốc (a) rõ ràng; (giống) như hệt, như in
 to express oneself //: diễn đạt, phát biểu ý kiến (về một vấn đề gì...)
 object /'ɔbdʤikt/: (n) vật thể, đồ vật (v) chống đối, phản đối
@@ -89,16 +90,17 @@ college-provided/ˈkälij prəˈvīdəd/: do trường đại học cung cấp
 arrange /ə'reindʤ/: sắp xếp, sửa soạn; bố trí, dàn xếp; cải biên, soạn lại
 footpath /ˈfʊt.pæθ/: vỉa hè, đường đi bộ
 captain /'kæptin/: đội trưởng, người đứng đầu, chỉ huy
-tackle /'tækl/: sự cản phá (football); palăng, ròng rọc; đồ dùng, dụng cụ (v) chặn phá, cản
+tackle /'tækl/: (n) sự cản phá (football); palăng, ròng rọc; đồ dùng, dụng cụ (v) chặn phá, cản
 slide tackle //: xoạc cản (football)
 standing tackle //: cản chân (football)
-shoulder tackle //: húc vai (football)
+shoulder tackle //: húc vai, thúc vai (football)
 period /'piəriəd/: (n) thời kỳ, giai đoạn, chu kỳ (a) mang tính thời đại
 cup final //: trận chung kết tranh cúp
-impatient != patient /im'peiʃənt != peiʃənt/: thiếu kiên nhẫn, nóng vội, nôn nóng
+impatient != patient /im'peiʃənt != peiʃənt/: (a) thiếu kiên nhẫn, nóng vội, nôn nóng
 tiny /'taini/: tí hon, bé ti, nhỏ xíu
 session /'seʃn/: phiên, kỳ tác vụ; buổi họp
 heatwave /heat-wave/: đợt nắng nóng
+soar /sôr/: (v) bay lên; bay lượn trên không
 soaring /'sɔ:riɳ/: (a) tăng vọt, vọt lên; (n) sự tham lam
 rainfall /ˈrānˌfôl/: lượng mưa
 lockdown /lockdown/ : lệnh đóng cửa

@@ -998,3 +998,34 @@ engage /in'geidʤ/: đính hôn; hứa hẹn, ước hẹn, cam kết
 voyage /ˈvoiij/: hành trình
 fiction /ˈfikSH(ə)n/: viễn tưởng; hư cấu
 non-fiction /nənˈfikSH(ə)n/: chuyện về người thật việc thật; phi giả tưởng
+inhale /inˈhāl/: hít vào
+exhale /eks'heil/: thở ra
+lung /ləNG/: phổi
+spine /spīn/: xương sống
+hoop /hu:p/: cái vòng; cái vành, cái đai; vòng váy; (v) đóng đai (thùng...)
+basketball hoop //: cái vòng bóng rổ, đai sắt bóng rổ
+ladybug /ladybug/: con bọ rùa, bọ cánh cam
+larva (larvae) /'lɑ:və 'lɑ:vi:/: ấu trùng
+favor /'feivə/: ân huệ, ơn; ủng hộ
+do one a favor //: giúp một việc
+sandpaper /'sænd,peipə/: giấy nhám, giấy ráp
+dizzy /'dizi/: chóng mặt
+pale /pāl/: xanh xao, tái nhợt
+pillow /ˈpilō/: cái gối
+tractor /'træktə/: xe máy kéo
+literacy /'litərəsi/: trình độ học vấn; sự biết viết, biết đọc
+pinewood /ˈpīnˌwo͝od/: gỗ thông
+spatula: (bếp núc) cái sạng, cái xúc 
+diagonal /dai'ægənl/: đường chéo
+purebred /ˈpyo͝orˌbred/: thuần chủng
+scatter /ˈskadər/: sự tiêu tan; sự phân tán, sự rải rác
+scattered /'skætəd/: rải rác, thưa thớt, lưa thưa
+drone /droun/: (n) ong mật đực; máy bay không người lái; bài nói đều đều; người nói giọng đều đều 
+               (v) kêu vo ve; (+ away) làm biếng; nói giọng đều đều
+lifetime /'laiftaim/: trọn đời; suốt đời
+talkative /'tɔ:kətiv/: thích nói, hay nói; lắm lời, ba hoa; bép xép
+competitive /kəmˈpedədiv/: tính ganh đua, cạnh tranh
+token of appreciation //: dấu hiệu của sự đánh giá cao; món quà đặc biệt
+tip /tip/: đầu, mút, đỉnh, chóp; mẹo, mánh lới, mánh khoé;
+felt /felt/: (n) nỉ, vải nỉ (v) cảm thấy
+felt tip pen //: bút nỉ
