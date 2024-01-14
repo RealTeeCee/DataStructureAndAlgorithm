@@ -64,7 +64,7 @@ throughout /θru:'aut/: (adv) suốt, từ đầu đến cuối, khắp, xuyê
 Latin /'ladin/: (n) tiếng La-tinh (a) thuộc latin
 Arabic /'ærəbik/: (a) thuộc Ả Rập (n) Arab /'ærəb/: người Ả Rập
 engage /in'geidʤ/: đính hôn; hứa hẹn, ước hẹn, cam kết
-voyage /ˈvoiij/: hành trình
+voyage /ˈvoiij/: hành trình, chuyến đi
 fiction /ˈfikSH(ə)n/: viễn tưởng; hư cấu
 non-fiction /nənˈfikSH(ə)n/: chuyện về người thật việc thật; phi giả tưởng
 inhale /inˈhāl/: hít vào
