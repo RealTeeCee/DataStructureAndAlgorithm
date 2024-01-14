@@ -1,84 +1,91 @@
-tackle
-captain
-lockdown
-spinning top
-footpath
-departure
-shape, form, figure
--- ngụ ý: imply
-express
-slope
-resort
--- độ lệch tần số: frequency departure
-bishop
-arrange
-tiny
-session
-rainfall
-Nepalian
--- tiếng Nê pan: Nepali
-deal with
-waggle
-gesture
-overwhelming
-overwhelm
-entire
-observe
-tidy
-bubbly student
-convince
-promote
-axiety attack
-flea
-curriculum
-- carbon phóng xạ: radiocarbon
-mattress
-refreshment
-- giảm bớt hoạt động: slack off
-slack
-trophy
-donkey
-load
-concert
-horn
-antler
-braise
-reindeer
-swing
-demonstrate
-scallion
-pancake
-tournament
-wirelessly
-object
-object
-slide tackle
-standing tackle
-shoulder tackle
-soaring
-soaring
-spin
-carry out
-stand still
-decide
-stationary
-vibrate
-strategy
-remain
-bubble
-strict
-heart attack
-attack of fever
-coach
-coat
-landfill
-screentouch
-punch
-fist
-airmail
-unreasonable
-applaud
-checkup
-generation
-co-worker
+spooky
+-- trang viên, thái ấp: manor
+blast
+nostalgic
+authentic
+simulator
+primarily
+primary
+youth
+architecture
+rubbish trash garbage
+overcome
+inhale
+inspiration
+postpone
+gallery
+inn
+disco
+blanket
+dessert
+throughout
+Latin
+Arab Arabic
+engage
+voyage
+fiction
+non-fiction
+exhale
+lung
+spine
+hoop
+ladybug
+larva
+favor
+do one a favor
+sandpaper
+dizzy
+pale
+pillow
+tractor
+literacy
+literacy!!!
+pinewood
+turpentine
+spatula
+diagonal
+purebred
+scatter
+scattered
+talkative
+competitive
+token of precision
+tip
+felt
+felt tip pen
+origami
+ancient
+selfish
+handy
+handy man
+intertwine
+tutorial
+trial
+potential
+resistant
+resistant!!!
+familiarise
+pressure
+bud
+buzzsaw
+wallpaper
+villain
+right then
+right then and there
+booth
+area
+shelter
+accidentally
+accident
+incident
+damage = endamage
+poster
+closing sale
+motion
+friction
+complement
+controller
+find out figure out
+
+
 

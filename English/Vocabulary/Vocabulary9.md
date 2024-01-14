@@ -3,7 +3,7 @@ ancient /'einʃənt/: xưa, cổ, cổ đại
 selfish /'selfiʃ/: ích kỷ
 handy /hændi/: thuận tiện, tiện tay, vừa tầm tay; dễ cầm; khéo tay
 handy man /'hændimæn/: người làm những công việc lặt vặt
-origami /ˌôrəˈɡämē/: nghệ thuật xếp giấy của Nhất Bản
+origami /ˌôrəˈɡämē/: nghệ thuật xếp giấy của Nhật Bản
 globe /gloub/: quả địa cầu, trái đất, thế giới, hình cầu; cầu mắt
 intertwine /,intə'twain/: quấn vào nhau, đan xen vào nhau, tréo với nhau, kết với nhau
 tutorial /tju:'tɔ:riəl/: (n) bài hướng dẫn học (a) (thuộc) sự giám hộ, (thuộc) trợ lý học tập
@@ -79,13 +79,13 @@ favor /'feivə/: ân huệ, ơn; ủng hộ
 do one a favor //: giúp một việc
 sandpaper /'sænd,peipə/: giấy nhám, giấy ráp
 dizzy /'dizi/: chóng mặt
-pale /pāl/: xanh xao, tái nhợt
+pale /pāl (peo)/: xanh xao, tái nhợt
 pillow /ˈpilō/: cái gối
 tractor /'træktə/: xe máy kéo
 literacy /'litərəsi/: trình độ học vấn; sự biết viết, biết đọc
 pinewood /ˈpīnˌwo͝od/: gỗ thông
-spatula: (bếp núc) cái sạng, cái xúc 
-diagonal /dai'ægənl/: đường chéo
+spatula /ˈspaCHələ/: (bếp núc) cái sạng, cái xúc 
+diagonal /dai'ægənl (đai á gơ nồl)/: đường chéo
 purebred /ˈpyo͝orˌbred/: thuần chủng
 scatter /ˈskadər/: sự tiêu tan; sự phân tán, sự rải rác
 scattered /'skætəd/: rải rác, thưa thớt, lưa thưa

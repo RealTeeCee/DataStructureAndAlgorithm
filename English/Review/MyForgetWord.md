@@ -49,3 +49,8 @@ exceptional:
 wobble:
 facility:
 designated:
+frequency departure: 
+imply: 
+Nepali: 
+radiocarbon: 
+slack off: 

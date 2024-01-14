@@ -1010,13 +1010,13 @@ favor /'feivə/: ân huệ, ơn; ủng hộ
 do one a favor //: giúp một việc
 sandpaper /'sænd,peipə/: giấy nhám, giấy ráp
 dizzy /'dizi/: chóng mặt
-pale /pāl/: xanh xao, tái nhợt
+pale /pāl (peo)/: xanh xao, tái nhợt
 pillow /ˈpilō/: cái gối
 tractor /'træktə/: xe máy kéo
 literacy /'litərəsi/: trình độ học vấn; sự biết viết, biết đọc
 pinewood /ˈpīnˌwo͝od/: gỗ thông
-spatula: (bếp núc) cái sạng, cái xúc 
-diagonal /dai'ægənl/: đường chéo
+spatula /ˈspaCHələ/: (bếp núc) cái sạng, cái xúc 
+diagonal /dai'ægənl (đai á gơ nồl)/: đường chéo
 purebred /ˈpyo͝orˌbred/: thuần chủng
 scatter /ˈskadər/: sự tiêu tan; sự phân tán, sự rải rác
 scattered /'skætəd/: rải rác, thưa thớt, lưa thưa
@@ -1055,3 +1055,40 @@ handheld /ˈhandˌheld/: cầm tay
 riverbank /ˈrivərˌbaNGk/: bờ sông
 slippery /ˈslip(ə)ry/: trơn trợt 
 muddy /ˈmədē/: lầy lội
+suitable /'sju:təbl/: (+ for, to) hợp, phù hợp, thích hợp;
+deliver /di'livə/: (v) phân phát (thư), phân phối, giao (hàng); phát biểu, giãi bày; (+ from) cứu khỏi, giải thoát; 
+delivery /di'livəri/: (n) sự phân phát (thư), sự giao hàng; cách nói; sự sinh đẻ; sự chuyển nhượng; sự giao nộp đầu hàng
+to deliver oneself up //: đầu hàng; giao nộp thân mình; 
+to be delivered of a child //: sinh một đứa con
+to deliver over //: giao trả, chuyển giao, chuyển nhượng
+perform /pə'fɔ:m/:  biểu diễn, trình bày (kịch, điệu nhảy...); làm (công việc...); thực hiện (lời hứa...); thi hành (lệnh); cử hành (lễ); hoàn thành (nhiệm vụ)
+performance /pərˈfôrməns/: hiệu suất; chất lượng
+doubt /daut/: (n) sự nghi ngờ, sự ngờ vực; (v) nghi ngờ, ngờ vực;
+admission /əd'miʃn/: tiền nhập học, tiền vào cửa; sự thu nạp vào, sự kết nạp; sự thú nhận
+admission free //: vào cửa không mất tiền
+reggae /ˈreˌɡā/: nhạc Reggae, nhạc nhịp mạnh; điệu nhảy với nhịp mạnh phổ biến của người Tây Ân (quần đảo Antilles)
+fancy /'fænsi/: (a) (people) sang chảnh; (thing) trang hoàng, mắc (v) (= like) thích, thị hiếu
+interval /'intəvəl/: khoảng (thời gian, không gian); lúc tạm nghĩ; thỉnh thoảng
+light-hearted /'lait'hɑ:tid/: nhẹ dạ cả tin; dễ tính; hoạt bát; vui vẻ
+light-hearted musical //: nhạc kịch nhẹ nhàng
+spectacular /spekˈtakyələr/: (a) hùng vĩ; đẹp mắt, ngoạn mục (n) quang cảnh
+thrill /θril/: (n) sự rùng mình (kinh sợ); sự run lên rộn lên, sự rộn ràng (vì sung sướng);
+               (v) làm rùng mình, làm run lên; làm rộn ràng, làm xúc động, làm hồi hộp
+life coach /laif koutʃ/: huấn luyện viên - người khai vấn cuộc sống
+similar /'similə/: giống nhau, như nhau, tương tự; (toán học) đồng dạng
+spare /speə/: (a) thừa dư để dành, có để dành; đạm bạc, thanh đạm; sơ sài, gầy gò
+              (v) để dành, tiết kiệm; dung tha, dung thứ; (= leave) bỏ, không cần đến, có thừa
+hot air balloon //: khinh khí cầu
+gorgeous /ˈɡôrjəs/: lộng lẫy, đẹp đẻ, rực rở, tráng lệ
+sightseeing /ˈsītˌsēiNG/: cuộc tham quan; sự trông thấy
+decade /ˈdekād/: thập kỷ
+aircraft /ˈerˌkraft/: phi cơ
+vehicle /ˈvēəkl/: phương tiện giao thông
+oppose /ə'pouz/: phản đối, chống đối
+opposed to //: trái lại, trái ngược với
+day off //: ngày nghỉ
+effect /i'fekt/: hiệu lực, hiệu quả, tác dụng
+special effect //: hiệu ứng đặc biệt
+genre /ʤỴ:ɳr/: thể loại, loại
+
+
