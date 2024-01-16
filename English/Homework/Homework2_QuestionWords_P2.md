@@ -111,14 +111,14 @@
 
 * What for?
 1. What did he cancel the meeting for ?
-- He canceled the meeting because he had another priority work.
+- He canceled the meeting for another priority work.
 2. What will you sing that song for ?
 - I will sing that song to thank my mother.
 3. What do you work hard for ?
--  I work hard because I want to achieve my goal.
-4. What do you save money for ?
+-  I work hard in order to achieve my goal.
+1. What do you save money for ?
 -  I save money in order to provide for urgent situations.
-5. What do you offer a scholarship to her for ?
--  I offer a scholarship to her because of her efforts.
+1. What do you offer a scholarship to her for ?
+-  I offer a scholarship to her for her efforts.
 
 
