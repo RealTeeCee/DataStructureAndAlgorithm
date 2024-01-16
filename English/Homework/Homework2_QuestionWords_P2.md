@@ -62,28 +62,28 @@
 
 # Tri
 * How?
-1. 
-- 
-2. 
--  
-3. 
-- 
-4. 
-- 
-5. 
-- 
+1. How did you read a mail?
+- I read a mail quickly.
+2. How do you swim?
+- I swim well.
+3. How did you fix a fan?
+- I fix a fan with a screwdriver.
+4. How did you cut cloths?
+- I cut cloths with scissors.
+5. How did she wash clothes?
+- She washed clothes with a washing machine.
 
 * Where?
-1. 
-- 
-2. 
--  
-3. 
-- 
-4. 
-- 
-5. 
-- 
+1. Where do you live?
+- I live in HCM city.
+2. Where did you fly a kite?
+- I flew a kite at the park.
+3. Where did you jog?
+- I jog around my parent 's house.
+4. Where did you see him?
+- I saw him at the supermarket.
+5. Where did you learn English?
+- I learnt English in Outeref.
 
 * When?
 1. When do you go to bed?
@@ -98,26 +98,27 @@
 - I usually take a shower in the evening.
 
 * Why?
-1. 
-- 
-2. 
--  
-3. 
-- 
-4. 
-- 
-5. 
-- 
+1. Why did he smile?
+- He smiled because he was happy.
+2. Why is he single?
+-  He is single because he want to focus on his goal.
+3. Why did she argue with your boss?
+- She argued with my boss because of me.
+4. Why did you look sad?
+- I looked sad because it was my appearance.
+5. Why did you feel tired?
+- I felt tired since my work hadn't been done.
 
 * What for?
-1. 
-- 
-2. 
--  
-3. 
-- 
-4. 
-- 
-5. 
-- 
+1. What did he cancel the meeting for ?
+- He canceled the meeting because he had another priority work.
+2. What will you sing that song for ?
+- I will sing that song to thank my mother.
+3. What do you work hard for ?
+-  I work hard because I want to achieve my goal.
+4. What do you save money for ?
+-  I save money in order to provide for urgent situations.
+5. What do you offer a scholarship to her for ?
+-  I offer a scholarship to her because of her efforts.
+
 
