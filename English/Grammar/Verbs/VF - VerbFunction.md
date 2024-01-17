@@ -1,3 +1,16 @@
+# VF1       Subject + Verb Intransitive
+# VF2       Subject + Verb Transitive + Direct.Object
+# VF3       Subject + TO BE/Linking Verb + Adjective
+# VF4       Subject + Verb Transitive + Direct.Object to/for + Indirect.Object.
+#        -> Subject + Verb Transitive + Indirect.Object + Direct.Object
+
+# Linking Verb: Get/Go/Become; Appear; Look; Seem; Sound; Taste; Smell; Turn; Grow; Remain; Stay;
+
+# VF4 Verb + TO: Ask; Advance; Lease; Loan; Tell; Sing; Give; Grant; Award; Offer; Pass
+# VF4 Verb + FOR: Buy; Build; Cook; Make; Pour; Choose; Keep; Save
+
+
+
 # VF1       S + Vi
 + S = Subject: Chủ ngữ.
 + Vi = intransitive Verb: Nội động từ (là động từ tự nó có nghĩa, không cần túc từ)
