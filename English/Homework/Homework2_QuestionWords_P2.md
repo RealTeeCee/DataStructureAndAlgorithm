@@ -3,11 +3,11 @@
 1. How can I improve my problem-solving skills?
 - I improve my problem-solving skills by solving maths.
 2. How does she clean the floor?
--  She clean the floor with mop.
+-  She clean the floor with a mop.
 3. How do do you go to work?
 - I go to work by bike.
 4. How does he sweep the floor?
-- She sweep the floor with broom.
+- She sweep the floor with a broom.
 5. How do you do homework?
 - I do homework easily.
 

@@ -1144,4 +1144,6 @@ suffer /'sʌfə/: (V) chịu đựng, bị
 wild animal suffering //: sự tổn hại động vật hoang dã
 regulate /'regjuleit/: sự điều chỉnh, chỉnh lại cho đúng; điều tiết
 species /ˈspēsēz/: giống, loài
-
+tight /tait/: (a) chặt, khít; chật, bó sát (n) áo ôm sát vào mình, đồ bộ bó
+grip /ɡrip/: (v) nắm chặt, kẹp chặt; nắm vững (kiến thức...); (n) tay phanh; sự nắm chặt; sự nắm vững
+waterproof /ˈwôdərˌpro͞of/: chống nước; không thấm nước
