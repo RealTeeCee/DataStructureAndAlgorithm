@@ -1,3 +1,26 @@
+Correct Sentences: A correct sentence must have a subject and a verb function (VF).
+
+Correct sentence (CS) = Subject (S) + Verb Function (VF)
+
+# Yes / No Question: 
+- VF1, VF2, VF3, VF4
+
+# Question Word as Subject:
+- VF1, VF2, VF3, VF4
+- Question Word + Verb s/es | 2/ed + (empty)/Direct Object/Complement ?
+
+# Question Word as Direct Object: 
+- VF2, VF4
+- Question Word + Do/Does/Did/Will + Subject + Verb Transitive ?
+
+# Question Word as Object Of Preposition: 
+- VF4
+
+# Question Word as Complement: 
+- VF3
+
+==========================================================================================
+* Examples: 
 # Nguyen
 * Yes / No Question
 1. Did you learn English at Outeref?
@@ -39,8 +62,8 @@
 
 
 * Question word as Direct Object -- QW + Do/Does/Did/Will + S + V(t) ?
-1. What do you love the most?
-- I love learning English the most.
+1. What do you love most?
+- I love learning English most.
 
 2. Who will pay the bill?
 - My father will pay the bill.
@@ -68,11 +91,11 @@
 3. Who do you work with?
 - I work with my brother.
 
-4. Whose money do they lend to?
+4. Whose uncle do they lend money to?
 -  They lend money to his uncle.
 
-5. Whose notebook does he borrow from?
-- He borrows notebook from me.
+5. Whose notebook does he borrow?
+- He borrows my notebook.
 
 6. Which place did she go to?
 -  She went to the park.
@@ -197,4 +220,5 @@
 
 6. Whose team is working for that project?
 -  My team is working for that project.
+
 
