@@ -102,49 +102,49 @@
 - The thief put down the gun because he wanted to surrender to the police.
 
 * Group 3: Time
-1. 
-- 
-2. 
--  
-3. 
-- 
-4. 
-- 
-5. 
-- 
+1. When did you go to bed last night?
+- I went to bed last night before 12:00 pm.
+2. When do you brush your teeth?
+- I brush my teeth after dinner.
+3. When do you go to the park?
+- I go to the park when I have free time.
+4. When will the movie start?
+- The movie starts at 7 o'clock.
+5. When did he run into her ?
+-  He ran into her when he was 25 years old
 
 * Group 4: Condition
-1. 
-- 
-2. 
--  
-3. 
-- 
-4. 
-- 
-5. 
-- 
+1. Do you intend go shopping ?
+- Yes, I intend go shopping if it isn't rain
+2. will She forgive him ?
+-  Yes, She will forgive him as long as he admits his fault
+3. Do you think he will pass the exam?
+-  yes, I think he will pass the exam on condition that he study harder
+4. will you join the meeting?
+-  No, I don't join the meeting unless I prepare all document.
+5. Do you help me with this task?
+-  Yes, I help you with this task as long as I finish all my task.
 
 * Group 5: Concession
-1. 
-- 
-2. 
--  
-3. 
-- 
-4. 
-- 
-5. 
-- 
+1. Will you go camping with them next week?
+-  No, I won't go camping with them although I'm interested in camping
+2. Did you finish your homework?
+-  Yes, I finished my homework even if I was too busy.
+3. Will you attend the party?
+-  No, I  won't join the party even though I also want to attend.
+4. Is she coming with us?
+-  Yes, She is coming with us though though she has to go a long way.
+5. Did you enjoy this movie ?
+-  No, I don't enjoy this movie although It has a lot of high techniques.
 
 * Group 6: Purpose
-1. 
-- 
-2. 
--  
-3. 
-- 
-4. 
-- 
-5. 
-- 
+1. What do you write the email for ?
+-  I write the email so that I can express all my idea.
+2. What does he buy new laptop for ?
+-  He buys new laptop in order that he can finish his work quickly.
+3. What does she review report for?
+-  She reviews report so that she can find new better solution for her team.
+4. What does he work hard for ?
+-  He works hard so that he can help others
+5. What do we obey the law ?
+-  We obey the law that we can make a better society.
