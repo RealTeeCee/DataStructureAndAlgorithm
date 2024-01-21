@@ -6,3 +6,8 @@ Fall behind: Tụt lại phía sau.
 Idiomatic expressions:
 To pull someone's leg: lừa ai (i)
 To play it by ear: rồi tính sau (i)
+By hydrofoil /ˈhaɪdrəˌfɔɪl/: Bằng tàu cánh ngầm.
+By raising my hand: Bằng cách giơ tay.
+Within my abilities: Trong giới hạn khả năng của tôi.
+With detergent /dɪˈtərdʒənt/: Với chất tẩy bẩn.
+Due to poverty /ˈpɑvərt̮i/: Do bởi cái nghèo.

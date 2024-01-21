@@ -17,62 +17,62 @@
 
 # Adverb Phrase (Preposition Object)
 * By
-+ transportation 
-+ cash / card
-+ gerund (V-ing)
+  + transportation 
+  + cash / card
+  + gerund (V-ing)
 
 * With 
-+ tools
-+ materials / ingredients
-+ body parts
+  + tools
+  + materials / ingredients
+  + body parts
 
 * Without 
-+ pay
-+ any effort
-+ thinking
+  + pay
+  + any effort
+  + thinking
 
 * On 
-+ foot
-+ horseback
-+ an elephant (big animals)
+  + foot
+  + horseback
+  + an elephant (big animals)
 
 * Within
-+ abilities / limits
+  + abilities / limits
 
 # Adverb Clause: NONE
 
 # WHERE ?
 # Adverb: Adverb of place
-+ here != there
-+ outside != inside
-+ indoors != outdoors
-+ upstairs != downstairs
-+ overseas / aboard
+  + here != there
+  + outside != inside
+  + indoors != outdoors
+  + upstairs != downstairs
+  + overseas / aboard
 
 # Adverb Phrase (Preposition Object)
 * AT
-+ home / schol / work
-+ address
-+ public places
+  + home / schol / work
+  + address
+  + public places
 
 * ON
-+ street
-+ surface (bề mặt): wall (|), floor (_), mountain (/) 
-+ the farm / the island
+  + street
+  + surface (bề mặt): wall (|), floor (_), mountain (/) 
+  + the farm / the island
 
 * IN
-+ public places
-+ inside: the room, the box
-+ district, province, city
-+ the garden, the field, the valley
+  + public places
+  + inside: the room, the box
+  + district, province, city
+  + the garden, the field, the valley
 
 * Others: 
-+ in front of != behind
-+ above != under
-+ between ... and ...
-+ beside / next to / by / near / close to != far from
-+ around / among
-+ from ... to ...
+  + in front of != behind
+  + above != under
+  + between ... and ...
+  + beside / next to / by / near / close to != far from
+  + around / among
+  + from ... to ...
 
 # Adverb Clause:
 * [...] +  S + V
