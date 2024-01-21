@@ -90,7 +90,7 @@ vet /vet/: (n) bác sĩ thú y (v) điều trị (thú vật)
 rehab /ˈriːhæb/: trại cai nghiện
 rehabber //: người cai nghiện, người phục hồi động vật
 wildlife rehabilitation /ˈwaɪldlaɪf  ˌriːəˌbɪlɪˈteɪʃn/: phục hồi động vật hoang dã
-domesticated  = tame /dəˈmestɪkeɪtɪd = tām/: thuần hóa
+domesticated = tame /dəˈmestɪkeɪtɪd = tām/: thuần hóa
 scuba diving /ˈskuːbə daɪvɪŋ/: môn lặng
 pedals /ˈpedl/: bàn đạp
 jupiter /ˈdʒuːpɪtər/: sao Mộc

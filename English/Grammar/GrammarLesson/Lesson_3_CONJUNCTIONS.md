@@ -17,7 +17,7 @@
 * If / Unless / As long as / On condition that
                 miễn là      với điều kiện
 
-# Group 5: Concession - T E E A
+# Group 5: Concession (nhượng bộ) - T E E A
 * Though / Although / Even if / Even though
 * No "but"
 
