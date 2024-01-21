@@ -82,26 +82,26 @@ campfire /ˈkampˌfīər/: lửa trại
 feedback /ˈfēdˌbak/: nhận xét, phản hồi; sự liên hệ ngược; (y học) hồi tiếp
 scribe /skrīb/: người ghi chép; người sao chép bản thảo
 issue /ˈɪʃu/: Cấp, phát hành (v), vấn đề (n).
-experience /ɪkˈspɪriəns/: Trải qua, học hỏi ... (v), Kinh nghiệm, từng trair ...(n) 
+experience /ɪkˈspɪriəns/: Trải qua, học hỏi ... (v), Kinh nghiệm, từng trải ...(n) 
 antidote  /ˈæntɪˌdoʊt/: Thuốc giải độc
 boredom /ˈbɔrdəm/: Sự buồn chán
 assignment /əˈsaɪnmənt/: Sự phân công
 compulsory /kəmˈpʌlsəri/: Bắt buộc (adj)
-writing pad: Sổ tay
-splash-proof coating: Lớp phủ chống bắn tung tóe
+writing pad //: Sổ tay
+splash-proof coating //: Lớp phủ chống bắn tung tóe
 sturdy /ˈstərdi/: Mãnh liệt, mạnh mẽ (adj)
-sturdy lockable: Có thể khóa chắc chắn.
+sturdy lockable //: Có thể khóa chắc chắn.
 compartment /kəmˈpɑrtmənt/: Gian nhà, căn phòng trên tàu, căn phòng trên xe lửa
-fit into: Phù hợp với
+fit into //: Phù hợp với
 shrub /ʃrʌb/: cây bụi, cây nhỏ
-rehearsal /rɪˈhərsl/: Diễn tập (n), thuật truyện tỉ mỉ
+rehearsal /rɪˈhərsl/: (v) Diễn tập (n) thuật truyện tỉ mỉ
 chamber /ˈtʃeɪmbər/: Buồng, phòng
 majority /məˈdʒɔrət̮i/: Đa số , phần nhiều, phần đông
-up-and-coming: Sắp tới
-broad range of: Phạm vi rộng của ...
+up-and-coming //: Sắp tới
+broad range of //: Phạm vi rộng của ...
 repertoire /ˈrɛpərˌtwɑr/: Tiết mục
 innovate /ˈɪnəˌveɪt/: Đổi mới ,cải cách
-digit /ˈdɪdʒət/: Chữ số, Số từ 1 đến 9 và 0, 
+digit /ˈdɪdʒət/: Chữ số, Số từ 1 đến 9 và 0,
 digital /ˈdɪdʒət̮l/: Kỹ thuật số
 preserve /prɪˈzərv/: Bảo tồn, giữ gìn
 sense /sɛns/:  Giác quan, cảm giác ...
