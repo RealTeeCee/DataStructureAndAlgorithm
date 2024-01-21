@@ -1,15 +1,15 @@
 # Nguyen
 * Group 1: Coordinating
-1. What does she like to sing ?
+1. What does she like to sing?
 - She likes to sing "Merry Christmas" and "Happy New Year".
 2. What do you wear?
 - I like to wear a ring and a necklace.
-3. what does she follow ?
+3. what does she follow?
 - She follows a dog and a cat.
-4. what did you hear ?
+4. what did you hear?
 - I liked to hear the singer's voice but he retired last month.
-5. What does the restaurant serve ?
-- The restaurant serve breakfast and lunch.
+5. What does the restaurant serve?
+- The restaurant serves breakfast and lunch.
 
 * Group 2: Cause
 1. Why do you leave your present job?
@@ -76,7 +76,6 @@
 - I bought an earpod so that my parent wouldn't complain about the noise.
 
 # Tri
-
 * Group 1: Coordinating
 1. What do you follow?
 - I follow my goal and my dream.
@@ -110,20 +109,20 @@
 - I go to the park when I have free time.
 4. When will the movie start?
 - The movie starts at 7 o'clock.
-5. When did he run into her ?
+5. When did he run into her?
 -  He ran into her when he was 25 years old
 
 * Group 4: Condition
-1. Do you intend go shopping ?
-- Yes, I intend go shopping if it isn't rain
-2. will She forgive him ?
+1. Do you intend to go shopping?
+- Yes, I intend to go shopping if it isn't rain
+2. Will she forgive him?
 -  Yes, She will forgive him as long as he admits his fault
 3. Do you think he will pass the exam?
 -  yes, I think he will pass the exam on condition that he study harder
 4. will you join the meeting?
--  No, I don't join the meeting unless I prepare all document.
-5. Do you help me with this task?
--  Yes, I help you with this task as long as I finish all my task.
+-  No, I won't join the meeting unless I prepare all the documents.
+5. Does he help you with the task?
+-  Yes, He helps me with the task as long as I finish all my tasks.
 
 * Group 5: Concession
 1. Will you go camping with them next week?
@@ -134,17 +133,17 @@
 -  No, I  won't join the party even though I also want to attend.
 4. Is she coming with us?
 -  Yes, She is coming with us though though she has to go a long way.
-5. Did you enjoy this movie ?
+5. Did you enjoy this movie?
 -  No, I don't enjoy this movie although It has a lot of high techniques.
 
 * Group 6: Purpose
-1. What do you write the email for ?
--  I write the email so that I can express all my idea.
-2. What does he buy new laptop for ?
--  He buys new laptop in order that he can finish his work quickly.
-3. What does she review report for?
--  She reviews report so that she can find new better solution for her team.
-4. What does he work hard for ?
+1. What do you write the email for?
+-  I write the email so that I can express all my ideas.
+2. What does he buy a new laptop for?
+-  He buys a new laptop in order that he can finish his work quickly.
+3. What does she review the report for?
+-  She reviews the report so that she can find new better solutions for her team.
+4. What does he work hard for?
 -  He works hard so that he can help others
-5. What do we obey the law ?
--  We obey the law that we can make a better society.
+5. What do we obey the law?
+-  We obey the law so that we can make a better society.
