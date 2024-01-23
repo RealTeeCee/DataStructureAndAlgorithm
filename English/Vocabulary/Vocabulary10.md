@@ -1,6 +1,6 @@
 hoot /hu:t/: (n) tiếng cú kêu; (v) (cú) kêu lên 1 tiếng
 great-horned owl /ɡrāt-hôrnd oul/: cú sừng
-cap /kap/: mũ lưỡi tra
+cap /kap/: mũ lưỡi trai
 canyon /ˈkanyən/: hẻm núi
 sledge = sled /slej/: Xe trượt tuyết
 hike /hīk/: đi dạo, cuộc đi bộ đường dài 
