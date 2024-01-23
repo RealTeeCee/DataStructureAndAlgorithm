@@ -30,34 +30,35 @@
 - I put on my sneakers, go to the park near my grandfather's house, run 8 laps of the park, and finally enjoy a delicious smoothie when I go home.
 
 # Tri
-1. What does your mother do when it's bad ?
-- When it is bad my mother often stays at home, she cleans floor, mends the old clothes, makes some cake for family.
+1. What does your mother do when it is bad?
+- When it is bad my mother often stays at home, she cleans floor, she mends the old clothes and she makes some cake for family.
 
-2. What did you do when it was rainy last weekend ?
-- When it was rainy last weekend, I stayed at home, listened to music 
-    while I cleaned my room and arranged my work desk in the moring, cooked some foods in the afternoon 
-    and read technology book, wrote code in the evening.
+2. What did you do when it was rainy last weekend?
+- When it was rainy last weekend, I stayed at home, I listened to music while I cleaned my room and arranged my work desk in the moring, I cooked some foods in the afternoon and I read technology book or   wrote code in the evening.
 
-3. What will you do tomorrow if it's cool?
-- When it is cool tomorrow, I will try new my sweater that I bough a long time ago.
+3. What will you do tomorrow if it is cool?
+- If it is cool tomorrow, I will try new my sweater that I bough a long time ago.
+  
 
-4. What does your father do when it is sunny ?
-- When it's sunny my father often goes to the field, checks the rice, picks some wild fruit for the grandchildren.
+4. What does your father do when it is sunny?
+- When it was sunny my father often goes to the field, he checks the rice and he picks some wild fruit for the grandchildren.
 
-5. What do kids do when it's warm ?
-- When it's warm, The kids get together and play traditional games after school.
+5. What do kids do when it is warm?
+- When it is warm, the kids get together and they play traditional games after school.
 
-6. What will you do when it's cloudy in weekend ?
-- When it's cloudy in the weekend, I will ride my motobike, head for my countrysite and visit my parents.
+6. What will you do when it is cloudy in weekend?
+- When it is cloudy in the weekend, I will ride my motobike, I head for my countrysite and I visit my parents.
 
-7. What do people do when there is a storm in Ho chi Minh City ?
-- When there is a storm in Ho chi Minh City, People monitor weather forecasts and limit going out during storm.
+7. What do people do when there is a storm in Ho Chi Minh City?
+- When there is a storm in Ho Chi Minh City, People monitor weather forecasts and People limit going out during storm.
 
-8. What does she do when the weather is hot ?
-- When it's hot, she turns on air conditioner and works from home and .
+8. What does she do when the wheather is hot?
+- When it is hot, she turns on air conditioner and she works from home.
 
-9. What does he do when the weather is sunny ?
-- When the weather is sunny he gets out the house, wears a hat, goes to the beach and sunbathe with his friends.
+9. What does he do when the weather is sunny?
+- When the weather is sunny he gets out the house, he wears a hat, he goes to the beach and he sunbathe with his friends.
 
-10. What do we do when it is stuffy?
-- When it is stuffy we should drink more water, stay away from sunlight and keep the house well ventilated.
+10.  What do we do when it is stuffy?
+- When it is stuffy we should drink more water, we stay away from sunlight and we keep the house well ventilated.
+
+
