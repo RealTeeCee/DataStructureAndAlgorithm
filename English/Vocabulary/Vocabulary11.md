@@ -36,7 +36,7 @@ conduct /'kɔndəkt/: chỉ đạo, thực hiện
 tablecloth /ˈtābəlˌklôTH/: khăn trải bàn
 artwork /ˈärtˌwərk/: tác phẩm nghệ thuật
 furniture /'fə:nitʃə/: đồ đạc (trong nhà); phụ tùng đồ gỗ
-engrave /in'greiv/: khắc, trổ, chạm
+engrave = sculpt /in'greiv/: khắc, trổ, chạm (engrave là 1 loại sculpt)
 wonderland /'wʌndəlænd/: xứ sở thần tiên; thế giới diệu kì
 outstanding /aut'stændiɳ/: xuất chúng; nổi bật, đáng chú ý; nổi tiếng
 restored /rəˈstôr/: phục hồi; hoàn nguyên, xây dựng lại

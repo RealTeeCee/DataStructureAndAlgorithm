@@ -85,7 +85,7 @@ stunning /'stʌniɳ/: tuyệt, hay, cừ khôi
 delicate /ˈdelikət/: thanh nhã, thanh tú; mỏng manh, mảnh khảnh; tế nhị, khó xử
 delicate features //: nét mặt thanh tú
 delicate health //: sức khoẻ mỏng manh
-delicate stituation //: hoàn cảnh khó xử
+delicate situation //: hoàn cảnh khó xử
 gain /gein/: (v) nhận, được lợi; (n) lời, sự tăng thêm  
 gain weight //: sự tăng cân
 obstacle /'ɔbstəkl/: chướng ngại vật, sự trở ngại
