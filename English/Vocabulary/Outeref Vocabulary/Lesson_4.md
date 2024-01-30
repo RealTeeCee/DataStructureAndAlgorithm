@@ -10,13 +10,13 @@ Cloudy /ˈklaʊdi/: có mây
 Rainy /ˈreɪni/: có mưa
 Windy /ˈwɪndi/: có gió
 Chilly /ˈtʃɪli/: lạnh giá
-Dark /dɑrk: tối
+Dark /dɑrk/: tối
 Dry /draɪ/: khô
-Wet /wɛt: ướt
-Cooling down: mát dần
+Wet /wɛt/: ướt
+Cooling down //: mát dần
 Freezing /ˈfrizɪŋ/: băng giá, rét mướt
 Pouring /pɔrɪŋ/: mưa như trút nước
-Raining: đang mưa
+Raining //: mùa mưa; đang mưa
 Snowing /snoʊ/: đang có tuyết
 
 *** What
@@ -32,6 +32,6 @@ A drought /draʊt/: hạn.
 A tornado /tɔrˈneɪdoʊ/: lốc xoáy
 Sleet /slit/: mưa tuyết, mưa đá
 An atmosphere /ˈætməsˌfɪr/: Khí quyển
-Temperature /ˈtɛmprətʃər: nhiệt độ.
+Temperature /ˈtɛmprətʃər/: nhiệt độ.
 
 

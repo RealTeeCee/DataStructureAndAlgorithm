@@ -6,7 +6,6 @@ fresh spring roll /frɛʃ sprɪŋ rəʊl/: gỏi cuốn
 roof /ruːf/: trần nhà
 floor /flɔː(r)/: sàn nhà, tầng
 clinic /ˈklɪnɪk/: phòng khám
-clerk /klɑːk/: nhân viên (văn phòng)
 driveway /ˈdraɪvweɪ/: đường xe chạy (trong khu vực một toà nhà)
 drop off to sleep /drɒp ɒf tuː sliːp/ = go to bed: đi ngủ
 wick /wɪk/: tim nến, bấc nến
@@ -747,7 +746,6 @@ guilt /ɡilt/: tội lỗi
 ɡuilty /ˈɡiltē/ : có tội, phạm tội (trạng thái pháp lý và thường đi kèm với quyết định)
 easy-to-watch //: dễ xem
 easygoing /ˌēzēˈɡōiNG/: dễ dãi
-athlete /ˈæθ.liːt/: vận động viên
 triathlon /traɪˈæθ.lɑːn/ : cuộc thi thể thao ba môn phối hợp
 triathlete /traɪˈæθ.liːt/ : vận động viên ba môn phối hợp
 cage /keidʤ/: (n) chuồng, lồng (v) nhốt, giam
@@ -909,7 +907,6 @@ cabinet /'kæbinit/: tủ (có nhiều ngăn, đựng đồ dạc quý); buồng
 cellophane /'seləfein/: giấy màng gói thức ăn, giấy bóng kính xenlôphan 
 tape /teip/: dây, dải (để gói, buộc, viền); băng; băng ghi âm, băng điện tín (v) đo bằng thước dây, băng ép
 cellophane tape /'seləfein teip/: cuộn giấy gói thức ăn
-surgeon /'sə:dʤən/: nhà phẫu thuật, bác sĩ phẫu thuật
 archaeologist /,ɑ:ki'ɔlədʤist/: nhà khảo cổ
 sweetheart /'swi:thɑ:t/: người yêu, người tình; con yêu
 haughty /'hɔ:ti/: kiêu căng, ngạo mạn
@@ -920,7 +917,6 @@ windmill /'winmil/: cối xay gió; máy xay gió
 peacock /'pi:kɔk/: con công (trống)
 peahen /'pi:'hen/ : con công (cái)
 penguin /'peɳgwin/: chim cánh cụt
-chef /ʃef/: đầu bếp, bếp trưởng
 thief /θi:f/: kẻ trộm, kẻ cắp; (số nhiều) thieves: những kẻ trộm
 liquor /'likə/: chất lỏng; rượu; nước luộc (thức ăn); dung dịch (thuộc nước)
 a little liquor /a 'litl 'likə/: 1 ít rượu 
@@ -1254,3 +1250,128 @@ digit /ˈdɪdʒət/: Chữ số, Số từ 1 đến 9 và 0,
 digital /ˈdɪdʒət̮l/: Kỹ thuật số
 preserve /prɪˈzərv/: Bảo tồn, giữ gìn
 sense /sɛns/:  Giác quan, cảm giác ...
+parallelism /ˈpærəlɛˌlɪzəm/: Song hành
+yawn /yɔn/: Ngáp (v)
+snore /snɔr/: Ngáy (v) tiếng ngáy (n), tiếng ầm ầm (n), tiếng vu vu (n).
+sign /saɪ/: Thở dài (v)
+fall behind //: Tụt lại phía sau.
+Idiomatic expressions //: câu thành ngữ
+To pull someone's leg //: lừa ai (i)
+To play it by ear //: rồi tính sau (i)
+By hydrofoil /ˈhaɪdrəˌfɔɪl/: Bằng tàu cánh ngầm.
+By raising my hand //: Bằng cách giơ tay.
+Within my abilities //: Trong giới hạn khả năng của tôi.
+With detergent /dɪˈtərdʒənt/: Với chất tẩy bẩn.
+Due to poverty /ˈpɑvərt̮i/: Do bởi cái nghèo.
+To stick out one's neck //: chịu nguy hiểm (Nghĩa đúng) = take a risk.
+To get off someone's back //: Tránh làm phiền ai (Nghĩa đúng) = Stop  bothering sb.
+To tease /tiz/: trêu chọc.
+To defrost /dɪˈfrɔst/: Rã đông.
+To mend /mɛnd/: Sửa đổi.
+To tame /teɪm/: Thuần hóa.
+To brush up on = Review //: ôn bài
+To call up //: Mời, nhắc lại.
+To catch up with //: Bắt kịp
+To check over //: Kiểm tra
+To clean up = clean //: dọn dẹp
+To cut off //: Cắt, ngắt
+To do without //: To manage, work, or perform successfully without having someone or something present //: The country cannot do without foreign investment.
+To drop in on = Visit //: Ghé vào
+To feel like = like //: thích
+To find out //:  Tìm ra
+To go for = like //: thích
+To go on //: Tiếp tục
+To hand in //: Giao , nộp
+To have ... on = Put on //: Mặc
+To head for (+ place) //: Đi về phía trước.
+To keep up with //: Theo kịp với.
+To look over //: Nhìn qua
+To make ... up //: tự nghĩ ra, chế (thường theo nghĩa lừa dối)
+To pay for //: Trả tiền ...
+To pick out = choose //: Chọn
+To plug in //: cắm
+To put off = delay //: Hoãn lại
+To put together //: Gom lại
+To run into //: tình cờ
+To turn in //: Nộp lại
+Hot /hɑt/: nóng
+Cold /koʊld/: Lạnh
+Stuffy /ˈstʌfi/: Khó chịu, oi ả
+Cool /kul/: mát
+Bad /bæd/: xấu
+Warm /wɔrm/: ấm áp.
+Cloudy /ˈklaʊdi/: có mây
+Rainy /ˈreɪni/: có mưa
+Windy /ˈwɪndi/: có gió
+Chilly /ˈtʃɪli/: lạnh giá
+Dark /dɑrk/: tối
+Dry /draɪ/: khô
+Cooling down //: mát dần
+Freezing /ˈfrizɪŋ/: băng giá, rét mướt
+Raining //: mùa mưa; đang mưa
+Snowing /snoʊ/: đang có tuyết
+A rainbow /ˈreɪnboʊ/: Cầu vòng
+A storm /stɔrm/: cơn bão
+A blizzard /ˈblɪzərd/: bão tuyết
+Fog /fɔɡ/: sương mù
+Thunder /ˈθʌndər/: sấm
+A drought /draʊt/: hạn.
+Sleet /slit/: mưa tuyết, mưa đá
+Temperature /ˈtɛmprətʃər/: nhiệt độ.
+syllable /'siləbl/: âm tiết; vần
+cook /kuk/: (n) đầu bếp (v) nấu nướng
+host /houst/: (n) nhân viên chào khách nam; chủ nhà; chủ tiệc
+crew /kru:/: phi hành đoàn; thủy thủ; đoàn, đội; bọn, tụi, đám, bè lũ
+judge /'dʤʌdʤ/: quan toà, thẩm phán; trọng tài, người phân xử
+band /bænd/: ban nhạc; dải, băng, đai, nẹp
+clerk /klɑːk/: thư ký; nhân viên (văn phòng)
+nurse /nə:s/: y tá; vú em, người bảo mẫu, người giữ trẻ
+monk /mʌɳk/: thầy tu, thầy tăng
+nun /nʌn/: bà xơ, nữ tu sĩ, ni cô
+priest /pri:st/: linh mục; thầy tu, thầy tế
+boss /bɔs/: ông chủ, thủ trưởng; ông trùm; tay cừ (trong môn gì); nhà vô địch
+chef /ʃef/: đầu bếp, bếp trưởng
+thief /θi:f/: kẻ trộm, kẻ cắp; (số nhiều) thieves: những kẻ trộm
+dean /di:n/: trưởng khoa, chủ nhiệm khoa; (tôn giáo) trưởng tu viện; linh mục địa phận; người cao tuổi nhất (trong nghị viện)  
+clown /klaun/: chú hề; (chế giễu) thằng hề, người quê mùa;
+bustboy /ˈbʌs.bɔɪ/: Nhân viên tiếp thực (nhà hàng lớn); nhân viên dọn bàn; phục vụ, tiểu nhị
+hostess /'houstis/: nhân viên chào khách nữ; bà chủ nhà; bà chủ tiệc; bà chủ khách sạn, bà chủ quán trọ
+captain /'kæptin/: đội trưởng, người đứng đầu, chỉ huy
+drummer /'drʌmə/: tay trống
+tour guide /tuar gaI/: HDV du lịch
+plumber /'plʌmə/: thợ sửa ống nước; thợ hàn chì
+baker /'beikə/: thợ làm bánh; người làm bánh mì
+writer /'raitə/: tác giả, nhà văn; người viết, người thảo
+sailor /'seilə/: lính thuỷ, thuỷ thủ
+actor /'æktə/: diễn viên nam
+actress /'æktris/: diễn viên nữ
+pilot /'pailət/: (hàng không) phi công; (hàng hải) hoa tiêu
+dentist /'dentist/: nha sĩ; thầy thuốc chữa răng; thợ trồng răng
+seamstress /'semstris/: thợ may đồ nữ
+waiter  /'weitə/: bồi bàn, phục vụ bàn nam
+waitress  /'weitris/: bồi bàn, phục vụ bàn nữ
+mason /'meisn/: thợ xây, thợ nề
+salesman /'seilzmən/: người bán hàng (nam)
+artist /'ɑ:tist/: nghệ sĩ, họa sĩ
+welder /ˈweldər/: thợ hàn
+butcher /'butʃə/: đồ tễ; người hàng thịt; kẻ hung bạo, kẻ hay tàn sát
+painter /peintə/: thợ sơn; họa sĩ
+trainer /treinə/: huấn luyện viên; người dạy (súc vật)
+printer /'printə/: thợ in; máy in
+steward /'stjuəd/: chiêu đãi viên (trên máy bay, trên tàu thuỷ); uỷ viên ban tổ chức (một cuộc đua ngựa, một cuộc khiêu vũ...)
+surgeon /'sə:dʤən/: nhà phẫu thuật, bác sĩ phẫu thuật
+athlete /ˈæθ.liːt/: vận động viên
+beggar /'begə/: người ăn mày, người ăn xin
+worker /'wə:kə/: công nhân, thợ; người lao động, người làm việc
+mayor /meə/: thị trưởng
+lawyer /'lɔ:jə/: luật sư
+model /modəl/: người mẫu; mô hình
+tailor /'teilə/: thợ may đồ nam
+barber /'bɑ:bə/: thợ cắt tóc
+housewife /'hauswaif/: bà chủ nhà; bà nội trợ
+consul /'kɔnsəl/: lãnh sự; (sử học) quan tổng tài 
+blacksmith /'blæksmiθ/: thợ rèn
+
+
+
+
