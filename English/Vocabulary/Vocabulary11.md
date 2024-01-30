@@ -1,4 +1,4 @@
-blowhole /ˈblōˌhōl/: lỗ phun nước
+blowhole /ˈblōˌhōl/: lỗ phun nước (của loài cá)
 bottlenose dolphin /ˌbädlˌnōz ˈdälfən/: cá heo mũi chai
 killer whale /ˈkilər wāl/: cá voi sát thủ (còn gọi là cá heo sát thủ)
 rinse /rins/: rửa sạch
@@ -19,7 +19,7 @@ acetic acid /əˌsēdik ˈasəd/: CH₃COOH Axít Axêtít
 carbon dioxide /ˈkärbən dīˈäkˌsīd/: CO₂ Cacbon điôxít
 lecture /'lektʃə/: bài học
 involve /in'vɔlv/: liên quan; dính líu; (a) involved: rắc rối, phức tạp; bị liên luỵ, bị dính dáng, dính líu
-flowerbed /ˈflou(ə)r ˌbed/: mảnh vườn hoa, khuôn vườn hoa; giường hoa
+flowerbed /ˈflou(ə)r ˌbed/: mảnh vườn hoa, khuôn vườn hoa;
 vase /veiz/: cái bình, cái lọ
 plastic /'plæstik/: chất dẻo; nhựa
 container /kən'teinə/: cái đựng, cái chứa (chai, lọ, bình, thành, hộp...); côngtenơ
@@ -44,7 +44,7 @@ precision = accuracy /pri'siʤn/: sự chính xác; tính đúng, tính chính x
 masterpiece /'mɑ:stəpi:s/: kiệt tác, tác phẩm lớn
 outrageous /aut'reidʤəs/: cực kỳ xấu, xúc phạm; rất táo bạo, khác thường và đáng kinh ngạc; cực kỳ phóng đại hoặc không thể xảy ra; 
 immerse /i'mə:s/: nhúng, nhận chìm, ngâm, đắm
-to be immersed in debt //: mắc nợ đìa
+to be immersed in debt //: mắc nợ đầm đìa, nợ ngập đầu
 to be immersed in thought //: trầm ngâm suy nghĩ, mãi suy nghĩ
 compilation /,kɔmpi'leiʃn/: sự biên soạn, sự biên tập
 investigation /in,vesti'geiʃn/: cuộc điều tra; sự điều tra nghiên cứu
@@ -61,7 +61,8 @@ fabulous /ˈfabyələs/: tuyệt vời; phi thường, thần kỳ; thần tho
 specialized /ˈspeSHəˌlīzd/: chuyên dụng; thích ứng, thiết kế cho một mục đích riêng
 storytelling /ˈstôrēˌteliNG/: kể chuyện
 aspire /əs'paiə/: (+ to, after, at) thiết tha, mong mỏi, khao khát
-aspiring /əs'paiə/: (n) thuốc cãm, thuốc chống viêm
+aspirin /əs'paiə/: (n) thuốc cãm, thuốc chống viêm
+aspiring /əs'paiə/: (adj) mong mỏi, khao khát
 filmmaker /ˈfilmˌmākər/: nhà làm phim
 cinematic /ˌsinəˈmadik/: phim điện ảnh; (adv) cinematically: về mặt điện ảnh
 endangered species //: những loài có nguy có bị tuyệt chủng
@@ -85,7 +86,7 @@ issue /ˈɪʃu/: Cấp, phát hành (v), vấn đề (n).
 experience /ɪkˈspɪriəns/: Trải qua, học hỏi ... (v), Kinh nghiệm, từng trải ...(n) 
 antidote  /ˈæntɪˌdoʊt/: Thuốc giải độc
 boredom /ˈbɔrdəm/: Sự buồn chán
-assignment /əˈsaɪnmənt/: Sự phân công
+assignment /əˈsaɪnmənt/: Sự phân công; bài tập
 compulsory /kəmˈpʌlsəri/: Bắt buộc (adj)
 writing pad //: Sổ tay
 splash-proof coating //: Lớp phủ chống bắn tung tóe
