@@ -24,3 +24,24 @@
 + I check _OVER_ my homework    --> I check my homework _OVER_      --> I check it _OVER_
 + I give _AWAY_ my book         --> I give my book _AWAY_           --> I give it _AWAY_
 + I find _OUT_ the truth        --> I find the truth _OUT_          --> I find it _OUT_
+
+# Modal Verbs
+# Probability           (Có thể xảy ra)                     Can, could, may, might
+
+# Permission            (Cho phép)                          Can, could, may, might
+
+# Ability               (Khả năng)                          Can, could
+
+# Future                (Sẽ - tương lai)                    Shall, will
+
+# Obiligation           (Nên - bổn phận)                    Should
+
+# Strong Obiligation    (Phải)                              Must
+
+# Moral Obiligation     (Phải - bổn phận tinh thần)         Ought to
+
+# Politeness            (Chỉ lịch sự)                       Would
+
+# Recommendation        (Nên - khuyên)                      Had better
+
+# Preference            (Thích ... hơn, thà ... còn hơn)    Would rather

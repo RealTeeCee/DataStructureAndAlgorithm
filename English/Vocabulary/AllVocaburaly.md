@@ -761,7 +761,6 @@ nacho /ˈnäCHōz/: bánh khoai tây rán Nachos
 accommodation /əˌkäməˈdāSH(ə)n/: chỗ ở
 tragedy: bi kịch, thê lương
 fisherman /'fiʃəmən/: ngư dân, người đánh cá, thuyền đánh cá
-carpenter /ˈkärpən(t)ər/: thợ mộc
 carnival /ˈkärnəvəl/: ngày hội; cuộc hội hè; lễ hội hóa trang; ngày vui trước tuần trai
 a carnival of bloodshed //: sự giết chóc bừa bãi
 stabilize /ˈsteɪ.bə.laɪz/: gia cố, làm cho vững vàng
@@ -1371,7 +1370,63 @@ barber /'bɑ:bə/: thợ cắt tóc
 housewife /'hauswaif/: bà chủ nhà; bà nội trợ
 consul /'kɔnsəl/: lãnh sự; (sử học) quan tổng tài 
 blacksmith /'blæksmiθ/: thợ rèn
-
-
-
-
+general manager /ˈjen(ə)rəl ˈmanijər/: tổng giám đốc
+former /ˈfôrmər/: (a) trước, xưa; cựu; (n) khuôn đúc; cái trước, người trước, vấn đề trước
+president: tổng thống, chủ tịch
+former president /ˈfôrmər ˈprezədənt/: cựu tổng thống; cựu chủ tịch
+vice president /vaIˈprezədənt/: phó tổng thống
+vice director /diˈrektər/: phó giám đốc 
+officer /'ɔfisə/: sĩ quan; nhân viên chính quyền, nhân viên viên chức
+representative /,repri'zentətiv/:  (n) (chính trị) nghị viên, đại biểu; (a) tiêu biểu, tượng trưng; đại diện
+supermodel /ˈso͞opərˌmädl/: siêu mẫu 
+detective /di'tektiv/: (n) thám tử trinh thám; (a) thuộc trinh thám; để tìm ra, để khám phá ra, để phát hiện ra; 
+ambassador /æm'bæsədə/: đại sứ; người đại diện sứ giả 
+suit /sju:t/: (n) bộ com lê (v) tiện, hợp với
+uniform /'ju:nifɔ:m/: (n) đồng phục; (quân) quân phục; (a) đồng dạng, cùng một kiểu, giống nhau; đều
+uniform movement /'ju:nifɔ:m 'mu:vmənt/: chuyển động đều
+wavy /'weivi/: (tóc) quăn, tóc gợn sóng; gợn sóng; giập giờn, lăn tăn
+senator /'senətə/: thượng nghị sĩ
+pianist /'pjænist/: nhạc sĩ dương cầm; người chơi pianô
+secretary /'sekrətri/: thư ký, bí thư
+businessman /ˈbiznisˌman/: doanh nhân
+salesperson /'seilz,pə:sn/: người bán hàng
+stewardess /'stjuədis/: nữ chiêu đãi viên; cô làm phòng (trên tàu thuỷ), cô phục vụ (trên máy bay); 
+saleslady /'seilz,leidi/: cô bán hàng;
+architect /'ɑ:kitekt/: kiến trúc sư
+carpenter /ˈkärpən(t)ər/: thợ mộc
+realtor /əˈdʒʌst/: người môi giới (mua bán) bất động sản; cò nhà đất
+manager /ˈmanijər/: giám đốc
+astronaut /ˈastrəˌnôt/: phi hành gia
+editor /ˈedədər/: biên tập viên
+journalist /'dʤə:nəlist/: nhà báo
+jeweler /'jo͞o(ə)lər/: thợ kim hoàn; người làm đồ nữ trang
+pharmacist /'fɑ:məsist/: dược sĩ; người buôn dược phẩm
+acrobat /'ækrəbæt/: diễn viên nhào lộn, người biểu diễn nhào lộn; người biểu diễn leo dây
+musician /myuˈzɪʃn/ : Nhạc sĩ
+flight attendant /flaɪt əˈtɛndənt/: tiếp viên hàng không
+guitarist /ɡɪˈtɑrɪst/: Nhạc sĩ guitar
+director /dəˈrɛktər: giám đốc
+assistant /əˈsɪstənt/: Trợ lý
+professor /prəˈfɛsər: giáo sư
+policeman /pəˈlismən/: cảnh sát
+mechanic /məˈkænɪk/: thợ máy cơ khí
+mechanist /məˈkænɪst/: (triết học) người theo thuyết cơ giới; thợ máy
+consultant /kənˈsʌltnt/: Nhà tư vấn
+contractor /ˈkɑnˌtræktər/: thầu khoán
+accountant /əˈkaʊntnt/: kế toán viên
+physician /fəˈzɪʃn/: y sĩ
+movie director /ˈmuvi dəˈrɛktər/: Đạo diễn phim
+movie star /ˈmuvi stɑr/: Ngôi sao điện ảnh
+hotel manager /hoʊˈtɛl ˈmænɪdʒər/: quản lý khách sạn
+receptionist /rɪˈsɛpʃənɪst/: Nhân viên tiếp tân.
+cashier /kæˈʃɪr/: Nhân viên thu ngân
+engineer /ˌɛndʒəˈnɪr/: kỹ sư
+volunteer /ˌvɑlənˈtɪr/: tình nguyện viên
+millionaire /ˌmɪlyəˈnɛr/: triệu phú
+correspondent /ˌkɔrəˈspɑndənt/: phóng viên
+electrician /ɪˌlɛkˈtrɪʃn/: thợ điện
+vice principal /vaɪs ˈprɪnsəpl/: hiệu phó
+adjunct professor /ˈædʒʌŋkt prəˈfɛsər/: phó giáo sư
+executive /ɪɡˈzɛkyət̮ɪv/: thư ký điều hành.
+supervisor /ˈsupərˌvaɪzər/: Giám thị
+fortune teller /ˈfɔrtʃən ˈtɛlər/: thầy bói
