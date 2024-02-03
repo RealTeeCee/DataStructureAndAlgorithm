@@ -9,15 +9,15 @@
 
 
 # HOW ?
-# Adverb: Adverb of manner
+# Adverb: Adverb of manner (trạng từ chỉ thái độ)
 * Adj + ly
-+ quickly, carefully, easily, kindly, lazily
++ quickly, carefully, easily, kindly, lazily, ...
 + hard, fast, well
 + in a lovely / friendly way
 
-# Adverb Phrase (Preposition Object)
+# Adverb Phrase (cụm trạng từ) / Preposition Object (Đối tượng giới từ)
 * By
-  + transportation 
+  + transportation (phương tiện giao thông vận tải)
   + cash / card
   + gerund (V-ing)
 
@@ -39,7 +39,7 @@
 * Within
   + abilities / limits
 
-# Adverb Clause: NONE
+# Adverb Clause (Mệnh đề trạng từ): NONE
 
 # WHERE ?
 # Adverb: Adverb of place
@@ -51,7 +51,7 @@
 
 # Adverb Phrase (Preposition Object)
 * AT
-  + home / schol / work
+  + home / school / work
   + address
   + public places
 
@@ -94,8 +94,9 @@ now  | today  | tomorrow  | yesterday  | next ...  | last ...
 + year
 + parts of a day
 
-* On + day
-+ monday (+ morning)
+* On 
++ day
++ days of week + part of day - Ex: monday (+ morning)
 + a weekday / weekday
 + holiday
 
@@ -123,7 +124,7 @@ I save money because of / due to poverty
 
 # Adverb Clause:
 * [...] S + V
-+ because / as / since / now that
++ because / as / since / in as much as / now that
 
 # What For ?
 # Adverb: NONE
