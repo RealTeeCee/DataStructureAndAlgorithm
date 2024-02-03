@@ -14,7 +14,7 @@ Correct sentence (CS) = Subject (S) + Verb Function (VF)
 - Question Word + Do/Does/Did/Will + Subject + Verb Transitive ?
 
 # Question Word as Object Of Preposition: 
-- VF4
+- VF1, VF2, VF3, VF4
 
 # Question Word as Complement: 
 - VF3

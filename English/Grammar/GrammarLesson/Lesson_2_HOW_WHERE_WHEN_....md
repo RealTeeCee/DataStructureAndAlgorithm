@@ -88,6 +88,9 @@ now  | today  | tomorrow  | yesterday  | next ...  | last ...
 ... ago  | ... later
 
 # Adverb Phrase (Preposition Object)
+* At
++ Time: ... O'clock, AM/PM, noon, night
+
 * In
 + season
 + month
@@ -95,9 +98,9 @@ now  | today  | tomorrow  | yesterday  | next ...  | last ...
 + parts of a day
 
 * On 
-+ day
++ day - Ex: On 21th
 + days of week + part of day - Ex: monday (+ morning)
-+ a weekday / weekday
++ a weekday / weekday / weekend
 + holiday
 
 * every ...

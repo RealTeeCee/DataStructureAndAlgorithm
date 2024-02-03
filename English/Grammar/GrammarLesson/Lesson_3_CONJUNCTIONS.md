@@ -2,7 +2,7 @@
 - Group 1: join 2 words, 2 phrases, 2 clauses.
 - Group 2-6: join only 2 clauses. (A clause = S + VF)
 
-# Group 1: Coordinating - A B O Y
+# Group 1: Coordinating (phối hợp) - A B O Y
 * And / But / Yet / Or
 
 # Group 2: Cause (Why) - B A S I N
@@ -10,7 +10,7 @@
                          vả lại vì       gần đây
 
 # Group 3: Time (When) - WWW.ABOUTA
-* When / Whenever / While / After / Before / Once / Til / Until / As soon as
+* When / Whenever / While / After / Before / Once / Till / Until / As soon as
 * No "will" after Group 3
 
 # Group 4: Condition - A I O U
