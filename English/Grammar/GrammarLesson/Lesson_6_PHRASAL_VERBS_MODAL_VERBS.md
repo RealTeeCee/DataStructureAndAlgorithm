@@ -45,3 +45,18 @@
 # Recommendation        (Nên - khuyên)                      Had better
 
 # Preference            (Thích ... hơn, thà ... còn hơn)    Would rather
+
+# Yes / No Question with Modal Verbs
+
+# Can / Can't + S  + V?                                 - Can he dance?
+# Could / Couldn't + S + V?                             - Could he dance?
+# May / May not + S + V?                                - May he dance?
+# Might / Mightn't + S + V?                             - Mightn't he dance?
+# Will / Won't + S + V?                                 - Will he dance?
+# Would / Wouldn't +  S + V?                            - Would he dance?
+# Shall / Shan't + S + V?                               - Shan't we dance?
+# Should / Shouldn't + S + V?                           - Should he dance?
+# Ought + S to + V? / Ought + S not to  + V?            - Ought he to dance?
+# Had + S better + V3? / Had + S better not + V3?       - Had he better not to dance?
+# Would + S + rather + V?/ Would + S rather not + V?    - Would he rather dance?
+# Must + S + V? / Have + S + not to + V?                - Must he dance?

@@ -12,8 +12,10 @@
 # Adverb: Adverb of manner (trạng từ chỉ thái độ)
 * Adj + ly
 + quickly, carefully, easily, kindly, lazily, ...
+* Adj without ly
 + hard, fast, well
-+ in a lovely / friendly way
+* in a ... away
++ in a lovely / in a friendly way
 
 # Adverb Phrase (cụm trạng từ) / Preposition Object (Đối tượng giới từ)
 * By
@@ -31,13 +33,15 @@
   + any effort
   + thinking
 
+* Within
+  + abilities / limits
+
 * On 
   + foot
   + horseback
   + an elephant (big animals)
 
-* Within
-  + abilities / limits
+* Like + Noun
 
 # Adverb Clause (Mệnh đề trạng từ): NONE
 
@@ -140,8 +144,6 @@ I save money because of / due to poverty
 # Adverb Clause:
 * [... ] + S + can / could / may / might / shouldn't + V
 + [ that / so that / in order that ]
-
-
 
 
 

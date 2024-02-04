@@ -16,12 +16,15 @@
 # IN + clothes
 + The girl IN uniform.
 # IN + Colors
-+ The girl IN blue dress.
++ The girl IN a blue dress without accessories.
 # WITH + accessories / body parts / tools
 + He is a man with bracelet.
 + He is a man without accessories.
 + He is a man with straight nose.
 + He is a man with black glasses.
+
+# Combine all
++ Ex: The girl IN a blue dress without accessories.
 
 3. eNF1
 # N + Adjective
