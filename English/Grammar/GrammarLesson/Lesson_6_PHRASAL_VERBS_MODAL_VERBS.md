@@ -17,7 +17,7 @@
 + I catch _UP_ with my classmates. (stress word "UP")
 + I keep _UP_ with that man. (stress word "UP") 
 
-# The VERBS (*) are SEPARABLE (Có thể tách được)
+# The VERBS (*) are SEPARABLE (Có thể tách được), we pronounce the Second Word a most strongly.
 # pick _UP_     | have _ON_ | give _AWAY_ | hand _IN_ | check _OVER_ | use _UP_ | plug _IN_
 # clean _UP_    | cut _OFF_ 
 
@@ -57,6 +57,6 @@
 # Shall / Shan't + S + V?                               - Shan't we dance?
 # Should / Shouldn't + S + V?                           - Should he dance?
 # Ought + S to + V? / Ought + S not to  + V?            - Ought he to dance?
-# Had + S better + V3? / Had + S better not + V3?       - Had he better not to dance?
+# Had + S better + V3? / Had + S better not + V3?       - Had he better not dance?
 # Would + S + rather + V?/ Would + S rather not + V?    - Would he rather dance?
 # Must + S + V? / Have + S + not to + V?                - Must he dance?

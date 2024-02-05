@@ -1,4 +1,4 @@
-*** How
+: *** How
 Hot /hɑt/: nóng
 Cold /koʊld/: Lạnh
 Stuffy /ˈstʌfi/: Khó chịu, oi ả
@@ -13,14 +13,14 @@ Chilly /ˈtʃɪli/: lạnh giá
 Dark /dɑrk/: tối
 Dry /draɪ/: khô
 Wet /wɛt/: ướt
+humid /'hju:mid/: ẩm, ẩm thấp
 Cooling down //: mát dần
 Freezing /ˈfrizɪŋ/: băng giá, rét mướt
 Pouring /pɔrɪŋ/: mưa như trút nước
 Raining //: mùa mưa; đang mưa
 Snowing /snoʊ/: đang có tuyết
 
-*** What
-
+: *** What
 A rainbow /ˈreɪnboʊ/: Cầu vòng
 A storm /stɔrm/: cơn bão
 A blizzard /ˈblɪzərd/: bão tuyết

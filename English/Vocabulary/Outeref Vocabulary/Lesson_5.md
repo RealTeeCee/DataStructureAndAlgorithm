@@ -10,16 +10,18 @@ monk /mʌɳk/: thầy tu, thầy tăng
 nun /nʌn/: bà xơ, nữ tu sĩ, ni cô
 priest /pri:st/: linh mục; thầy tu, thầy tế
 boss /bɔs/: ông chủ, thủ trưởng; ông trùm; tay cừ (trong môn gì); nhà vô địch
-chef /ʃef/: đầu bếp, bếp trưởng
+cook /kuk/: (n) đầu bếp (v) nấu nướng
+chef /ʃef/: đầu bếp trưởng, bếp trưởng
 thief /θi:f/: kẻ trộm, kẻ cắp; (số nhiều) thieves: những kẻ trộm
 dean /di:n/: trưởng khoa, chủ nhiệm khoa; (tôn giáo) trưởng tu viện; linh mục địa phận; người cao tuổi nhất (trong nghị viện)  
 clown /klaun/: chú hề; (chế giễu) thằng hề, người quê mùa;
 bustboy /ˈbʌs.bɔɪ/: Nhân viên tiếp thực (nhà hàng lớn); nhân viên dọn bàn; phục vụ, tiểu nhị
 hostess /'houstis/: nhân viên chào khách nữ; bà chủ nhà; bà chủ tiệc; bà chủ khách sạn, bà chủ quán trọ
-captain /'kæptin/: đội trưởng, người đứng đầu, chỉ huy
+captain /'kæptin/: đội trưởng, người đứng đầu, chỉ huy, (có thể truyền cảm hứng hoặc không)
+leader /ˈlēdər/: người lãnh đạo, chỉ hủy (truyền cảm hứng)
 drummer /'drʌmə/: tay trống
 tour guide /tuar gaI/: HDV du lịch
-plumber /'plʌmə/: thợ sửa ống nước; thợ hàn chì
+plumber /'plʌmə/: thợ sửa ống nước; thợ hàn nối ống
 baker /'beikə/: thợ làm bánh; người làm bánh mì
 writer /'raitə/: tác giả, nhà văn; người viết, người thảo
 sailor /'seilə/: lính thuỷ, thuỷ thủ
@@ -33,8 +35,8 @@ waitress  /'weitris/: bồi bàn, phục vụ bàn nữ
 mason /'meisn/: thợ xây, thợ nề
 salesman /'seilzmən/: người bán hàng (nam)
 artist /'ɑ:tist/: nghệ sĩ, họa sĩ
-welder /ˈweldər/: thợ hàn
-butcher /'butʃə/: đồ tễ; người hàng thịt; kẻ hung bạo, kẻ hay tàn sát
+welder /ˈweldər/: thợ hàn
+butcher /'butʃə/: đồ tễ; người hàng thịt; kẻ hung bạo, kẻ hay tàn sát
 painter /peintə/: thợ sơn; họa sĩ
 trainer /treinə/: huấn luyện viên; người dạy (súc vật)
 printer /'printə/: thợ in; máy in
@@ -76,7 +78,7 @@ saleslady /'seilz,leidi/: cô bán hàng;
 architect /'ɑ:kitekt/: kiến trúc sư
 carpenter /ˈkärpən(t)ər/: thợ mộc
 realtor /əˈdʒʌst/: người môi giới (mua bán) bất động sản; cò nhà đất
-manager /ˈmanijər/: giám đốc
+manager /ˈmanijər/: quản lý; giám đốc quản lý
 astronaut /ˈastrəˌnôt/: phi hành gia
 editor /ˈedədər/: biên tập viên
 journalist /'dʤə:nəlist/: nhà báo
@@ -95,7 +97,7 @@ mechanist /məˈkænɪst/: (triết học) người theo thuyết cơ giới; th
 consultant /kənˈsʌltnt/: Nhà tư vấn
 contractor /ˈkɑnˌtræktər/: thầu khoán
 accountant /əˈkaʊntnt/: kế toán viên
-physician /fəˈzɪʃn/: y sĩ
+physician /fəˈzɪʃn/: thầy thuốc, y sĩ
 movie director /ˈmuvi dəˈrɛktər/: Đạo diễn phim
 movie star /ˈmuvi stɑr/: Ngôi sao điện ảnh
 hotel manager /hoʊˈtɛl ˈmænɪdʒər/: quản lý khách sạn
@@ -108,6 +110,7 @@ correspondent /ˌkɔrəˈspɑndənt/: phóng viên
 electrician /ɪˌlɛkˈtrɪʃn/: thợ điện
 vice principal /vaɪs ˈprɪnsəpl/: hiệu phó
 adjunct professor /ˈædʒʌŋkt prəˈfɛsər/: phó giáo sư
-executive /ɪɡˈzɛkyət̮ɪv/: thư ký điều hành.
-supervisor /ˈsupərˌvaɪzər/: Giám thị
+executive /ɪɡˈzɛkyət̮ɪv/: Người điều hành, lãnh đạo; thẩm cấp chỉ huy
+chief executive officer (CEO) //: tổng giám đốc
+supervisor /ˈsupərˌvaɪzər/: giám thị
 fortune teller /ˈfɔrtʃən ˈtɛlər/: thầy bói

@@ -12,9 +12,9 @@ To clean up = clean //: dọn dẹp
 To cut off //: Cắt, ngắt
 To do without //: To manage, work, or perform successfully without having someone or something present //: The country cannot do without foreign investment.
 To drop in on = Visit //: Ghé vào
-To feel like = like //: thích
+To feel like = like //: cảm thấy thích
 To find out //:  Tìm ra
-To go for = like //: thích
+To go for = like //: thích, hợp với
 To go on //: Tiếp tục
 To hand in //: Giao , nộp
 To have ... on = Put on //: Mặc
@@ -29,5 +29,6 @@ To put off = delay //: Hoãn lại
 To put together //: Gom lại
 To run into //: tình cờ
 To turn in //: Nộp lại
+To call off //: hủy bỏ, kết thúc 
  
 

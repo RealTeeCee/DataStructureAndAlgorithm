@@ -8,3 +8,8 @@ disrupt /disˈrəpt/: làm gián đoạn
 prove /pro͞ov/: chứng minh
 witness /ˈwitnəs/: nhân chứng; bằng chứng
 eye-witness //: nhân chứng tận mắt
+beforehand /bi'fɔ:hænd/: sẵn sàng trước; Làm trước; đoán trước; biết trước.
+well-written //: viết hay
+heptathlon /hepˈtaTHˌlän/: bảy môn phối hợp nữ
+fountain /'fauntin/: đài, vòi phun nước (công viên)
+day in and day out: ngày này qua ngày khác

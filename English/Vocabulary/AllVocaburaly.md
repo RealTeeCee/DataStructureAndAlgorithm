@@ -76,8 +76,6 @@ conduction /kənˈdʌkʃn/: sự dẫn truyền
 convection /kənˈvekʃn/: sự đối lưu
 heat radiation /hiːt ˌreɪdiˈeɪʃn/: bức xạ nhiệt
 gas /ɡæs/ - liquid /ˈlɪkwɪd/ - solid /ˈsɒlɪd/: khí - lỏng - rắn
-
-
 tranquillity /træŋˈkwɪləti/: yên bình
 rural /ˈrʊrəl ˈrʊərəl/: mang vẻ nông thôn, quê
 apartment /əˈpɑːrtmənt/: căn hộ
@@ -876,7 +874,8 @@ coat /kout/: áo choàng ngoài, áo bành tô (đàn ông); bộ lông (thú); 
 college-provided/ˈkälij prəˈvīdəd/: do trường đại học cung cấp
 arrange /ə'reindʤ/: sắp xếp, sửa soạn; bố trí, dàn xếp; cải biên, soạn lại
 footpath /ˈfʊt.pæθ/: vỉa hè, đường đi bộ
-captain /'kæptin/: đội trưởng, người đứng đầu, chỉ huy
+captain /'kæptin/: đội trưởng, người đứng đầu, chỉ huy, (có thể truyền cảm hứng hoặc không)
+leader /ˈlēdər/: người lãnh đạo, chỉ hủy (truyền cảm hứng)
 tackle /'tækl/: sự cản phá (football); palăng, ròng rọc; đồ dùng, dụng cụ (v) chặn phá, cản
 slide tackle //: xoạc cản (football)
 standing tackle //: cản chân (football)
@@ -1270,6 +1269,7 @@ To mend /mɛnd/: Sửa đổi.
 To tame /teɪm/: Thuần hóa.
 To brush up on = Review //: ôn bài
 To call up //: Mời, nhắc lại.
+To call off //: Hủy bỏ, kết thúc 
 To catch up with //: Bắt kịp
 To check over //: Kiểm tra
 To clean up = clean //: dọn dẹp
@@ -1281,7 +1281,7 @@ To find out //:  Tìm ra
 To go for = like //: thích
 To go on //: Tiếp tục
 To hand in //: Giao , nộp
-To have ... on = Put on //: Mặc
+To have sth (clothes) on: = Put on //: mặc vào (*) 
 To head for (+ place) //: Đi về phía trước.
 To keep up with //: Theo kịp với.
 To look over //: Nhìn qua
@@ -1338,7 +1338,7 @@ hostess /'houstis/: nhân viên chào khách nữ; bà chủ nhà; bà ch�
 captain /'kæptin/: đội trưởng, người đứng đầu, chỉ huy
 drummer /'drʌmə/: tay trống
 tour guide /tuar gaI/: HDV du lịch
-plumber /'plʌmə/: thợ sửa ống nước; thợ hàn chì
+plumber /'plʌmə/: thợ sửa ống nước; thợ hàn nối ống
 baker /'beikə/: thợ làm bánh; người làm bánh mì
 writer /'raitə/: tác giả, nhà văn; người viết, người thảo
 sailor /'seilə/: lính thuỷ, thuỷ thủ
@@ -1368,7 +1368,7 @@ model /modəl/: người mẫu; mô hình
 tailor /'teilə/: thợ may đồ nam
 barber /'bɑ:bə/: thợ cắt tóc
 housewife /'hauswaif/: bà chủ nhà; bà nội trợ
-consul /'kɔnsəl/: lãnh sự; (sử học) quan tổng tài 
+consul /'kɔnsəl/: lãnh sự; (sử học) quan tổng tài 
 blacksmith /'blæksmiθ/: thợ rèn
 general manager /ˈjen(ə)rəl ˈmanijər/: tổng giám đốc
 former /ˈfôrmər/: (a) trước, xưa; cựu; (n) khuôn đúc; cái trước, người trước, vấn đề trước
@@ -1395,7 +1395,7 @@ saleslady /'seilz,leidi/: cô bán hàng;
 architect /'ɑ:kitekt/: kiến trúc sư
 carpenter /ˈkärpən(t)ər/: thợ mộc
 realtor /əˈdʒʌst/: người môi giới (mua bán) bất động sản; cò nhà đất
-manager /ˈmanijər/: giám đốc
+manager /ˈmanijər/: quản lý; giám đốc quản lý
 astronaut /ˈastrəˌnôt/: phi hành gia
 editor /ˈedədər/: biên tập viên
 journalist /'dʤə:nəlist/: nhà báo
@@ -1414,7 +1414,7 @@ mechanist /məˈkænɪst/: (triết học) người theo thuyết cơ giới; th
 consultant /kənˈsʌltnt/: Nhà tư vấn
 contractor /ˈkɑnˌtræktər/: thầu khoán
 accountant /əˈkaʊntnt/: kế toán viên
-physician /fəˈzɪʃn/: y sĩ
+physician /fəˈzɪʃn/: thầy thuốc, y sĩ
 movie director /ˈmuvi dəˈrɛktər/: Đạo diễn phim
 movie star /ˈmuvi stɑr/: Ngôi sao điện ảnh
 hotel manager /hoʊˈtɛl ˈmænɪdʒər/: quản lý khách sạn
@@ -1427,7 +1427,8 @@ correspondent /ˌkɔrəˈspɑndənt/: phóng viên
 electrician /ɪˌlɛkˈtrɪʃn/: thợ điện
 vice principal /vaɪs ˈprɪnsəpl/: hiệu phó
 adjunct professor /ˈædʒʌŋkt prəˈfɛsər/: phó giáo sư
-executive /ɪɡˈzɛkyət̮ɪv/: thư ký điều hành.
+executive /ɪɡˈzɛkyət̮ɪv/: Người điều hành, lãnh đạo; thẩm cấp chỉ huy
+chief executive officer (CEO) //: tổng giám đốc
 supervisor /ˈsupərˌvaɪzər/: Giám thị
 fortune teller /ˈfɔrtʃən ˈtɛlər/: thầy bói
 To fall behind: rớt lại phía sau.
@@ -1436,7 +1437,7 @@ To dress up: ăn mặc chỉnh tề
 To go on: tiêp tục
 To call back: gọi lại
 To pick up (*): Nhặt lên, đón ai đó
-To have on (*): mặc vào
+To have sth on (*): mặc vào
 To give away (*): đưa, cho, tặng
 To catch up with: bắt kịp
 To brush up on: ôn lại
@@ -1457,3 +1458,8 @@ To hit the hay = Go to bed: đi ngủ
 To hit the ceiling = Become very angry: Rất giận
 To go fly a kite = Go away: Đi chơi chỗ khác 
 To kick the bucket (chết ngủm Die) = pass away (qua đời - nên dùng hơn)
+beforehand /bi'fɔ:hænd/: sẵn sàng trước; Làm trước; đoán trước; biết trước.
+well-written //: viết hay
+heptathlon /hepˈtaTHˌlän/: bảy môn phối hợp nữ
+fountain /'fauntin/: đài, vòi phun nước (công viên)
+day in and day out: ngày này qua ngày khác
