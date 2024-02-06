@@ -53,4 +53,9 @@ frequency departure:
 imply: 
 Nepali: 
 radiocarbon: 
-slack off: 
+slack off:
+petal: 
+plasma: 
+cancerous cells: 
+revised draft: 
+colony: 

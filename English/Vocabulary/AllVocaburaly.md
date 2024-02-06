@@ -1394,7 +1394,7 @@ stewardess /'stjuədis/: nữ chiêu đãi viên; cô làm phòng (trên tàu 
 saleslady /'seilz,leidi/: cô bán hàng;
 architect /'ɑ:kitekt/: kiến trúc sư
 carpenter /ˈkärpən(t)ər/: thợ mộc
-realtor /əˈdʒʌst/: người môi giới (mua bán) bất động sản; cò nhà đất
+realtor /ˈriː.əl.tɔːr/: người môi giới (mua bán) bất động sản; cò nhà đất
 manager /ˈmanijər/: quản lý; giám đốc quản lý
 astronaut /ˈastrəˌnôt/: phi hành gia
 editor /ˈedədər/: biên tập viên
