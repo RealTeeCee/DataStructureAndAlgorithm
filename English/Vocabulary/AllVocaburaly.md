@@ -597,9 +597,9 @@ station /ˈsteɪʃn/: nhà ga, trạm, bến, đồn
 coniferous /ˈkɑnəfərous/: họ lá kim
 evergreen /ˈɛvərˌɡrin/: (a) xanh tươi, xanh thẳm (n) cây có lá xanh, cây tươi tốt
 pine /paɪn/: (a) thuộc cây tùng, cây thông (v) trở nên suy nhược, khao khát 1 người, 1 điều hoặc 1 thời gian đã qua
-pine tree: cây thông
-tar /tɑr/: hắc ín, dầu hắc
+pine tree //: cây thông
 timber /ˈtɪmbər/: gỗ
+tar /tɑr/: hắc ín, dầu hắc
 turpentine /ˈtərpənˌtaɪn/: (n) nhựa thông (v) lấy nhựa thông
 shrink /ʃrɪŋk/: co lại
 fuzz /fʌz/: lông tơ
@@ -608,7 +608,7 @@ basement /ˈbeɪsmənt/: tầng hầm
 boil /bɔɪl/: (v) đun sôi (n) mụn nhọt
 daisy /ˈdeɪzi/: hoa cúc
 trefoil /ˈtrifɔɪl/: hình cây ba lá, cây chĩa ba
-birdsfoot trefoil: cây ba lá chân chim
+birdsfoot trefoil //: (thực vật) cây ba lá chân chim
 wobble /ˈwɑbl/: (v) lung lay, rung (n) sự đu đưa, sự lung lay
 knee /ni/: đầu gối
 elbow /ˈɛlboʊ/: cù chỏ, khuỷu tay
@@ -622,11 +622,11 @@ gear /ɡɪr/: (nghĩa chung) trang bị, bánh răng
 cuisine /kwɪˈzin/: ẩm thực
 armchair /ˈɑrmtʃɛr/: ghế bành, ghế tay vịn
 eager /ˈiɡər/: háo hức, hăng hái, sẵn lòng
-seedling /ˈsidlɪŋ/: cây giống
-sprout /spraʊt/: nẩy mầm, đâm chồi
+seedling /ˈsidlɪŋ/: (thực vật) cây giống
+sprout /spraʊt/: (thực vật) nẩy mầm, đâm chồi
 omelet /ˈɑmlət/: ốp lết, trứng ốp la
-onion /ˈʌnyən/: hành tây
-spring onion: hành lá
+onion /ˈʌnyən/: (thực vật) hành tây
+spring onion: (thực vật) hành lá
 worm /wərm/: sâu
 earthworm /ˈərθwərm/ : giun đất
 mug /mʌɡ/: cốc tròn có quai
@@ -683,8 +683,12 @@ whisper /ˈwɪs.pɚ/: thì thầm
 whistle /ˈwɪs.əl/: cái còi, tiếng hót
 matter  /'mætə/: vấn đề, vật chất
 grey matter /'grei' mætə/: chất xám
+tomato /təˈmādō/: quả cà chua
+tuber /'tju:bə/: (thực vật học) thân củ, củ; nấm cục, nấm truýp
+potato /pə'teitou/: củ khoai tây
+sweet potato /swi:t pə'teitou/: củ khoai lang
 turmeric /'tə:mərik/: cây , củ nghệ
-garlic /'gɑ:lik/: tỏi
+garlic /'gɑ:lik/: củ tỏi
 flu (influenza) /flu/: bệnh cúm
 vibe /vaɪb/: (n) sự rung cảm (v) phiêu theo (nhạc, cảm hứng, bầu không khí)
 viber /vaɪbə/: "Viber" is derived from the English word "vibe," which refers to a feeling or atmosphere that is conveyed or created by a person or situation
@@ -1458,8 +1462,31 @@ To hit the hay = Go to bed: đi ngủ
 To hit the ceiling = Become very angry: Rất giận
 To go fly a kite = Go away: Đi chơi chỗ khác 
 To kick the bucket (chết ngủm Die) = pass away (qua đời - nên dùng hơn)
+disease /dəˈzēz/: bệnh tật, căn bệnh
+likelihood /ˈlīklēˌho͝od/: khả năng xảy ra
+factor /ˈfaktər/: nhân tố; hệ số
+tobacco /təˈbakō/: thuốc lá
+contract: (n) hợp đồng, giao kèo; khế ước; (v) ký kết, kết ước; làm teo lại; tiêm nhiễm
+diet /'daiət/: (y học) chế độ ăn kiêng; chế độ ăn uống
+diet-related //: liên quan đến chế độ ăn uống
+disrupt /disˈrəpt/: làm gián đoạn
+prove /pro͞ov/: chứng minh
+witness /ˈwitnəs/: nhân chứng; bằng chứng
+eye-witness //: nhân chứng tận mắt
 beforehand /bi'fɔ:hænd/: sẵn sàng trước; Làm trước; đoán trước; biết trước.
 well-written //: viết hay
 heptathlon /hepˈtaTHˌlän/: bảy môn phối hợp nữ
 fountain /'fauntin/: đài, vòi phun nước (công viên)
-day in and day out: ngày này qua ngày khác
+day in and day out //: ngày này qua ngày khác
+competent /'kɔmpitənt/: có đủ trình độ, thông thạo; (pháp lý) có thẩm quyền
+spectator /spek'teitə/: người xem, khán giả
+chant /tʃɑ:nt/: (n) thánh ca (v) cầu kinh; tụng kinh
+enthusiastic /in'θju:zi'æstik/: đam mê, say mê; hăng hái, nhiệt tình
+jealous /'dʤeləs/: ghen tị; ghen tuông; đố kỵ
+physique /fi'zi:k/: cơ thể vóc người, vóc dáng người
+exert /ig'zə:t/: dùng, sử dụng (sức mạnh, ảnh hưởng...)
+to exert oneself //: cố gắng, rán sức
+cramp /kræmp/: (y học) chứng ruột rút; (a) bị chuột rút
+sprain /sprein/: sự bong gân
+tap water /ˈtæp ˌwɑː.t̬ɚ/: nước máy
+pistil /'pistil/: (thực vật) nhụy hoa

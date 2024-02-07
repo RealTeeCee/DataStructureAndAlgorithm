@@ -1,4 +1,4 @@
-pasture:
+pasture: 
 porcupine:
 domesticated = tame:
 conduction:
