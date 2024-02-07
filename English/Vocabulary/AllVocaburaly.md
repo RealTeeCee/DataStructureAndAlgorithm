@@ -58,7 +58,7 @@ urban /ˈɜːbən/: đô thị
 strum /strʌm/: gảy đàn
 interpretation /ɪnˌtɜːprəˈteɪʃn/: diễn dịch
 leisure /ˈleʒə(r)/: nhàn rỗi
-make over the fire /meɪk ˈəʊvə ðə faɪə/: dập tắt lửa
+make over the fire /meɪk ˈəʊvə ðə faɪə/: nướng trên lửa
 sense of thrill /sɛns ɒv θrɪl/: cảm giác hồi hộp
 poaching /pəʊtʃ/: săn trộm
 exploitation /ˌɛksplɔɪˈteɪʃᵊn/: khai thác

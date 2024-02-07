@@ -1,0 +1,1 @@
+pajamas /pəˈdʒɑːməz/: đồ ngủ
