@@ -1,3 +1,4 @@
+# CLOTHES AND RELATEDS (Quần áo và liên quan)
 pajamas /pəˈdʒɑːməz/: đồ ngủ
 cloth /klɔːθ/: vải
 wool /wʊl/: len
