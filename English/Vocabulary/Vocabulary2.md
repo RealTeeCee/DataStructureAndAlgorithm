@@ -6,7 +6,7 @@ grocery /ˈɡrəʊsəri/: cửa hàng tạp hóa
 groceries //: đồ dùng tạp hóa
 healthcare /ˈhelθ ker/: chăm sóc sức khỏe
 transportation /ˌtrænspərˈteɪʃn/: vận tải
-benefit /ˈbenɪfɪt/: lợi íchf
+benefit /ˈbenɪfɪt/: lợi ích
 lift - pull - push /lɪft pʊl pʊʃ/: nâng, kéo, đẩy
 mood /muːd/: tâm trạng
 boost my mood /buːst/:  cải thiện tâm trạng

@@ -29,6 +29,7 @@ rosemary /ˈroʊzˌmɛri/: cây mê điệt
 seedling /ˈsidlɪŋ/: (thực vật) cây giống
 microgreens /ˈmīkrōˌɡrēːnz/: rau giống, rau mầm; rau xanh được thu hoạch ngay sau khi lá mầm đã phát triển với một bộ lá thật
 lavender /ˈlævəndər/: Hoa oải hương
+sugarcane /ˈʃʊɡər keɪn/: đường mía
 
 # SHRUBS (CÂY BỤI)
 pasture /ˈpɑːstʃə(r)/: đồng cỏ
@@ -37,6 +38,7 @@ pasture /ˈpɑːstʃə(r)/: đồng cỏ
 aromatic herb //: cây cỏ thơm
 onion /ˈʌnyən/: (thực vật) hành tây
 spring onion: (thực vật) hành lá
+cinnamon /ˈsɪnəmən/: quế
 
 # VEGETABLES (RAU)
 cabbage /ˈkæbɪdʒ/: bắp cải
@@ -53,10 +55,11 @@ pineapple /ˈpaɪnˌæp.əl/: quá dứa, khớm, thơm
 peach /pi:tʃ/: quả đào
 tomato /təˈmādō/: quả cà chua
 
-# OTHERS (KHÁC)
+# RELATED (LIÊN QUAN)
 evergreen /ˈɛvərˌɡrin/: (a) xanh tươi, xanh thẳm (n) cây có lá xanh, cây tươi tốt
 coniferous /ˈkɑnəfərous/: họ lá kim
 ecosystem /ˈiːkəʊsɪstəm/: hệ sinh thái
 turpentine /ˈtərpənˌtaɪn/: (n) nhựa thông (v) lấy nhựa thông
 essence /ˈɛsns/: tinh chất, chiết xuất, nước hoa
 flowerbed /ˈflou(ə)r ˌbed/: mảnh vườn hoa, khuôn vườn hoa; giường hoa
+eco-friendly /ˌiːkəʊ ˈfrendli/: thân thiện với môi trường
