@@ -3,7 +3,8 @@ flyer /ˈflaɪə(r)/: tờ rơi, phi công, chim chóc, con vật bay
 screwdriver /ˈskruːdraɪvə(r)/: tua vít
 spring roll /ˌsprɪŋ ˈrəʊl/: chả giò
 fresh spring roll /frɛʃ sprɪŋ rəʊl/: gỏi cuốn
-roof /ruːf/: trần nhà
+roof /ruːf/: mái nhà
+ceiling /ˈsēliNG/: trần nhà
 floor /flɔː(r)/: sàn nhà, tầng
 clinic /ˈklɪnɪk/: phòng khám
 clerk /klɑːk/: thư ký; nhân viên (văn phòng)
