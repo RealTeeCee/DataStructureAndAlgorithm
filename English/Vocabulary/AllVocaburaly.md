@@ -23,7 +23,7 @@ popsicle /ˈpɒpsɪkl/: que kem
 propeller /prəˈpelə(r)/: cánh quạt chân vịt
 oak tree /əʊk/: cây sồi
 wag /wæɡ/: lắc lư, quẫy (đuôi)
-attic /ˈætɪk/: gác xép
+attic /ˈætɪk/: gác xép; gác mái
 porch /pɔːtʃ/: hiên nhà
 reddish /ˈredɪʃ/: đo đỏ, hơi đỏ
 pasture /ˈpɑːstʃə(r)/: đồng cỏ
@@ -34,6 +34,7 @@ confetti /kənˈfeti/: hoa giấy
 biodegradable /ˌbaɪəʊdɪˈɡreɪdəbl/: phân hủy sinh học
 sustainable /səˈsteɪnəbl/: bền vững
 brook /brʊk/: dòng suối
+spring /spring/: dòng suối (source of water coming from the earth); mùa xuân
 coil up /kɔɪl ʌp/: cuộn lại
 rustling /ˈrʌslɪŋ/: xào xạc
 pond /pɒnd/: ao
@@ -68,17 +69,10 @@ extinct /ɪkˈstɪŋkt/: tuyệt chủng
 consequences /ˈkɒnsɪkwənsɪz/: hậu quả
 steep /stiːp/: dốc
 narrow /ˈnærəʊ/: hẹp
-yacht /jɒt jɑːt/: thuyền buồm
-dig /dɪɡ/- dug /dʌɡ/ - dug: đào
-doe /dəʊ/: thỏ cái
-buck /bʌk/: thỏ đực
-conduction /kənˈdʌkʃn/: sự dẫn truyền
-convection /kənˈvekʃn/: sự đối lưu
-heat radiation /hiːt ˌreɪdiˈeɪʃn/: bức xạ nhiệt
-gas /ɡæs/ - liquid /ˈlɪkwɪd/ - solid /ˈsɒlɪd/: khí - lỏng - rắn
 tranquillity /træŋˈkwɪləti/: yên bình
 rural /ˈrʊrəl ˈrʊərəl/: mang vẻ nông thôn, quê
 apartment /əˈpɑːrtmənt/: căn hộ
+department /di'pɑ:tmənt/: cục; sở; ty; phòng; ban; khoa
 physically demanding /ˈfɪzɪkli dɪˈmændɪŋ/: đòi hỏi thể chất
 grocery /ˈɡrəʊsəri/: cửa hàng tạp hóa
 groceries //: đồ dùng tạp hóa
@@ -123,14 +117,14 @@ keep in touch //: giữ liên lạc
 hall /hɔːl/: đại sảnh, phòng lớn
 kit /kɪt/: bộ dụng cụ
 have something in common /ˈkɑːmən/: có điểm chung
-exhibition /ˌeksɪˈbɪʃn/: triễn lãm
+exhibition /ˌeksɪˈbɪʃn/: triễn lãm, trưng bày
 storyline /ˈstɔːrilaɪn/: cốt truyện
 chime /tʃaɪm/: kêu vang
 wind chime /wind/: chuông gió
 cabbage /ˈkæbɪdʒ/: bắp cải
 broccoli /ˈbrɑːkəli/: bông cải
 enormous /ɪˈnɔːrməs/: lớn lao
-anxious /ˈæŋkʃəs/: lo lắng
+anxious /ˈæŋkʃəs/: lo lắng; áy náy, lo âu
 grateful /ˈɡreɪtfl/: biết ơn, tri ân
 peel /piːl/: gọt
 dice /daɪs/: (n) xúc xắc (v) kẻ vuông, cắt hạt
@@ -231,7 +225,7 @@ whereas /ˌwerˈæz/: trong khi
 go with //: hợp với (sth), đồng ý với (someone)
 agriculture /ˈæɡrɪkʌltʃər/: nông nghiệp
 civilization /ˌsɪvələˈzeɪʃn/: nền văn minh
-various /ˈveriəs/: nhiều
+various /ˈveriəs/: nhiều, một số; thuộc nhiều loại khác nhau
 variety /vəˈraɪəti/: đa dạng
 curd /kɜːrd/: đông lại
 drain /dreɪn/: hút ráo, làm khô lại
@@ -243,7 +237,7 @@ ceremonies /ˈserəməʊni/: lễ tưởng niệm, nghi lễ
 consumption /kənˈsʌmpʃn/: sự tiêu thụ
 jared /dʒɑːr/ = descent: con cháu, chai sạn
 resident /ˈrezɪdənt/: cư dân, cư trú
-lobby /ˈlɑːbi/: sảnh
+lobby /ˈlɑːbi/: sảnh nhỏ 
 storeroom /ˈstɔːruːm/: nhà kho
 recently though /ˈriːsntli ðəʊ/: mặc dù gần đây
 argument and fight /ˈɑːrɡjumənt n faɪt/: cãi lộn và đánh nhau
@@ -295,7 +289,7 @@ broil /broil/: nướng lò (thịt - khoai - rau) nhiệt trên bề mặt
 toast /təʊst/: nướng giòn nâu bề mặt lửa lớn, nướng bánh mì bằng toaster (Máy nướng bánh mì) hoặc lò bánh, nướng trên lửa (mashmellow)
 patriotic /ˌpeɪtriˈɑːtɪk/: yêu nước
 adventurous /ədˈventʃərəs/: mạo hiểm
-motivate /ˈməʊtɪveɪt/: động viên
+motivate /ˈməʊtɪveɪt/: động viên; thúc đẩy, làm động cơ thúc đẩy
 unmotivated /ˌʌnˈməʊtɪveɪtɪd/: không có động lực
 aviation /ˌeɪviˈeɪʃn/: hàng không
 artifact /ˈɑːrtɪfækt/: hiện vật, vật được con người làm
@@ -309,9 +303,9 @@ cough /kɔːf/: ho
 landslide /ˈlændslaɪd/: lở đất, sạt lở
 earthquake /ˈɜːrθkweɪk/: động dất
 flood /flʌd/: lũ lụt
-stable /ˈsteɪbl/: ổn định
+stable /ˈsteɪbl/: ổn định; vững vàng; bền
 yeast /jiːst/: men nở (dùng tạo độ nở xốp cho bánh)
-pal /pæl/: bạn
+pal /pæl/: (từ lóng) bạn
 pen pal /ˈpen pæl/: bạn qua thư bút(quen trước khi gửi thư cho nhau)
 honor /ˈɑːnər/: (n) danh dự (v) vinh danh
 fraction /ˈfrækʃn/: phân số
@@ -1073,7 +1067,7 @@ spectacular /spekˈtakyələr/: (a) hùng vĩ; đẹp mắt, ngoạn mục (n)
 thrill /θril/: (n) sự rùng mình (kinh sợ); sự run lên rộn lên, sự rộn ràng (vì sung sướng);
                (v) làm rùng mình, làm run lên; làm rộn ràng, làm xúc động, làm hồi hộp
 life coach /laif koutʃ/: huấn luyện viên - người khai vấn cuộc sống
-similar /'similə/: giống nhau, như nhau, tương tự; (toán học) đồng dạng
+similar /'similə/: (trong hội thoại, trò chuyện) giống nhau, như nhau, tương tự; (toán học) đồng dạng
 spare /speə/: (a) thừa dư để dành, có để dành; đạm bạc, thanh đạm; sơ sài, gầy gò
               (v) để dành, tiết kiệm; dung tha, dung thứ; (= leave) bỏ, không cần đến, có thừa
 hot air balloon //: khinh khí cầu
@@ -1544,3 +1538,5 @@ lobster in berry //: con tôm hùm có trứng
 brew /bru:n/: sự chế, sự ủ (rượu bia); sự pha (trà)
 booth /bu:ð/: quán, rạp, lều; buồng 
 oolong /'u:lɔɳ/: chè/trà ô long
+interpolation /in,tə:pou'leiʃn/: (toán học) phép nội suy
+balcony /'bælkəni/: ban công

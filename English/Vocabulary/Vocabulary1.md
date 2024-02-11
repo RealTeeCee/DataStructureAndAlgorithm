@@ -6,7 +6,7 @@ fresh spring roll /frɛʃ sprɪŋ rəʊl/: gỏi cuốn
 roof /ruːf/: trần nhà
 floor /flɔː(r)/: sàn nhà, tầng
 clinic /ˈklɪnɪk/: phòng khám
-clerk /klɑːk/: nhân viên (văn phòng)
+clerk /klɑːk/: thư ký; nhân viên (văn phòng)
 driveway /ˈdraɪvweɪ/: đường xe chạy
 drop off to sleep /drɒp ɒf tuː sliːp/ = go to bed: đi ngủ
 wick /wɪk/: tim nến, bấc nến
@@ -15,8 +15,8 @@ wax /wæks/: sáp
 pajamas /pəˈdʒɑːməz/: đồ ngủ
 principle /ˈprɪnsəpl/: hiệu trưởng
 vice principal /ˌvaɪs ˈprɪnsəpl/: phó hiệu trưởng
-charm /tʃɑːm/: sự quyến rũ
-rhythm /ˈrɪðəm/: nhịp
+charm /tʃɑːm/: (n) sự quyến rũ; sức mê hoặc, sức hấp dẫn; bùa mê, bùa yêu (v) làm mê hoặc, dụ; bỏ bùa, phù phép
+rhythm /ˈrɪðəm/: nhịp điệu
 inflate /ɪnˈfleɪt/: bơm, thổi phồng
 puddles /ˈpʌdl/: vũng nước
 potholes /ˈpɒthəʊl/: ổ gà
@@ -24,7 +24,7 @@ popsicle /ˈpɒpsɪkl/: que kem
 propeller /prəˈpelə(r)/: cánh quạt chân vịt
 oak tree /əʊk/: cây sồi
 wag /wæɡ/: lắc lư, quẫy (đuôi)
-attic /ˈætɪk/: gác xép
+attic /ˈætɪk/: gác xép; gác mái
 porch /pɔːtʃ/: hiên nhà
 reddish /ˈredɪʃ/: đo đỏ, hơi đỏ
 pasture /ˈpɑːstʃə(r)/: đồng cỏ
@@ -34,7 +34,8 @@ cardboard /ˈkɑːdbɔːd/: các tông
 confetti /kənˈfeti/: hoa giấy
 biodegradable /ˌbaɪəʊdɪˈɡreɪdəbl/: phân hủy sinh học
 sustainable /səˈsteɪnəbl/: bền vững
-brook /brʊk/: dòng suối
+brook /brʊk/ = stream: dòng suối (a small river)
+spring /spring/: dòng suối (source of water coming from the earth); mùa xuân
 coil up /kɔɪl ʌp/: cuộn lại
 rustling /ˈrʌslɪŋ/: xào xạc
 pond /pɒnd/: ao
@@ -69,11 +70,3 @@ extinct /ɪkˈstɪŋkt/: tuyệt chủng
 consequences /ˈkɒnsɪkwənsɪz/: hậu quả
 steep /stiːp/: dốc
 narrow /ˈnærəʊ/: hẹp
-yacht /jɒt jɑːt/: thuyền buồm
-dig /dɪɡ/- dug /dʌɡ/ - dug: đào
-doe /dəʊ/: thỏ cái
-buck /bʌk/: thỏ đực
-conduction /kənˈdʌkʃn/: sự dẫn truyền
-convection /kənˈvekʃn/: sự đối lưu
-heat radiation /hiːt ˌreɪdiˈeɪʃn/: bức xạ nhiệt
-gas /ɡæs/ - liquid /ˈlɪkwɪd/ - solid /ˈsɒlɪd/: khí - lỏng - rắn

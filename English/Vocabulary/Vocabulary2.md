@@ -1,6 +1,7 @@
 tranquillity /træŋˈkwɪləti/: yên bình
 rural /ˈrʊrəl ˈrʊərəl/: mang vẻ nông thôn, quê
 apartment /əˈpɑːrtmənt/: căn hộ
+department /di'pɑ:tmənt/: cục; sở; ty; phòng; ban; khoa
 physically demanding /ˈfɪzɪkli dɪˈmændɪŋ/: đòi hỏi thể chất
 grocery /ˈɡrəʊsəri/: cửa hàng tạp hóa
 groceries //: đồ dùng tạp hóa
@@ -9,7 +10,7 @@ transportation /ˌtrænspərˈteɪʃn/: vận tải
 benefit /ˈbenɪfɪt/: lợi ích
 lift - pull - push /lɪft pʊl pʊʃ/: nâng, kéo, đẩy
 mood /muːd/: tâm trạng
-boost my mood /buːst/:  cải thiện tâm trạng
+boost my mood /buːst/: cải thiện tâm trạng
 alienation /ˌeɪliəˈneɪʃn/: sự xa lánh
 well-being /wel ˈbiːɪŋ/: khỏe khoắn
 mental /ˈmentl/: thuộc về tinh thần
@@ -40,19 +41,19 @@ empire /ˈempaɪər/: đế chế
 castle /ˈkæsl/: lâu đài
 palace /ˈpæləs/: cung điện
 empire state building //: toàn nhà quốc hội
-get in touch /tʌtʃ/:  liên lạc
+get in touch /tʌtʃ/: liên lạc
 keep in touch //: giữ liên lạc
 hall /hɔːl/: đại sảnh, phòng lớn
 kit /kɪt/: bộ dụng cụ
 have something in common /ˈkɑːmən/: có điểm chung
-exhibition /ˌeksɪˈbɪʃn/: triễn lãm
+exhibition /ˌeksɪˈbɪʃn/: triễn lãm, trưng bày
 storyline /ˈstɔːrilaɪn/: cốt truyện
 chime /tʃaɪm/: kêu vang
 wind chime /wind/: chuông gió
 cabbage /ˈkæbɪdʒ/: bắp cải
 broccoli /ˈbrɑːkəli/: bông cải
 enormous /ɪˈnɔːrməs/: lớn lao
-anxious /ˈæŋkʃəs/: lo lắng
+anxious /ˈæŋkʃəs/: lo lắng; áy náy, lo âu
 grateful /ˈɡreɪtfl/: biết ơn, tri ân
 peel /piːl/: gọt
 dice /daɪs/: (n) xúc xắc (v) kẻ vuông, cắt hạt
@@ -115,7 +116,8 @@ sundial /ˈsʌndaɪəl/: đồng hồ mặt trời
 compass /ˈkʌmpəs/: la bàn
 hot springs /sprɪŋ/: suối nước nóng
 dough /dəʊ/: bột
-resemble /rɪˈzembl/: giống
+resemble /rɪˈzembl/: (nhìn) giống với
+similar /'similə/: (trong hội thoại, trò chuyện) giống nhau, như nhau, tương tự; (toán học) đồng dạng
 startled /ˈstɑːrtld/: giật mình
 gasoline /ˈɡæsəliːn/: xăng
 run out of gasoline //: hết xăng!

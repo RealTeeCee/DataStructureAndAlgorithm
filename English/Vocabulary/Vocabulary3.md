@@ -19,7 +19,7 @@ whereas /ˌwerˈæz/: trong khi
 go with //: hợp với (sth), đồng ý với (someone)
 agriculture /ˈæɡrɪkʌltʃər/: nông nghiệp
 civilization /ˌsɪvələˈzeɪʃn/: nền văn minh
-various /ˈveriəs/: nhiều
+various /ˈveriəs/: nhiều, một số; thuộc nhiều loại khác nhau
 variety /vəˈraɪəti/: đa dạng
 curd /kɜːrd/: đông lại
 drain /dreɪn/: hút ráo, làm khô lại
@@ -27,11 +27,11 @@ spreadable //: có thể lây lan
 soft-spreadable //: đồ ăn phết được (mứt, bơ, ...)
 revolutionary /ˌrevəˈluːʃəneri/: mang tính cách mạng
 ritualistic /ˌrɪtʃuəˈlɪstɪk/: mang tính nghi thức
-ceremonies /ˈserəməʊni/: lễ tưởng niệm, nghi lễ
+ceremony /ˈserəməʊni/: lễ tưởng niệm, nghi lễ
 consumption /kənˈsʌmpʃn/: sự tiêu thụ
 jared /dʒɑːr/ = descent: con cháu, chai sạn
 resident /ˈrezɪdənt/: cư dân, cư trú
-lobby /ˈlɑːbi/: sảnh
+lobby /ˈlɑːbi/: sảnh nhỏ
 storeroom /ˈstɔːruːm/: nhà kho
 recently though /ˈriːsntli ðəʊ/: mặc dù gần đây
 argument and fight /ˈɑːrɡjumənt n faɪt/: cãi lộn và đánh nhau
@@ -83,7 +83,7 @@ broil /broil/: nướng lò (thịt - khoai - rau) nhiệt trên bề mặt
 toast /təʊst/: nướng giòn nâu bề mặt lửa lớn, nướng bánh mì bằng toaster (Máy nướng bánh mì) hoặc lò bánh, nướng trên lửa (mashmellow)
 patriotic /ˌpeɪtriˈɑːtɪk/: yêu nước
 adventurous /ədˈventʃərəs/: mạo hiểm
-motivate /ˈməʊtɪveɪt/: động viên
+motivate /ˈməʊtɪveɪt/: động viên; thúc đẩy, làm động cơ thúc đẩy
 unmotivated /ˌʌnˈməʊtɪveɪtɪd/: không có động lực
 aviation /ˌeɪviˈeɪʃn/: hàng không
 artifact /ˈɑːrtɪfækt/: hiện vật, vật được con người làm
@@ -97,9 +97,9 @@ cough /kɔːf/: ho
 landslide /ˈlændslaɪd/: lở đất, sạt lở
 earthquake /ˈɜːrθkweɪk/: động dất
 flood /flʌd/: lũ lụt
-stable /ˈsteɪbl/: ổn định
+stable /ˈsteɪbl/: ổn định; vững vàng; bền
 yeast /jiːst/: men nở (dùng tạo độ nở xốp cho bánh)
-pal /pæl/: bạn
+pal /pæl/: (từ lóng) bạn
 pen pal /ˈpen pæl/: bạn qua thư bút(quen trước khi gửi thư cho nhau)
 honor /ˈɑːnər/: (n) danh dự (v) vinh danh
 fraction /ˈfrækʃn/: phân số

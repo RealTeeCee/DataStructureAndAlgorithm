@@ -52,3 +52,5 @@ lobster in berry //: con tôm hùm có trứng
 brew /bru:n/: sự chế, sự ủ (rượu bia); sự pha (trà)
 booth /bu:ð/: quán, rạp, lều; buồng 
 oolong /'u:lɔɳ/: chè/trà ô long
+interpolation /in,tə:pou'leiʃn/: (toán học) phép nội suy
+balcony /'bælkəni/: ban công
