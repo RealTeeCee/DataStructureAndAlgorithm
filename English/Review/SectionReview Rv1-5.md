@@ -33,7 +33,8 @@ các tông:
 hoa giấy: 
 phân hủy sinh học: 
 bền vững: 
-dòng suối: 
+dòng suối (a small river): 
+dòng suối (source of water coming from the earth): 
 cuộn lại: 
 xào xạc: 
 ao: 
@@ -163,6 +164,7 @@ môn lặng:
 bàn đạp: 
 sao Mộc: 
 hệ mặt trời: 
+mắt trần, mắt thường: 
 rạn san hô: 
 san hô: 
 tiếng lướt qua (vèo), tiếng thở (phù) : 
@@ -181,7 +183,7 @@ vị chua:
 đồng hồ mặt trời: 
 la bàn: 
 suối nước nóng: 
-bột: 
+bột nhào: 
 giống: 
 giật mình: 
 xăng: 
@@ -285,7 +287,7 @@ mạo hiểm:
 không có động lực: 
 hàng không: 
 hiện vật, vật được con người làm: 
- hiện vật hàng không và không gian: 
+hiện vật hàng không và không gian: 
 nội địa: 
 rìu: 
 búa: 

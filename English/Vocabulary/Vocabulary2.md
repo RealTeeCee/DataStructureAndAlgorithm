@@ -115,7 +115,7 @@ sourness /ˈsaʊərnəs/: vị chua
 sundial /ˈsʌndaɪəl/: đồng hồ mặt trời
 compass /ˈkʌmpəs/: la bàn
 hot springs /sprɪŋ/: suối nước nóng
-dough /dəʊ/: bột
+dough /dəʊ/: bột nhào
 resemble /rɪˈzembl/: (nhìn) giống với
 similar /'similə/: (trong hội thoại, trò chuyện) giống nhau, như nhau, tương tự; (toán học) đồng dạng
 startled /ˈstɑːrtld/: giật mình

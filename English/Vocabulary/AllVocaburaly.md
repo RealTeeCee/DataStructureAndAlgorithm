@@ -168,7 +168,7 @@ scuba diving /ˈskuːbə daɪvɪŋ/: môn lặng
 pedals /ˈpedl/: bàn đạp
 jupiter /ˈdʒuːpɪtər/: sao Mộc
 solar system /ˈsəʊlər sɪstəm/: hệ mặt trời
-naked eye /ˈneɪkɪd aɪ/ : mắt trần, mắt thường
+naked eye /ˈneɪkɪd aɪ/: mắt trần, mắt thường
 reef /riːf/: rạn san hô
 coral /ˈkɔːrəl/: san hô
 whoosh /wuːʃ/: tiếng lướt qua (vèo), tiếng thở (phù) 
@@ -187,7 +187,7 @@ sourness /ˈsaʊərnəs/: vị chua
 sundial /ˈsʌndaɪəl/: đồng hồ mặt trời
 compass /ˈkʌmpəs/: la bàn
 hot springs /sprɪŋ/: suối nước nóng
-dough /dəʊ/: bột
+dough /dəʊ/: bột nhào
 resemble /rɪˈzembl/: giống
 startled /ˈstɑːrtld/: giật mình
 gasoline /ˈɡæsəliːn/: xăng
