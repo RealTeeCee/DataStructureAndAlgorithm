@@ -340,7 +340,7 @@ clumpsy /ˈklʌmzi/: vụng về
 graceful /ˈɡreɪsfl/: kiều diễm, duyên dáng
 magnet /ˈmæɡnət/: nam châm
 magnetic (a) - magnetism (n) /mæɡˈnɛt̮ɪk  ˈmæɡnəˌtɪzə/: từ tính
-monuments /ˈmɑnyəmənt/: di tích
+monuments /ˈmɑnyəmənt/: di tích, đài tưởng niệm
 Skittles /ˈskɪtl/: kẹo Skittle, trò Skittle ở Anh
 clear glass /klɪr ɡlæs/: kính trong
 stir /stər/: khuấy
@@ -348,12 +348,12 @@ dropper /ˈdrɑpər/: ống nhỏ giọt
 potting /pɑt/: loại đất trồng kiển
 potting mix /pɑt mɪks/: hỗn hợp đất bầu
 ice pack /aɪs pæk/: túi đá chườm
-soothe /suð/: làm dịu
+soothe /suð/: làm dịu
 funnel /ˈfʌnl/: phểu, ống khói
 essential /ɪˈsɛnʃl/: thiết yếu
 essence /ˈɛsns/: tinh chất, chiết xuất, nước hoa
 aroma /əˈroʊmə/: hương thơm
-rosemary /ˈroʊzˌmɛri/: cây mê điệt
+rosemary /ˈroʊzˌmɛri/: cây mê điệt!
 lavender /ˈlævəndər/: Hoa oải hương
 bury /ˈbɛri/: chôn
 hoe /hoʊ/: cuốc
@@ -378,6 +378,7 @@ hygiene /ˈhaɪdʒin/: vệ sinh
 poultry /ˈpoʊltri/: gia cầm
 raw /rɔ/: sống
 undercooked /ˌʌndərˈkʊk/: chưa chín
+overcooked /əvər'kʊk/: quá chín
 utensils /yuˈtɛnsl/: dụng cụ nhà bếp, nông cụ
 cooking utensils /ˈkʊkɪŋ yuˈtɛnsl/: dụng cụ nấu ăn
 oyster /ˈɔɪstə/: con hàu
@@ -400,7 +401,7 @@ rough /rʌf/: thô, nhám (bề mặt), rối (tóc)
 roughly /ˈrʌfli/: đại khái
 rely /rɪˈlaɪ/: tin cậy, phụ thuộc
 reliable /rɪˈlaɪəbl/: đáng tin
-hearten /ˈhɑrtn/: khích lệ
+hearten /ˈhɑrtn/: ((thường) + up) cổ vũ, động viên, làm cho phấn khởi
 incredible /ɪnˈkrɛdəbl/: đáng kinh ngạc, không tưởng
 consider /kənˈsɪdər/: xem xét
 widely considered /ˈwaɪdli kənˈsɪdər/: được số đông biết đến
@@ -461,7 +462,7 @@ meteor /ˈmit̮iər/: sao băng
 meteoroid /ˈmiːtiərɔɪd/: thiên thạch
 spill /spɪl/: đổ, tràn
 ultraviolet /ˌʌltrəˈvaɪələt/: tia cực tím
-monument /ˈmɑnyəmənt/: đài tưởng niệm
+monument /ˈmɑnyəmənt/: đài kỷ niệm, công trình kỷ niệm; di tích
 legacy inherited /legacy inherited/: di sản kế thừa
 candidate /ˈkændədət/: ứng viên
 sincere /sɪnˈsɪr/: trân trọng, thành thật
@@ -494,7 +495,7 @@ wrist ache /rɪst eɪk/: đau cố tay
 twist /twɪst/: xoắn
 ankle /ˈæŋkl/: mắt cá
 acute or chronic /əˈkyut ɔr ˈkrɑnɪk/: cấp tính hoặc mãn tính
-mild /maɪld/: nhẹ, êm ái
+mild = tender /maɪld = ˈtendər/: nhẹ, êm ái, dịu dàng
 crawl /krɔl/: bò 
 slither /ˈslɪðər/: trườn
 eyelids /ˈaɪlɪd/: mí mắt
@@ -602,7 +603,8 @@ luggage /ˈlʌɡɪdʒ/: hành lý
 basement /ˈbeɪsmənt/: tầng hầm
 boil /bɔɪl/: (v) đun sôi (n) mụn nhọt
 daisy /ˈdeɪzi/: hoa cúc
-trefoil /ˈtrifɔɪl/: hình cây ba lá, cây chĩa ba
+trident /'traidənt/: cây chĩa ba; đinh ba 
+trefoil /ˈtrifɔɪl/: hình cây ba lá;
 birdsfoot trefoil //: (thực vật) cây ba lá chân chim
 wobble /ˈwɑbl/: (v) lung lay, rung (n) sự đu đưa, sự lung lay
 knee /ni/: đầu gối

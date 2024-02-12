@@ -9,8 +9,8 @@ swan /swɑn/: thiên nga
 clumpsy /ˈklʌmzi/: vụng về
 graceful /ˈɡreɪsfl/: kiều diễm, duyên dáng
 magnet /ˈmæɡnət/: nam châm
-magnetic (a) - magnetism (n) /mæɡˈnɛt̮ɪk  ˈmæɡnəˌtɪzə/: từ tính
-monuments /ˈmɑnyəmənt/: di tích
+magnetic (a) - magnetism (n) /mæɡˈnɛt̮ɪk  ˈmæɡnəˌtɪzəm/: từ tính
+monument /ˈmɑnyəmənt/: đài kỷ niệm, công trình kỷ niệm; di tích
 Skittles /ˈskɪtl/: kẹo Skittle, trò Skittle ở Anh
 clear glass /klɪr ɡlæs/: kính trong
 stir /stər/: khuấy
@@ -48,6 +48,7 @@ hygiene /ˈhaɪdʒin/: vệ sinh
 poultry /ˈpoʊltri/: gia cầm
 raw /rɔ/: sống
 undercooked /ˌʌndərˈkʊk/: chưa chín
+overcooked /əvər'kʊk/: quá chín
 utensils /yuˈtɛnsl/: dụng cụ nhà bếp, nông cụ
 cooking utensils /ˈkʊkɪŋ yuˈtɛnsl/: dụng cụ nấu ăn
 oyster /ˈɔɪstə/: con hàu
@@ -70,7 +71,7 @@ rough /rʌf/: thô, nhám (bề mặt), rối (tóc)
 roughly /ˈrʌfli/: đại khái
 rely /rɪˈlaɪ/: tin cậy, phụ thuộc
 reliable /rɪˈlaɪəbl/: đáng tin
-hearten /ˈhɑrtn/: khích lệ
+hearten /ˈhɑrtn/: ((thường) + up) cổ vũ, động viên, làm cho phấn khởi
 incredible /ɪnˈkrɛdəbl/: đáng kinh ngạc, không tưởng
 consider /kənˈsɪdər/: xem xét
 widely considered /ˈwaɪdli kənˈsɪdər/: được số đông biết đến
@@ -84,7 +85,7 @@ ape /eɪp/: vượn
 gorilla /ɡəˈrɪlə/: khỉ đột
 souvenir /ˌsuvəˈnɪr/: quà lưu niệm
 gym-goer: người tập gym
-incent = encourage /ɪnˈsɛnt/: khích lệ
+incent = encourage /ɪnˈsɛnt/: khuyến khích, khích lệ; thúc đẩy
 incentive prize /ɪnˈsɛntɪv prize/: giải khuyến khích, ưu đãi
 meditate /ˈmɛdəˌteɪt/: suy ngẫm, thiền định
 high blood pressure /haɪ blʌd ˈprɛʃər/  : cao huyết áp 

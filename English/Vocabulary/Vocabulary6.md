@@ -57,7 +57,8 @@ luggage /ˈlʌɡɪdʒ/: hành lý
 basement /ˈbeɪsmənt/: tầng hầm
 boil /bɔɪl/: (v) đun sôi (n) mụn nhọt
 daisy /ˈdeɪzi/: hoa cúc
-trefoil /ˈtrifɔɪl/: hình cây ba lá; cây chĩa ba = trident
+trident /'traidənt/: cây chĩa ba; đinh ba 
+trefoil /ˈtrifɔɪl/: hình cây ba lá;
 birdsfoot trefoil //: cây ba lá chân chim
 wobble /ˈwɑbl/: (v) lung lay, rung (n) sự đu đưa, sự lung lay
 knee /ni/: đầu gối

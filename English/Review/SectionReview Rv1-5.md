@@ -331,7 +331,6 @@ vụng về:
 kiều diễm, duyên dáng: 
 nam châm: 
 từ tính: 
-di tích: 
 kẹo Skittle, trò Skittle ở Anh: 
 kính trong: 
 khuấy: 
@@ -390,7 +389,7 @@ thô, nhám (bề mặt), rối (tóc):
 đại khái: 
 tin cậy, phụ thuộc: 
 đáng tin: 
-khích lệ: 
+((thường) + up) cổ vũ, động viên, làm cho phấn khởi: 
 đáng kinh ngạc, không tưởng: 
 xem xét: 
 được số đông biết đến: 
@@ -402,7 +401,7 @@ tinh tinh:
 vượn: 
 khỉ đột: 
 quà lưu niệm: 
-khích lệ: 
+khuyến khích, khích lệ; thúc đẩy: 
 giải khuyến khích, ưu đãi: 
 suy ngẫm, thiền định: 
 béo phì : 
@@ -444,7 +443,7 @@ sao băng:
 thiên thạch: 
 đổ, tràn: 
 tia cực tím: 
-đài tưởng niệm: 
+monument /ˈmɑnyəmənt/: đài kỷ niệm, công trình kỷ niệm; di tích
 di sản kế thừa: 
 ứng viên: 
 trân trọng, thành thật: 

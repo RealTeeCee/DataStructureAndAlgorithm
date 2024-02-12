@@ -5,7 +5,7 @@ meteor /ˈmit̮iər/: sao băng
 meteoroid /ˈmiːtiərɔɪd/: thiên thạch
 spill /spɪl/: đổ, tràn
 ultraviolet /ˌʌltrəˈvaɪələt/: tia cực tím
-monument /ˈmɑnyəmənt/: đài tưởng niệm
+monument /ˈmɑnyəmənt/: đài kỷ niệm, công trình kỷ niệm; di tích
 legacy inherited /legacy inherited/: di sản kế thừa
 candidate /ˈkændədət/: ứng viên
 sincere /sɪnˈsɪr/: trân trọng, thành thật
@@ -38,7 +38,7 @@ wrist ache /rɪst eɪk/: đau cố tay
 twist /twɪst/: xoắn
 ankle /ˈæŋkl/: mắt cá
 acute or chronic /əˈkyut ɔr ˈkrɑnɪk/: cấp tính hoặc mãn tính
-mild /maɪld/: nhẹ, êm ái
+mild = tender /maɪld = ˈtendər/: nhẹ, êm ái, dịu dàng
 crawl /krɔl/: bò 
 slither /ˈslɪðər/: trườn
 eyelids /ˈaɪlɪd/: mí mắt
