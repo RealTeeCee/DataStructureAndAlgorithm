@@ -73,7 +73,7 @@ jungle = forest /ˈjəNGɡəl ˈfôrəst/: rừng
 crime /kraim/: tội ác, tội lỗi
 criminal /'kriminl/: (n) tội phạm (a) có tội, phạm tội (người đã bị chứng minh và công nhận là phạm tội)
 guilt /ɡilt/: tội lỗi 
-ɡuilty /ˈɡiltē/ : có tội, phạm tội (trạng thái pháp lý và thường đi kèm với quyết định)
+ɡuilty /ˈɡiltē/: có tội, phạm tội (trạng thái pháp lý và thường đi kèm với quyết định)
 easy-to-watch //: dễ xem
 easygoing /ˌēzēˈɡōiNG/: dễ dãi
 athlete /ˈæθ.liːt/: vận động viên

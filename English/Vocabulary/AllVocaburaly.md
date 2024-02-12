@@ -565,7 +565,7 @@ possess /pəˈzɛs/: sở hữu
 accurate /ˈækyərət/: chính xác
 accuracy /ˈækyərəsi/: sự chính xác, tính đúng đắn
 routine /ruˈtin/: lịch trình, thói quen
-direct /daɪˈrɛkt/: (n) đi thẳng, rõ ràng minh bạch (v)
+direct /daɪˈrɛkt/: (v) ra lệnh, chỉ thị; hướng dẫn, chỉ đạo (a) trực tiếp; thẳng; hoàn toàn, tuyệt đối
 greeting /ˈɡrit̮ɪŋ/: chào hỏi
 welcoming //: chào đón
 directing guests //: hướng dẫn khách

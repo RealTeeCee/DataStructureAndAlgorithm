@@ -18,7 +18,7 @@ sở hữu:
 chính xác: 
 sự chính xác, tính đúng đắn: 
 lịch trình, thói quen: 
-(n) đi thẳng, rõ ràng minh bạch (v): 
+ra lệnh, chỉ thị; hướng dẫn, chỉ đạo (a) trực tiếp; thẳng; hoàn toàn, tuyệt đối: 
 chào hỏi: 
 chào đón: 
 hướng dẫn khách: 
@@ -186,7 +186,8 @@ buồn cười, hài hước:
 rừng: 
 tội ác, tội lỗi: 
 (n) tội phạm (a) có tội, phạm tội (người đã bị chứng minh và công nhận là phạm tội): 
-tội lỗi : 
+tội lỗi: 
+có tội, phạm tội (trạng thái pháp lý và thường đi kèm với quyết định): 
 dễ xem: 
 dễ dãi: 
 vận động viên: 
