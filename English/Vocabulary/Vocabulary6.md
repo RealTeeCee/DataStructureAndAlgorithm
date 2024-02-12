@@ -113,6 +113,6 @@ straw /strɔ/: rơm
 slave /sleɪv/: nô lệ
 slavery /ˈsleɪvəri/: chế độ nô lệ
 vacancy /ˈveɪkənsi/ : vị trí tuyển dụng
-facility /fəˈsɪlət̮i/: sự thuận tiện; điều kiện dễ dàng, điều kiện thuận lợi;
+facility /fəˈsɪlət̮i/: (n) cơ sở vật chất; sự thuận tiện; điều kiện dễ dàng, điều kiện thuận lợi;
 designated /ˈdɛzɪɡˌneɪt/: được chỉ định
 casual /ˈkæʒuəl/: bình thường, giản dị
