@@ -85,15 +85,15 @@ jar /dʒɑr/: cái lọ
 pit /pɪt/: (n) hố, huyệt
 seashell /ˈsiʃɛl/: vỏ sò
 smoothie /ˈsmuði/: sinh tố
-civil /ˈsɪvl: dân sự (ko liên quan đến quân đội, tư bản)
+civil /ˈsɪvl/: dân sự (ko liên quan đến quân đội, tư bản)
 civilian /səˈvɪlyən/: dân thường (ko phải quân đội)
 civil war //: nội chiến
 well-presented: trình bày tốt
 verbal /ˈvərbl/: bằng lời nói, bằng miệng
 pace /peɪs/: nhịp độ, nước đi
 fast-paced //: nhịp độ nhanh
-detergent  /dɪˈtərdʒənt/ : chất tẩy rửa
-allergy /ˈælərdʒi: (n) dị ứng
+detergent /dɪˈtərdʒənt/: chất tẩy rửa
+allergy /ˈælərdʒi/: (n) dị ứng
 punctual /ˈpʌŋktʃuəl/: đúng giờ
 trustworthy /ˈtrʌstˌwərði/: đáng tin cậy 
 lost for words //: không nói nên lời
@@ -102,9 +102,9 @@ manufacture /ˌmænyəˈfæktʃər/: sản xuất
 forbidden /fərˈbɪdn/: cấm, ko đc phép
 burn /bərn/: đốt
 sun burnt /ˈsʌnbərnd/: sự cháy nắng
-misfortune /ˌmɪsˈfɔrtʃən/: bất hạnh misfortune > unfortune
+misfortune /ˌmɪsˈfɔrtʃən/: bất hạnh = unfortune
 fortune /ˈfɔrtʃən/: vận may mắn
-unfortunately /ʌnfɔrtʃənətli/: không may
+unfortunately /ʌnfɔrtʃənətli/: (adv) không may
 unfortune childhood //: tuổi thơ bất hạnh 
 pity /ˈpɪt̮i/: sự thương hại
 pitiable /ˈpɪt̮iəbl/: đáng thương
@@ -113,6 +113,6 @@ straw /strɔ/: rơm
 slave /sleɪv/: nô lệ
 slavery /ˈsleɪvəri/: chế độ nô lệ
 vacancy /ˈveɪkənsi/ : vị trí tuyển dụng
-facility /fəˈsɪlət̮i/: cơ sở, sự thuận tiện
+facility /fəˈsɪlət̮i/: sự thuận tiện; điều kiện dễ dàng, điều kiện thuận lợi;
 designated /ˈdɛzɪɡˌneɪt/: được chỉ định
 casual /ˈkæʒuəl/: bình thường, giản dị

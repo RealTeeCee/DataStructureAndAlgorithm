@@ -83,11 +83,14 @@ cái lọ:
 (n) hố, huyệt: 
 vỏ sò: 
 sinh tố: 
+dân sự (ko liên quan đến quân đội, tư bản): 
 dân thường (ko phải quân đội): 
 nội chiến: 
 bằng lời nói, bằng miệng: 
 nhịp độ, nước đi: 
 nhịp độ nhanh: 
+chất tẩy rửa: 
+(n) dị ứng: 
 đúng giờ: 
 đáng tin cậy : 
 không nói nên lời: 
@@ -96,9 +99,9 @@ sản xuất:
 cấm, ko đc phép: 
 đốt: 
 sự cháy nắng: 
-bất hạnh misfortune > unfortune: 
+bất hạnh = unfortune: 
 vận may mắn: 
-không may: 
+(adv) không may: 
 tuổi thơ bất hạnh : 
 sự thương hại: 
 đáng thương: 
@@ -106,12 +109,12 @@ kính trọng, kính mến:
 rơm: 
 nô lệ: 
 chế độ nô lệ: 
-cơ sở, sự thuận tiện: 
+sự thuận tiện; điều kiện dễ dàng, điều kiện thuận lợi: 
 được chỉ định: 
 bình thường, giản dị: 
 (v) bỏ lỡ, bỏ qua; tha thứ; coi nhẹ: 
 (n) cảnh quan từ trên cao, vị trí cao để quan sát: 
-sao Hải Vương: 
+(thiên văn học) sao Hải vương; (thần thoại,thần học) thần biển, hải thần: 
 tảng băng trôi: 
 chim ưng biển: 
 mỏ, vật hình mỏ chim; mũi đe (đầu nhọn của cái đe): 
@@ -119,8 +122,7 @@ cổ:
 vệt, sọc: 
 một vệt sáng: 
 tia chớp: 
-(n) hơi nước (v) bay hơi: 
-hấp: 
+(n) hơi nước (v) (nội động từ) bay hơi, bốc hơi; (ngoại động từ) hấp: 
 nghị lực, sức cố gắng: 
 xả hơi: 
 thì thầm: 
@@ -143,7 +145,8 @@ gửi/rút tiền:
 sự giận dữ (giận dữ, căm phẫn hoặc khó chịu): 
 sự điên tiết (sự tức giận tạm thời hoặc không kiểm soát): 
 sự sôi máu (cảm giác mất kiểm soát hoặc sự bùng nổ mạnh mẽ của cảm xúc tức giận): 
-sự căm phẫn, oán trách phẫn uất (tức giận và oán trách do cảm giác bị xúc phạm, tổn : 
+sự căm phẫn, oán trách phẫn uất (tức giận và oán trách do cảm giác bị xúc phạm, tổn thương hoặc bất công): 
+sự phẫn nộ (sự nổi giận mạnh mẽ và có thể dẫn đến hành động bạo lực hoặc hủy diệt): 
 vỏ bánh mì, vỏ tôm, lớp rỉ sét: 
 tầng lớp thượng lưu: 
 kiếm ăn hàng ngày: 
@@ -153,7 +156,6 @@ lõi trái đất:
 khớp với nhau: 
 đỉa, tấm, miếng, mảng, bản: 
 lục địa: 
-sự phẫn nộ (sự nổi giận mạnh mẽ và có thể dẫn đến hành động bạo lực hoặc hủy diệt): 
 phun trào (núi lửa); nổ ra (chiến tranh); nhú lên (răng): 
 núi lửa: 
 cuồng phong, bão lớn phổ biến ở Đại Tây Dương: 
@@ -172,7 +174,7 @@ áp kế:
 (n) máy đo (v) đo, đánh giá: 
 ống xilanh, hình trụ; cọc, trục lăn: 
 giấm: 
-máy đo mưa : 
+máy đo mưa: 
 cờ chỉ cánh gió, hướng gió, mũi tên gió: 
 khí quyển: 
 bầu không khí: 

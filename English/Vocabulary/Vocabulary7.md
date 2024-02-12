@@ -1,6 +1,6 @@
 overlook /ˌoʊ.vəˈlʊk/: (v) bỏ lỡ, bỏ qua; tha thứ; coi nhẹ
          /ˈoʊ.vɚ.lʊk/: (n) cảnh quan từ trên cao, vị trí cao để quan sát
-neptune /ˈnep.tuːn/: sao Hải Vương
+neptune /ˈnep.tuːn/: (thiên văn học) sao Hải vương; (thần thoại,thần học) thần biển, hải thần
 iceberg /ˈaɪs.bɝːg/: tảng băng trôi
 osprey /ˈɑː.spri/: chim ưng biển
 beak /biːk/: mỏ, vật hình mỏ chim; mũi đe (đầu nhọn của cái đe)
@@ -8,8 +8,7 @@ neck /nek/: cổ
 streak /stri:k/: vệt, sọc
 streak of light //: một vệt sáng
 streak of lightning //: tia chớp
-steam /sti:m/: (n) hơi nước (v) bay hơi
-steamed //: hấp
+steam /sti:m/: (n) hơi nước (v) (nội động từ) bay hơi, bốc hơi; (ngoại động từ) hấp
 get/pick up steam //: nghị lực, sức cố gắng
 to let off steam //: xả hơi
 whisper /ˈwɪs.pɚ/: thì thầm
@@ -33,6 +32,7 @@ anger /ˈæŋ.gɚ/: sự giận dữ (giận dữ, căm phẫn hoặc khó ch
 mad /mæd/: sự điên tiết (sự tức giận tạm thời hoặc không kiểm soát)
 fury /ˈfjʊr.i/: sự sôi máu (cảm giác mất kiểm soát hoặc sự bùng nổ mạnh mẽ của cảm xúc tức giận)
 resentment /rɪˈzent.mənt/: sự căm phẫn, oán trách phẫn uất (tức giận và oán trách do cảm giác bị xúc phạm, tổn thương hoặc bất công)
+wrath /rɑːθ/: sự phẫn nộ (sự nổi giận mạnh mẽ và có thể dẫn đến hành động bạo lực hoặc hủy diệt)
 crust /krʌst/: vỏ bánh mì, vỏ tôm, lớp rỉ sét
 the upper crust //: tầng lớp thượng lưu
 to earn one's crust //: kiếm ăn hàng ngày
@@ -42,7 +42,6 @@ The Earth's core //: lõi trái đất
 fit together //: khớp với nhau
 plate /pleit/: đỉa, tấm, miếng, mảng, bản
 continent /'kɔntinənt/: lục địa
-wrath /rɑːθ/: sự phẫn nộ (sự nổi giận mạnh mẽ và có thể dẫn đến hành động bạo lực hoặc hủy diệt)
 erupt /i'rʌpt/: phun trào (núi lửa); nổ ra (chiến tranh); nhú lên (răng)
 volcano /vɔl'keinou/: núi lửa
 hurricane /'hʌrikən/: cuồng phong, bão lớn phổ biến ở Đại Tây Dương
@@ -95,7 +94,6 @@ tragedy: bi kịch, thê lương
 fisherman /'fiʃəmən/: ngư dân, người đánh cá, thuyền đánh cá
 carpenter /ˈkärpən(t)ər/: thợ mộc
 carnival /ˈkärnəvəl/: ngày hội; cuộc hội hè; lễ hội hóa trang; ngày vui trước tuần trai
-a carnival of bloodshed //: sự giết chóc bừa bãi
 stabilize /ˈsteɪ.bə.laɪz/: gia cố, làm cho vững vàng
 flat bottom /flæt ˈbɑː.t̬əm/: vật đáy bằng, vật có đáy phẳng
 emerge /ɪˈmɝːdʒ/: nhô lên, hiện ra, trồi lên
@@ -115,6 +113,6 @@ total eclipse /ˈtoʊ.t̬əl ɪˈklɪps/: nhật thực toàn phần
 partial eclipse /ˈpɑːr.ʃəl ɪˈklɪps/: nhật thực một phần
 trip /trɪp/: (n) chuyến đi, sự hụt chân (v) vấp ngã
 field trip /fiːld trɪp/: chuyến đi thực tế, thực địa
-outdoor /ˈaʊtˌdɔːr/: ngoài trời
-indoor /ˌɪnˈdɔːr/: trong nhà
+outdoor /ˈaʊtˌdɔːr/: (a) ngoài trời (adv) outdoors
+indoor /ˌɪnˈdɔːr/: (a) trong nhà (adv) indoors
 forelimb = foreleg /ˈfôrˌlim 'fɔ:leg/: chi trước

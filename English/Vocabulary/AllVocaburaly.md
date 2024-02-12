@@ -638,8 +638,8 @@ well-presented //: trình bày tốt
 verbal /ˈvərbl/: bằng lời nói, bằng miệng
 pace /peɪs/: nhịp độ, nước đi
 fast-paced //: nhịp độ nhanh
-detergent  /dɪˈtərdʒənt/ : chất tẩy rửa
-allergy /ˈælərdʒi: (n) dị ứng
+detergent  /dɪˈtərdʒənt/: chất tẩy rửa
+allergy /ˈælərdʒi/: (n) dị ứng
 punctual /ˈpʌŋktʃuəl/: đúng giờ
 trustworthy /ˈtrʌstˌwərði/: đáng tin cậy 
 lost for words //: không nói nên lời
@@ -648,9 +648,9 @@ manufacture /ˌmænyəˈfæktʃər/: sản xuất
 forbidden /fərˈbɪdn/: cấm, ko đc phép
 burn /bərn/: đốt
 sun burnt /ˈsʌnbərnd/: sự cháy nắng
-misfortune /ˌmɪsˈfɔrtʃən/: bất hạnh misfortune > unfortune
+misfortune /ˌmɪsˈfɔrtʃən/: bất hạnh = unfortune
 fortune /ˈfɔrtʃən/: vận may mắn
-unfortunately /ʌnˈfɔrtʃənətli/: không may
+unfortunately /ʌnˈfɔrtʃənətli/: (adv) không may
 unfortune childhood //: tuổi thơ bất hạnh 
 pity /ˈpɪt̮i/: sự thương hại
 pitiable /ˈpɪt̮iəbl/: đáng thương
@@ -659,12 +659,12 @@ straw /strɔ/: rơm
 slave /sleɪv/: nô lệ
 slavery /ˈsleɪvəri/: chế độ nô lệ
 vacancy /ˈveɪkənsi/ : vị trí tuyển dụng
-facility /fəˈsɪlət̮i/: cơ sở, sự thuận tiện
+facility /fəˈsɪlət̮i/: sự thuận tiện; điều kiện dễ dàng, điều kiện thuận lợi;
 designated /ˈdɛzɪɡˌneɪt/: được chỉ định
 casual /ˈkæʒuəl/: bình thường
 overlook /ˌoʊ.vəˈlʊk/: (v) bỏ lỡ, bỏ qua; tha thứ; coi nhẹ
          /ˈoʊ.vɚ.lʊk/: (n) cảnh quan từ trên cao, vị trí cao để quan sát
-neptune /ˈnep.tuːn/: sao Hải Vương
+neptune /ˈnep.tuːn/: (thiên văn học) sao Hải vương; (thần thoại,thần học) thần biển, hải thần
 iceberg /ˈaɪs.bɝːg/: tảng băng trôi
 osprey /ˈɑː.spri/: chim ưng biển
 beak /biːk/: mỏ, vật hình mỏ chim; mũi đe (đầu nhọn của cái đe)
@@ -672,8 +672,7 @@ neck /nek/: cổ
 streak /stri:k/: vệt, sọc
 streak of light //: một vệt sáng
 streak of lightning //: tia chớp
-steam /sti:m/: (n) hơi nước (v) bay hơi
-steamed: hấp
+steam /sti:m/: (n) hơi nước (v) (nội động từ) bay hơi, bốc hơi; (ngoại động từ) hấp
 get/pick up steam //: nghị lực, sức cố gắng
 to let off steam //: xả hơi
 whisper /ˈwɪs.pɚ/: thì thầm
@@ -761,7 +760,6 @@ accommodation /əˌkäməˈdāSH(ə)n/: chỗ ở
 tragedy: bi kịch, thê lương
 fisherman /'fiʃəmən/: ngư dân, người đánh cá, thuyền đánh cá
 carnival /ˈkärnəvəl/: ngày hội; cuộc hội hè; lễ hội hóa trang; ngày vui trước tuần trai
-a carnival of bloodshed //: sự giết chóc bừa bãi
 stabilize /ˈsteɪ.bə.laɪz/: gia cố, làm cho vững vàng
 flat bottom /flæt ˈbɑː.t̬əm/: vật đáy bằng, vật có đáy phẳng
 emerge /ɪˈmɝːdʒ/: nhô lên, hiện ra, trồi lên
