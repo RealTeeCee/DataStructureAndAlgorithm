@@ -69,5 +69,5 @@ slaughter /ˈslɔːtə(r)/: giết mổ
 brink /brɪŋk/: bờ vực
 extinct /ɪkˈstɪŋkt/: tuyệt chủng
 consequences /ˈkɒnsɪkwənsɪz/: hậu quả
-steep /stiːp/: dốc
+steep /stiːp/: dốc (slope > 20% = steep)
 narrow /ˈnærəʊ/: hẹp

@@ -88,7 +88,7 @@ spatula /ˈspaCHələ/: (bếp núc) cái sạng, cái xúc
 diagonal /dai'ægənl (đai á gơ nồl)/: đường chéo
 purebred /ˈpyo͝orˌbred/: thuần chủng
 scatter /ˈskadər/: sự tiêu tan; sự phân tán, sự rải rác
-scattered /'skætəd/: rải rác, thưa thớt, lưa thưa
+scattered /ˈskadərd/: rải rác, thưa thớt, lưa thưa
 drone /droun/: (n) ong mật đực; máy bay không người lái; bài nói đều đều; người nói giọng đều đều 
                (v) kêu vo ve; (+ away) làm biếng; nói giọng đều đều
 lifetime /'laiftaim/: trọn đời; suốt đời

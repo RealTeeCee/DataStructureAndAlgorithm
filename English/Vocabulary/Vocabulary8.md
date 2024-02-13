@@ -35,7 +35,7 @@ demonstrate /'demənstreit/: biểu diễn, phô diễn; biểu tình; chứn
 trophy /'troufi/: cúp; vật kỷ niệm chiến công, chiến tích
 magic staff /'mædʤik stɑ:f/: gậy phép
 slack /slæk/: (a) uể oải, chậm chạp, ế ẩm (n) phần dây chùng (v) nới, làm chùng (dây)
-slack off /slæk ɑːf/: giảm bớt hoạt động, lãng công
+slack off /slæk ɑːf/: giảm bớt hoạt động, lãng công (dạng đình công mà người lao động không rời nơi làm việc nhưng không làm việc hoặc làm việc cầm chừng)
 refreshment /ri'freʃmənt/: các món ăn uống, các món ăn và các loại giải khát; sự nghỉ dưỡng,  sự tĩnh dưỡng
 mattress /'mætris/: nệm, đệm không khí, đệm bông
 co-workers /ˌkoʊˈwɝː.kɚ/: bạn cùng làm việc với nhau; bạn đồng nghiệp
@@ -43,9 +43,9 @@ curriculum /kə'rikjuləm/: chương trình giảng dạy
 societies /sə'saiəti/: hoạt động xã hội, đoàn thể, hội
 radiocarbon /ˌreɪ.di.əʊ.kɑːbən/ : các bon phóng xạ
 attack /ə'tæk/: tấn công, công kích; cơn
-an attack of fever //: cơn sốt
-a heart attack //: cơn đau tim
-anxiety attacks //: cơn lo âu
+an attack of fever /ə'tæk əv 'fi:və/: cơn sốt
+a heart attack /hɑ:t ə'tæk/: cơn đau tim
+anxiety attacks /æɳ'zaiəti ə'tæk/: cơn lo âu
 landfill /ˈlænd.fɪl/: đắp đất
 flea /flē/: con bọ chét
 second-hand /'sekənd'hænd/: cũ, mua lại, hàng đã dùng qua
@@ -74,7 +74,7 @@ vibration /vai'breiʃn/: sự rung lắc; sự làm rung lắc
 imply /im'plai/: (v) ý nói, ngụ ý; bao hàm
 figure /'figə/: hình dáng; sơ đồ; nhân vật
 resort /'ri:'sɔ:t/: (n) khu nghỉ mát; phương kế, phương sách (v) thường xuyên lui tới; dùng đến, cầu đến, nhớ vào
-slope /sloup/: (n) dốc, đường dốc, chỗ dốc; độ dốc (v) cắt nghiêng, làm nghiêng
+slope /sloup/: (n) độ dốc; đường dốc, chỗ dốc (v) cắt nghiêng, làm nghiêng
 wirelessly /ˈwīərləslē/: không dây
 hive /hīv/: tổ ong
 let alone + V = not to mention //: huống hồ là, chứ đừng nói đến —used especially to emphasize the improbability of a contrasting example.
@@ -106,7 +106,7 @@ rainfall /ˈrānˌfôl/: lượng mưa
 lockdown /lockdown/ : lệnh đóng cửa
 Nepali /nəˈpôlē/:  tiếng Nepan; Nepalian: người Nepan
 touchscreen /ˈtəCH ˌskrēn/: màn hình cảm ứng
-spin /ˈspin/: quay tròn; xe chỉ, kéo sợi
+spin /ˈspin/: xoay tròn, quay tròn; xe chỉ, kéo sợi
 spinning top //: con quay
 frisbee /frisbi/: dĩa nhựa nhẹ ném (dùng trong trò chơi)
 deal with //: đối phó với, đương đầu với
