@@ -77,8 +77,8 @@ wisdom /'wizd m/: khôn ngoan, thông tuệ
 approximate /ə'prɔksimit/: xấp xỉ, gần đúng; (+ to) gần gũi
 she is approximate to me //: cô ấy gần gũi với tôi 
 several /'sevrəl/: một vài, nhiều; riêng, cá nhân; khác nhau
-estate /iˈstāt/: tài sản, sự kế thừa
-several estate //: bất động sản riêng tư
+estate /iˈstāt/: tài sản, sự kế thừa
+several estate //: bất động sản riêng tư
 service /'sə:vis/: dịch vụ; ban, vụ, sở, cục, ngành 
 stun /stʌn/: sự choáng váng; tình trạng bất tỉnh; sự kinh ngạc (v) làm choáng váng; làm sửng sốt, làm kinh ngạc
 stunning /'stʌniɳ/: tuyệt, hay, cừ khôi

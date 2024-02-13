@@ -25,7 +25,7 @@ area /'eəriə/: diện tích, bề mặt; vùng, khu vực; phạm vi, tầm
 meeting area //: khu vực họp
 shelter /'ʃeltə/: chỗ che, chỗ nương tựa, chỗ núp, hầm; lầu, chòi; phòng, cabin (người lái); (v) che chở, bảo vệ; ẩn, núp, nấp, trốn
 to shelter someone from the rain //: che cho ai khỏi mưa
-accidentally /,æksi'dentəli/: tình cờ, ngẫu nhiên
+accidentally /,æksi'dentəli/: tình cờ, ngẫu nhiên
 accident /'æksidənt/: (n) sự cố, tai nạn, tai biến; sự gồ ghề, sự khấp khểnh; by accident: tình cờ, ngẫu nhiên
 incident /'insidənt/: (n) sự cố, việc bất ngờ xảy ra, việc rắc rối (a) (+ to) vốn có; (vật lý) tới - incident ray: tia tới
 result /ri'zʌlt/: (n) kết quả (v) (+ from) do bởi, do mà ra; (+ in) dẫn đến, đưa đến, kết quả là
@@ -85,7 +85,7 @@ tractor /'træktə/: xe máy kéo
 literacy /'litərəsi/: trình độ học vấn; sự biết viết, biết đọc
 pinewood /ˈpīnˌwo͝od/: gỗ thông
 spatula /ˈspaCHələ/: (bếp núc) cái sạng, cái xúc 
-diagonal /dai'ægənl (đai á gơ nồl)/: đường chéo
+diagonal /dai'ægənl (đai á gơ nồl)/: (thuộc) đường chéo
 purebred /ˈpyo͝orˌbred/: thuần chủng
 scatter /ˈskadər/: sự tiêu tan; sự phân tán, sự rải rác
 scattered /ˈskadərd/: rải rác, thưa thớt, lưa thưa
