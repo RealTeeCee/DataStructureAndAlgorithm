@@ -3,6 +3,7 @@ tờ rơi, phi công, chim chóc, con vật bay:
 tua vít: 
 chả giò: 
 gỏi cuốn: 
+mái nhà: 
 trần nhà: 
 sàn nhà, tầng: 
 phòng khám: 
