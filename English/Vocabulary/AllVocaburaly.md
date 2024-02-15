@@ -1092,7 +1092,7 @@ assume /əˈso͞om/: cho rằng, giả thuyết, giả định rằng
 scoop /sko͞op/: muỗng múc kem; muỗng múc bột; cái xúc;
 option /ˈɑːp.ʃən/: sự lựa chọn
 application /,æpli'keiʃn/: ứng dụng; đơn xin; lời xin, lời thỉnh cầu;
-worldwide /ˈwɝːld.waɪd/: toàn cầu
+worldwide /ˈwɝːld.waɪd/: toàn cầu, trên toàn thế giới
 worldwide network //: mạng toàn cầu
 measure /'meʤə/: (n) sự đo lường; (toán học) ước số (v) đo, đo lường; (+ off, out): phân phối, phân ra, chia ra
 measure off/out a quantity of medicine //: phân phối một số lượng thuốc
@@ -1105,7 +1105,7 @@ estate /iˈstāt/: tài sản, sự kế thừa
 several estate //: bất động sản riêng tư
 service /'sə:vis/: dịch vụ; ban, vụ, sở, cục, ngành 
 stun /stʌn/: sự choáng váng; tình trạng bất tỉnh; sự kinh ngạc (v) làm choáng váng; làm sửng sốt, làm kinh ngạc
-stunning /'stʌniɳ/: tuyệt, hay, cừ khôi
+stunning /'stʌniɳ/: cực kì ấn tượng; đáng kinh ngạc, thật tuyệt, hay, cừ khôi
 delicate /ˈdelikət/: thanh nhã, thanh tú; mỏng manh, mảnh khảnh; tế nhị, khó xử
 delicate features //: nét mặt thanh tú
 delicate health //: sức khoẻ mỏng manh
@@ -1123,7 +1123,7 @@ tent /tent/: lều, rạp, cái tăng
 sleeping bag /ˈsliː.pɪŋ ˌbæg/: túi ngủ; cái mềm để chui vào ngũ
 broom /bru:m/: cái chổi
 gather /'gæðə/: tập hợp, tụ họp lại; hái, lượm, thu thập
-gathering material: thu thập vật liệu
+gathering material //: thu thập vật liệu
 fire starting /ˈfaɪr ˌstɑːr.t̬ing/: bắt lửa
 fire starter /ˈfaɪr ˌstɑːr.t̬ɚ/: dụng cụ đánh lửa
 char /tʃɑ:/: (v) đốt thành than, hoá thành than; (n) than gỗ; ký tự; (động vật) cá hồi chấm hồng
@@ -1135,7 +1135,6 @@ pineapple /ˈpaɪnˌæp.əl/: quá dứa, khớm, thơm
 peach /pi:tʃ/: quả đào
 suffer /'sʌfə/: (V) chịu đựng, bị
 wild animal suffering //: sự tổn hại động vật hoang dã
-regulate /'regjuleit/: sự điều chỉnh, chỉnh lại cho đúng; điều tiết
 species /ˈspēsēz/: giống, loài
 tight /tait/: (a) chặt, khít; chật, bó sát (n) áo ôm sát vào mình, đồ bộ bó
 grip /ɡrip/: (v) nắm chặt, kẹp chặt; nắm vững (kiến thức...); (n) tay phanh; sự nắm chặt; sự nắm vững

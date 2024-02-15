@@ -45,7 +45,7 @@ nhà cung cấp hàng hóa hoặc dịch vụ, nhà bán hàng, bên bán:
 nhà ga, trạm, bến, đồn: 
 họ lá kim: 
 (a) xanh tươi, xanh thẳm (n) cây có lá xanh, cây tươi tốt: 
-(a) thuộc cây tùng, cây thông (v) trở nên suy nhược, khao khát 1 người, 1 điều hoặc 1 thời gian .
+(a) thuộc cây tùng, cây thông (v) trở nên suy nhược, khao khát 1 người, 1 điều hoặc 1 thời gian đã qua: 
 cây thông: 
 hắc ín, dầu hắc: 
 gỗ: 
@@ -92,7 +92,7 @@ nhịp độ nhanh:
 chất tẩy rửa: 
 (n) dị ứng: 
 đúng giờ: 
-đáng tin cậy : 
+đáng tin cậy: 
 không nói nên lời: 
 hộ gia đình, chung một nhà: 
 sản xuất: 
@@ -102,14 +102,14 @@ sự cháy nắng:
 bất hạnh = unfortune: 
 vận may mắn: 
 (adv) không may: 
-tuổi thơ bất hạnh : 
+tuổi thơ bất hạnh: 
 sự thương hại: 
 đáng thương: 
 kính trọng, kính mến: 
 rơm: 
 nô lệ: 
 chế độ nô lệ: 
-sự thuận tiện; điều kiện dễ dàng, điều kiện thuận lợi: 
+cơ sở vật chất, sự thuận tiện; điều kiện dễ dàng, điều kiện thuận lợi: 
 được chỉ định: 
 bình thường, giản dị: 
 (v) bỏ lỡ, bỏ qua; tha thứ; coi nhẹ: 
@@ -178,7 +178,7 @@ máy đo mưa:
 cờ chỉ cánh gió, hướng gió, mũi tên gió: 
 khí quyển: 
 bầu không khí: 
-điều chỉnh, thiết lập: 
+điều tiết; chỉnh đốn, điều chỉnh theo mong muốn, chỉnh lại cho đúng (Dựa trên quy tắc); sắp đặt: 
 xe đạp 1 bánh: 
 hội đồng: 
 sân bóng đá: 
@@ -205,7 +205,6 @@ chỗ ở:
 ngư dân, người đánh cá, thuyền đánh cá: 
 thợ mộc: 
 ngày hội; cuộc hội hè; lễ hội hóa trang; ngày vui trước tuần trai: 
-sự giết chóc bừa bãi: 
 gia cố, làm cho vững vàng: 
 vật đáy bằng, vật có đáy phẳng: 
 nhô lên, hiện ra, trồi lên: 
@@ -286,12 +285,12 @@ có bong bóng, nhiều bọt, nhiều tăm; sủi bọt, sủi tăm:
 sinh viên sôi nổi: 
 người giám sát: 
 (v) còn lại, vẫn (n) đồ còn lại, còn sót; tàn tích, di tích, di hài: 
-(n) người ở một chỗ; vật để ở một chỗ (a) đứng ở một chỗ, không di chuyển; không mang đi : 
+(n) người ở một chỗ; vật để ở một chỗ (a) đứng ở một chỗ, không di chuyển; không mang đi: 
 quyết định : 
 người quyết định đội; người phân đội: 
 sạch sẽ, ngăn nắp, gọn gàng: 
 chiến lược: 
-quan sát, nhận xét, theo dõi; cử hành, làm (lễ kỷ niệm...); (+ on) nhận xét: 
+quan sát, nhận xét, theo dõi; cử hành, làm (lễ kỷ niệm...); (+ on) nhận xét:. 
 (thể dục,thể thao) cuộc cạnh tranh, giải đấu: 
 toàn bộ, toàn thể, toàn vẹn, hoàn toàn: 
 chôn vùi, tràn, làm ngập; áp đảo, lấn át: 
@@ -306,7 +305,7 @@ hình dáng; sơ đồ; nhân vật:
 (n) dốc, đường dốc, chỗ dốc; độ dốc (v) cắt nghiêng, làm nghiêng: 
 không dây: 
 tổ ong: 
-huống hồ là, chứ đừng nói đến —used especially to emphasize the improbability of a 
+huống hồ là, chứ đừng nói đến —used especially to emphasize the improbability of a contrasting example.: 
 (n) người đưa thư hoả tốc, công văn hoả tốc (a) rõ ràng; (giống) như hệt, như in: 
 diễn đạt, phát biểu ý kiến (về một vấn đề gì...): 
 (n) vật thể, đồ vật (v) chống đối, phản đối: 
@@ -350,7 +349,7 @@ quả địa cầu, trái đất, thế giới, hình cầu; cầu mắt:
 quấn vào nhau, đan xen vào nhau, tréo với nhau, kết với nhau: 
 (n) bài hướng dẫn học (a) (thuộc) sự giám hộ, (thuộc) trợ lý học tập: 
 bản thử nghiệm; điều thử thách, gian nan: 
-(a) tiềm năng, tiềm tàng; thuộc điện thế (vật lý) (n) tiềm lực, khả năng; điện 
+(a) tiềm năng, tiềm tàng; thuộc điện thế (vật lý) (n) tiềm lực, khả năng; điện: 
 chống cự, kháng cự, đề kháng; có sức chịu đựng, có sức bền: 
 (v) phổ biến (một vấn đề); làm cho quen (với vấn đề gì, công việc gì...): 
 sức ép; áp lực, sự đè nặng; high pressure: áp suất cao: 
@@ -365,7 +364,7 @@ ngay bây giờ ngay lúc này:
 gian hàng: 
 diện tích, bề mặt; vùng, khu vực; phạm vi, tầm: 
 khu vực họp: 
-chỗ che, chỗ nương tựa, chỗ núp, hầm; lầu, chòi; phòng, cabin (người lái); (v) che chở, bảo vệ; ẩn, 
+chỗ che, chỗ nương tựa, chỗ núp, hầm; lầu, chòi; phòng, cabin (người lái); (v) che chở, bảo vệ; ẩn, núp, nấp, trốn: 
 che cho ai khỏi mưa: 
 tình cờ, ngẫu nhiên: 
 (n) sự cố, tai nạn, tai biến; sự gồ ghề, sự khấp khểnh; by accident: tình cờ, ngẫu nhiên: 
@@ -375,10 +374,10 @@ tình cờ, ngẫu nhiên:
 áp phích; quảng cáo: 
 hạ giá trước khi đóng cửa: 
 sự vận động, sự chuyển đông, sự di động; cử động, cử chỉ, dáng đi; (v) ra hiệu, ra ý: 
- sự mài xát, sự ma xát; sự chà xát; sự xích mích: 
+sự mài xát, sự ma xát; sự chà xát; sự xích mích: 
 phần bù, phần bổ sung; bổ ngữ; (toán học) phần bù (góc bù): 
 (v) điều khiển (n) sự cầm lái, sự điều khiển: 
-bộ điều chỉnh; người kiểm soát; (= comptroller) quản lý, trưởng ban quản trị (bệnh viện, : 
+bộ điều chỉnh; người kiểm soát; (= comptroller) quản lý, trưởng ban quản trị (bệnh viện, trường học, doanh trại quân đội...): 
 tìm ra; tính toán ra được: 
 đường ghi âm (phim, game, ghi âm); nhạc (phim, game, ghi âm): 
 vụ nổ, tiếng nổ; luồng hơi (bễ lò), hơi (bom...); (v) làm nổ tung, phá (bằng mìn); phá hoại, làm : 
@@ -395,7 +394,7 @@ sự truyền cảm; sự cảm hứng; sự hít vào, sự thở vào:
 trì hoãn: 
 người quản trị, quản trị viên: 
 trang viên, thái ấp: 
-vùng Baltic, biển Ban-tích; thuộc một nhánh của ngôn ngữ ấn Âu gồm tiếng Latvia tiếng Lituania và : 
+vùng Baltic, biển Ban-tích; thuộc một nhánh của ngôn ngữ ấn Âu gồm tiếng Latvia tiếng Lituania và tiếng Phổ cổ; thuộc nhánh Ban-tích:  
 phòng trưng bày (tranh, tượng): 
 quán trọ;  khách sạn nhỏ (ở nông thôn, thị trấn); nhà nội trú (của học sinh đại học): 
 sàn nhảy; điệu nhảy: 
@@ -425,17 +424,17 @@ cái gối:
 xe máy kéo: 
 trình độ học vấn; sự biết viết, biết đọc: 
 gỗ thông: 
-(bếp núc) cái sạng, cái xúc : 
+(bếp núc) cái sạng, cái xúc: 
 đường chéo: 
 thuần chủng: 
 sự tiêu tan; sự phân tán, sự rải rác: 
 rải rác, thưa thớt, lưa thưa: 
-(n) ong mật đực; máy bay không người lái; bài nói đều đều; người nói giọng đều đều : 
+(n) ong mật đực; máy bay không người lái; bài nói đều đều; người nói giọng đều đều: 
 trọn đời; suốt đời: 
 thích nói, hay nói; lắm lời, ba hoa; bép xép: 
 tính ganh đua, cạnh tranh: 
 dấu hiệu của sự đánh giá cao; món quà đặc biệt: 
-đầu, mút, đỉnh, chóp; mẹo, mánh lới, mánh khoé;: 
+đầu, mút, đỉnh, chóp; mẹo, mánh lới, mánh khoé: 
 (n) nỉ, vải nỉ (v) cảm thấy: 
 bút nỉ: 
 (n) tiếng cú kêu; (v) (cú) kêu lên 1 tiếng: 
@@ -443,7 +442,7 @@ cú sừng:
 mũ lưỡi trai: 
 hẻm núi: 
 Xe trượt tuyết: 
-đi dạo, cuộc đi bộ đường dài : 
+đi dạo, cuộc đi bộ đường dài: 
 hạ giá; sự trừ hao, khấu trừ: 
 ẩm, ẩm thấp: 
 (a) có thể ăn được (n) vật có thể ăn được: 
@@ -462,17 +461,17 @@ nấm bệnh; (nhiễm) nấm:
 tái chế: 
 cầm tay: 
 bờ sông: 
-trơn trợt : 
+trơn trợt: 
 lầy lội: 
-(+ for, to) hợp, phù hợp, thích hợp;: 
-(v) phân phát (thư), phân phối, giao (hàng); phát biểu, giãi bày; (+ from) cứu khỏi, giải thoát; : 
-(n) sự phân phát (thư), sự giao hàng; cách nói; sự sinh đẻ; sự chuyển nhượng; sự giao nộp đầu : 
-đầu hàng; giao nộp thân mình; : 
+(+ for, to) hợp, phù hợp, thích hợp: 
+(v) phân phát (thư), phân phối, giao (hàng); phát biểu, giãi bày; (+ from) cứu khỏi, giải thoát: 
+(n) sự phân phát (thư), sự giao hàng; cách nói; sự sinh đẻ; sự chuyển nhượng; sự giao nộp đầu: 
+đầu hàng; giao nộp thân mình: 
 sinh một đứa con: 
 giao trả, chuyển giao, chuyển nhượng: 
- biểu diễn, trình bày (kịch, điệu nhảy...); làm (công việc...); thực hiện (lời hứa...); thi hành 
+biểu diễn, trình bày (kịch, điệu nhảy...); làm (công việc...); thực hiện (lời hứa...); thi hành: 
 hiệu suất; chất lượng: 
-(n) sự nghi ngờ, sự ngờ vực; (v) nghi ngờ, ngờ vực;: 
+(n) sự nghi ngờ, sự ngờ vực; (v) nghi ngờ, ngờ vực: 
 tiền nhập học, tiền vào cửa; sự thu nạp vào, sự kết nạp; sự thú nhận: 
 vào cửa không mất tiền: 
 nhạc Reggae, nhạc nhịp mạnh; điệu nhảy với nhịp mạnh phổ biến của người Tây Ân (quần đảo Antilles): 
@@ -481,7 +480,7 @@ khoảng (thời gian, không gian); lúc tạm nghĩ; thỉnh thoảng:
 nhẹ dạ cả tin; dễ tính; hoạt bát; vui vẻ: 
 nhạc kịch nhẹ nhàng: 
 (a) hùng vĩ; đẹp mắt, ngoạn mục (n) quang cảnh: 
-(n) sự rùng mình (kinh sợ); sự run lên rộn lên, sự rộn ràng (vì sung sướng);: 
+(n) sự rùng mình (kinh sợ); sự run lên rộn lên, sự rộn ràng (vì sung sướng): 
 huấn luyện viên - người khai vấn cuộc sống: 
 giống nhau, như nhau, tương tự; (toán học) đồng dạng: 
 (a) thừa dư để dành, có để dành; đạm bạc, thanh đạm; sơ sài, gầy gò: 
@@ -503,10 +502,10 @@ cành cây:
 (a) lòng nhân đạo, lòng nhân từ: 
 người Bỉ, Belgium: nước Bỉ: 
 cho rằng, giả thuyết, giả định rằng: 
-muỗng múc kem; muỗng múc bột; cái xúc;: 
+muỗng múc kem; muỗng múc bột; cái xúc: 
 sự lựa chọn: 
-ứng dụng; đơn xin; lời xin, lời thỉnh cầu;: 
-toàn cầu: 
+ứng dụng; đơn xin; lời xin, lời thỉnh cầu: 
+toàn cầu, trên toàn thế giới: 
 mạng toàn cầu: 
 (n) sự đo lường; (toán học) ước số (v) đo, đo lường; (+ off, out): phân phối, phân ra, chia ra: 
 phân phối một số lượng thuốc: 
@@ -517,14 +516,14 @@ cô ấy gần gũi với tôi :
 một vài, nhiều; riêng, cá nhân; khác nhau: 
 tài sản, sự kế thừa: 
 bất động sản riêng tư: 
-dịch vụ; ban, vụ, sở, cục, ngành : 
+dịch vụ; ban, vụ, sở, cục, ngành: 
 sự choáng váng; tình trạng bất tỉnh; sự kinh ngạc (v) làm choáng váng; làm sửng sốt, làm kinh ngạc: 
 tuyệt, hay, cừ khôi: 
 thanh nhã, thanh tú; mỏng manh, mảnh khảnh; tế nhị, khó xử: 
 nét mặt thanh tú: 
 sức khoẻ mỏng manh: 
 hoàn cảnh khó xử: 
-(v) nhận, được lợi; (n) lời, sự tăng thêm  : 
+(v) nhận, được lợi; (n) lời, sự tăng thêm: 
 sự tăng cân: 
 chướng ngại vật, sự trở ngại: 
 mở rộng, trải ra; nở ra, phồng ra, giãn; (toán học) khai triển: 
@@ -534,9 +533,10 @@ sự trị liệu, điều trị, liệu pháp:
 đặt trước; dự trữ: 
 sự đặt trước; sự bảo lưu, lưu trữ: 
 lều, rạp, cái tăng: 
-túi ngủ; cái mềm để chui vào ngũ: 
+túi ngủ; cái mềm để chui vào ngủ: 
 cái chổi: 
 tập hợp, tụ họp lại; hái, lượm, thu thập: 
+thu thập vật liệu: 
 bắt lửa: 
 dụng cụ đánh lửa: 
 (v) đốt thành than, hoá thành than; (n) than gỗ; ký tự; (động vật) cá hồi chấm hồng: 
@@ -548,7 +548,6 @@ quá dứa, khớm, thơm:
 quả đào: 
 (V) chịu đựng, bị: 
 sự tổn hại động vật hoang dã: 
-sự điều chỉnh, chỉnh lại cho đúng; điều tiết: 
 giống, loài: 
 (a) chặt, khít; chật, bó sát (n) áo ôm sát vào mình, đồ bộ bó: 
 (v) nắm chặt, kẹp chặt; nắm vững (kiến thức...); (n) tay phanh; sự nắm chặt; sự nắm vững: 
