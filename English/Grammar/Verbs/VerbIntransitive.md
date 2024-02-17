@@ -15,6 +15,9 @@
 Agree       :	Đồng ý
 Appear      :	Xuất hiện
 Arrive      :	Đến nơi
+Arouse
+Ascend
+Abound
 
 # B
 Bloom       :   
@@ -53,19 +56,104 @@ Fly         :
 
 # G
 Grow        :	Phát triển
+Glide
+Gallop
+Glow
+Glisten
+
+# H
+Hover       :
+Howl        :
+Hesitate    :
+Hop         :
+Hike        :
+
+# I
+Increase    :
+Inhale      :
+Intensify   :
+Itch        :
+Ignore      :
+
+# J
+Jump        :
+Jog         :
+
+# K
+Kick        :
+Knot        :
+Knit        :
+Kneel       :
+Knead       :
 
 # L
-Laugh       :	Cười
+Leap        :
+Linger      :
+Lurk        :
+Lounge      :
+Lavish      :
+
+# M
+Melt        :
+Meander     :
+Multiply    :
+Murmur      :
+Migrate     :
+
+# N
+Nod         :
+Nibble      :
+Navigate    :
+Nap         :
+Nudge       :
+
+# O
+Open        :
+Oscillate   :
+Overflow    :
+Originate   :
+Operate     :
+
+# P
+Prance      :
+Pounce      :
+Perish      :
+Plunge      :
+Prickle     :
+
+# Q
+Quiver      :
+Quake       :
+Quench      :
+Quell       :
+Quiver      :
 
 # R
 Rain        :	Mưa
 Run         :	Chạy
+Rise
+Roam
+Revolve
+Ripple
+Rustle
 
 # S
 Sing        :	Hát
 Sleep       :	Ngủ
 Snow        :   Đổ tuyết
 Swim        :   Bơi
+Sway
+Sigh
+Soar
+Spin
+Stroll
+
+# T
+Tumble
+Trot
+Twinkle
+Twist
+Turn
 
 # W
 Walk        :	Đi bộ
