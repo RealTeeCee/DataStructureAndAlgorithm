@@ -13,3 +13,47 @@ regulate /'regiuleit/: điều tiết; chỉnh đốn, điều chỉnh theo mo
 regulation /'regiuleiSHən/: quy định, quy tắc; sự chỉnh đốn; sự sắp đặt
 sketch
 sketchbook 
+pirate
+vegetarian
+mock
+lunchbox
+tasty reminder
+vegetable-based
+diet
+filling
+tofu
+bean
+mushroom
+gassy
+snacking
+sugary snack
+jealous
+universal leaf symbol
+for the rest of
+greasy burger
+cherish
+get hyper off of
+a whole
+virtual reality (V.R)
+recent advancement technology
+escape 
+imaginary 
+negative effect
+interact
+face to face
+lash out
+grow
+virtual headset
+psychologist
+participate
+participant
+uncertainty
+big-name companies 
+stress disorders
+elder
+elderly people
+aging
+illnesses
+wondrous
+birdwatching 
+ 

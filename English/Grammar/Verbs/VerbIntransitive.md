@@ -11,19 +11,61 @@
 
 - We ran in the park. (The verb "ran" does not require an object.)
 
+# A
 Agree       :	Đồng ý
 Appear      :	Xuất hiện
 Arrive      :	Đến nơi
-Become      :	Trở thành
+
+# B
+Bloom       :   
+Blink       :   
+Burst       :   
+Burn        :   
+Buzz        :   
+
+# C
+Climb       :
+Crawl       :
+Collapse    :
+Crumble     :
 Cry         :	Khóc
-Depend      :	Phụ thuộc vào
+
+# D
+Dance       :   Nhảy, múa
+Dive        :
+Drift       :
 Die         :	Chết/mất
 Disappear   :	Biến mất
+
+# E
+Emerge      :
+Evaporate   :
+Expand      :
+Explode     :
+Exhale      :
+
+# F
+Fade        :
+Float       :
+Fluctuate   :
+Flutter     :
+Fly         :
+
+# G
 Grow        :	Phát triển
+
+# L
 Laugh       :	Cười
+
+# R
 Rain        :	Mưa
 Run         :	Chạy
+
+# S
 Sing        :	Hát
 Sleep       :	Ngủ
 Snow        :   Đổ tuyết
+Swim        :   Bơi
+
+# W
 Walk        :	Đi bộ
