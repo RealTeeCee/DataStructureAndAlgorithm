@@ -4,7 +4,6 @@ massacre /'mæsəkə/: cuộc thảm sát (cố ý)
 kindling 
 flame
 seaweed 
-excess fat
 sieve
 paper cone
 dash of salt
@@ -17,6 +16,7 @@ pirate
 vegetarian
 mock
 lunchbox
+stomach
 tasty reminder
 vegetable-based
 diet
@@ -41,6 +41,7 @@ imaginary
 negative effect
 interact
 face to face
+be aware of
 lash out
 grow
 virtual headset
@@ -56,4 +57,44 @@ aging
 illnesses
 wondrous
 birdwatching 
- 
+flavour
+karate instructor
+kickboxing lesson
+top-of-the-line
+further than
+bullying 
+excess fat
+excessive 
+bullying and excessive homework
+recognised
+adopt into
+budgeting book
+leftovers
+mankind
+fantasy
+warrior
+surrounding
+townsfolk
+outdated 
+mindset 
+beard 
+jolly
+red-suited
+stockings
+official 
+unofficial 
+birdwatching 
+birdwatcher 
+pair of
+binoculars 
+keep an eye for
+citizen
+dedicate
+dedicated
+journal
+distance
+refer to
+twitch
+twitcher
+far-off
+enjoyable
