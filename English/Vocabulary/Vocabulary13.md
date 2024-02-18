@@ -31,7 +31,7 @@ journal /'dʤə:nl/: tạp chí; báo hàng ngày; bản ghi, báo cáo
 distance /'distəns/: khoảng cách, tầm xa; quãng đường
 refer to /rəˈfər tu/: đề cập đến; tham khảo đến
 twitch /twitʃ/: (n) sự co rúm, sự co quắp (mặt, chân tây...); chứng co giật; sự kéo mạnh, sự giật mạnh
-                (v) giật; gây ra chuyển động giật hoặc co giật đột ngột; co rúm, co quắp
+(v) giật; gây ra chuyển động giật hoặc co giật đột ngột; co rúm, co quắp
 twitcher /ˈtwiCHər/: người/vật bị co giật
 far-off /ˌfɑːˈrɑːf/: xa xôi
 enjoyable /in'dʤɔiəbl/: thú vị, thích thú
