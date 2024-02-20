@@ -31,33 +31,40 @@
 - She is exceptionally hard-working and independent. Waking up at 4:30 AM every day, she takes the initiative to cook her own meals. She consistently goes above and beyond to assist her colleagues at the company. Despite working late into the night, she also manages to balance a second job as a freelancer. Her commitment to her work and self-reliance are truly remarkable.
 
 # Tri
+1. How is your teacher?
+- My teacher is a professional. He is highly knowledgeable in his subject. He employ a variety of instructional techniques, resources, and technologies to engage students and enhance their understanding.
+  
+2. How is your co-worker?
+- My coworker is friendly, they embody qualities of approachability, supportiveness, willingness to collaborate, and genuine interest in    building relationships.
+  
+3. What is the his sister like ?
+- His sister is mature. She is with a calm and composed demeanor,  she exudes an air of maturity that inspires respect and admiration from her siblings. She takes on the role of a caretaker and mentor,  looking out for the well-being and best interests of her siblings.
+  
+4. What do you think about the trainer ?
+- I think he is devoted. He is a passionate and dedicated professional 
+who invests wholeheartedly in the growth and development of his trainees.
 
-1. 
-- 
+5. How is a salesman?
+- Salesman is talkative, He is a charismatic and outgoing individual who thrives on engaging with customers and building rapport through conversation.  His personality and gift of gab make him a natural at sales, as he effortlessly draws people in with his charm and enthusiasm.
+6. what are doctors like?
+- Doctorss are caring who embodies qualities of compassion, empathy, dedication, and bedside manner. Their genuine concern for their patients' well-being, coupled with them medical expertise and nurturing approach, makes them a trusted and beloved healthcare provider who makes a positive impact on the lives of those they serves.
+  
+7. What are painter like?
+- Painter are patient, their patience is evident in their approach to challenges and setbacks. 
+They understands that mistakes are an inevitable part of the artistic process and sees them as opportunities for growth and learning rather than obstacles to be avoided. When faced with a difficult passage or a creative block, Emily remains calm and focused, 
+trusting in their ability to overcome adversity through perseverance and determination.
 
-2. 
-- 
+8. What are policeman like?
+They are brave. They face danger and uncertainty head-on, displaying unwavering courage in the face of adversity. 
+Whether responding to a high-risk situation, apprehending dangerous criminals, 
+or protecting the public from harm, They remains steadfast and composed, 
+ready to confront any challenge that comes his way.
 
-3. 
-- 
+9. What do think about Beyonce ?
+Beyoncé's powerful vocals, dynamic performances, and versatile musical style have earned her widespread acclaim and numerous accolades throughout her career. As a solo artist, she has released several critically acclaimed albums.
 
-4. 
-- 
+10.  How is Iron Man ?
+- Iron Man, both as a character and as a symbol, has had a significant impact on popular culture. 
+He represents innovation, intelligence, and the power of technology for good. Tony Stark's journey from a self-centered billionaire to a selfless superhero is a compelling narrative that resonates with audiences.
 
-5. 
-- 
 
-6. 
-- 
-
-7. 
-- 
-
-8. 
-- 
-
-9. 
-- 
-
-10. 
-- 
