@@ -89,46 +89,81 @@
 
 * VF1
 - He should relax.
+  
 - The bird can fly.
+  
 - I must go.
+  
 - A rainbow will appear after the rain.
+  
 - The seed might germinate.
+  
 * VF2
 - I will pick you up at eight.
+  
 - You must brush up on your English.
+  
 - He can speak French.
+  
 - We might join the meeting.
+  
 - Staffs have to report their work.
+  
 * VF3
 - My parents will be happy when I come back home.
+  
 - Works might get better in this year.
+  
 - We will become friends after a few months.
+  
 - It could be rain tomorrow.
+  
 - Her face will turn red when he shy.
+  
 * VF4
 - My team could give a gift on my birthday.
+  
 - We should advance some money to the carpenter.
+  
 - She will bring him some books.
+  
 - We must pay interest on the loan.
+  
 - My father might rent his house to a foreigner.
+  
 * VF5
 - My teacher should make me do homework.
+  
 - I will help him complete his task.
+  
 - He might have me keep his bag.
+  
 - I should not let him use my laptop.
+  
 - I could let him play chess.
+  
 * VF6.
 - I can find the solution resolving this issue.
+  
 - Developer will set the schedule running.
+  
 - User could start the program.
+  
 - The will catch him playing basketball.
+  
 - She should not leave the baby in the room.
+  
 * VF7.
 - I could fell someone behind me.
+  
 - I can hear the chicken crowing in the garden.
+  
 - Student must listen to teacher teach the lesson.
+  
 - We might watch our teammate dancing on the stage.
+  
 - I can smell something burn in the kitchen.
+  
 
 
 
