@@ -12,7 +12,7 @@ eye-witness //: nhân chứng tận mắt
 beforehand /bi'fɔ:hænd/: sẵn sàng trước; Làm trước; đoán trước; biết trước.
 well-written //: viết hay
 heptathlon /hepˈtaTHˌlän/: bảy môn phối hợp nữ
-fountain /'fauntin/: đài, vòi phun nước (công viên)
+fountain /'fauntən/: đài, vòi phun nước (công viên)
 day in and day out //: ngày này qua ngày khác
 competent /'kɔmpitənt/: có đủ trình độ, thông thạo; (pháp lý) có thẩm quyền
 spectator /spek'teitə/: người xem, khán giả
@@ -73,7 +73,6 @@ lunchbox /ˈlʌntʃbɑks/: hộp cơm trưa
 stomach /ˈstʌmək/: dạ dày
 tasty reminder /ˈteɪsti rɪˈmaɪndər/: Lời nhắc nhở thú vị
 vegetable-based /ˈvɛdʒtəbl beɪst/: làm từ thực vật
-diet /ˈdaɪət/: ăn kiêng 
 filling /ˈfɪlɪŋ/: chất liệu trám răng, chất liệu mềm dùng để lót đệm, gối…,thức ăn được đặt bên trong bánh sandwich, bánh ngọt, bánh ngọt
 tofu /ˈtoʊfu/: đậu hũ
 bean /bin/: hạt đậu

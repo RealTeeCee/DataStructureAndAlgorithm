@@ -109,8 +109,8 @@ bệnh tật, căn bệnh:
 khả năng xảy ra, sự có lẻ đúng: 
 nhân tố; hệ số: 
 thuốc lá: 
-(y học) chế độ ăn kiêng; chế độ ăn uống: 
 (n) hợp đồng, giao kèo; khế ước; (v) ký kết, kết ước; làm teo lại; tiêm nhiễm: 
+(y học) chế độ ăn kiêng; chế độ ăn uống: 
 liên quan đến chế độ ăn uống: 
 làm gián đoạn: 
 chứng minh: 

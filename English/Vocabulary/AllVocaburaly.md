@@ -1252,8 +1252,6 @@ snore /snɔr/: Ngáy (v) tiếng ngáy (n), tiếng ầm ầm (n), tiếng vu vu
 sign /saɪ/: Thở dài (v)
 fall behind //: Tụt lại phía sau.
 Idiomatic expressions //: câu thành ngữ
-To pull someone's leg //: lừa ai (i)
-To play it by ear //: rồi tính sau (i)
 By hydrofoil /ˈhaɪdrəˌfɔɪl/: Bằng tàu cánh ngầm.
 By raising my hand //: Bằng cách giơ tay.
 Within my abilities //: Trong giới hạn khả năng của tôi.
@@ -1540,3 +1538,254 @@ booth /bu:ð/: quán, rạp, lều; buồng
 oolong /'u:lɔɳ/: chè/trà ô long
 interpolation /in,tə:pou'leiʃn/: (toán học) phép nội suy
 balcony /'bælkəni/: ban công
+redundant /ri'dʌndənt/: sự dư thừa; (văn) rườm rà
+carnage /'kɑ:nidʤ/: sự cố, sự kiện gây thiệt mạng nhiều người killing of a large number of people 
+massacre /'mæsəkə/: cuộc thảm sát (cố ý)
+kindling /ˈkɪndlɪŋ/: những mảnh gỗ khô nhỏ, v.v. dùng để nhóm lửa
+flame /fleɪm/: một dòng khí cháy nóng rực phát ra từ vật gì đó đang cháy
+seaweed /ˈsiwid/: rong biển
+sieve /sɪv/: cái sàng.
+paper cone /ˈpeɪpər koʊn/: nón giấy
+dash of salt /dæʃ ev sɔlt/: Một chút xíu muối
+colleague = fellow = co-worker /ˈkɑliɡ/:  đồng nghiệp
+regulate /'regiuleit/: điều tiết; chỉnh đốn, điều chỉnh theo mong muốn, chỉnh lại cho đúng (Dựa trên quy tắc); sắp đặt
+regulation /'regiuleiSHən/: quy định, quy tắc; sự chỉnh đốn; sự sắp đặt
+sketch /skɛtʃ/: bản phác họa (n),  phác họa (v)
+sketchbook /ˈskɛtʃbʊk/: sổ phác thảo
+pirate /ˈpaɪrət/: cướp biển
+vegetarian /ˌvɛdʒəˈtɛriən/: người ăn chay
+mock /mɑk/: chế nhạo (v), sự chế giểu (n), giả mạo (a)
+lunchbox /ˈlʌntʃbɑks/: hộp cơm trưa
+stomach /ˈstʌmək/: dạ dày
+tasty reminder /ˈteɪsti rɪˈmaɪndər/: Lời nhắc nhở thú vị
+vegetable-based /ˈvɛdʒtəbl beɪst/: làm từ thực vật
+diet /ˈdaɪət/: ăn kiêng 
+filling /ˈfɪlɪŋ/: chất liệu trám răng, chất liệu mềm dùng để lót đệm, gối…,thức ăn được đặt bên trong bánh sandwich, bánh ngọt, bánh ngọt
+tofu /ˈtoʊfu/: đậu hũ
+bean /bin/: hạt đậu
+mushroom /ˈmʌʃrum/: nấm
+gassy /ˈɡæsi/: đầy hơi
+snacking /snæk/: đồ ăn vặt
+sugary snack: đồ ăn vặt có đường
+jealous /ˈdʒɛləs/:  ghen tị, đố kỵ
+universal leaf symbol
+for the rest of: cho phần còn lại của ...
+greasy burger /ˈɡrizi ˈbərɡər/: bánh mì kẹp thịt béo ngậy
+cherish /ˈtʃɛrɪʃ/:  âu yếm, ôm ấp, yêu mến
+get hyper off of //: thoát khỏi cơn cuồng nhiệt ...
+a whole //: toàn bộ
+virtual reality (V.R) /ˈvərtʃuəl riˈælət̮i/: thực tế ảo
+recent advancement technology /ˈrisnt ədˈvænsmən tɛkˈnɑlədʒi/: công nghệ tiến bộ gần đây
+escape /ɪˈskeɪp/: trốn, trốn khỏi, vượt ngục
+imaginary /ɪˈmædʒəˌnɛri/: tưởng tượng
+negative effect /ˈnɛɡət̮ɪv ɪˈfɛkt/: ảnh hưởng xấu
+interact /ˌɪntərˈækt/: tương tác
+face to face //: đối mặt
+be aware of // : nhận thức, hiểu biết về một sự vật, hành động cụ thể hoặc có kiến thức, kinh nghiệm về một điều gì đó.
+lash out /læʃ aʊt/: Đội nhiên trở nên bạo lực, Phản ứng dữ dội, giận dữ, Chi tiêu nhiều tiền cho đồ xa xỉ
+grow /ɡroʊ/: phát triển, lớn lên, nẩy mầm, mọc lên
+virtual headset //: tai nghe ảo
+psychologist /saɪˈkɑlədʒɪst/: nhà tâm lý học
+participate /pɑrˈtɪsəˌpeɪt/: tham dự, tham gia vào
+participant /pɑrˈtɪsəpənt/: người tham gia
+uncertainty: tính không chắc chắn
+big-name companies //:các công ty tên tuổi
+stress disorders /strɛs dɪsˈɔrdər/: rối loạn căng thẳng
+elder /ˈɛldər/: lớn hơn (tuổi)
+elderly people //: người cao tuổi
+aging /eɪdʒɪŋ/: tuổi già
+illnesses /ˈɪlnəs/: bệnh tật
+wondrous /ˈwʌndrəs/: lạ, đẹp và ấn tượng
+birdwatching // : ngắm chim
+flavour /ˈfleɪvər/: hương vị
+karate instructor /kəˈrɑt̮i ɪnˈstrʌktər/: huấn luyện viên karate
+kickboxing lesson: bài học đấm bốc (một dạng đấm bốc có thể đá)
+top-of-the-line //: hàng đầu
+further than //: xa hơn
+bully  /ˈbʊli/: bắt nạt
+excess fat /ɪkˈsɛs fæt/: mỡ thừa
+excessive /ɪkˈsɛsɪv/: quá đáng, vô độ
+bullying and excessive homework
+recognised /ˈrɛkəɡˌnaɪz/: được công nhận
+adopt /ə'dɔpt/: nhận làm con nuôi; nhận làm bố mẹ nuôi; chấp nhận và thực hiện
+adopt into //: áp dụng vào
+budget /ˈbəjət/: ngân sách
+budgeting book //: sổ theo dõi dự toán
+leftover /ˈleftˌōvər/: (n) phần thừa lại; phần còn lại; (a) thừa lại; còn thừa; còn lại
+leftovers /ˈleftˌōvərs/: (số nhiều) thức ăn thừa
+mankind /mæn'kaind/: loài người, nhân loại
+fantasy /'fæntəsi/: (n) khả năng tưởng tượng; hình ảnh tưởng tượng; sự huyền ảo
+warrior /'wɔriə/: chiến binh; chiến sĩ, quân nhân
+surrounding /sə'raundiɳ/: bao quanh, vây quanh; chung quanh
+townsfolk /'taunzfouk/: dân thành thị, dân phố
+outdated /aut'deitid/: lỗi thời; lạc hậu
+mindset /ˈmaIndset/: tư duy
+beard /biəd/: (người) râu
+jolly = happy /'dʤɔli/: vui vẻ, vui tươi, vui nhộn
+red-suited //: phù hợp với màu đỏ
+stockings /'stɔkiɳ/: (nữ) đôi vớ dài (thường cao đến đùi)
+socks /sɔk/: đôi vớ ngắn cổ
+official /ə'fiʃəl/: chính thức; hành chính; (thuộc) văn phòng; (thuộc) chính quyền;
+unofficial /'ʌnə'fiʃəl/: không chính thức, không được công bố xác minh
+birdwatching /'bə:d,wɔtʃiɳ/: sự quan sát nhận dạng chim trời
+birdwatcher /'bə:d,wɔtʃər/: người quan sát nhận dạng chim trời
+pair of /per ov/: một cặp, một đôi
+binoculars /bəˈnäkyələrz/: ống nhòm
+keep an eye on //: để mắt tới
+keep an eye out for (sth or so) //: tìm kiếm / theo dõi thứ gì đó / ai đó với sự chú ý cẩn thận và kiên nhẫn.
+citizen /'sitizn/: công dân; người dân thành thị; người thường dân (trái với quân đội)
+dedicate /'dedikeit/: (v) cống hiến, hiến dâng; dành cho; khánh thành, khai mạc
+dedicated /'dedikeitit/: tận tụy, tận tâm; có tính cách chuyên môn; dành riêng
+journal /'dʤə:nl/: tạp chí; báo hàng ngày; bản ghi, báo cáo
+distance /'distəns/: khoảng cách, tầm xa; quãng đường
+refer to /rəˈfər tu/: đề cập đến; tham khảo đến
+twitch /twitʃ/: (n) sự co rúm, sự co quắp (mặt, chân tây...); chứng co giật; sự kéo mạnh, sự giật mạnh
+(v) giật; gây ra chuyển động giật hoặc co giật đột ngột; co rúm, co quắp
+twitcher /ˈtwiCHər/: người/vật bị co giật
+far-off /ˌfɑːˈrɑːf/: xa xôi
+enjoyable /in'dʤɔiəbl/: thú vị, thích thú
+culinary /'kʌlinəri/: (thuộc) nấu nướng, (thuộc) việc bếp núc
+culinary skill //: kỹ năng nấu nướng
+testament /'testəmənt/: minh chứng; di chúc; kinh thánh
+Every meal at our family table is a testament to her exceptional cooking //: Mỗi bữa ăn trên bàn ăn của gia đình chúng tôi là minh chứng cho tài nấu nướng điêu luyện của cô.
+imposing /im'pouziɳ/: gây ấn tượng mạnh mẽ; oai nghiêm, hùng vĩ, đường bệ, bệ vệ
+imposing with /im'pouziɳ wiθ/: áp đặt với
+robust /rə'bʌst/: tráng kiện, khoẻ mạnh, cường tráng
+robust physique /rə'bʌst fi'zi:k/: vóc dáng cường tráng, tráng kiện
+stature /'stætʃə/: vóc dáng, vóc người
+tall stature /tɔ:l 'stætʃə/: vóc dáng cao lớn
+invaluable /in'væljuəbl/: vô giá
+invaluable gift /in'væljuəbl gift/:món quà vô giá
+discipline /ˈdisəplən/: sự kỷ luật
+craftsman /'krɑ:ftsmən/: nghệ nhân, thợ thủ công; người lành nghề, người khéo léo, người có kỹ xảo, người điêu luyện
+master craftsman /'mɑ:stə 'krɑ:ftsmən/: nghệ nhân bậc thầy
+strive /strīv/: phấn đấu, nỗ lục, rán sức
+strive for excellence /strīv for ˈeksələns/: phấn đấu để đạt thành thông, đạt được sự xuất sắc.
+tend /tend/: có xu hướng
+rely on /rəˈlī on/: dựa vào
+with ease /wiθ ēz/: một cách dễ dàng
+mere /mir/: đơn thuần; chỉ là
+as if it were a mere toy //: như thể nó chỉ là một món đồ chơi
+showcase /ˈʃoʊ.keɪs/: trưng bày
+consistent /kənˈsistənt/: tính nhất quán, kiên định, trước sau như một; tính rắn chắc; đặc (ruột)
+consistent with //: phù hợp, thích hợp
+initiative /i'niʃiətiv/: (thuộc) bắt đầu, khởi đầu
+beyond /bi'jɔnd/: ở xa, ở phía bên kia; cao, xa hơn nữa
+go above and beyond //: luôn nỗ lực hết mình
+commitment /kə'mitmənt/: sự cam kết; lời giao kết; sự bảo chứng
+reliance: (n) sự trông cậy (a) reliable: thuộc tin cậy
+freelancer //: người làm việc/nghề tự do
+open water //: nước mặt thoáng; ngoài khơi
+record holder /ˈrekərd ˌhōldər/: người giữ kỷ lục
+courage /'kʌridʤ/
+performing tricks /pə'fɔ:miɳ trik/: 
+trickshot /'trikʃɔt/: Một cú sút/đánh bóng xuất chúng độc đáo để thể hiện bản thân hoặc ném một quả bóng không thể thực hiện được 
+transfer /'trænsfə:/: (n) sự di chuyển, sự dời chỗ; sự truyền; sự chuyển cho; (v) dời, chuyển, dọn; (+ to) chuyển tới
+crowd /kraud/: đám đông; the crowd: quần chúng; bọn, tụi, lũ, nhóm
+medic /'medik/: (a) y sĩ; bác sĩ; người cứu thương
+medical /'medikəl/: (a) (thuộc) y học 
+medical condition //: tình trạng sức khỏe
+homesick /'houmsik/: nhớ nhà, nhớ quê hương
+senior /'si:njə/: người nhiều kinh nghiệm hơn; người lớn tuổi; người giữ chức vụ cao và có thẩm quyền.
+senior team //: đội cấp cao
+scoring record //: kỷ lục ghi bàn
+shock /shock/: (n) sự sốc, sự khích động, sự đột xuất; (v) gây sốc, gây kích động, làm chướng tai gai mắt; gây giật điện
+wages /weidʤ/: tiền lương, tiền công
+pay wages //: trả lương
+cruise ship /kru:z ʃip/: tàu khách biển khơi, tàu du lịch
+overcrowding /ōvərˈkroudiNG/: chật kín, đông nghẹt, tình trạng có quá nhiều người tại một nơi
+treatment /ˈtrētmənt/: sự đối đãi; sự đãi ngộ; (y học) sự điều trị; phép trị bệnh
+city official /citi ə'fiʃəl/: quan chức thành phố
+historical center /his'tɔrikəl 'sentə/: trung tâm lịch sử
+environmentalist /inˌvīrənˈmentələst/ : nhà môi trường học
+biota /bīˈōdə/: hệ sinh vật
+marine life /məˈrin laif/: cuộc sống ngoài biển 
+marine biota /məˈrin bīˈōdə/: hệ sinh vật biển
+charge /tʃɑ:dʤ/: (n) tiền phải trả, tiền công, tiền thù lao; vật mang, vật chở; gánh nặng; nhiệm vụ, bổn phận, trách nhiệm; sự nạp đạn, sự nạp điện; sự bảo chứng
+                 (v) bắt chi trả, bắt nộp, ghi sổ (nợ); giao nhiệm vụ; nạp đạn, điện
+charge (for something) : Tiền phí cho ...
+in charge of: chịu trách nhiệm ...
+theme /θim/: chủ đề
+theme park: công viên giải trí (trong đó các trò vui chỉ dựa trên một tư tưởng hoặc nhóm tư tưởng)
+the city's famous squares: quảng trường nổi tiếng của thành phố
+sensible /ˈsɛnsəbl/: hợp lý, sáng suốt, nhạy cảm ( dựa trên lý trí hơn là cảm xúc)
+generally /ˈdʒɛnrəli/: Nói chung là, Đại khái là
+frequently /ˈfrikwəntli/: Thường xuyên
+profile /ˈproʊfaɪl/: Hồ sơ
+social media platform /ˈsoʊʃl ˈmidiə ˈplætfɔrm/: nền tảng truyền thông xã hội
+parcel /ˈpɑrsl/: Bưu kiện, gói hàng
+illustration /ˌɪləˈstreɪʃn/: Hình (bảng) minh họa
+bedtime story /ˈbedtaɪm ˈstɔri/: Truyện ngủ
+chapter /ˈtʃæptər/: chương
+series of /ˈsɪriz/: Loạt
+Alps / /: Dãy núi Alps
+Appalachians //: người Appalachia
+heartwarming story /ˈhɑrtˌwɔrmɪŋ/ : câu chuyện cảm động
+facts /fækt/: sự thật
+insect /ˈɪnsɛkt/: côn trùng
+close to the edge of /ɛdʒ/: gần với các cạnh ,sát mép, gần rìa
+steel band //: Vòng thép
+out of a can //: Ra khỏi ...
+come out //: 1. ra khỏi; 2. công khai, tiết lộ; 3. ra mắt trong xã hội hoặc trên sân khấu
+generous != stingy /'dʤenərəs/: rộng rãi, hào phóng, quảng đại; rộng lượng, khoan hồng 
+stingy /'stindʤi/: keo kiệt, bủn xỉn
+experienced != inexperienced /iks'piəriənst/: giàu kinh nghiệm, từng trải, lão luyện != thiếu kinh nghiệm
+powerful != powerless /'pauəful/: quyền lực; hùng mạnh != bất lực; không có sức mạnh
+intellectual != unintellectual /,intə'lektjuəl/: có học thức; tài trí; (thuộc) trí óc != không có trí tuệ
+thoughtful != thoughtless /'θɔ:tful/: ngẫm nghĩ, hay trầm tư, suy tư; sâu sắc, thâm trầm
+flexible != inflexible /flexible/: linh động, linh hoạt; dẻo, mềm dẻo, dễ uốn nắn != không linh hoạt
+patient != impatient: kiên nhẫn, kiên trì != không kiên trì, thiếu kiên nhẫn
+swift != sluggish / slow /swift/: nhanh nhẹn, mau
+sluggish /ˈsləɡiSH/: chậm chạp; uể oải, lờ đờ, lờ phờ
+articulate != inarticulate /ɑ:'tikjulit/: ăn nói rõ ràng, nhanh nhẹn != ăn nói ú ớ, nói chuyện không rõ ràng
+professional != unprofessional /professional/: chuyên nghiệp != nghiệp dư, không chuyên nghiệp
+skillful != unskillful /ˈskilfəl/: có kĩ năng, khéo tay; tài giỏi != không khéo léo, thiếu kĩ năng
+obese != skinny /ou'bi:s/: béo phì, phệ bụng
+thorough != careless /ˈTHərō/: am tường; kỹ lưỡng, uyên thâm
+considerate != inconsiderate //: ân cần, chu đáo; thận trọng; hay quan tâm tới người khác != thiếu ân cần, thiếu chu đáo, thiếu quan tâm
+nervous != calm /ˈnərvəs/: lo lắng; hay sợ
+devoted != heartless /di'voutid/: hết lòng, tận tâm, tận tình, tận tuỵ
+easygoing != strict /ˌēzēˈɡōiNG/: dễ tính, dễ dãi != nghiêm khắc
+strong != frail / weak /strôNG/: mạnh mẽ
+frail /freil/: yếu đuối, ẻo lả; dễ vỡ; mỏng mảnh (không dùng cho trình độ)
+weak /wik/: yếu ớt; non kém; thiếu nghị lực, mềm yếu, nhu nhược; học lực yếu
+Talkative /ˈtɔkət̮ɪv/: nói nhiều
+Quiet /ˈkwaɪət/: ít nói
+Liberal /ˈlɪbərəl/: tự do
+Conservative /kənˈsərvət̮ɪv/: bảo thủ
+Tender /ˈtɛndər/ : dịu dàng
+Graceful /ˈɡreɪsfl/: duyên dáng
+Argumentative /ˌɑrɡyəˈmɛntət̮ɪv/: hay lý luận
+Punctual /ˈpʌŋktʃuəl/: đúng giờ
+Helpful /ˈhɛlpfl: hay giúp đỡ
+Skinny /ˈskɪni/: ốm
+Mature /məˈtʃʊr/: chín chắn
+Immature /ˌɪməˈtʃʊr: ngây ngô, con nít
+Caring /ˈkɛrɪŋ/: chu đáo
+Kind-hearted /kaɪnd hɑrtid/: tốt bụng
+Understanding /ˌʌndərˈstændɪŋ/: hiểu biết
+Attractive /əˈtræktɪv/: lôi cuốn
+Gracious /ˈɡreɪʃəs/: hòa nhã
+Friendly /ˈfrɛndli/: thân thiện
+Sentimental /ˌsɛntəˈmɛntl/: tình cảm
+Famous /ˈfeɪməs/: nổi tiếng
+to smell a rat //: cảm thấy bất ổn; hoài nghi nghi ngờ ai
+to get in s.o's hair //: làm phiền ai đó
+to pull s.o's leg //: lừa ai
+to play it by ear //: làm điều gì đó mà không có sự chuẩn bị đặc biệt, làm trước tính sau
+to stick out one's neck //: liều lĩnh, đánh liều nói hoặc làm điều gì đó mà người khác có thể không thích ([one] phải cùng 1 người)
+Ex: He decided to stick his neck out and buy a new sports car, even though he hadn't asked his wife
+to get off s.o's back //: tránh làm phiền ai
+to sell s.o down the river //: phản bội ai
+to spill the beans: tiết lộ bí mật
+to shoot the breeze: tán gẫu
+to bend over backwards: cố gắng rất nhiều
+to hit the hay //: đi ngủ
+to hit the ceiling //: cực kỳ tức giận
+to go fly a kite //: đi chơi chỗ khác, tránh chỗ khác
+to be in the hole //: nợ nần
+to face the music //: nhận hậu quả; chịu trách nhiệm về một cái gì đó bạn đã làm
+to blow it //: thất bại ở việc gì đó; mắc phạm sai lầm.
+to be hot under the collar //: xấu hổ, hờn dỗi
+to be dressed to kill //: ăn mặc quần áo rất lạ mắt hoặc hấp dẫn
+to lose one's shirt //: làm mất nhiều tiền; mất phần lớn tài sản hoặc giá trị của một người trong một khoản đầu tư
