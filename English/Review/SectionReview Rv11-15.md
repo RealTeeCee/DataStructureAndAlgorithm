@@ -180,7 +180,7 @@ hộp cơm trưa:
 dạ dày: 
 Lời nhắc nhở thú vị: 
 làm từ thực vật: 
-ăn kiêng : 
+ăn kiêng: 
 chất liệu trám răng, chất liệu mềm dùng để lót đệm, gối…,thức ăn được đặt bên trong bánh sandwich, bánh ngọt, : 
 đậu hũ: 
 hạt đậu: 
@@ -265,7 +265,7 @@ Mỗi bữa ăn trên bàn ăn của gia đình chúng tôi là :
 gây ấn tượng mạnh mẽ; oai nghiêm, hùng vĩ, đường bệ, bệ vệ: 
 áp đặt với: 
 tráng kiện, khoẻ mạnh, cường tráng: 
-vóc dáng cường tráng, tráng kiện: 
+thân hình cường tráng, tráng kiện: 
 vóc dáng, vóc người: 
 vóc dáng cao lớn: 
 vô giá: 
@@ -290,12 +290,13 @@ sự cam kết; lời giao kết; sự bảo chứng:
 người làm việc/nghề tự do: 
 nước mặt thoáng; ngoài khơi: 
 người giữ kỷ lục: 
-performing tricks /pə'fɔ:miɳ trik/: 
+sự can đảm, sự dũng cảm, dũng khí: 
+biểu diễn kĩ xảo:  
 Một cú sút/đánh bóng xuất chúng độc đáo để thể hiện bản thân hoặc ném một quả bóng không thể thực 
 (n) sự di chuyển, sự dời chỗ; sự truyền; sự chuyển cho; (v) dời, chuyển, dọn; (+ to) chuyển tới: 
 đám đông; the crowd: quần chúng; bọn, tụi, lũ, nhóm: 
 (a) y sĩ; bác sĩ; người cứu thương: 
-(a) (thuộc) y học : 
+(a) (thuộc) y học: 
 tình trạng sức khỏe: 
 nhớ nhà, nhớ quê hương: 
 người nhiều kinh nghiệm hơn; người lớn tuổi; người giữ chức vụ cao và có thẩm quyền.: 

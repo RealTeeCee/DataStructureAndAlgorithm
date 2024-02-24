@@ -31,7 +31,7 @@ journal /'dʤə:nl/: tạp chí; báo hàng ngày; bản ghi, báo cáo
 distance /'distəns/: khoảng cách, tầm xa; quãng đường
 refer to /rəˈfər tu/: đề cập đến; tham khảo đến
 twitch /twitʃ/: (n) sự co rúm, sự co quắp (mặt, chân tây...); chứng co giật; sự kéo mạnh, sự giật mạnh
-(v) giật; gây ra chuyển động giật hoặc co giật đột ngột; co rúm, co quắp
+                (v) giật; gây ra chuyển động giật hoặc co giật đột ngột; co rúm, co quắp
 twitcher /ˈtwiCHər/: người/vật bị co giật
 far-off /ˌfɑːˈrɑːf/: xa xôi
 enjoyable /in'dʤɔiəbl/: thú vị, thích thú
@@ -42,7 +42,7 @@ Every meal at our family table is a testament to her exceptional cooking //: M�
 imposing /im'pouziɳ/: gây ấn tượng mạnh mẽ; oai nghiêm, hùng vĩ, đường bệ, bệ vệ
 imposing with /im'pouziɳ wiθ/: áp đặt với
 robust /rə'bʌst/: tráng kiện, khoẻ mạnh, cường tráng
-robust physique /rə'bʌst fi'zi:k/: vóc dáng cường tráng, tráng kiện
+robust physique /rə'bʌst fi'zi:k/: thân hình cường tráng, tráng kiện
 stature /'stætʃə/: vóc dáng, vóc người
 tall stature /tɔ:l 'stætʃə/: vóc dáng cao lớn
 invaluable /in'væljuəbl/: vô giá
@@ -68,8 +68,8 @@ reliance: (n) sự trông cậy (a) reliable: thuộc tin cậy
 freelancer //: người làm việc/nghề tự do
 open water //: nước mặt thoáng; ngoài khơi
 record holder /ˈrekərd ˌhōldər/: người giữ kỷ lục
-courage /'kʌridʤ/
-performing tricks /pə'fɔ:miɳ trik/: 
+courage /'kʌridʤ/: sự can đảm, sự dũng cảm, dũng khí
+performing tricks /pə'fɔ:miɳ trik/: biểu diễn kĩ xảo
 trickshot /'trikʃɔt/: Một cú sút/đánh bóng xuất chúng độc đáo để thể hiện bản thân hoặc ném một quả bóng không thể thực hiện được 
 transfer /'trænsfə:/: (n) sự di chuyển, sự dời chỗ; sự truyền; sự chuyển cho; (v) dời, chuyển, dọn; (+ to) chuyển tới
 crowd /kraud/: đám đông; the crowd: quần chúng; bọn, tụi, lũ, nhóm
