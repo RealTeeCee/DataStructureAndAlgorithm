@@ -104,3 +104,14 @@ Blow it: Thất vọng
 Be hot under the collar: Rất tức giận
 Be dressed to kill: wearing the kind of clothes that will make people notice and admire you
 Lose one's shirt: Mất rất nhiều tiền (đặc biệt là do cá cược)
+====================================
+To smell a rat: cảm thấy bất ổn
+To get in s.o's hair: làm phiền ai
+To pull s.o's leg: lừa ai
+To play it by ear: rồi tính sau
+To stick out one's neck: chịu nguy hiểm
+To get off s.o's back: tránh làm phiền ai
+To sell s.o down the river: phản bội
+To spill the beans: tiết lộ bí mật
+To shoot the breeze: tán gẫu
+To bend over backwards: Cố gắng rất nhiều
