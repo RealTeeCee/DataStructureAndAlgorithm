@@ -47,26 +47,27 @@ city official
 historical centre
 environmentalist
 marine life
-charge
-theme /θi:m/: 
+charge /tʃɑrdʒ/: Tiền phí tổn, tính phí,  sạc, lượng điện được nạp vào, trách nhiệm, nhiệm vụ.
+charge (for something) : Tiền phí cho ...
+in charge of: chịu trách nhiệm ...
+theme /θim/: chủ đề
 theme park: công viên giải trí (trong đó các trò vui chỉ dựa trên một tư tưởng hoặc nhóm tư tưởng)
-the city's famous squares
-sensible
-generally
-frequently
-profile
-social media platform
-parcel
-social media platform
-illustration
-bedtime story
-chapter
-series of
-Alps 
-Appalachians 
-heartwarming story
-facts
-insect
-close to the edge of 
-steel band
-out of a can
+the city's famous squares: quảng trường nổi tiếng của thành phố
+sensible /ˈsɛnsəbl/: hợp lý, sáng suốt, nhạy cảm ( dựa trên lý trí hơn là cảm xúc)
+generally /ˈdʒɛnrəli/: Nói chung là, Đại khái là
+frequently /ˈfrikwəntli/: Thường xuyên
+profile /ˈproʊfaɪl/: Hồ sơ
+social media platform //: nền tảng truyền thông xã hội
+parcel /ˈpɑrsl/: Bưu kiện, gói hàng
+illustration: Hình (bảng) minh họa
+bedtime story /ˈbedtaɪm ˈstɔri/: Truyện ngủ
+chapter /ˈtʃæptər/: chương
+series of /ˈsɪriz/: Loạt
+Alps / /: Dãy núi Alps
+Appalachians //: người Appalachia
+heartwarming story //: câu chuyện cảm động
+facts /fækt/: sự thật
+insect /ˈɪnsɛkt/: côn trùng
+close to the edge of /ɛdʒ/: gần với các cạnh ,sát mép, gần rìa
+steel band //: Vòng thép
+out of a can //: Ra khỏi ...
