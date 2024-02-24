@@ -88,7 +88,7 @@ antidote  /ˈæntɪˌdoʊt/: Thuốc giải độc
 boredom /ˈbɔrdəm/: Sự buồn chán
 assignment /əˈsaɪnmənt/: Sự phân công; bài tập
 compulsory /kəmˈpʌlsəri/: Bắt buộc (adj)
-writing pad //: Sổ tay
+writing pad = notepad //: tập giấy ghi
 splash-proof coating //: Lớp phủ chống bắn tung tóe
 sturdy /ˈstərdi/: Mãnh liệt, mạnh mẽ (adj)
 sturdy lockable //: Có thể khóa chắc chắn.

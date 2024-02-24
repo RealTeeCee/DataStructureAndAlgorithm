@@ -15,7 +15,7 @@ phòng tập thể dục, phòng gym:
 tiệc mừng tân gia, bữa liên hoan ăn mừng nhà mới: 
 trứng trần: 
 vỏ trứng: 
-CH₃COOH Axít Axêtít : 
+CH₃COOH Axít Axêtít: 
 CO₂ Cacbon điôxít: 
 bài học: 
 liên quan; dính líu; (a) involved: rắc rối, phức tạp; bị liên luỵ, bị dính dáng, dính líu: 
@@ -49,7 +49,7 @@ trầm ngâm suy nghĩ, mãi suy nghĩ:
 sự biên soạn, sự biên tập: 
 cuộc điều tra; sự điều tra nghiên cứu: 
 (= ingredient) công thức (bánh, món ăn, thuốc pha chế); đơn thuốc, thuốc pha chế theo đơn, thuốc bốc theo đơn; phương pháp, cách làm (việc gì): 
-viêm khớp:  
+viêm khớp: 
 hormon chữa viêm và dị ứng: 
 sự lấy mẫu; đồ chưng bày: 
 dạ tiệc; hội, hội hè: 
@@ -87,7 +87,7 @@ Thuốc giải độc:
 Sự buồn chán: 
 Sự phân công; bài tập: 
 Bắt buộc (adj): 
-Sổ tay: 
+tập giấy ghi: 
 Lớp phủ chống bắn tung tóe: 
 Mãnh liệt, mạnh mẽ (adj): 
 Có thể khóa chắc chắn.: 
