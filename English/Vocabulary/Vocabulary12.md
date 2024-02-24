@@ -101,7 +101,7 @@ virtual headset //: tai nghe ảo
 psychologist /saɪˈkɑlədʒɪst/: nhà tâm lý học
 participate /pɑrˈtɪsəˌpeɪt/: tham dự, tham gia vào
 participant /pɑrˈtɪsəpənt/: người tham gia
-uncertainty: tính không chắc chắn
+uncertainty /ˌənˈsərtnti/: tính không chắc chắn
 big-name companies //:các công ty tên tuổi
 stress disorders /strɛs dɪsˈɔrdər/: rối loạn căng thẳng
 elder /ˈɛldər/: lớn hơn (tuổi)
