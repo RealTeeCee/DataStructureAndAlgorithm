@@ -187,10 +187,12 @@ hạt đậu:
 nấm: 
 đầy hơi: 
 đồ ăn vặt: 
- ghen tị, đố kỵ: 
+đồ ăn vặt có đường: 
+dính mỡ; béo, ngậy; trơn, nhờn: 
+ghen tị, đố kỵ: 
 bánh mì kẹp thịt béo ngậy: 
- âu yếm, ôm ấp, yêu mến: 
-thoát khỏi cơn cuồng nhiệt ...: 
+âu yếm, ôm ấp, yêu mến: 
+trở nên hưng phấn, cuồng nhiệt / tăng động ...: 
 toàn bộ: 
 thực tế ảo: 
 công nghệ tiến bộ gần đây: 

@@ -79,13 +79,13 @@ bean /bin/: hạt đậu
 mushroom /ˈmʌʃrum/: nấm
 gassy /ˈɡæsi/: đầy hơi
 snacking /snæk/: đồ ăn vặt
-sugary snack: đồ ăn vặt có đường
-jealous /ˈdʒɛləs/:  ghen tị, đố kỵ
+sugary snack //: đồ ăn vặt có đường
 universal leaf symbol
-for the rest of: cho phần còn lại của ...
+for the rest of //: cho phần còn lại của ...
+greasy /'gri:zi/: dính mỡ; béo, ngậy; trơn, nhờn
 greasy burger /ˈɡrizi ˈbərɡər/: bánh mì kẹp thịt béo ngậy
 cherish /ˈtʃɛrɪʃ/:  âu yếm, ôm ấp, yêu mến
-get hyper off of //: thoát khỏi cơn cuồng nhiệt ...
+get hyper off of //: trở nên hưng phấn, cuồng nhiệt / tăng động ...
 a whole //: toàn bộ
 virtual reality (V.R) /ˈvərtʃuəl riˈælət̮i/: thực tế ảo
 recent advancement technology /ˈrisnt ədˈvænsmən tɛkˈnɑlədʒi/: công nghệ tiến bộ gần đây
