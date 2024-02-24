@@ -1483,34 +1483,6 @@ cramp /kræmp/: (y học) chứng ruột rút; (a) bị chuột rút
 sprain /sprein/: sự bong gân
 tap water /ˈtæp ˌwɑː.t̬ɚ/: nước máy
 pistil /'pistil/: (thực vật) nhụy hoa
-disease /dəˈzēz/: bệnh tật, căn bệnh
-likelihood /ˈlīklēˌho͝od/: khả năng xảy ra
-factor /ˈfaktər/: nhân tố; hệ số
-tobacco /təˈbakō/: thuốc lá
-contract: (n) hợp đồng, giao kèo; khế ước; (v) ký kết, kết ước; làm teo lại; tiêm nhiễm
-diet /'daiət/: (y học) chế độ ăn kiêng; chế độ ăn uống
-diet-related //: liên quan đến chế độ ăn uống
-disrupt /disˈrəpt/: làm gián đoạn
-prove /pro͞ov/: chứng minh
-witness /ˈwitnəs/: nhân chứng; bằng chứng
-eye-witness //: nhân chứng tận mắt
-beforehand /bi'fɔ:hænd/: sẵn sàng trước; Làm trước; đoán trước; biết trước.
-well-written //: viết hay
-heptathlon /hepˈtaTHˌlän/: bảy môn phối hợp nữ
-fountain /'fauntin/: đài, vòi phun nước (công viên)
-day in and day out //: ngày này qua ngày khác
-competent /'kɔmpitənt/: có đủ trình độ, thông thạo; (pháp lý) có thẩm quyền
-spectator /spek'teitə/: người xem, khán giả
-chant /tʃɑ:nt/: (n) thánh ca (v) cầu kinh; tụng kinh
-enthusiastic /in'θju:zi'æstik/: đam mê, say mê; hăng hái, nhiệt tình
-jealous /'dʤeləs/: ghen tị; ghen tuông; đố kỵ
-physique /fi'zi:k/: cơ thể vóc người, vóc dáng người
-exert /ig'zə:t/: dùng, sử dụng (sức mạnh, ảnh hưởng...)
-to exert oneself //: cố gắng, rán sức
-cramp /kræmp/: (y học) chứng ruột rút; (a) bị chuột rút
-sprain /sprein/: sự bong gân
-tap water /ˈtæp ˌwɑː.t̬ɚ/: nước máy
-pistil /'pistil/: (thực vật) nhụy hoa
 tuber /'tju:bə/: (thực vật học) thân củ, củ; nấm cục, nấm truýp
 comfort /'kʌmfət/: sự tiện nghi; sự an nhàn; sự an ủi
 publish /'pʌbliʃ/: công bố; ban bố; xuất bản
@@ -1534,7 +1506,7 @@ mask /mɑ:sk/: mặt nạ; mạng che mặt của phụ nữ; mặt nạ phòng 
 cape /keip/: áo choàng không tay
 berry /'beri/: (thực vật học) quả mọng; (lobster, fish) in berry: trứng cá, trứng tôm
 lobster in berry //: con tôm hùm có trứng
-brew /bru:n/: sự chế, sự ủ (rượu bia); sự pha (trà)
+brew /bru:/: sự chế, sự ủ (rượu bia); sự pha (trà)
 booth /bu:ð/: quán, rạp, lều; buồng 
 oolong /'u:lɔɳ/: chè/trà ô long
 interpolation /in,tə:pou'leiʃn/: (toán học) phép nội suy
@@ -1560,7 +1532,6 @@ lunchbox /ˈlʌntʃbɑks/: hộp cơm trưa
 stomach /ˈstʌmək/: dạ dày
 tasty reminder /ˈteɪsti rɪˈmaɪndər/: Lời nhắc nhở thú vị
 vegetable-based /ˈvɛdʒtəbl beɪst/: làm từ thực vật
-diet /ˈdaɪət/: ăn kiêng 
 filling /ˈfɪlɪŋ/: chất liệu trám răng, chất liệu mềm dùng để lót đệm, gối…,thức ăn được đặt bên trong bánh sandwich, bánh ngọt, bánh ngọt
 tofu /ˈtoʊfu/: đậu hũ
 bean /bin/: hạt đậu
@@ -1568,7 +1539,6 @@ mushroom /ˈmʌʃrum/: nấm
 gassy /ˈɡæsi/: đầy hơi
 snacking /snæk/: đồ ăn vặt
 sugary snack: đồ ăn vặt có đường
-jealous /ˈdʒɛləs/:  ghen tị, đố kỵ
 universal leaf symbol
 for the rest of: cho phần còn lại của ...
 greasy burger /ˈɡrizi ˈbərɡər/: bánh mì kẹp thịt béo ngậy
@@ -1587,7 +1557,7 @@ lash out /læʃ aʊt/: Đội nhiên trở nên bạo lực, Phản ứng dữ d
 grow /ɡroʊ/: phát triển, lớn lên, nẩy mầm, mọc lên
 virtual headset //: tai nghe ảo
 psychologist /saɪˈkɑlədʒɪst/: nhà tâm lý học
-participate /pɑrˈtɪsəˌpeɪt/: tham dự, tham gia vào
+participate /pɑrˈtɪsəˌpeɪt/: (+ in) tham dự, tham gia vào
 participant /pɑrˈtɪsəpənt/: người tham gia
 uncertainty: tính không chắc chắn
 big-name companies //:các công ty tên tuổi
@@ -1595,7 +1565,7 @@ stress disorders /strɛs dɪsˈɔrdər/: rối loạn căng thẳng
 elder /ˈɛldər/: lớn hơn (tuổi)
 elderly people //: người cao tuổi
 aging /eɪdʒɪŋ/: tuổi già
-illnesses /ˈɪlnəs/: bệnh tật
+illnesses /ˈɪlnəs/: sự ốm yếu bệnh tật
 wondrous /ˈwʌndrəs/: lạ, đẹp và ấn tượng
 birdwatching // : ngắm chim
 flavour /ˈfleɪvər/: hương vị

@@ -31,7 +31,7 @@ comfort /'kʌmfət/: sự tiện nghi; sự an nhàn; sự an ủi
 publish /'pʌbliʃ/: công bố; ban bố; xuất bản
 harpsichord /'hɑ:psikɔ:d/: (âm nhạc) đàn clavico
 chord /kɔ:d/: (thơ ca) dây đàn; (toán học) dây cung; (giải phẫu) dây, thừng
-prolonged /prolonged/: (a) kéo dài, được nối dài thêm
+prolonged /prəˈlôNGd/: (a) kéo dài, được nối dài thêm
 supervised /'sju:pəvaiz/: giám sát
 symphony /'simfəni/: bản nhạc giao hưởng
 identification /ai,dentifi'keiʃn/: sự phát hiện ra, sự nhận diện ra; sự nhận dạng; nét để nhận ra
@@ -47,7 +47,7 @@ mask /mɑ:sk/: mặt nạ; mạng che mặt của phụ nữ; mặt nạ phòng 
 cape /keip/: áo choàng không tay
 berry /'beri/: (thực vật học) quả mọng; (lobster, fish) in berry: trứng cá, trứng tôm
 lobster in berry //: con tôm hùm có trứng
-brew /bru:n/: sự chế, sự ủ (rượu bia); sự pha (trà)
+brew /bru:/: sự chế, sự ủ (rượu bia); sự pha (trà)
 booth /bu:ð/: quán, rạp, lều; buồng 
 oolong /'u:lɔɳ/: chè/trà ô long
 interpolation /in,tə:pou'leiʃn/: (toán học) phép nội suy
@@ -99,15 +99,15 @@ lash out /læʃ aʊt/: Đội nhiên trở nên bạo lực, Phản ứng dữ d
 grow /ɡroʊ/: phát triển, lớn lên, nẩy mầm, mọc lên
 virtual headset //: tai nghe ảo
 psychologist /saɪˈkɑlədʒɪst/: nhà tâm lý học
-participate /pɑrˈtɪsəˌpeɪt/: tham dự, tham gia vào
+participate /pɑrˈtɪsəˌpeɪt/: (+ in) tham dự, tham gia vào
 participant /pɑrˈtɪsəpənt/: người tham gia
 uncertainty /ˌənˈsərtnti/: tính không chắc chắn
-big-name companies //:các công ty tên tuổi
+big-name companies //: các công ty tên tuổi
 stress disorders /strɛs dɪsˈɔrdər/: rối loạn căng thẳng
 elder /ˈɛldər/: lớn hơn (tuổi)
 elderly people //: người cao tuổi
 aging /eɪdʒɪŋ/: tuổi già
-illnesses /ˈɪlnəs/: bệnh tật
+illnesses /ˈɪlnəs/: sự ốm yếu bệnh tật
 wondrous /ˈwʌndrəs/: lạ, đẹp và ấn tượng
 birdwatching // : ngắm chim
 flavour /ˈfleɪvər/: hương vị

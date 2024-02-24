@@ -180,7 +180,6 @@ hộp cơm trưa:
 dạ dày: 
 Lời nhắc nhở thú vị: 
 làm từ thực vật: 
-ăn kiêng: 
 chất liệu trám răng, chất liệu mềm dùng để lót đệm, gối…,thức ăn được đặt bên trong bánh sandwich, bánh ngọt, : 
 đậu hũ: 
 hạt đậu: 
@@ -189,7 +188,6 @@ nấm:
 đồ ăn vặt: 
 đồ ăn vặt có đường: 
 dính mỡ; béo, ngậy; trơn, nhờn: 
-ghen tị, đố kỵ: 
 bánh mì kẹp thịt béo ngậy: 
 âu yếm, ôm ấp, yêu mến: 
 trở nên hưng phấn, cuồng nhiệt / tăng động ...: 
