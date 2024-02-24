@@ -71,3 +71,25 @@ insect /ˈɪnsɛkt/: côn trùng
 close to the edge of /ɛdʒ/: gần với các cạnh ,sát mép, gần rìa
 steel band //: Vòng thép
 out of a can //: Ra khỏi ...
+
+======================================================
+Talkative /ˈtɔkət̮ɪv/: nói nhiều
+Quiet /ˈkwaɪət/: ít nói
+Liberal /ˈlɪbərəl/: tự do
+Conservative /kənˈsərvət̮ɪv/: bảo thủ
+Tender /ˈtɛndər/ : dịu dàng
+Graceful /ˈɡreɪsfl/: duyên dáng
+Argumentative /ˌɑrɡyəˈmɛntət̮ɪv/: hay lý luận
+Punctual /ˈpʌŋktʃuəl/: đúng giờ
+Helpful /ˈhɛlpfl: hay giúp đỡ
+Skinny /ˈskɪni/: ốm
+Mature /məˈtʃʊr/: chín chắn
+Immature /ˌɪməˈtʃʊr: ngây ngô, con nít
+Caring /ˈkɛrɪŋ/: chu đáo
+Kind-hearted /kaɪnd hɑrtid/: tốt bụng
+Understanding /ˌʌndərˈstændɪŋ/: hiểu biết
+Attractive /əˈtræktɪv/: lôi cuốn
+Gracious /ˈɡreɪʃəs/: hòa nhã
+Friendly /ˈfrɛndli/: thân thiện
+Sentimental /ˌsɛntəˈmɛntl/: tình cảm
+Famous /ˈfeɪməs/: nổi tiếng
