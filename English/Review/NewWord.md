@@ -93,3 +93,14 @@ Gracious /ˈɡreɪʃəs/: hòa nhã
 Friendly /ˈfrɛndli/: thân thiện
 Sentimental /ˌsɛntəˈmɛntl/: tình cảm
 Famous /ˈfeɪməs/: nổi tiếng
+============================================
+Hit the hay: Đi ngủ
+Hit the ceiling: Rất giận
+Go fly a kite: đi chỗ khác
+Kick the bucket: chết ngủm
+Be in the hole: nợ nần
+Face the music: nhận hậu quả
+Blow it: Thất vọng
+Be hot under the collar: Rất tức giận
+Be dressed to kill: wearing the kind of clothes that will make people notice and admire you
+Lose one's shirt: Mất rất nhiều tiền (đặc biệt là do cá cược)
