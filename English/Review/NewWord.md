@@ -57,15 +57,15 @@ sensible /ˈsɛnsəbl/: hợp lý, sáng suốt, nhạy cảm ( dựa trên lý 
 generally /ˈdʒɛnrəli/: Nói chung là, Đại khái là
 frequently /ˈfrikwəntli/: Thường xuyên
 profile /ˈproʊfaɪl/: Hồ sơ
-social media platform //: nền tảng truyền thông xã hội
+social media platform /ˈsoʊʃl ˈmidiə ˈplætfɔrm/: nền tảng truyền thông xã hội
 parcel /ˈpɑrsl/: Bưu kiện, gói hàng
-illustration: Hình (bảng) minh họa
+illustration /ˌɪləˈstreɪʃn/: Hình (bảng) minh họa
 bedtime story /ˈbedtaɪm ˈstɔri/: Truyện ngủ
 chapter /ˈtʃæptər/: chương
 series of /ˈsɪriz/: Loạt
 Alps / /: Dãy núi Alps
 Appalachians //: người Appalachia
-heartwarming story //: câu chuyện cảm động
+heartwarming story /ˈhɑrtˌwɔrmɪŋ/ : câu chuyện cảm động
 facts /fækt/: sự thật
 insect /ˈɪnsɛkt/: côn trùng
 close to the edge of /ɛdʒ/: gần với các cạnh ,sát mép, gần rìa
