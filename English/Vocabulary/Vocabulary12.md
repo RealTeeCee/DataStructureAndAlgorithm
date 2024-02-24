@@ -1,8 +1,8 @@
 disease /dəˈzēz/: bệnh tật, căn bệnh
-likelihood /ˈlīklēˌho͝od/: khả năng xảy ra
+likelihood /ˈlīklēˌho͝od/: khả năng xảy ra; sự có lẻ đúng
 factor /ˈfaktər/: nhân tố; hệ số
 tobacco /təˈbakō/: thuốc lá
-contract: (n) hợp đồng, giao kèo; khế ước; (v) ký kết, kết ước; làm teo lại; tiêm nhiễm
+contract /'kɔntrækt/: (n) hợp đồng, giao kèo; khế ước; (v) ký kết, kết ước; làm teo lại; tiêm nhiễm
 diet /'daiət/: (y học) chế độ ăn kiêng; chế độ ăn uống
 diet-related //: liên quan đến chế độ ăn uống
 disrupt /disˈrəpt/: làm gián đoạn

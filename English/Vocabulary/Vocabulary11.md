@@ -61,8 +61,8 @@ fabulous /ˈfabyələs/: tuyệt vời; phi thường, thần kỳ; thần tho
 specialized /ˈspeSHəˌlīzd/: chuyên dụng; thích ứng, thiết kế cho một mục đích riêng
 storytelling /ˈstôrēˌteliNG/: kể chuyện
 aspire /əs'paiə/: (+ to, after, at) thiết tha, mong mỏi, khao khát
-aspirin /əs'paiə/: (n) thuốc cãm, thuốc chống viêm
-aspiring /əs'paiə/: (adj) mong mỏi, khao khát
+aspirin /əs'paiərən/: (n) thuốc cãm, thuốc chống viêm
+aspiring /əs'paiəriNG/: (adj) mong mỏi, khao khát
 filmmaker /ˈfilmˌmākər/: nhà làm phim
 cinematic /ˌsinəˈmadik/: phim điện ảnh; (adv) cinematically: về mặt điện ảnh
 endangered species //: những loài có nguy có bị tuyệt chủng
@@ -77,12 +77,12 @@ Saturn /'sætən/:sao Thổ thần Xa-tuya, thần Nông
 Neptune /'neptju:n/: (thiên văn học) sao Hải vương; (thần thoại,thần học) thần biển, hải thần
 Mercury  /'mə:kjuri/: (thiên văn học) sao Thuỷ; thuỷ ngân; (thần thoại) Thần Méc-cua
 Uranus /ˈjʊr.ən.əs/: (thiên văn học) sao Thiên Vương; Thiên Vương tinh
-Venus /'vi:nəs/: (thiên văn học) sao Kim; (thần thoại,thần học) thần vệ nữ, thần tình ái;
+Venus /'vi:nəs/: (thiên văn học) sao Kim; (thần thoại,thần học) thần vệ nữ, thần tình ái
 Comet /'kɔmit/: (thiên văn học) sao chổi
 campfire /ˈkampˌfīər/: lửa trại
 feedback /ˈfēdˌbak/: nhận xét, phản hồi; sự liên hệ ngược; (y học) hồi tiếp
 scribe /skrīb/: người ghi chép; người sao chép bản thảo
-issue /ˈɪʃu/: Cấp, phát hành (v), vấn đề (n).
+issue /ˈɪʃu/: Cấp, phát hành (v), vấn đề (n)
 experience /ɪkˈspɪriəns/: Trải qua, học hỏi ... (v), Kinh nghiệm, từng trải ...(n) 
 antidote  /ˈæntɪˌdoʊt/: Thuốc giải độc
 boredom /ˈbɔrdəm/: Sự buồn chán
@@ -95,7 +95,7 @@ sturdy lockable //: Có thể khóa chắc chắn.
 compartment /kəmˈpɑrtmənt/: Gian nhà, căn phòng trên tàu, căn phòng trên xe lửa
 fit into //: Phù hợp với
 shrub /ʃrʌb/: cây bụi, cây nhỏ
-rehearsal /rɪˈhərsl/: (v) Diễn tập (n) thuật truyện tỉ mỉ
+rehearsal /rɪˈhərsl/: (v) Diễn tập (n) Buổi diễn tập, thuật truyện tỉ mỉ
 chamber /ˈtʃeɪmbər/: Buồng, phòng
 majority /məˈdʒɔrət̮i/: Đa số , phần nhiều, phần đông
 up-and-coming //: Sắp tới
