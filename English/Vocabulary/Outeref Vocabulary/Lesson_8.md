@@ -23,20 +23,20 @@ weak /wik/: yếu ớt; non kém; thiếu nghị lực, mềm yếu, nhu như�
 Talkative /ˈtɔkət̮ɪv/: nói nhiều
 Quiet /ˈkwaɪət/: ít nói
 Liberal /ˈlɪbərəl/: tự do
-Conservative /kənˈsərvət̮ɪv/: bảo thủ
-Tender /ˈtɛndər/ : dịu dàng
-Graceful /ˈɡreɪsfl/: duyên dáng
-Argumentative /ˌɑrɡyəˈmɛntət̮ɪv/: hay lý luận
-Punctual /ˈpʌŋktʃuəl/: đúng giờ
-Helpful /ˈhɛlpfl: hay giúp đỡ
+Conservative != ? /kənˈsərvət̮ɪv/: bảo thủ
+Tender != rude /ˈtɛndər/ : dịu dàng
+Graceful != graceless/ˈɡreɪsfl/: duyên dáng
+Argumentative != compromising /ˌɑrɡyəˈmɛntət̮ɪv/: hay lý luận
+Punctual != late /ˈpʌŋktʃuəl/: đúng giờ
+Helpful != helpless /ˈhɛlpfl: hay giúp đỡ
 Skinny /ˈskɪni/: ốm, gầy gò
 Mature /məˈtʃʊr/: chín chắn
-Immature /ˌɪməˈtʃʊr: ngây ngô, con nít
-Caring /ˈkɛrɪŋ/: chu đáo
-Kind-hearted /kaɪnd hɑrtid/: tốt bụng
-Understanding /ˌʌndərˈstændɪŋ/: hiểu biết, am hiểu, mau hiểu
-Attractive /əˈtræktɪv/: lôi cuốn, hấp dẫn
-Gracious /ˈɡreɪʃəs/: hòa nhã, thanh tao, nhã nhặn
-Friendly /ˈfrɛndli/: thân thiện
-Sentimental /ˌsɛntəˈmɛntl/: tình cảm
-Famous /ˈfeɪməs/: nổi tiếng
+Immature /ˌɪməˈtʃʊr/: ngây ngô, con nít
+Caring != heartless /ˈkɛrɪŋ/: chu đáo
+Kind-hearted != unkind, unsympathetic /kaɪnd hɑrtid/: tốt bụng
+Understanding != /ˌʌndərˈstændɪŋ/: hiểu biết, am hiểu, mau hiểu
+Attractive != ? /əˈtræktɪv/: lôi cuốn, hấp dẫn
+Gracious != rude /ˈɡreɪʃəs/: hòa nhã, thanh tao, nhã nhặn
+Friendly != unfriendly /ˈfrɛndli/: thân thiện
+Sentimental != heartless /ˌsɛntəˈmɛntl/: tình cảm
+Famous != infamous /ˈfeɪməs/: nổi tiếng
