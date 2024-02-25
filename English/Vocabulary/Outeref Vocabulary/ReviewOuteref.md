@@ -61,7 +61,7 @@ Cắt, ngắt:
 To manage, work, or perform successfully without having someone or something present //: The country cannot do 
 Ghé vào: 
 cảm thấy thích: 
- Tìm ra: 
+Tìm ra: 
 thích, hợp với: 
 Tiếp tục: 
 Giao , nộp: 
