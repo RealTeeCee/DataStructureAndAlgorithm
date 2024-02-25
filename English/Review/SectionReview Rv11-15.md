@@ -220,35 +220,35 @@ bắt nạt:
 mỡ thừa: 
 quá đáng, vô độ: 
 được công nhận: 
-nhận làm con nuôi; nhận làm bố mẹ nuôi; chấp nhận và thực hiện: 
-áp dụng vào: 
-ngân sách: 
-sổ theo dõi dự toán: 
-(n) phần thừa lại; phần còn lại; (a) thừa lại; còn thừa; còn lại: 
-(số nhiều) thức ăn thừa: 
-loài người, nhân loại: 
-(n) khả năng tưởng tượng; hình ảnh tưởng tượng; sự huyền ảo: 
-chiến binh; chiến sĩ, quân nhân: 
-bao quanh, vây quanh; chung quanh: 
-dân thành thị, dân phố: 
-lỗi thời; lạc hậu: 
-tư duy: 
-(người) râu: 
-vui vẻ, vui tươi, vui nhộn: 
-phù hợp với màu đỏ: 
-(nữ) đôi vớ dài (thường cao đến đùi): 
-đôi vớ ngắn cổ: 
-chính thức; hành chính; (thuộc) văn phòng; (thuộc) chính quyền;: 
-không chính thức, không được công bố xác minh: 
-sự quan sát nhận dạng chim trời: 
-người quan sát nhận dạng chim trời: 
-một cặp, một đôi: 
-ống nhòm: 
-để mắt tới: 
-tìm kiếm / theo dõi thứ gì đó / ai đó với sự chú ý cẩn thận và kiên nhẫn.: 
-công dân; người dân thành thị; người thường dân (trái với quân đội): 
-(v) cống hiến, hiến dâng; dành cho; khánh thành, khai mạc: 
-tận tụy, tận tâm; có tính cách chuyên môn; dành riêng: 
+nhận làm con nuôi; nhận làm bố mẹ nuôi; chấp nhận và thực hiện: .
+áp dụng vào: .
+ngân sách: .
+sổ theo dõi dự toán: .
+(n) phần thừa lại; phần còn lại; (a) thừa lại; còn thừa; còn lại: .
+(số nhiều) thức ăn thừa: .
+loài người, nhân loại: .
+(n) khả năng tưởng tượng; hình ảnh tưởng tượng; sự huyền ảo: .
+chiến binh; chiến sĩ, quân nhân: .
+bao quanh, vây quanh; chung quanh: .
+dân thành thị, dân phố: .
+lỗi thời; lạc hậu: .
+tư duy: .
+(người) râu: .
+vui vẻ, vui tươi, vui nhộn: .
+phù hợp với màu đỏ: .
+(nữ) đôi vớ dài (thường cao đến đùi): .
+đôi vớ ngắn cổ: .
+chính thức; hành chính; (thuộc) văn phòng; (thuộc) chính quyền;: .
+không chính thức, không được công bố xác minh: .
+sự quan sát nhận dạng chim trời: .
+người quan sát nhận dạng chim trời: .
+một cặp, một đôi: .
+ống nhòm: .
+để mắt tới: .
+tìm kiếm / theo dõi thứ gì đó / ai đó với sự chú ý cẩn thận và kiên nhẫn.: .
+công dân; người dân thành thị; người thường dân (trái với quân đội): .
+(v) cống hiến, hiến dâng; dành cho; khánh thành, khai mạc: .
+tận tụy, tận tâm; có tính cách chuyên môn; dành riêng: .
 tạp chí; báo hàng ngày; bản ghi, báo cáo: 
 khoảng cách, tầm xa; quãng đường: 
 đề cập đến; tham khảo đến: 
@@ -285,6 +285,7 @@ phù hợp, thích hợp:
 ở xa, ở phía bên kia; cao, xa hơn nữa: 
 luôn nỗ lực hết mình: 
 sự cam kết; lời giao kết; sự bảo chứng: 
+(n) sự trông cậy (a) reliable: thuộc tin cậy:
 người làm việc/nghề tự do: 
 nước mặt thoáng; ngoài khơi: 
 người giữ kỷ lục: 

@@ -64,7 +64,7 @@ initiative /i'niʃiətiv/: (thuộc) bắt đầu, khởi đầu
 beyond /bi'jɔnd/: ở xa, ở phía bên kia; cao, xa hơn nữa
 go above and beyond //: luôn nỗ lực hết mình
 commitment /kə'mitmənt/: sự cam kết; lời giao kết; sự bảo chứng
-reliance: (n) sự trông cậy (a) reliable: thuộc tin cậy
+reliance /rəˈlīəns/: (n) sự trông cậy (a) reliable: thuộc tin cậy
 freelancer //: người làm việc/nghề tự do
 open water //: nước mặt thoáng; ngoài khơi
 record holder /ˈrekərd ˌhōldər/: người giữ kỷ lục
