@@ -1695,7 +1695,7 @@ heartwarming story /ˈhɑrtˌwɔrmɪŋ/ : câu chuyện cảm động
 facts /fækt/: sự thật
 insect /ˈɪnsɛkt/: côn trùng
 close to the edge of /ɛdʒ/: gần với các cạnh ,sát mép, gần rìa
-steel band //: Vòng thép
+steel band //: ban nhạc chơi nhạc trên những chiếc trống được làm từ những thùng chứa dầu bằng kim loại rỗng.
 out of a can //: Ra khỏi ...
 come out //: 1. ra khỏi; 2. công khai, tiết lộ; 3. ra mắt trong xã hội hoặc trên sân khấu
 generous != stingy /'dʤenərəs/: rộng rãi, hào phóng, quảng đại; rộng lượng, khoan hồng 

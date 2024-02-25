@@ -331,7 +331,7 @@ người Appalachia:
 sự thật: 
 côn trùng: 
 gần với các cạnh ,sát mép, gần rìa: 
-Vòng thép: 
+ban nhạc chơi nhạc trên những chiếc trống được làm từ những thùng chứa dầu bằng kim loại rỗng: 
 Ra khỏi ...: 
 1. ra khỏi; 2. công khai, tiết lộ; 3. ra mắt trong xã hội hoặc trên sân khấu: 
 =========
