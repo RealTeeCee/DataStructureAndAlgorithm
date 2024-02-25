@@ -1,3 +1,4 @@
+# 1
 ở trên đầu, cao hơn mặt đất: 
 máy chiếu; đèn pha; người đặt kế hoạch, người đặt đề án: 
 cái đục lỗ, dụng cụ bấm lỗ: 
@@ -28,7 +29,8 @@ thùng tròn, thùng rượu; bánh lăn xe lu:
 hiệu trưởng: 
 vận động viên: 
 chiến lược: 
---
+=========
+# 2
 Song hành: 
 Ngáp (v): 
 Ngáy (v) tiếng ngáy (n), tiếng ầm ầm (n), tiếng vu vu (n).: 
@@ -42,7 +44,8 @@ Bằng cách giơ tay.:
 Trong giới hạn khả năng của tôi.: 
 Với chất tẩy bẩn.: 
 Do bởi cái nghèo.: 
---
+=========
+# 3
 chịu nguy hiểm (Nghĩa đúng) = take a risk.: 
 Tránh làm phiền ai (Nghĩa đúng) = Stop  bothering sb.: 
 trêu chọc.: 
@@ -75,7 +78,8 @@ Gom lại:
 tình cờ: 
 Nộp lại: 
 hủy bỏ, kết thúc : 
---
+=========
+# 4
 nóng: 
 Lạnh: 
 Khó chịu, oi ả: 
@@ -107,7 +111,8 @@ lốc xoáy:
 mưa tuyết, mưa đá: 
 Khí quyển: 
 nhiệt độ.: 
---
+=========
+# 5
 âm tiết; vần: 
 (n) đầu bếp (v) nấu nướng: 
 (n) nhân viên chào khách nam; chủ nhà; chủ tiệc: 
@@ -220,7 +225,8 @@ Người điều hành, lãnh đạo; thẩm cấp chỉ huy:
 tổng giám đốc: 
 giám thị: 
 thầy bói: 
---
+=========
+# 6
 *** VF1 + VF2
 rớt lại phía sau.: 
 Từ bỏ, bỏ cuộc.: 
@@ -249,5 +255,67 @@ giống:
 triệu tập: 
 đi ngủ: 
 Rất giận: 
+=========
+# 7
 Đi chơi chỗ khác: 
 (chết ngủm Die) = pass away (qua đời - nên dùng hơn): 
+=========
+# 8
+rộng rãi, hào phóng, quảng đại; rộng lượng, khoan hồng: 
+keo kiệt, bủn xỉn: 
+giàu kinh nghiệm, từng trải, lão luyện != thiếu kinh nghiệm: 
+quyền lực; hùng mạnh != bất lực; không có sức mạnh: 
+có học thức; tài trí; (thuộc) trí óc != không có trí tuệ: 
+ngẫm nghĩ, hay trầm tư, suy tư; sâu sắc, thâm trầm: 
+linh động, linh hoạt; dẻo, mềm dẻo, dễ uốn nắn != không linh hoạt: 
+nhanh nhẹn, mau: 
+chậm chạp; uể oải, lờ đờ, lờ phờ: 
+ăn nói rõ ràng, nhanh nhẹn != ăn nói ú ớ, nói chuyện không rõ ràng: 
+chuyên nghiệp != nghiệp dư, không chuyên nghiệp: 
+có kĩ năng, khéo tay; tài giỏi != không khéo léo, thiếu kĩ năng: 
+béo phì, phệ bụng: 
+am tường; kỹ lưỡng, uyên thâm: 
+ân cần, chu đáo; thận trọng; hay quan tâm tới người khác != thiếu ân cần, thiếu chu đáo, thiếu quan tâm: 
+lo lắng; hay sợ: 
+hết lòng, tận tâm, tận tình, tận tuỵ: 
+dễ tính, dễ dãi != nghiêm khắc: 
+mạnh mẽ: 
+yếu đuối, ẻo lả; dễ vỡ; mỏng mảnh (không dùng cho trình độ): 
+yếu ớt; non kém; thiếu nghị lực, mềm yếu, nhu nhược; học lực yếu: 
+nói nhiều: 
+ít nói: 
+tự do: 
+bảo thủ: 
+duyên dáng: 
+hay lý luận: 
+đúng giờ: 
+ốm, gầy gò: 
+chín chắn: 
+chu đáo: 
+tốt bụng: 
+hiểu biết: 
+lôi cuốn: 
+hòa nhã: 
+thân thiện: 
+tình cảm: 
+nổi tiếng: 
+=========
+# 9
+cảm thấy bất ổn; hoài nghi nghi ngờ ai: 
+làm phiền ai đó: 
+lừa ai: 
+làm điều gì đó mà không có sự chuẩn bị đặc biệt, làm trước tính sau: 
+liều lĩnh, đánh liều nói hoặc làm điều gì đó mà người khác có thể không thích ([one] phải cùng 1 người): 
+tránh làm phiền ai: 
+phản bội ai: 
+đi ngủ: 
+cực kỳ tức giận: 
+đi chơi chỗ khác, tránh chỗ khác: 
+chết, ngủm: 
+nợ nần: 
+nhận hậu quả; chịu trách nhiệm về một cái gì đó bạn đã làm: 
+thất bại ở việc gì đó; mắc phạm sai lầm.: 
+xấu hổ, hờn dỗi: 
+ăn mặc quần áo rất lạ mắt hoặc hấp dẫn: 
+làm mất nhiều tiền; mất phần lớn tài sản hoặc giá trị của một người trong một khoản đầu tư: 
+=========

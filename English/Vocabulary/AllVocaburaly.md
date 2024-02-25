@@ -1729,7 +1729,7 @@ Graceful /ˈɡreɪsfl/: duyên dáng
 Argumentative /ˌɑrɡyəˈmɛntət̮ɪv/: hay lý luận
 Punctual /ˈpʌŋktʃuəl/: đúng giờ
 Helpful /ˈhɛlpfl: hay giúp đỡ
-Skinny /ˈskɪni/: ốm
+Skinny /ˈskɪni/: ốm, gầy gò
 Mature /məˈtʃʊr/: chín chắn
 Immature /ˌɪməˈtʃʊr: ngây ngô, con nít
 Caring /ˈkɛrɪŋ/: chu đáo
