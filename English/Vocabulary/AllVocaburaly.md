@@ -1686,7 +1686,7 @@ profile /ˈproʊfaɪl/: Hồ sơ
 social media platform /ˈsoʊʃl ˈmidiə ˈplætfɔrm/: nền tảng truyền thông xã hội
 parcel /ˈpɑrsl/: Bưu kiện, gói hàng
 illustration /ˌɪləˈstreɪʃn/: Hình (bảng) minh họa
-bedtime story /ˈbedtaɪm ˈstɔri/: Truyện ngủ
+bedtime story /ˈbedtaɪm ˈstɔri/: câu chuyện trước khi đi ngủ
 chapter /ˈtʃæptər/: chương
 series of /ˈsɪriz/: Loạt
 Alps / /: Dãy núi Alps
