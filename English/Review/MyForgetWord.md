@@ -60,3 +60,7 @@ cancerous cells:
 revised draft: 
 colony: 
 stationary: 
+consul: 
+senator: 
+ambassador: 
+realtor: 

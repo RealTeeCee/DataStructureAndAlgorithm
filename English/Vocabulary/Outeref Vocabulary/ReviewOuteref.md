@@ -166,18 +166,18 @@ người mẫu; mô hình:
 thợ may đồ nam: 
 thợ cắt tóc: 
 bà chủ nhà; bà nội trợ: 
-lãnh sự; (sử học) quan tổng tài : 
+lãnh sự; (sử học) quan tổng tài: 
 thợ rèn: 
 tổng giám đốc: 
 (a) trước, xưa; cựu; (n) khuôn đúc; cái trước, người trước, vấn đề trước: 
 cựu tổng thống; cựu chủ tịch: 
 phó tổng thống: 
-phó giám đốc : 
+phó giám đốc: 
 sĩ quan; nhân viên chính quyền, nhân viên viên chức: 
- (n) (chính trị) nghị viên, đại biểu; (a) tiêu biểu, tượng trưng; đại diện: 
-siêu mẫu : 
-(n) thám tử trinh thám; (a) thuộc trinh thám; để tìm ra, để khám phá ra, để phát hiện ra; : 
-đại sứ; người đại diện sứ giả : 
+(n) (chính trị) nghị viên, đại biểu; (a) tiêu biểu, tượng trưng; đại diện: 
+siêu mẫu: 
+(n) thám tử trinh thám; (a) thuộc trinh thám; để tìm ra, để khám phá ra, để phát hiện ra: 
+đại sứ; người đại diện sứ giả: 
 (n) bộ com lê (v) tiện, hợp với: 
 (n) đồng phục; (quân) quân phục; (a) đồng dạng, cùng một kiểu, giống nhau; đều: 
 chuyển động đều: 
@@ -187,8 +187,8 @@ nhạc sĩ dương cầm; người chơi pianô:
 thư ký, bí thư: 
 doanh nhân: 
 người bán hàng: 
-nữ chiêu đãi viên; cô làm phòng (trên tàu thuỷ), cô phục vụ (trên máy bay); : 
-cô bán hàng;: 
+nữ chiêu đãi viên; cô làm phòng (trên tàu thuỷ), cô phục vụ (trên máy bay): 
+cô bán hàng: 
 kiến trúc sư: 
 thợ mộc: 
 người môi giới (mua bán) bất động sản; cò nhà đất: 
@@ -293,9 +293,9 @@ hay lý luận:
 chín chắn: 
 chu đáo: 
 tốt bụng: 
-hiểu biết: 
-lôi cuốn: 
-hòa nhã: 
+hiểu biết, am hiểu, mau hiểu: 
+lôi cuốn, hấp dẫn: 
+hòa nhã, thanh tao, nhã nhặn: 
 thân thiện: 
 tình cảm: 
 nổi tiếng: 

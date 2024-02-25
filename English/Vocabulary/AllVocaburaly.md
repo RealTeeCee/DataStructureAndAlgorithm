@@ -1734,9 +1734,9 @@ Mature /məˈtʃʊr/: chín chắn
 Immature /ˌɪməˈtʃʊr: ngây ngô, con nít
 Caring /ˈkɛrɪŋ/: chu đáo
 Kind-hearted /kaɪnd hɑrtid/: tốt bụng
-Understanding /ˌʌndərˈstændɪŋ/: hiểu biết
-Attractive /əˈtræktɪv/: lôi cuốn
-Gracious /ˈɡreɪʃəs/: hòa nhã
+Understanding /ˌʌndərˈstændɪŋ/: hiểu biết, am hiểu, mau hiểu
+Attractive /əˈtræktɪv/: lôi cuốn, hấp dẫn
+Gracious /ˈɡreɪʃəs/: hòa nhã, thanh tao, nhã nhặn
 Friendly /ˈfrɛndli/: thân thiện
 Sentimental /ˌsɛntəˈmɛntl/: tình cảm
 Famous /ˈfeɪməs/: nổi tiếng
