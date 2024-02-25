@@ -1757,6 +1757,9 @@ to go fly a kite //: đi chơi chỗ khác, tránh chỗ khác
 to be in the hole //: nợ nần
 to face the music //: nhận hậu quả; chịu trách nhiệm về một cái gì đó bạn đã làm
 to blow it //: Làm hỏng, xử lý sai hoặc không tận dụng được cơ hội từ việc gì đó; mắc phạm sai lầm dẫn đến vụt mất cơ hội.
+Ex:
+- You had your chance and you blew it.
+- Bob was being considered for the promotion, but he blew it when he came in late to work each day this week.
 to be hot under the collar //: xấu hổ, hờn dỗi
 to be dressed to kill //: ăn mặc quần áo rất lạ mắt hoặc hấp dẫn
 to lose one's shirt //: làm mất nhiều tiền; mất phần lớn tài sản hoặc giá trị của một người trong một khoản đầu tư
