@@ -65,7 +65,7 @@ beyond /bi'jɔnd/: ở xa, ở phía bên kia; cao, xa hơn nữa
 go above and beyond //: luôn nỗ lực hết mình
 commitment /kə'mitmənt/: sự cam kết; lời giao kết; sự bảo chứng
 reliance /rəˈlīəns/: (n) sự trông cậy (a) reliable: thuộc tin cậy
-freelancer //: người làm việc/nghề tự do
+freelancer /ˈfrēˌlansər/: người làm việc/nghề tự do
 open water //: nước mặt thoáng; ngoài khơi
 record holder /ˈrekərd ˌhōldər/: người giữ kỷ lục
 courage /'kʌridʤ/: sự can đảm, sự dũng cảm, dũng khí
@@ -109,8 +109,8 @@ illustration /ˌɪləˈstreɪʃn/: Hình (bảng) minh họa
 bedtime story /ˈbedtaɪm ˈstɔri/: Truyện ngủ
 chapter /ˈtʃæptər/: chương
 series of /ˈsɪriz/: Loạt
-Alps / /: Dãy núi Alps
-Appalachians //: người Appalachia
+Alps /ælps/: Dãy núi Alps
+Appalachians /ˌæp.əˈleɪ.tʃən/: người Appalachia
 heartwarming story /ˈhɑrtˌwɔrmɪŋ/ : câu chuyện cảm động
 facts /fækt/: sự thật
 insect /ˈɪnsɛkt/: côn trùng
