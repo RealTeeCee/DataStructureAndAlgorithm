@@ -314,7 +314,7 @@ cực kỳ tức giận:
 chết, ngủm: 
 nợ nần: 
 nhận hậu quả; chịu trách nhiệm về một cái gì đó bạn đã làm: 
-thất bại ở việc gì đó; mắc phạm sai lầm.: 
+Làm hỏng, xử lý sai hoặc không tận dụng được cơ hội từ việc gì đó; mắc phạm sai lầm dẫn đến vụt mất cơ hội: 
 xấu hổ, hờn dỗi: 
 ăn mặc quần áo rất lạ mắt hoặc hấp dẫn: 
 làm mất nhiều tiền; mất phần lớn tài sản hoặc giá trị của một người trong một khoản đầu tư: 
