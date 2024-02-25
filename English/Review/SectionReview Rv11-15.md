@@ -312,7 +312,9 @@ trung tâm lịch sử:
 hệ sinh vật: 
 cuộc sống ngoài biển : 
 hệ sinh vật biển: 
-(n) tiền phải trả, tiền công, tiền thù lao; vật mang, vật chở; gánh nặng; nhiệm vụ, bổn phận, trách nhiệm; sự : 
+(n) tiền phải trả, tiền công, tiền thù lao; vật mang, vật chở; gánh nặng; nhiệm vụ, bổn phận, trách nhiệm; sự nạp đạn, sự nạp điện; sự bảo chứng (v) bắt chi trả, bắt nộp, ghi sổ (nợ); giao nhiệm vụ; nạp đạn, điện: 
+Tiền phí cho ...: 
+chịu trách nhiệm ...: 
 chủ đề: 
 hợp lý, sáng suốt, nhạy cảm ( dựa trên lý trí hơn là cảm xúc): 
 Nói chung là, Đại khái là: 
