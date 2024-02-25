@@ -168,7 +168,7 @@ rong biển:
 cái sàng.: 
 nón giấy: 
 Một chút xíu muối: 
- đồng nghiệp: 
+đồng nghiệp: 
 điều tiết; chỉnh đốn, điều chỉnh theo mong muốn, chỉnh lại cho đúng (Dựa trên quy tắc); sắp 
 quy định, quy tắc; sự chỉnh đốn; sự sắp đặt: 
 bản phác họa (n),  phác họa (v): 
@@ -294,7 +294,7 @@ biểu diễn kĩ xảo:
 Một cú sút/đánh bóng xuất chúng độc đáo để thể hiện bản thân hoặc ném một quả bóng không thể thực 
 (n) sự di chuyển, sự dời chỗ; sự truyền; sự chuyển cho; (v) dời, chuyển, dọn; (+ to) chuyển tới: 
 đám đông; the crowd: quần chúng; bọn, tụi, lũ, nhóm: 
-(a) y sĩ; bác sĩ; người cứu thương: 
+(n) y sĩ; bác sĩ; người cứu thương: 
 (a) (thuộc) y học: 
 tình trạng sức khỏe: 
 nhớ nhà, nhớ quê hương: 

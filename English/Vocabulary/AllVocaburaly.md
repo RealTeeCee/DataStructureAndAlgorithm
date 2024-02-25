@@ -1653,7 +1653,7 @@ performing tricks /pə'fɔ:miɳ trik/: biểu diễn kĩ xảo
 trickshot /'trikʃɔt/: Một cú sút/đánh bóng xuất chúng độc đáo để thể hiện bản thân hoặc ném một quả bóng không thể thực hiện được 
 transfer /'trænsfə:/: (n) sự di chuyển, sự dời chỗ; sự truyền; sự chuyển cho; (v) dời, chuyển, dọn; (+ to) chuyển tới
 crowd /kraud/: đám đông; the crowd: quần chúng; bọn, tụi, lũ, nhóm
-medic /'medik/: (a) y sĩ; bác sĩ; người cứu thương
+medic /'medik/: (n) y sĩ; bác sĩ; người cứu thương
 medical /'medikəl/: (a) (thuộc) y học 
 medical condition //: tình trạng sức khỏe
 homesick /'houmsik/: nhớ nhà, nhớ quê hương
