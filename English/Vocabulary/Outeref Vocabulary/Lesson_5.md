@@ -15,7 +15,7 @@ chef /ʃef/: đầu bếp trưởng, bếp trưởng
 thief /θi:f/: kẻ trộm, kẻ cắp; (số nhiều) thieves: những kẻ trộm
 dean /di:n/: trưởng khoa, chủ nhiệm khoa; (tôn giáo) trưởng tu viện; linh mục địa phận; người cao tuổi nhất (trong nghị viện)  
 clown /klaun/: chú hề; (chế giễu) thằng hề, người quê mùa;
-bustboy /ˈbʌs.bɔɪ/: Nhân viên tiếp thực (nhà hàng lớn); nhân viên dọn bàn; phục vụ, tiểu nhị
+busboy /ˈbʌs.bɔɪ/: Nhân viên tiếp thực (nhà hàng lớn); nhân viên dọn bàn; phục vụ, tiểu nhị
 hostess /'houstis/: nhân viên chào khách nữ; bà chủ nhà; bà chủ tiệc; bà chủ khách sạn, bà chủ quán trọ
 captain /'kæptin/: đội trưởng, người đứng đầu, chỉ huy, (có thể truyền cảm hứng hoặc không)
 leader /ˈlēdər/: người lãnh đạo, chỉ hủy (truyền cảm hứng)

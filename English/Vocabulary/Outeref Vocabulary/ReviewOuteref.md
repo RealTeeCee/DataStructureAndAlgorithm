@@ -128,7 +128,7 @@ linh mục; thầy tu, thầy tế:
 (n) đầu bếp (v) nấu nướng: 
 đầu bếp trưởng, bếp trưởng: 
 kẻ trộm, kẻ cắp; (số nhiều) thieves: những kẻ trộm: 
-trưởng khoa, chủ nhiệm khoa; (tôn giáo) trưởng tu viện; linh mục địa phận; người cao tuổi nhất (trong nghị viện)  : 
+trưởng khoa, chủ nhiệm khoa; (tôn giáo) trưởng tu viện; linh mục địa phận; người cao tuổi nhất (trong nghị viện): 
 chú hề; (chế giễu) thằng hề, người quê mùa;: 
 Nhân viên tiếp thực (nhà hàng lớn); nhân viên dọn bàn; phục vụ, tiểu nhị: 
 nhân viên chào khách nữ; bà chủ nhà; bà chủ tiệc; bà chủ khách sạn, bà chủ quán trọ: 
