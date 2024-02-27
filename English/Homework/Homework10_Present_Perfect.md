@@ -95,93 +95,97 @@
 
 # Tri
 
-1. 
-- 
 
-2. 
-- 
+1. Have you ever traveled abroad before?
+- Yes, I have traveled abroad already.
 
-3. 
-- 
+2. Has she completed her assignment before?
+- Yes, She has completed her assignment before.
 
-4. 
-- 
+3. Have they visited that museum before?
+- Yes, they have visited that museum already.
 
-5. 
-- 
+4. Have you tried sushi before?
+- Yes, I have tried sushi before.
 
-6. 
-- 
+5. Have you ever seen that movie before?
+- No, I haven't seen that movie before.
 
-7. 
-- 
+6. Have they met each other before?
+- No, the have never met each other before.
 
-8. 
-- 
+7. Have you read this book before?
+- No, I have read this book before.
 
-9. 
-- 
+8.Has she run a marathon before
+- Yes, she has run a marathon before.
 
-10. 
-- 
+9. Have you seen the latest episode of the series yet?
+- Yes, I have seen the latest episode of the series yet.
 
-11. 
-- 
+10. Have they finished decorating the house yet?
+- Yes, They finished decorating the house yet.
 
-12. 
-- 
+11. Have you tried the new restaurant downtown yet?
+- No, I haven't tried the new restaurant downtown yet.
 
-13. 
-- 
+12. Have you received your package from vendor yet?
+- Yes, I have received my package from vendor yet.
 
-14. 
-- 
+13. Has he heard back from the job interview yet?
+- No, he hasn't heard back from the job interview yet.
 
-15. 
-- 
+14. Have they resolved the issue with the internet connection yet?
+- Yes, They have resolved the issue with the internet connection yet.
 
-16. 
-- 
+15. Has she cleaned up the mess in the kitchen yet?
+- Yes, she has cleaned up the mess in the kitchen yet.
 
-17. 
-- 
+16.Have you finished your online course yet?
+- No, I haven't my online course yet.
 
-18. 
-- 
+17.How long have you studyed English?
+- I have studyed studing for 2 months.
 
-19. 
-- 
+18. How long have they lived in their current house?
+- They have lived in their current houst since 2015.
 
-20. 
-- 
+19. How long have you worked at your current job?
+- I have worked at my current job for 2 years.
 
-21. 
-- 
+20. How long have you waited for the bus?
+- I have waited for the bus for 10 minutes.
 
-22. 
-- 
+21.How long have they saved up for their trip?
+- They have saved up for thier trip since June.
 
-23. 
-- 
+22. How long has he played the guitar?
+- He has played the guitar since he was young.
 
-24. 
-- 
+23 How long have she searched for a new apartment?
+- She has searched for a new apartment since she saved up enough money.
 
-25. 
-- 
 
-26. 
-- 
+24. How many times has she watched that movie?
+- She has watched that movie twice before.
 
-27. 
-- 
+25. How many times have they traveled abroad?
+- They have traveled abroad many times.
 
-28. 
-- 
+26. How many times has he been late for work this month?
+- He has been late for work this month once.
 
-29. 
-- 
+27. How many times have they gone camping this year?
+- They haven't gone camping this year.
 
-30. 
-- 
+28. How many times have you eaten sushi?
+- I have eaten sushi twice before.
+
+29. How many times has she changed her hairstyle?
+- She has changed her hairstyle many times.
+
+30. How many times have they attended the music festival?
+- They have attended the music festival twice.
+
+
 
