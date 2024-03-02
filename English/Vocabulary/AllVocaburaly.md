@@ -1022,7 +1022,6 @@ token of appreciation //: dấu hiệu của sự đánh giá cao; món qu
 tip /tip/: đầu, mút, đỉnh, chóp; mẹo, mánh lới, mánh khoé;
 felt /felt/: (n) nỉ, vải nỉ (v) cảm thấy
 felt tip pen //: bút nỉ
-hoot /hu:t/: (n) tiếng cú kêu; (v) (cú) kêu lên 1 tiếng
 great-horned owl /ɡrāt-hôrnd oul/: cú sừng
 cap /kap/: mũ lưỡi tra
 canyon /ˈkanyən/: hẻm núi
@@ -1800,7 +1799,7 @@ to be dressed to kill //: ăn mặc quần áo rất lạ mắt hoặc hấp d�
 to lose one's shirt //: làm mất nhiều tiền; mất phần lớn tài sản hoặc giá trị của một người trong một khoản đầu tư
 flee /flee/: chạy trốn, bỏ chạy; lẩn trốn; trốn tránh, lẩn tránh
 dye /dai/: (v) nhuộm (n) thuốc nhuộm
-hoot /hu:t/: (n) tiếng la hét (phản đối, chế giễu...); tiếng cú kêu; (v) la hét phản đối; huýt sáo chế giễu; (cú) kêu lên 1 tiếng
+hoot /hu:t/: (v) la hét phản đối; huýt sáo chế giễu; (cú) kêu lên 1 tiếng (n) tiếng la hét (phản đối, chế giễu...); tiếng cú kêu; 
 heal /hi:l/: chữa khỏi (bệnh...), làm lành, lành lại (vết thương...),
 excel /ik'sel/: hơn, trội hơn (người khác về mặt nào...); trội về, xuất sắc về (môn gì...)
 traffic /træfik/: (v) buôn bán; giao dịch (n) giao thông
@@ -1832,6 +1831,10 @@ signify /'signifai/: tuyên bố, báo cho biết; biểu thị, biểu hiện; 
 hold /hould/: (v) cầm, nắm, giữ (n) sự cầm, sự nắm giữ
 stand: (v) chịu đựng; giữ vững ;(+ for ...) là viết tắt của ...;(+ by) đứng cạnh, đứng bên cạnh
 symbolize /'simbəlaiz/: tượng trưng hoá; ký hiệu hóa
+to spread oneself too thin //: dính líu đến quá nhiều thứ - be involved in too many activities
+Ex: How can you work at two jobs and go to school at the same time; you're _SPREAD YOURSELF TOO THIN_.
+duck soup //: quá dễ - too easy
+Ex: This homework is _DUCK SOUP_ to me.
 substition drill: /ˌsʌbstəˈtuʃn drɪl/
 intonation /ˌɪntoʊˈneɪʃn/: âm điệu
 artistic swimming /ɑrˈtɪstɪk ˈswɪmɪŋ/: Bơi nghệ thuật
