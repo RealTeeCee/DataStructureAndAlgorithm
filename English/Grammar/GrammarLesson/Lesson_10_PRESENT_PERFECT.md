@@ -46,10 +46,23 @@ Vừa mới    Đà từng    Chưa bao giờ      Đã rồi          V�
 
 # How to add "ED"
 # 1. V ended with "E", add "D"      dance -> danced; change -> changed; observe -> observed
+
 # 2. syllable word (1V + 1C),       stop -> stopped; slap -> slapped; jog -> jogged
 # double consonent then add "ED"
+
 # 3. word (2V + 1C), add "ED"       hoot -> hooted; steer -> steered; heal -> healed
-# 4. word (1V + 2 - 3C), add "ED"   
+
+# 4. word (1V + 2 - 3C), add "ED"   watch -> watched; fish -> fished; finish -> finished
+
+# 5. 2 syllable word (1V + 1C)      travel -> traveled; sharpen -> sharpened; visit -> visited
+# stress at 1st
+
+# 6. 2 syllable word (1V + 1C)      excel -> excelled; permit -> permitted; prefer -> prefered
+# stress at 2nd
+
+# 7. V ended with (C + V)           study -> studied; try -> tried; worry -> worried
+
+# 8. V end with (V + Y), add "ED"   employ -> employed; obey -> obeyed; stay -> stayed
                                                                                 
                                                                                 
 
