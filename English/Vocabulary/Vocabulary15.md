@@ -1,3 +1,4 @@
+conjunction /kən'dʤʌɳkʃn/: liên từ; sự liên kết
 blossom /'blɔsəm/: hoa (của cây ăn quả)
 in blossom //: đang ra hoa
 apricot /'eiprikɔt/: quả mơ, cây mơ
