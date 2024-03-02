@@ -349,3 +349,40 @@ xấu hổ, hờn dỗi:
 ăn mặc quần áo rất lạ mắt hoặc hấp dẫn: 
 làm mất nhiều tiền; mất phần lớn tài sản hoặc giá trị của một người trong một khoản đầu tư: 
 =========
+# 10
+
+=========
+# 11
+(v) la hét phản đối; huýt sáo chế giễu; (cú) kêu lên 1 tiếng (n) tiếng la hét (phản đối, chế giễu...); tiếng cú kêu: 
+chữa khỏi (bệnh...), làm lành, lành lại (vết thương...),: 
+hơn, trội hơn (người khác về mặt nào...); trội về, xuất sắc về (môn gì...): 
+(v) buôn bán; giao dịch (n) giao thông: 
+(v) nhại, bắt chước (ai đó); giống hệt (vật gì) ;(a) bắt chước: 
+(v) làm hoảng sợ, làm hoang mang sợ hãi (a) hoảng sợ, hoang mang sợ hãi: 
+(v) sở hữu, là chủ của; thú nhận (a) của chính mình: 
+nợ: 
+thuộc về: 
+(+ of ) gồm, bao gồm; ( + in ) ở chổ, cốt là ở, cốt tại; (+ with) phù hợp: 
+bao gồm, bao hàm: 
+chứa, bao gồm, bao hàm: 
+cảm xúc, sự cảm động, sự xúc động, sự xúc cảm: 
+(v) thèm muốn; mong muốn, ao ước; đề nghị (n) sự thèm muốn; sự mong muốn, khát khao; lòng thèm muốn; lời đề nghị: 
+kính yêu, quý mến; mê, thíêt tha: 
+(v) ghét, ghét cay ghét đắng; ghê tởm: 
+(v) cảm kích; đánh giá cao; nâng giá, tăng giá trị (của cái gì): 
+sự sở hữu, quyền sở hữu; sự chiếm hữu; vật sở hữu; tài sản, của cải: 
+sự nhận thức; (triết học) tri giác; (pháp lý) sự thu (thuế...): 
+(v) nhớ lại; gọi về, triệu về, triệu hồi (n) sự nhắc nhở, sự triệu hồi (một đại sứ...); sự gọi về: 
+(v) tin cậy, tín nhiệm (n) lòng tin: 
+(v) chú ý, để ý, nhận biết (n) lời báo, sự báo; thông tri, yết thị, thông cáo: 
+(v) để ý, lưu tâm(n) tâm trí, tinh thần: 
+nhớ lại, hồi tưởng lại: 
+nhận thấy; hiểu, nhận thức, lĩnh hội: 
+giả sử, giả thiết, giả định; đề nghị: 
+(v) có ý nghĩa, có tính chất quan trọng (n) chất, vật chất: 
+(v) cân đo (n) sự cân nặng, cái cân: 
+tuyên bố, báo cho biết; biểu thị, biểu hiện; báo hiệu: 
+(v) cầm, nắm, giữ (n) sự cầm, sự nắm giữ: 
+tượng trưng hoá; ký hiệu hóa: 
+dính líu đến quá nhiều thứ - be involved in too many activities: 
+quá dễ - too easy: 

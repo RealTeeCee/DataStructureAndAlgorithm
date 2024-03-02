@@ -1,5 +1,5 @@
 hoot /hu:t/: (v) la hét phản đối; huýt sáo chế giễu; (cú) kêu lên 1 tiếng (n) tiếng la hét (phản đối, chế giễu...); tiếng cú kêu; 
-heal /hi:l/: chữa khỏi (bệnh...), làm lành, lành lại (vết thương...),
+heal /hi:l/: chữa khỏi (bệnh...), làm lành, lành lại (vết thương...)
 excel /ik'sel/: hơn, trội hơn (người khác về mặt nào...); trội về, xuất sắc về (môn gì...)
 traffic /træfik/: (v) buôn bán; giao dịch (n) giao thông
 mimic /'mimik/: (v) nhại, bắt chước (ai đó); giống hệt (vật gì) ;(a) bắt chước
