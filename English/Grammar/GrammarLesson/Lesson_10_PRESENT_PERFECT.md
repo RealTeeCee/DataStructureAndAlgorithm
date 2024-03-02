@@ -14,11 +14,16 @@ Ex: Needed - V-ed.  Irregular: Go - Gone
 - I have been in Saigon since Aprils.
 - I have worked in Saigon since I finished high school.
 
-3. ADVERB OF DEGREE
+3. ADVERB OF TIME (PRESENT PERFECT TENSE)
 # Group 1 (Between have/has and Past Participle)
 # Just      Ever        Never           Already
 Vừa mới    Đà từng    Chưa bao giờ      Đã rồi
 + My father has just left for work.
 
 # Group 2 (At the end of the sentence)
-# Already   Yet     Up to now       Until now
+#  Already   Yet      Up to now          Until now       Till now       Up to the present    So far
+ Rồi        Chưa     Cho đến nay        Cho đến nay    Cho đến nay      Cho đến nay       Cho đến nay
+#  For 30 minutes     Since Monday       Since I met him         
+ Được 30p rồi        Từ thứ Hai     Từ khi tôi gặp anh anh ấy
+#  Once before        Twice before       Several times before
+ 1 lần trước đây     2 lần trước đây      Vài lần trước đây
