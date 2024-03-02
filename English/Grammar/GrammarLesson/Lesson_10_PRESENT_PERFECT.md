@@ -28,3 +28,22 @@ Vừa mới    Đà từng    Chưa bao giờ      Đã rồi          V�
  Được 30p rồi        Từ thứ Hai     Từ khi tôi gặp anh anh ấy
 #  Once before        Twice before       Several times before
  1 lần trước đây     2 lần trước đây      Vài lần trước đây
+
+
+# How to pronouce "ED"
+#           /t/                |             /d/                  |                /id/
+# _______________________________________________________________________________________________________
+#   After Voiceless Sounds     |   After the voiced sounds        |            After /t/, /d/
+# _______________________________________________________________________________________________________
+# /f/   Sniffed     Laughed    |    /b/  Robbed      Tabbed       |  /t/           Wanted      Assisted        
+# /p/   Stopped     Skipped    |    /g/  Jogged      Bogged       |                Visited     Arrested
+# /k/   Looked      Cooked     |    /l/  Peeled      Called       |  /d/           Needed      Headed
+# /s/   Missed      Kissed     |    /m/  Tamed       Trimmed      |                Rewarded    Forwarded
+# /SH/  Washed      Watched    |    /n/  Cleaned     Learned      |  EXCEPTIONS    Sacred      Ragged
+# /CH/  Touched     Watched    |    /dʒ/ Changed     Arranged     |                Naked       Legged
+#                              |    /v/  Lived       Loved        |                Beloved     Jagged                          
+#                              |    /z/  Closed      Paused       |                Wicked      Crooked                           
+                                                                                
+                                                                                
+                                                                                
+
