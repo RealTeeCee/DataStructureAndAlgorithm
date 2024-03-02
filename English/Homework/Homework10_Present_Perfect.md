@@ -93,7 +93,6 @@
 
 # Tri
 
-
 1. Have you ever traveled abroad before?
 - Yes, I have traveled abroad already.
 
@@ -115,7 +114,7 @@
 7. Have you read this book before?
 - No, I have read this book before.
 
-8.Has she run a marathon before
+8. Has she run a marathon before
 - Yes, she has run a marathon before.
 
 9. Have you seen the latest episode of the series yet?
@@ -139,10 +138,10 @@
 15. Has she cleaned up the mess in the kitchen yet?
 - Yes, she has cleaned up the mess in the kitchen yet.
 
-16.Have you finished your online course yet?
+16. Have you finished your online course yet?
 - No, I haven't my online course yet.
 
-17.How long have you studyed English?
+17. How long have you studyed English?
 - I have studyed studing for 2 months.
 
 18. How long have they lived in their current house?
@@ -154,15 +153,14 @@
 20. How long have you waited for the bus?
 - I have waited for the bus for 10 minutes.
 
-21.How long have they saved up for their trip?
+21. How long have they saved up for their trip?
 - They have saved up for thier trip since June.
 
 22. How long has he played the guitar?
 - He has played the guitar since he was young.
 
-23 How long have she searched for a new apartment?
+23. How long have she searched for a new apartment?
 - She has searched for a new apartment since she saved up enough money.
-
 
 24. How many times has she watched that movie?
 - She has watched that movie twice before.

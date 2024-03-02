@@ -299,6 +299,36 @@ hòa nhã, thanh tao, nhã nhặn:
 thân thiện: 
 tình cảm: 
 nổi tiếng: 
+mặt trái xoan: 
+mặt xương xẩu: 
+mặt đầy đặn: 
+mặt tròn trịa: 
+mặt vuông: 
+mũi tẹt: 
+mũi thẳng: 
+mũi nhọn: 
+mũi dài: 
+mũi nhỏ: 
+mũi to: 
+mắt to: 
+mắt nhỏ: 
+mắt một mí: 
+mắt tròn: 
+mắt sáng: 
+mắt xanh: 
+mắt đẹp: 
+mắt nâu: 
+tóc nhiều: 
+tóc mỏng: 
+tóc nâu nhạt: 
+tóc nâu đậm: 
+tóc vàng: 
+tóc đen: 
+tóc quăn: 
+tóc gợn sóng: 
+tóc ngắn: 
+tóc dầu: 
+tóc hư tổn: 
 =========
 # 9
 cảm thấy bất ổn; hoài nghi nghi ngờ ai: 
