@@ -76,7 +76,7 @@ Ex:
 + set: sắp đặt, lắp đặt (electronic / machinary)
 + start: khởi động
 
-# VF7   S + V transitive + Direct Object + V BI / Ving
+# VF7   S + V transitive + Direct Object + V BI / Ving (Verb of perception)
 + look at
 + see
 + notice: chú ý
