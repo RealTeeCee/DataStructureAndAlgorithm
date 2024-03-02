@@ -42,8 +42,14 @@ Vừa mới    Đà từng    Chưa bao giờ      Đã rồi          V�
 # /SH/  Washed      Watched    |    /n/  Cleaned     Learned      |  EXCEPTIONS    Sacred      Ragged
 # /CH/  Touched     Watched    |    /dʒ/ Changed     Arranged     |                Naked       Legged
 #                              |    /v/  Lived       Loved        |                Beloved     Jagged                          
-#                              |    /z/  Closed      Paused       |                Wicked      Crooked                           
-                                                                                
+#                              |    /z/  Closed      Paused       |                Wicked      Crooked  
+
+# How to add "ED"
+# 1. V ended with "E", add "D"      dance -> danced; change -> changed; observe -> observed
+# 2. syllable word (1V + 1C),       stop -> stopped; slap -> slapped; jog -> jogged
+# double consonent then add "ED"
+# 3. word (2V + 1C), add "ED"       hoot -> hooted; steer -> steered; heal -> healed
+# 4. word (1V + 2 - 3C), add "ED"   
                                                                                 
                                                                                 
 
