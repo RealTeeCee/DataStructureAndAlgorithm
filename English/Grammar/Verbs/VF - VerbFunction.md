@@ -47,6 +47,8 @@ Ex:
 - It seems easy.
 
 # VF4       S + Vt + D.O to/for + I.O. -> biến đổi -> S + Vt + I.O + D.O
+# Verb + TO :   Ask    Advance   Lease     Loan      Tell     Sing       Give     Grant  Award   Offer    Pass
+# Verb + FOR:   Buy    Build     Cook      Make      Pour     Choose     Keep     Save
 + S = Subject: Chủ ngữ.
 + Vt = transitive verb.
 + D.O = Direct Object.
@@ -59,3 +61,29 @@ Ex:
 - Show your hand to me => show me your hand. (hãy cho tôi thấy tay của bạn)
 - She tell her secrets to me => She tell me her secrets. (cô ấy kể cho tôi nghe các bí mật của cô ấy)
 - Pass your ball to me => pass me your ball. (hãy chuyền cho tôi quả bóng)
+
+# VF5   S + V Transitive + Direct Object + V BI (Bare Infinitive)
++ make: bắt
++ let: để
++ help: giúp
++ have: nhờ
+
+# VF6   S + V transitive + Direct Object + Present participle (Ving)
++ catch: bắt gặp, bắt quả tang
++ find: phát hiện, tìm thấy
++ keep: để cho
++ leave: mặc kể, để
++ set: sắp đặt, lắp đặt (electronic / machinary)
++ start: khởi động
+
+# VF7   S + V transitive + Direct Object + V BI / Ving
++ look at
++ see
++ notice: chú ý
++ observe: quan sát
++ watch
++ listen to
++ hear
++ feel: cảm giác
++ smell: ngửi thấy
++ taste: cảm thấy vị
