@@ -52,7 +52,7 @@ spicy: /ˈspaɪsi/: cay
 spiciness: vị cay
 menthol /ˈmɛnθɔl/: tinh dầu bạc hà
 minty /ˈmɪnti/: bạc hà
-cool-minty food //:
+cool-minty food //: món ăn mát lạnh
 activate /ˈæktəˌveɪt/ : kích hoạt
 receptor /rɪˈsɛptər/ thụ thể
 cold receptor //: thụ thể lạnh
@@ -83,7 +83,7 @@ embrace /ɪmˈbreɪs/ : ôm, bao quanh
 tribal dances /ˈtraɪbl dances/: điệu múa dân tộc(bộ lạc)
 soon-to-be-released //: sắp được phát hành
 follow-up //: theo sát
-recognised proof of dance //:
+recognised proof of dance //: huân chương được công nhận về khiêu vũ
 dating back to //: đã tồn tại từ một thời điểm cụ thể. Ex: The custom dates back hundreds of years: Phong tục có từ hàng trăm năm trước.
 tribesmen /ˈtraɪbzmən/: người trong bô lạc
 teaser /ˈtizər/: vấn đề rắc rối, lời trêu ghẹo, đoạn giới thiệu
