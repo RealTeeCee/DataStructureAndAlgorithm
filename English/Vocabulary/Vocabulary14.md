@@ -75,10 +75,10 @@ trigger /ˈtrɪɡər/: cò súng, kích hoạt
 excitement /ɪkˈsaɪtmənt/: sự phấn khích
 capsaicin: thành phần trong ớt
 component /kəmˈpoʊnənt/: thành phần, cấu tạo
-chilli /ˈtʃɪli/:
+chilli /ˈtʃɪli/: ớt
 pepper /ˈpɛpər/: loại bột làm từ quả mọng khô ( hạt tiêu) dùng tạo vị cay cho thực phẩm
-chilli pepper: bột ớt.
-hot pepper //:
+chilli pepper /ˈtʃɪli ˈpɛpər/: bột ớt.
+hot pepper = chilli /hot ˈpɛpər/: ớt
 itching /ɪtʃing/: ngứa
 defence /dɪˈfɛns/: Phòng thủ
 defence mechanism /dɪˈfɛns ˈmɛkəˌnɪzəm/: Cơ chế bảo vệ
