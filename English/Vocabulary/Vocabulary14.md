@@ -38,7 +38,7 @@ artistic swimming /ɑrˈtɪstɪk ˈswɪmɪŋ/: Bơi nghệ thuật
 choir club /ˈkwaɪər klʌb/: câu lạc bộ hợp xướng
 gymnastics /dʒɪmˈnæstɪks/: thể dục
 ballet /bæˈleɪ/: vở ballet
-uniquely talented: /yuˈnik ˈtæləntəd/
+uniquely talented /yuˈnik ˈtæləntəd/: tài năng độc nhất vô nhị, tài năng thiên bẩm
 put my mind to //: Đặt tâm trí vào
 passion /ˈpæʃn/: Đam mê
 race /reɪs/: chạy đua, chủng tộc, loài
