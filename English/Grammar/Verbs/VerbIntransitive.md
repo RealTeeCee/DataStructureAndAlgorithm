@@ -11,6 +11,9 @@
 
 - We ran in the park. (The verb "ran" does not require an object.)
 
+# Common
+Dance, Run, Walk, Jog, Swim, Jump, Fly, Sleep, Smile, Laugh, Cry, Die, Rain, Snow, Arrive, Drive, Open
+
 # A
 Agree       :	Đồng ý
 Appear      :	Xuất hiện
