@@ -83,6 +83,8 @@ pepper /ˈpɛpər/: hạt tiêu
 chilli pepper /ˈtʃɪli ˈpɛpər/: bột ớt.
 hot pepper = chilli /hot ˈpɛpər/: ớt
 itching /ɪtʃing/: ngứa
+burning /'bə:niɳ/: (n) sự đốt, sự cháy (a) nóng cháy, nóng rát; mãnh liệt, kịch liệt
+burning sensation /'bə:niɳ sen'seiʃn/: cảm giác nóng rát
 defence /dɪˈfɛns/: Phòng thủ
 defence mechanism /dɪˈfɛns ˈmɛkəˌnɪzəm/: Cơ chế bảo vệ
 spicy: /ˈspaɪsi/: cay

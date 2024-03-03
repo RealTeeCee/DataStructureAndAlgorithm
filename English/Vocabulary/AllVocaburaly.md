@@ -1884,6 +1884,8 @@ pepper /ˈpɛpər/: loại bột làm từ quả mọng khô ( hạt tiêu) dùn
 chilli pepper: bột ớt.
 hot pepper //:
 itching /ɪtʃing/: ngứa
+burning /'bə:niɳ/: (n) sự đốt, sự cháy (a) nóng cháy, nóng rát; mãnh liệt, kịch liệt
+burning sensation /'bə:niɳ sen'seiʃn/: cảm giác nóng rát
 defence /dɪˈfɛns/: Phòng thủ
 defence mechanism /dɪˈfɛns ˈmɛkəˌnɪzəm/: Cơ chế bảo vệ
 spicy: /ˈspaɪsi/: cay
