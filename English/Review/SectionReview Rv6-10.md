@@ -491,7 +491,7 @@ thập kỷ:
 phi cơ: 
 phương tiện giao thông: 
 phản đối, chống đối: 
-trái lại, trái ngược với: 
+bất đồng với; trái lại, trái ngược với: 
 ngày nghỉ: 
 hiệu lực, hiệu quả, tác dụng: 
 hiệu ứng đặc biệt: 
