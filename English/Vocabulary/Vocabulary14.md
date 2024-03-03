@@ -36,7 +36,7 @@ substition drill: /ˌsʌbstəˈtuʃn drɪl/
 intonation /ˌɪntoʊˈneɪʃn/: âm điệu
 artistic swimming /ɑrˈtɪstɪk ˈswɪmɪŋ/: Bơi nghệ thuật
 choir club /ˈkwaɪər klʌb/: câu lạc bộ hợp xướng
-gymnastics /dʒɪmˈnæstɪks/: thể dục
+gymnastics /dʒɪmˈnæstɪks/: thể dục dụng cụ
 ballet /bæˈleɪ/: vở ballet
 uniquely talented /yuˈnik ˈtæləntəd/: tài năng độc nhất vô nhị, tài năng thiên bẩm
 put my mind to //: Đặt tâm trí vào
