@@ -1842,7 +1842,8 @@ choir club /ˈkwaɪər klʌb/: câu lạc bộ hợp xướng
 gymnastics /dʒɪmˈnæstɪks/: thể dục
 ballet /bæˈleɪ/: vở ballet
 uniquely talented: /yuˈnik ˈtæləntəd/
-put my mind to //: Đặt tâm trí vào
+put my mind to //: đặt tâm trí vào
+got on well with //: hòa hợp với
 passion /ˈpæʃn/: Đam mê
 race /reɪs/: chạy đua, chủng tộc, loài
 synchronise /ˈsɪŋkrəˌnaɪz/: Đồng bộ
