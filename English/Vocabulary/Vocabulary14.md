@@ -105,7 +105,7 @@ tough /tʌf/: khó
 attracting /əˈtrækting/: thu hút
 arcade /ɑrˈkeɪd/: nơi giải trí, chơi game trên máy (trả bằng đồng xu)
 vegetable crops /ˈvɛdʒtəbl krɑp/: vườn rau
-barn /bɑrn/: chuồng
+barn /bɑrn/: chuồng ngựa, kho thóc
 as we pulled up the house: Khi chúng tôi đến gần ngôi nhà
 energetic /ˌɛnərˈdʒɛt̮ɪk/: Mãnh liệt
 corn /kɔrn/: bắp
