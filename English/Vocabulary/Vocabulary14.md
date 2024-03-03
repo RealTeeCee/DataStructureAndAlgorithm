@@ -63,8 +63,8 @@ NASA passport programme //: Chương trình hộ chiếu của NASA
 panel /ˈpænl/: bảng điều khiển
 ground-breaking //: Đột phá
 survival /sərˈvaɪvl/: sự sống còn, sự tồn tại
-water survival: tình huống sinh tử dưới nước
-G-force training: huấn luyện lực g, chương trình huấn luyện của phi công. ( g la lực hấp dẫn hoặc gia tốc)
+water survival //: tình huống sinh tử dưới nước
+G-force training //: huấn luyện lực g, chương trình huấn luyện của phi công. ( g la lực hấp dẫn hoặc gia tốc)
 physiology /ˌfɪziˈɑlədʒi/: sinh lý học
 astrobiology /ˌæstrəʊbaɪˈɒlədʒi/ : sinh vật học vũ trụ
 focus on /ˈfoʊkəs ɔn/: Tập trung vào
