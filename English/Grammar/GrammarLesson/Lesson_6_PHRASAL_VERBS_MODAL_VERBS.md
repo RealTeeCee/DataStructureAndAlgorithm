@@ -34,11 +34,11 @@
 
 # Future                (Sẽ - tương lai)                    Shall, will
 
-# Obiligation           (Nên - bổn phận)                    Should
+# Obligation           (Nên - bổn phận)                    Should
 
-# Strong Obiligation    (Phải)                              Must
+# Strong Obligation    (Phải)                              Must
 
-# Moral Obiligation     (Phải - bổn phận tinh thần)         Ought to
+# Moral Obligation     (Phải - bổn phận tinh thần)         Ought to
 
 # Politeness            (Chỉ lịch sự)                       Would
 
