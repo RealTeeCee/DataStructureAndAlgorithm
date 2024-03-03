@@ -1077,7 +1077,7 @@ decade /ˈdekād/: thập kỷ
 aircraft /ˈerˌkraft/: phi cơ
 vehicle /ˈvēəkl/: phương tiện giao thông
 oppose /ə'pouz/: phản đối, chống đối
-opposed to //: trái lại, trái ngược với
+opposed to //: bất đồng với; trái lại, trái ngược với
 day off //: ngày nghỉ
 effect /i'fekt/: hiệu lực, hiệu quả, tác dụng
 special effect //: hiệu ứng đặc biệt
