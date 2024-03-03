@@ -76,7 +76,7 @@ excitement /ɪkˈsaɪtmənt/: sự phấn khích
 capsaicin: thành phần trong ớt
 component /kəmˈpoʊnənt/: thành phần, cấu tạo
 chilli /ˈtʃɪli/: ớt
-pepper /ˈpɛpər/: loại bột làm từ quả mọng khô ( hạt tiêu) dùng tạo vị cay cho thực phẩm
+pepper /ˈpɛpər/: hạt tiêu
 chilli pepper /ˈtʃɪli ˈpɛpər/: bột ớt.
 hot pepper = chilli /hot ˈpɛpər/: ớt
 itching /ɪtʃing/: ngứa
