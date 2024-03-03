@@ -67,7 +67,7 @@
 * IN
   + public places
   + inside: the room, the box
-  + district, province, city
+  + district, province, city, country
   + the garden, the field, the valley
 
 * Others: 

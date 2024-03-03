@@ -23,6 +23,9 @@
 + He is a man with straight nose.
 + He is a man with black glasses.
 
+# BY author
++ "Tắt Đèn" is a story by Ngô Tất Tố.
+
 # Combine all
 + Ex: The girl IN a blue dress without accessories.
 
