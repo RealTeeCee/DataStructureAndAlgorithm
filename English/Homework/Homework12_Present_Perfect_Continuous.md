@@ -172,7 +172,7 @@ John has been working overtime at the office for the past few weeks.
 21. What did you do last weekend?
 Last weekend, I went hiking with my friends.
 
-22.What was your favorite subject in school?
+22. What was your favorite subject in school?
 My favorite subject in school was mathematics.
 
 23. Where did you go on your last family vacation?
