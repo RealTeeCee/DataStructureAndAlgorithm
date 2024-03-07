@@ -1,6 +1,16 @@
 1. Present Perfect Tense
 # "Perfect" means "ALREADY STARTED" or "ALREADY COMPLETED" 
-# Mô tả hành động đã diễn ra hoặc đã hoàn thành
+# 1. ALREADY STARTED: Mô tả hành động "ĐÃ DIỄN RA" trong quá khứ (Dùng với FOR, SINCE). Chú ý Chỉ ap dụng với những động từ có thể "KÉO DÀI" hoặc có "QUÁ TRÌNH".
+
+# 2. ALREADY COMPLETED: nhấn mạnh kết quả của 1 hành động "ĐÃ HÒAN TẤT" nhưng người nói không quan trọng thời gian
++ Ex: 
+- Dạ con ăn cơm rồi - I have eaten dinner.
+- Tôi giảm đc 3 ký - I have lost 3 kilograms.
+- Tôi đi được 4 nước - I have been to 4 countries.
+- Anh ta tiết kiệm được 1 tỷ rồi - He has saved 1 billion VND.
+- Quê tôi thay đổi nhiều quá - My hometown has changed so much.
+
+
 # HAVE / HAS + PAST PARTICIPLE (V-ED or Irregular)
 # V-ed: Verb thêm ED phía sau. Irregular: Verb 3 
 Ex: Needed - V-ed.  Irregular: Go - Gone
