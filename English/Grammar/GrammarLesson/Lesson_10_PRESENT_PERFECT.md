@@ -27,17 +27,20 @@ Ex: Needed - V-ed.  Irregular: Go - Gone
 3. ADVERB OF TIME (PRESENT PERFECT TENSE)
 # Group 1 (Between have/has and Past Participle)
 # Just      Ever        Never           Already     Still (have/has not)     
-Vừa mới    Đà từng    Chưa bao giờ      Đã rồi          Vẫn chưa                
-+ My father has just left for work.
-+ He still hasn’t finished the report.
+Vừa mới    Đà từng    Chưa bao giờ      Đã rồi          Vẫn chưa            
++ Ex:    
+- My father has just left for work.
+- He still hasn’t finished the report.
 
 # Group 2 (At the end of the sentence)
-#  Already   Yet      Up to now          Until now       Till now       Up to the present    So far
- Rồi        Chưa     Cho đến nay        Cho đến nay    Cho đến nay      Cho đến nay       Cho đến nay
-#  For 30 minutes     Since Monday       Since I met him         
- Được 30p rồi        Từ thứ Hai     Từ khi tôi gặp anh anh ấy
-#  Once before        Twice before       Several times before
- 1 lần trước đây     2 lần trước đây      Vài lần trước đây
+#  Already   Yet      Up to now          Until now                Till now       Up to the present    So far
+ Rồi        Chưa     Cho đến nay        Cho đến nay             Cho đến nay      Cho đến nay       Cho đến nay
+#  Once before        Twice before       Several times before     Lately
+ 1 lần trước đây     2 lần trước đây      Vài lần trước đây      Gần đây
+#  For 30 minutes     Since Monday       Since I met him         Recently          
+ Được 30p rồi        Từ thứ Hai     Từ khi tôi gặp anh anh ấy    Gần đây
++ Ex:
+- He has gone to the museum recently.
 
 
 # How to pronouce "ED"

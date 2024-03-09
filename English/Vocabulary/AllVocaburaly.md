@@ -1848,6 +1848,8 @@ passion /ˈpæʃn/: Đam mê
 race /reɪs/: chạy đua, chủng tộc, loài
 synchronise /ˈsɪŋkrəˌnaɪz/: Đồng bộ
 synchronised swimming //: bơi lội di chuyển theo hình mẫu dưới nước theo nhạc
+obsess /əbˈses/: ám ảnh 
+obsessed with //: bị ám ảnh bởi
 governing body /ˈɡʌvərnɪŋ ˈbɑdi/: cơ quan chủ quản
 archery /ˈɑrtʃəri/: Bắn cung
 archery range  /ɑrtʃəri reɪndʒ/: Trường bắn cung

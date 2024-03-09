@@ -31,7 +31,7 @@
 #       Y                                   study -> studying            carry -> carrying       employ -> employing
 #       Exception                           traffic -> trafficking       mimic -> mimicking      panic -> panicking
 
-4. Non - Conitnuous Verbs
+4. Non-conitnuous Verbs
 # VERB LINKING
 #   look        come            turn                run         feel        become      keep    
 #   seem        taste           go (trở nên)        remain      appear      smell       grow
