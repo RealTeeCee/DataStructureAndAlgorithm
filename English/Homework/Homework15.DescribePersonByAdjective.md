@@ -31,9 +31,23 @@ And finally, she is tender. She is nurturing, showing care and affection. She do
 # 1/ Experienced - Know, Understand, Work
 # 2/ Kind-hearted - Help, Listen, Like
 # 3/ Skillful - Manage, Guide, Trust
-1. What do you think about Mr. Linh? 
+1. What do you think about your professor?
+
+- Well... first I think that My professor is professional. He is highly knowledgeable in his subject. He employs a variety of instructional techniques, resources, and technologies to engage students and enhance their understanding.
+Second, he is devoted. He is a passionate and dedicated professor. He invests wholeheartedly in the growth and development of his students. Students always loved and respected him.
+And finally, he is punctual. He is highly aware of the value of time and prioritize being on time for all commitments. He plan his activities meticulously, 
+scheduling his day in advance to ensure he can meet their obligations promptly.
+
+2. What do you think about co-worker? 
+
 First, I think he is an experienced man. He knows insurance very well. He understands a lot of business insurance.
 He has worked in the field of insurance for many years.
 Second, he is kind-hearted. He often helps people on my team. He always listens to me when I give my opinions. I like his characteristics when I work with him.
 And finally, He is skillful. He manages his team very effectively. He guides many useful technologies for his team.
 Members of his team trust him.
+
+3. What do you think about the close friend ?
+First, I think the close friend is trustworthy. They are reliable and can be counted on to keep your secrets and offer support when needed.
+Second, The close friend is supportive. They encourage you to pursue your goals and dreams, offering both emotional and practical support along the way.
+And finally, The close friend is honest. They respect the feelings, rights, and perspectives of their friend. They communicate honestly without being abrasive or disrespectful. They recognize the importance of empathy and understanding in interpersonal relationships.
+

@@ -1,4 +1,4 @@
-overhead /'ouvəhed/: ở trên đầu, cao hơn mặt đất: 
+overhead /'ouvəhed/: ở trên đầu, cao hơn mặt đất
 projector /projector/: máy chiếu; đèn pha; người đặt kế hoạch, người đặt đề án: 
 hole puncher /ˈhoʊlˌpʌn.tʃɚ/: cái đục lỗ, dụng cụ bấm lỗ: 
 microscope /ˈmīkrəˌskōp/: kính hiển vi: 
