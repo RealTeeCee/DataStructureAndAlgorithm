@@ -1,4 +1,5 @@
 1. Describe Your House
+# Cozy, Spacious, Welcoming, Modern
 
 2. Describe Your School
 # School: Welcoming, Innovative, Supportive, Engaging
