@@ -9,3 +9,11 @@ Second, he is a dedicated teacher. He teaches every detail of the lesson. He exp
 And finally, he is impressively punctual. He has never been late before, thanks to the alarm function in his luxury smartwatch. He has never kept me waiting. He wakes up early every morning to correct students homework. He has a great time management skill.
 
 In conclusion, he is an excellent teacher. I always admired what he did as a teacher. Thanks to him, many generations of students have succeeded in their learning.
+
+===================================================================================
+I have many important people in my entire life and I admire my English teacher most, I like him beacause of his characters and I have learned a lot of from him.
+First, He often appears in a simple uniform but does not lack professionalism and elegance. He has a calm and kind face. A pair of glasses add an intellectual flair to his look.
+Second, he is an experienced teacher. He has taught English for more than 16 years. He has taught a wide range of learners such as children, youth, teenagers, college students and adults. He has many effective teaching methods. He can teach a lesson in many different ways. For example, when teaching vocabulary he will use body language, draw illustrations, and translate. So students don't feel bored when studying in his class.
+Third, He is a dedicated teacher. He always cares about the students' academic performance. Low performance students will receive tutoring from him to be able to keep up with the class.  He often stays up late to plan his lessons. He always learns from mistakes in teaching to make lessons better.
+Finally, he is a punctual teacher. He arrives promptly to every class. He understands the importance of maximizing instructional time and minimizing disruptions caused by tardiness. He also adheres to deadlines for grading assignments, providing feedback in a timely manner, and communicating with students and parents. 
+In conclusion, he is an amazing teacher. Thanks to him, many generations of students have succeeded in studying.
