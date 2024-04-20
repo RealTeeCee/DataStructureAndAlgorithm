@@ -91,3 +91,5 @@ strand /strænd/ bím tóc, sợi chỉ, mắc cạn
 deserted /dɪˈzərt̮əd/: hoang vu, hẻo lánh, không có người ở
 autograph /ˈɔt̮əˌɡræf/: chữ ký tay của người nổi tiếng, thủ bút
 cartoonists /kɑrˈtunɪst/: họa sĩ truyện tranh
+burst
+bursting
