@@ -86,3 +86,4 @@ personalized
 tireless
 punctuality
 exemplary
+shine - shone - shone
