@@ -47,7 +47,7 @@ In conclusion, my teacher embodies the qualities of authenticity, dedication, re
 
 In my life, there's one person who has left a lasting impression on me – my teacher. He's not just any teacher; he's experienced, caring, reliable, and kind-hearted, and I truly admire him.
 
-First, he is experienced. With a wealth of English's knowledge accumulated over many years of teaching. He has dedicated himself to guiding students through their learning journeys, adapting his effective teaching methods to suit the needs of each individual. He often incorporates the reflexing method into his lessons, utilizing innovative techniques to facilitate language learning. Whether it's through interactive activities, visual aids, or hands-on demonstrations, he ensures that every student has the opportunity to grasp the concepts being taught.
+First, he is experienced. With a wealth of English knowledge accumulated over many years of teaching. He has dedicated himself to guiding students through their learning journeys, adapting his effective teaching methods to suit the needs of each individual. He often incorporates the reflexing method into his lessons, utilizing innovative techniques to facilitate language learning. Whether it's through interactive activities, visual aids, or hands-on demonstrations, he ensures that every student has the opportunity to grasp the concepts being taught.
 
 Second, he is caring. His dedication to his students is unmatched. He's always there for us, ready to help us learn and grow. He makes learning fun and exciting, and he's never afraid to try new things to keep us engaged. When it's coming up with creative ways to explain a difficult concept, he's always willing to go the extra mile.
 
