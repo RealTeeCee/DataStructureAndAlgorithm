@@ -44,7 +44,7 @@ Finally, his empathy sets him apart as a truly exceptional educator. He approach
 In conclusion, my teacher embodies the qualities of authenticity, dedication, reliability, and empathy, making him an invaluable mentor and role model. His impact extends far beyond the classroom, leaving a lasting impression on all who have had the privilege of learning from him.
 ==================================================================
 
-I would like share about my technology teacher. He is Mr. Sinh, He is an experienced, devoted, and punctual technology teacher.
+I would like to share about my technology teacher. He is Mr. Sinh, He is an experienced, devoted, and punctual technology teacher.
 With over 15 years of teaching experience,He has a rich store of knowledge honed through years of practical experience and continuous learning. He has taught a wide range of technology-related subjects, including computer programming, web development, digital design, and robotics.He easily navigates through complex technology concepts, breaking them down into understandable parts for his students. His teaching style is engaging, combining hands-on activities, multimedia resources and real-life examples to drive home key concepts.
 
 Second, He is devoted. He goes above and beyond to ensure his students receive the best possible education.
