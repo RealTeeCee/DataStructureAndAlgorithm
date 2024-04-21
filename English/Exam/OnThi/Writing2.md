@@ -60,8 +60,8 @@ In short, my teacher is someone I've always looked up to. He's made a big differ
 # Tri
 
 
-I would like to share about my technology teacher. He is Mr. Sinh, He is an experienced, devoted, and punctual technology teacher.
-With over 15 years of teaching experience,He has a rich store of knowledge honed through years of practical experience and continuous learning. He has taught a wide range of technology-related subjects, including computer programming, web development, digital design, and robotics.He easily navigates through complex technology concepts, breaking them down into understandable parts for his students. His teaching style is engaging, combining hands-on activities, multimedia resources and real-life examples to drive home key concepts.
+I would like to share about my technology teacher. He is Mr. Sinh, He is working at FPT University. He is an experienced, devoted, and punctual technology teacher.
+First, With over 20 years of teaching experience, He has a rich store of knowledge honed through years of practical experience and continuous learning. He has taught a wide range of technology-related subjects, including computer programming, web development, digital design, and robotics.He easily navigates through complex technology concepts, breaking them down into understandable parts for his students. His teaching style is engaging, combining hands-on activities, multimedia resources and real-life examples to drive home key concepts.
 
 Second, He is devoted. He goes above and beyond to ensure his students receive the best possible education.
 He spends countless hours preparing engaging lessons, researching innovative teaching methods, and curating relevant resources to make her classes informative and enjoyable. He constantly seeks new ways to enhance her students' understanding of technology and encourages them to explore its practical applications in their daily lives.
@@ -69,4 +69,5 @@ He understands that each student is unique and learns at their own pace. He take
 
 Third, He is punctual. He understands that arriving on time is not only a professional responsibility but also a way to demonstrate respect for his students' time. He consistently arrives early to his classes, ensuring that all necessary preparations are in place before his students enter the room.  He understands that tardiness can disrupt the flow of the class and impact the learning environment. Therefore, he emphasizes the importance of punctuality to his students, encouraging them to arrive on time and be prepared for each lesson.
 
+In conclusion, He is not just a technology teacher; he is a mentor, a guide, shaping the minds of future innovators with his experience, dedication, and punctuality.
 
