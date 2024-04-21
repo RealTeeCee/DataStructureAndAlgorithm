@@ -47,7 +47,7 @@ In conclusion, my teacher embodies the qualities of authenticity, dedication, re
 
 In my life, there's one person who has left a lasting impression on me – my teacher. He's not just any teacher; he's experienced, caring, reliable, and kind-hearted, and I truly admire him.
 
-First, he is experienced. Let me tell you about his authenticity. From the moment I met him, I could sense his genuine care and support. He's been teaching for as long as I can remember, and his passion for teaching has always shone through. He's the kind of teacher who makes you feel comfortable and valued, no matter what.
+First, he is experienced. With a wealth of English's knowledge accumulated over many years of teaching. He has dedicated himself to guiding students through their learning journeys, adapting his effective teaching methods to suit the needs of each individual. He often incorporates the reflexing method into his lessons, utilizing innovative techniques to facilitate language learning. Whether it's through interactive activities, visual aids, or hands-on demonstrations, he ensures that every student has the opportunity to grasp the concepts being taught.
 
 Second, he is caring. His dedication to his students is unmatched. He's always there for us, ready to help us learn and grow. He makes learning fun and exciting, and he's never afraid to try new things to keep us engaged. When it's coming up with creative ways to explain a difficult concept, he's always willing to go the extra mile.
 
@@ -55,7 +55,7 @@ Third, he is reliable. His reliability is something we can always count on. He's
 
 Finally, he is kind-hearted. His kindness and understanding are what truly set him apart. He treats everyone with respect and compassion. He's the kind of teacher who makes you feel like you can be yourself around him, and that's something I'll always appreciate.
 
-In short, my teacher is someone I've always looked up to. He's made a big difference in my life, and I'm grateful to have him as my teacher. His experience, caring, reliability, and kindness have shaped me into the person I am today, and for that, I will be forever grateful.
+In short, my teacher is someone I've always looked up to. He's made a big difference in my life, and I'm grateful to have him as my teacher. His experience, caring, reliability, and kindness have shaped me into the person I am today, and for that, I will be forever grateful. 
 =================================================================================
 # Tri
 Opening ...........
