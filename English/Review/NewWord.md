@@ -24,3 +24,65 @@ tardiness /'tɑ:dinis/: sự chậm trễ, trễ nãi
 adhere /əd'hiə/: (v) tuân thủ; bám dính, dính chặt vào, bám chặt vào
 deadline /deadline/: thời hạn, hạn chót
 grading /grading/: sự chấm điểm; sự phân loại, sự tuyển chọn 
+numerous
+influential 
+figures
+profound
+distinguish
+exudes
+authenticity
+unwavering
+well-being
+beneath
+unassuming
+demeanor
+wealth of knowledge
+insight
+coupled with
+genuine
+desire
+thrive
+steadfast
+potential
+unparalleled
+consistently
+be counted on to
+empathy
+compassion
+empowered
+embodies
+nurture 
+reliability
+invaluable
+mentor
+role model
+extends far beyond
+tenure
+versatile
+cater to
+diverse
+boredom
+struggling
+meticulously
+strives
+hallmark
+ethos
+academically
+indelible
+devotion
+reverence
+reservoir
+simplicity
+sophistication
+warmth
+humility
+decades-long
+accumulated
+finesse
+adaptable
+knows no bounds
+invests
+personalized
+tireless
+punctuality
+exemplary
