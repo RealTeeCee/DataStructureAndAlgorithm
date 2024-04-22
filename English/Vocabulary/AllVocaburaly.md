@@ -351,7 +351,6 @@ ice pack /aɪs pæk/: túi đá chườm
 soothe /suð/: làm dịu
 funnel /ˈfʌnl/: phểu, ống khói
 essential /ɪˈsɛnʃl/: thiết yếu
-essence /ˈɛsns/: tinh chất, chiết xuất, nước hoa
 aroma /əˈroʊmə/: hương thơm
 rosemary /ˈroʊzˌmɛri/: cây mê điệt!
 lavender /ˈlævəndər/: Hoa oải hương
@@ -543,7 +542,6 @@ lavish /ˈlævɪʃ/: (a) xa hoa (v) xài không tiếc
 glossy /ˈɡlɔsi/: bóng loáng, sáng
 sticky /ˈstɪki/: dẻo, dính
 fragance /ˈfreɪɡrəns/: hương thơm
-attentive /əˈtɛntɪv/: chú ý, lưu ý, niềm nở
 shape /ʃeɪp/: dáng (người), hình dạng
 collab (collaboration): cộng tác
 collaborate /kəˈlæbəˌreɪt/: hợp tác
@@ -932,7 +930,6 @@ globe /gloub/: quả địa cầu, trái đất, thế giới, hình cầu
 intertwine /,intə'twain/: quấn vào nhau, đan xen vào nhau, tréo với nhau, kết với nhau
 tutorial /tju:'tɔ:riəl/: (n) bài hướng dẫn học (a) (thuộc) sự giám hộ, (thuộc) trợ lý học tập
 trial /'traiəl/: bản thử nghiệm; điều thử thách, gian nan
-potential /pə'tenʃəl/: (a) tiềm năng, tiềm tàng; thuộc điện thế (vật lý) (n) tiềm lực, khả năng; điện thế
 resistant /ri'zistənt/: chống cự, kháng cự, đề kháng; có sức chịu đựng, có sức bền
 familiarise /fə'miljəraiz/: (v) phổ biến (một vấn đề); làm cho quen (với vấn đề gì, công việc gì...)
 pressure /'preʃə/: sức ép; áp lực, sự đè nặng; high pressure: áp suất cao
@@ -965,7 +962,6 @@ figure out//: tìm ra; tính toán ra được
 soundtrack /'saundtræk/: đường ghi âm (phim, game, ghi âm); nhạc (phim, game, ghi âm)
 blast /blɑ:st/: vụ nổ, tiếng nổ; luồng hơi (bễ lò), hơi (bom...); (v) làm nổ tung, phá (bằng mìn); phá hoại, làm tan vỡ (hạnh phúc)
 nostalgic /nɔs'tældʤik/: (a) hoài cổ, nhớ nhà, nhớ quê hương; luyến tiếc
-authentic /ɔ:'θentik/: xác thực; đáng tin
 nostalgic authentic //: hoài cổ đích thực
 simulator /'simjuleitə/: giả lập, bộ mô phỏng; người giả vờ, người giả cách, vờ vịt
 primary /'praiməri/: gốc, nguyên, căn bản; sơ đẳng, sơ cấp; (adv) primarily /'praimərili/: trước hết; chủ yếu
