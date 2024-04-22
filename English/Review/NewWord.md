@@ -24,50 +24,51 @@ tardiness /'tɑ:dinis/: sự chậm trễ, trễ nãi
 adhere /əd'hiə/: (v) tuân thủ; bám dính, dính chặt vào, bám chặt vào
 deadline /deadline/: thời hạn, hạn chót
 grading /grading/: sự chấm điểm; sự phân loại, sự tuyển chọn 
-numerous /'nju:mərəs/:(a) nhiều; đông, đông đảo
-influential /,influ'enʃəl/: có sức ảnh hưởng, có tác dụng; có uy thế, có thế lực 
-profound /profound/: sâu, thăm thẳm; sâu sắc, uyên thâm
-distinguish /dis'tiɳgwiʃ/: phân biệt
-exudes /ig'zju:d/: rò rỉ, ứa; thấm rỉ
-authenticity /,ɔ:θen'tisiti/: tính đúng thật, tính xác thực
-unwavering /ˌənˈwāv(ə)riNG/: không lay chuyển; vững vàng
-well-being /'wel'bi:iNG/: sự thịnh vượng; hạnh phúc; phúc lợi
-beneath /bi'ni:θ/: ở dưới thấp, ở dưới
-unassuming /'ʌbə'sju:miɳ/: Khiêm tốn, khiêm nhường
-demeanor /dəˈmēnər/: cách xử xự; thái độ
-wealth /welθ/: sự giàu có, sự giàu sang; sự phong phú
-wealth of knowledge //: sự giàu kiến thức
-insight /'insait/: sự sáng suốt, minh mẩn; có cái nhìn thấu suốt
-coupled with //: kết hợp với, liên kết với
-genuine /'dʤenjuin/: thành thật, chân thật
-desire /di'zaiə/: sự khao khát, thèm muốn
-thrive /θraiv/: phát triển thịnh vượng, phát đạt; lớn lên
-steadfast /'stedfəst/: kiên định, vững chắc
-unparalleled /unparalleled/: vô song; không bì được, ko so sánh được
-consistently /kənˈsistən(t)lē/: nhất quán
-be counted on to //: được tính vào
-empathy /'empəθi/: (tâm lý học) sự thấu cảm, sự đồng cảm
-compassion /kəm'pæʃn/: lòng thương, lòng trắc ẩn
-empower /im'pauə/: làm cho có thể; trao quyền
-embody /im'bɔdi/: là hiện thân của; là biểu hiện của
-nurture /'nə:tʃə/: sự nuôi dưỡng, dưỡng dục
-reliability /ri,laiə'biliti/: sự đáng tin cậy
-invaluable /in'væljuəbl/: vô giá
-mentor /'mentɔ:/: người hướng dẫn, cố vấn; người thầy
-role model /ˈrōl ˌmäd(ə)l/: hình mẫu
-extend far beyond //: vượt xa hơn
-tenure /'tenjuə/: nhiệm kỳ; sự chiếm hữu, sự hưởng dụng; sự tại chức
-tenure for life //: quyền sở hữu trọn đời
-versatile /'və:sətail/: uyên bác; có nhiều tài năng khác nhau
-cater to /'keitə/: phục vụ cho, cung cấp cho
-diverse /dai'və:s/: (a) phong phú, đa dạng
-boredom /ˈbôrdəm/: sự buồn chán, sự nhàm chán
-meticulous /mi'tikjuləs/: tỉ mỉ; kỹ càng chi tiết
-strive /straiv/: (v) cố gắng, phấn đấu, dấu tranh
-hallmark /'hɔ:lmɑ:k/: dấu ấn; dấu xác nhận tiêu chuẩn
-ethos /ˈēˌTHäs/: tập quán, đặc tính
-academically /ˌakəˈdemək(ə)lē/: một cách học thuật
-indelible /in'delibl/: không thể xóa nhòa; không thể tẩy sạch, còn vết mãi
+numerous
+influential 
+figures
+profound
+distinguish
+exudes
+authenticity
+unwavering
+well-being
+beneath
+unassuming
+demeanor
+wealth of knowledge
+insight
+coupled with
+genuine
+desire
+thrive
+steadfast
+potential
+unparalleled
+consistently
+be counted on to
+empathy
+compassion
+empowered
+embodies
+nurture 
+reliability
+invaluable
+mentor
+role model
+extends far beyond
+tenure
+versatile
+cater to
+diverse
+boredom
+struggling
+meticulously
+strives
+hallmark
+ethos
+academically
+indelible
 devotion
 reverence
 reservoir
