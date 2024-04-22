@@ -67,23 +67,23 @@ meticulously
 strives
 hallmark
 ethos
-academically
-indelible
-devotion
-reverence
-reservoir
-simplicity
-sophistication
-warmth
-humility
-decades-long
-accumulated
-finesse
-adaptable
-knows no bounds
-invests
-personalized
-tireless
-punctuality
-exemplary
-shine - shone - shone
+academically /ˌækəˈdɛmɪkli/: một cách học thuật
+indelible /ɪnˈdɛləbl/:  không thể xóa nhòa
+devotion /dɪˈvoʊʃn/: sự tận tâm
+reverence /ˈrɛvərəns/: sự tôn kính, sự sùng kính
+reservoir /ˈrɛzərˌvwɑr/: Hồ chứa (Tự nhiên hoặc  nhân tạo)
+simplicity /sɪmˈplɪsət̮i/: sự đơn giản
+sophistication /səˌfɪstəˈkeɪʃn/: sự phức tạp, khoa trương.
+warmth /wɔrmθ/: sự ấm áp
+humility /hyuˈmɪlət̮i/: (n) khiêm tốn
+decades-long /ˈdɛkeɪd lɔŋ / : kéo dài hàng chục năm
+accumulate /əˈkyumyəˌleɪt/: tích lũy
+finesse /fɪˈnɛs/: Sự khéo léo
+adaptable /əˈdæptəbl/: có thể thích nghi
+knows no bounds //: không có giới hạn
+invests /ɪnˈvɛst/: đầu tư
+personalized /ˈpərsənəˌlaɪz/: cá nhân hóa
+tireless /ˈtaɪərləs/: không mệt mỏi
+punctuality /ˌpʌŋktʃuˈælət̮i/: sự đúng giờ
+exemplary /ɪɡˈzɛmpləri/: mẫu mực, gương mẩu
+shine - shone - shone /ʃaɪn/: soi sáng, sự chiếu sáng
