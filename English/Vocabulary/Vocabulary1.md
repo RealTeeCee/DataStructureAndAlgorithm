@@ -51,7 +51,7 @@ gas /ɡæs/ - liquid /ˈlɪkwɪd/ - solid /ˈsɒlɪd/: khí - lỏng - rắn
 broaden /ˈbrɔːdn/: mở mang
 horizontal /ˌhɒrɪˈzɒntl/: chân trời
 broaden horizontal /ˈbrɔːdᵊn ˌhɒrɪˈzɒntᵊl/: mở mang tầm mắt
-convey /kənˈveɪ/: chuyển chở
+convey /kənˈveɪ/: chuyển chở, truyền đạt
 therapeutic /ˌθerəˈpjuːtɪk/: trị liệu
 landscape /ˈlændskeɪp/: phong cảnh
 raft /rɑːft/: bè , đi bè

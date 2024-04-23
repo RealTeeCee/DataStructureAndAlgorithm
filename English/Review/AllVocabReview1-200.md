@@ -50,7 +50,7 @@ khí - lỏng - rắn:
 mở mang: 
 chân trời: 
 mở mang tầm mắt: 
-chuyển chở: 
+chuyển chở, truyền đạt: 
 trị liệu: 
 phong cảnh: 
 bè , đi bè: 
@@ -79,12 +79,12 @@ cửa hàng tạp hóa:
 đồ dùng tạp hóa: 
 chăm sóc sức khỏe: 
 vận tải: 
-lợi íchf: 
+lợi ích: 
 nâng, kéo, đẩy: 
 tâm trạng: 
  cải thiện tâm trạng: 
 sự xa lánh: 
-khỏe khoắn: 
+khỏe khoắn; sự thịnh vượng; hạnh phúc; phúc lợi: 
 thuộc về tinh thần: 
 tập luyện toàn thân: 
 đánh lạc hướng: 
@@ -164,7 +164,7 @@ trại cai nghiện:
 người cai nghiện, người phục hồi động vật: 
 phục hồi động vật hoang dã: 
 thuần hóa: 
-môn lặng: 
+môn lặn: 
 bàn đạp: 
 sao Mộc: 
 hệ mặt trời: 

@@ -12,7 +12,7 @@ lift - pull - push /lɪft pʊl pʊʃ/: nâng, kéo, đẩy
 mood /muːd/: tâm trạng
 boost my mood /buːst/: cải thiện tâm trạng
 alienation /ˌeɪliəˈneɪʃn/: sự xa lánh
-well-being /wel ˈbiːɪŋ/: khỏe khoắn
+well-being /wel ˈbiːɪŋ/: khỏe khoắn; sự thịnh vượng; hạnh phúc; phúc lợi
 mental /ˈmentl/: thuộc về tinh thần
 full-body workout /fʊl ˈbɑːdi ˈwɜːrkaʊt/: tập luyện toàn thân
 distract /dɪˈstrækt/: đánh lạc hướng
