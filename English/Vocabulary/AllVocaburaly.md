@@ -222,7 +222,26 @@ Megatherium //: con lười tiền sử
 zookeeper /ˈzuːkiːpər/: người làm vườn thú
 predator /ˈpredətər/: động vật ăn thịt, kẻ săn mồi
 conserve /kənˈsɜːrv/: bảo tồn, duy trì hay bảo vệ cái gì đó có giá trị sử dụng lâu dài, cần duy trì để sử dụng trong tương lai.
-whereas /ˌwerˈæz/: trong khi
+contrast /'kɔntræst/: (n) sự tương phản, đối lập
+sequential /si'kwenʃəl/: (a) tuần tự, có trình tự; được sắp xếp theo thứ tự
+simultaneous /,siməl'teinjəs/: (a)đồng thời, cùng một lúc; đồng bộ
+
+* whereas /ˌwerˈæz/: trong khi 
+# compare two things, noting the difference between them
+Ex: Katie wears dresses, whereas I wear shirts
+
+* while /waɪl/: trong khi
+# compare two things, noting the difference between them
+Ex: Katie wears dresses, while I wear shirts.
+# compare two things happening specifically at the same time
+Ex: Katie wears dresses while she does her homework.
+# also mean a long length of time when used in "a while"
+Ex: I haven't seen you for a while.
+
+* meanwhile /ˈmiːn.waɪl/: cùng lúc đó
+# Emphasizes what is happening at the same time. Can be use for "contrast", "simultaneous", "sequential" but most common use for "contrast" - meanwhile thường dùng nhiều nhất với 2 hành động trái ngược nhau
+Ex: Children are starving in Africa, meanwhile I throw away food every day.
+
 go with //: hợp với (sth), đồng ý với (someone)
 agriculture /ˈæɡrɪkʌltʃər/: nông nghiệp
 civilization /ˌsɪvələˈzeɪʃn/: nền văn minh

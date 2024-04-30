@@ -1,3 +1,18 @@
+gia sư (n), dạy kèm (v): 
+nhà cung cấp hàng hóa hoặc dịch vụ, nhà bán hàng, bên bán: 
+(v) kéo khóa, phẹt ma tua (n) khí động lực: 
+(n) dây kéo, phẹt ma tua: 
+nhà ga, trạm, bến, đồn: 
+họ lá kim: 
+(a) xanh tươi, xanh thẳm (n) cây có lá xanh, cây tươi tốt: 
+(a) thuộc cây tùng, cây thông (v) trở nên suy nhược, khao khát 1 người, 1 điều hoặc 1 thời gian đã qua: 
+cây thông: 
+gỗ: 
+hắc ín, dầu hắc: 
+(n) nhựa thông (v) lấy nhựa thông: 
+co lại: 
+lông tơ: 
+hành lý: 
 tầng hầm: 
 (v) đun sôi (n) mụn nhọt: 
 hoa cúc: 
@@ -183,18 +198,3 @@ chi trước:
 gọt, bóc vỏ, lột: 
 vỏ chuối: 
 (v) đánh đu (n) cái đu, sự đu đưa: 
-(v) bắn, ném rổ (basketball), sút (football): 
-(n) phát đạn, phát bắn; viên đạn; sự trả tiền. phiếu tính tiền; phần tiền của mình phải trả: 
-(n) kiểm tra toàn diện, khám nghiệm: 
-(v) vỗ tay hoan nghênh, tán thưởng: 
-(n) tràn vỗ tay, tiếng vỗ tay: 
-vô lý; không biết điều; không phi chăng; quá, quá chừng: 
-thư gởi bằng máy bay: 
-con nai, con hươu: 
-tuần lộc: 
-sừng gạc (nai, hươu, tuần lộc): 
-(n) sừng; cái tù và (v) in dính vào; can thiệp vào; gắn sừng: 
-vĩnh cữu; cố định; lâu dài; bền vững: 
-bánh rán, bánh vòng, bánh chữ O: 
-(n) buổi hòa nhạc (v) dự tính, sắp đặt; phối hợp: 
-đấm: 

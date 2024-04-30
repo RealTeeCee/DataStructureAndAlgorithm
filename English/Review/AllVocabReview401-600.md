@@ -1,3 +1,18 @@
+khu phức hợp ngầm: 
+hội nghị: 
+chìm, đắm: 
+tối tân, hiện đại nhất: 
+nhân viên: 
+có biên chế: 
+rộng lớn: 
+tòa trọc trời: 
+quầy bán báo: 
+buồn: 
+thuyết phục: 
+khuyến khích: 
+mê hoặc, lôi cuốn: 
+thô, nhám (bề mặt), rối (tóc): 
+đại khái: 
 tin cậy, phụ thuộc: 
 đáng tin: 
 ((thường) + up) cổ vũ, động viên, làm cho phấn khởi: 
@@ -183,18 +198,3 @@ sự kiểm kê, bản kê hàng hóa, tiền bạc, ruộng đất:
 gia công, ép, thành lá mỏng: 
 sự gia công, cán kim loại, ép kim loại: 
 máy cán, ép nhựa: 
-gia sư (n), dạy kèm (v): 
-nhà cung cấp hàng hóa hoặc dịch vụ, nhà bán hàng, bên bán: 
-(v) kéo khóa, phẹt ma tua (n) khí động lực: 
-(n) dây kéo, phẹt ma tua: 
-nhà ga, trạm, bến, đồn: 
-họ lá kim: 
-(a) xanh tươi, xanh thẳm (n) cây có lá xanh, cây tươi tốt: 
-(a) thuộc cây tùng, cây thông (v) trở nên suy nhược, khao khát 1 người, 1 điều hoặc 1 thời gian đã qua: 
-cây thông: 
-gỗ: 
-hắc ín, dầu hắc: 
-(n) nhựa thông (v) lấy nhựa thông: 
-co lại: 
-lông tơ: 
-hành lý: 

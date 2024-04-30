@@ -1,3 +1,18 @@
+(v) bắn, ném rổ (basketball), sút (football): 
+(n) phát đạn, phát bắn; viên đạn; sự trả tiền. phiếu tính tiền; phần tiền của mình phải trả: 
+(n) kiểm tra toàn diện, khám nghiệm: 
+(v) vỗ tay hoan nghênh, tán thưởng: 
+(n) tràn vỗ tay, tiếng vỗ tay: 
+vô lý; không biết điều; không phi chăng; quá, quá chừng: 
+thư gởi bằng máy bay: 
+con nai, con hươu: 
+tuần lộc: 
+sừng gạc (nai, hươu, tuần lộc): 
+(n) sừng; cái tù và (v) in dính vào; can thiệp vào; gắn sừng: 
+vĩnh cữu; cố định; lâu dài; bền vững: 
+bánh rán, bánh vòng, bánh chữ O: 
+(n) buổi hòa nhạc (v) dự tính, sắp đặt; phối hợp: 
+đấm: 
 nắm đấm, quả đấm (v) đấm nhau: 
 om, rim, kho : 
 (n) trò tung hứng (v) tung hứng, múa rối (+ with) lừa bịp, lừa dối; xuyên tạc: 
@@ -183,18 +198,3 @@ món tráng miệng; món ngọt cuối bữa:
 (adv) suốt, từ đầu đến cuối, khắp, xuyên suốt: 
 (n) tiếng La-tinh (a) thuộc latin: 
 người Ả Rập: 
-đính hôn; hứa hẹn, ước hẹn, cam kết: 
-hành trình, chuyến đi: 
-viễn tưởng; hư cấu: 
-chuyện về người thật việc thật; phi giả tưởng: 
-hít vào: 
-thở ra: 
-phổi: 
-xương sống: 
-cái vòng; cái vành, cái đai; vòng váy; (v) đóng đai (thùng...): 
-cái vòng bóng rổ, đai sắt bóng rổ: 
-con bọ rùa, bọ cánh cam: 
-ấu trùng: 
-ân huệ, ơn; ủng hộ: 
-giúp một việc: 
-giấy nhám, giấy ráp: 

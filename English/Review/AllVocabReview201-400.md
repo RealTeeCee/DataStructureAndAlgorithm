@@ -23,6 +23,21 @@ người làm vườn thú:
 động vật ăn thịt, kẻ săn mồi:  
 bảo tồn, duy trì hay bảo vệ cái gì đó có giá trị sử dụng lâu dài, cần duy trì để sử dụng trong tương lai: 
 trong khi: 
+sự tương phản, đối lập:
+tuần tự, có trình tự; được sắp xếp theo thứ tự: 
+đồng thời, cùng một lúc; đồng bộ: 
+
+* trong khi: 
+# compare two things, noting the difference between them
+
+* trong khi: 
+# compare two things, noting the difference between them
+# compare two things happening specifically at the same time
+# also mean a long length of time when used in "a while"
+
+* cùng lúc đó: 
+# Emphasizes what is happening at the same time. Can be use for "contrast", "simultaneous", "sequential" but most common use for "contrast" - meanwhile thường dùng nhiều nhất với 2 hành động trái ngược nhau
+
 hợp với (sth), đồng ý với (someone): 
 nông nghiệp: 
 nền văn minh: 
@@ -183,18 +198,3 @@ dụng cụ nấu ăn:
 con hàu: 
 hình con hàu: 
 phức tạp: 
-khu phức hợp ngầm: 
-hội nghị: 
-chìm, đắm: 
-tối tân, hiện đại nhất: 
-nhân viên: 
-có biên chế: 
-rộng lớn: 
-tòa trọc trời: 
-quầy bán báo: 
-buồn: 
-thuyết phục: 
-khuyến khích: 
-mê hoặc, lôi cuốn: 
-thô, nhám (bề mặt), rối (tóc): 
-đại khái: 
