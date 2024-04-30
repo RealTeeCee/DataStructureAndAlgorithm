@@ -1,27 +1,27 @@
-triều đình: 
-con dế: 
-lục lạc: 
-rắn đuôi chuông: 
-ăng ten: 
-có thể nghe được: 
-tần số: 
-cứng nhắc: 
-giấy cứng: 
-cây kéo: 
-cân xứng: 
-hướng lên, hướng xuống, hướng theo, hướng ngược: 
-đóng băng, đứng yên: 
-bộ đồ lặn: 
-đồ bơi: 
-cá hề (Nemo): 
-cồn: 
-đồ uống: 
-đồ uống có cồn: 
-con lười, sự lười biếng: 
-con lười tiền sử: 
-người làm vườn thú: 
-động vật ăn thịt, kẻ săn mồi: 
-bảo tồn: 
+triều đình:  
+con dế:  
+lục lạc:  
+rắn đuôi chuông:  
+ăng ten:  
+có thể nghe được:  
+tần số:  
+cứng nhắc:  
+giấy cứng:  
+cây kéo:  
+cân xứng:  
+hướng lên, hướng xuống, hướng theo, hướng ngược:  
+đóng băng, đứng yên:  
+bộ đồ lặn:  
+đồ bơi:  
+cá hề (Nemo):  
+cồn:  
+đồ uống:  
+đồ uống có cồn:  
+con lười, sự lười biếng:  
+con lười tiền sử:  
+người làm vườn thú:  
+động vật ăn thịt, kẻ săn mồi:  
+bảo tồn, duy trì hay bảo vệ cái gì đó có giá trị sử dụng lâu dài, cần duy trì để sử dụng trong tương lai: 
 trong khi: 
 hợp với (sth), đồng ý với (someone): 
 nông nghiệp: 
@@ -87,7 +87,7 @@ nướng vĩ:
 nướng lò (bánh - bột): 
 nướng lò (thịt - khoai - rau) nhiệt tản đều, nướng lửa nhỏ: 
 nướng lò (thịt - khoai - rau) nhiệt trên bề mặt, nướng lửa lớn: 
-nướng giòn nâu bề mặt lửa lớn, nướng bánh mì bằng toaster (Máy nướng bánh mì) hoặc lò bánh, nướng trên : lửa (mashmellow)
+nướng giòn nâu bề mặt lửa lớn, nướng bánh mì bằng toaster (Máy nướng bánh mì) hoặc lò bánh, nướng trên :  
 yêu nước: 
 mạo hiểm: 
 động viên; thúc đẩy, làm động cơ thúc đẩy: 

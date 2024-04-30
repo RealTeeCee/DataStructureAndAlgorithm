@@ -14,7 +14,7 @@ sloth /sləʊθ/: con lười, sự lười biếng
 Megatherium //: con lười tiền sử
 zookeeper /ˈzuːkiːpər/: người làm vườn thú
 predator /ˈpredətər/: động vật ăn thịt, kẻ săn mồi
-conserve /kənˈsɜːrv/: bảo tồn
+conserve /kənˈsɜːrv/: bảo tồn, duy trì hay bảo vệ cái gì đó có giá trị sử dụng lâu dài, cần duy trì để sử dụng trong tương lai.
 whereas /ˌwerˈæz/: trong khi
 go with //: hợp với (sth), đồng ý với (someone)
 agriculture /ˈæɡrɪkʌltʃər/: nông nghiệp

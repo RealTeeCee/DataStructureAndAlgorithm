@@ -104,5 +104,5 @@ repertoire /ˈrɛpərˌtwɑr/: Tiết mục
 innovate /ˈɪnəˌveɪt/: Đổi mới ,cải cách
 digit /ˈdɪdʒət/: Chữ số, Số từ 1 đến 9 và 0,
 digital /ˈdɪdʒət̮l/: Kỹ thuật số
-preserve /prɪˈzərv/: Bảo tồn, giữ gìn
+preserve /prɪˈzərv/: Bảo tồn; hạn chế tối đa hay ngăn cấm khai thác, sử dụng nguồn tài nguyên
 sense /sɛns/:  Giác quan, cảm giác ...
