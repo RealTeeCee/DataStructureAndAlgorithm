@@ -1,3 +1,5 @@
+vỏ chuối: 
+(v) đánh đu (n) cái đu, sự đu đưa: 
 (v) bắn, ném rổ (basketball), sút (football): 
 (n) phát đạn, phát bắn; viên đạn; sự trả tiền. phiếu tính tiền; phần tiền của mình phải trả: 
 (n) kiểm tra toàn diện, khám nghiệm: 
@@ -196,5 +198,3 @@ sàn nhảy; điệu nhảy:
 (n) mền, chăn; lớp phủ (a) tính bao trùm (v) trùm chăn, đắp chăn: 
 món tráng miệng; món ngọt cuối bữa: 
 (adv) suốt, từ đầu đến cuối, khắp, xuyên suốt: 
-(n) tiếng La-tinh (a) thuộc latin: 
-người Ả Rập: 

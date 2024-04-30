@@ -1,6 +1,8 @@
 khu phức hợp ngầm: 
 hội nghị: 
-chìm, đắm: 
+(a) chìm, đắm, chìm dưới đáy (đã chìm trước đó): 
+(v) chìm (hành động bị trọng lượng làm chìm xuống dưới bề mặt chất lỏng) (n) bồn rửa: 
+(v) nhúng, nhận chìm, ngâm, đắm (cố ý nhấn chìm): 
 tối tân, hiện đại nhất: 
 nhân viên: 
 có biên chế: 
@@ -196,5 +198,4 @@ sự kiểm kê, bản kê hàng hóa, tiền bạc, ruộng đất:
 (a) ràng buộc (n) sự đóng dính: 
 đóng kẹp ghim tài liệu, đóng sách: 
 gia công, ép, thành lá mỏng: 
-sự gia công, cán kim loại, ép kim loại: 
-máy cán, ép nhựa: 
+

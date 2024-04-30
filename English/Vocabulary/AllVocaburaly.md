@@ -404,7 +404,9 @@ oyster-shaped /ˈɔɪstə ʃeɪpt/: hình con hàu
 complex /kəmˈplɛks/: phức tạp
 underground complex /ˈʌndərˌɡraʊnd kəmˈplɛks/: khu phức hợp ngầm
 conference /ˈkɑnfrəns/: hội nghị
-sunken /ˈsʌŋkən/: chìm, đắm
+sunken /ˈsʌŋkən/: (a) chìm, đắm, chìm dưới đáy (đã chìm trước đó)
+sink - sank - sunk /siŋk - saŋk - sʌŋk/: (v) chìm (hành động bị trọng lượng làm chìm xuống dưới bề mặt chất lỏng) (n) bồn rửa
+immerse /i'mə:s/: (v) nhúng, nhận chìm, ngâm, đắm (cố ý nhấn chìm)
 state-of-the-art //: tối tân, hiện đại nhất
 staff /stæf/: nhân viên
 staffed /stæf/: có biên chế
@@ -1198,9 +1200,6 @@ restored /rəˈstôr/: phục hồi; hoàn nguyên, xây dựng lại
 precision = accuracy /pri'siʤn/: sự chính xác; tính đúng, tính chính xác;
 masterpiece /'mɑ:stəpi:s/: kiệt tác, tác phẩm lớn
 outrageous /aut'reidʤəs/: cực kỳ xấu, xúc phạm; rất táo bạo, khác thường và đáng kinh ngạc; cực kỳ phóng đại hoặc không thể xảy ra; 
-immerse /i'mə:s/: nhúng, nhận chìm, ngâm, đắm
-to be immersed in debt //: mắc nợ đìa
-to be immersed in thought //: trầm ngâm suy nghĩ, mãi suy nghĩ
 compilation /,kɔmpi'leiʃn/: sự biên soạn, sự biên tập
 investigation /in,vesti'geiʃn/: cuộc điều tra; sự điều tra nghiên cứu
 recipe /'resipi/: (= ingredient) công thức (bánh, món ăn, thuốc pha chế); đơn thuốc, thuốc pha chế theo đơn, thuốc bốc theo đơn; phương pháp, cách làm (việc gì)

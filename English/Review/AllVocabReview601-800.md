@@ -1,3 +1,5 @@
+sự gia công, cán kim loại, ép kim loại: 
+máy cán, ép nhựa: 
 gia sư (n), dạy kèm (v): 
 nhà cung cấp hàng hóa hoặc dịch vụ, nhà bán hàng, bên bán: 
 (v) kéo khóa, phẹt ma tua (n) khí động lực: 
@@ -196,5 +198,4 @@ ngoài trời:
 trong nhà: 
 chi trước: 
 gọt, bóc vỏ, lột: 
-vỏ chuối: 
-(v) đánh đu (n) cái đu, sự đu đưa: 
+

@@ -9,7 +9,7 @@ swan /swɑn/: thiên nga
 clumpsy /ˈklʌmzi/: vụng về
 graceful /ˈɡreɪsfl/: kiều diễm, duyên dáng
 magnet /ˈmæɡnət/: nam châm
-magnetic (a) - magnetism (n) /mæɡˈnɛt̮ɪk  ˈmæɡnəˌtɪzəm/: từ tính
+magnetic (a) - magnetism (n) /mæɡˈnɛt̮ɪk ˈmæɡnəˌtɪzəm/: từ tính
 monument /ˈmɑnyəmənt/: đài kỷ niệm, công trình kỷ niệm; di tích
 Skittles /ˈskɪtl/: kẹo Skittle, trò Skittle ở Anh
 clear glass /klɪr ɡlæs/: kính trong
@@ -39,7 +39,7 @@ germ /dʒərm/: mầm bệnh, vi trùng
 bacteria /bækˈtɪriə/: vi khuẩn, vi trùng, 1 loại germ
 parasite /ˈpærəˌsaɪt/: ký sinh trùng
 virus /ˈvaɪrəs/: vi rút
-poison /ˈpɔɪzənəs/: chất độc 
+poison /ˈpɔɪzənəs/: chất độc
 toxin /ˈtɑksn/: chất độc (chất hóa học được sản xuất sinh học có độc)
 venom /ˈvɛnəm/: nọc độc
 contaminated /kənˈtæməˌneɪt/: ô nhiễm, truyền nhiễm
@@ -56,13 +56,17 @@ oyster-shaped /ˈɔɪstə ʃeɪpt/: hình con hàu
 complex /kəmˈplɛks/: phức tạp
 underground complex /ˈʌndərˌɡraʊnd kəmˈplɛks/: khu phức hợp ngầm
 conference /ˈkɑnfrəns/: hội nghị
-sunken /ˈsʌŋkən/: chìm, đắm
+sunken /ˈsʌŋkən/: (a) chìm, đắm, chìm dưới đáy (đã chìm trước đó)
+sink - sank - sunk /siŋk - saŋk - sʌŋk/: (v) chìm (hành động bị trọng lượng làm chìm xuống dưới bề mặt chất lỏng) (n) bồn rửa
+immerse /i'mə:s/: (v) nhúng, nhận chìm, ngâm, đắm (cố ý nhấn chìm)
+to be immersed in debt //: mắc nợ đầm đìa
+to be immersed in thought //: trầm ngâm suy nghĩ, mãi suy nghĩ
 state-of-the-art //: tối tân, hiện đại nhất
 staff /stæf/: nhân viên
 staffed /stæf/: có biên chế
 vast /væst/: rộng lớn
 skyscraper /ˈskaɪˌskreɪpər/: tòa trọc trời
-newsagent  /ˈnuːzeɪdʒənt/: quầy bán báo
+newsagent /ˈnuːzeɪdʒənt/: quầy bán báo
 depressed = upset = sad /dɪˈprɛst/: buồn
 persuade /pərˈsweɪd/: thuyết phục
 encourage /ɪnˈkərɪdʒ/: khuyến khích
@@ -88,8 +92,8 @@ gym-goer: người tập gym
 incent = encourage /ɪnˈsɛnt/: khuyến khích, khích lệ; thúc đẩy
 incentive prize /ɪnˈsɛntɪv prize/: giải khuyến khích, ưu đãi
 meditate /ˈmɛdəˌteɪt/: suy ngẫm, thiền định
-high blood pressure /haɪ blʌd ˈprɛʃər/  : cao huyết áp 
-obesity /oʊˈbis/: béo phì 
+high blood pressure /haɪ blʌd ˈprɛʃər/ : cao huyết áp
+obesity /oʊˈbis/: béo phì
 diabetes /ˌdaɪəˈbit̮iz/: bệnh tiểu đường
 colony /ˈkɑləni/: thuộc địa, đất thực dân
 colonist /ˈkɑlənɪst/: người thực dân, người thuộc địa
@@ -100,7 +104,7 @@ pad /pæd/: miếng đệm
 foam pads /foʊm pæd/: đệm xốp
 gap /ɡæp/: khoảng trống
 drumsticks /ˈdrʌmstɪk/: dùi trống
-grin  /ɡrɪn/: cười toe toét
+grin /ɡrɪn/: cười toe toét
 frown /fraʊn/: nhăn mặt (shows disapproval or displeasure.)
 grimace /ˈɡrɪməs/: nhăn nhó (show pain or disgust)
 marble /ˈmɑrbl/: đá hoa cương, viên bi
