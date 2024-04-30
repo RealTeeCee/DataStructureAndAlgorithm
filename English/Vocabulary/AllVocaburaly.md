@@ -253,7 +253,7 @@ spreadable //: có thể lây lan
 soft-spreadable //: đồ ăn phết được (mứt, bơ, ...)
 revolutionary /ˌrevəˈluːʃəneri/: mang tính cách mạng
 ritualistic /ˌrɪtʃuəˈlɪstɪk/: mang tính nghi thức
-ceremonies /ˈserəməʊni/: lễ tưởng niệm, nghi lễ
+ceremony /ˈserəməʊni/: lễ tưởng niệm, nghi lễ
 consumption /kənˈsʌmpʃn/: sự tiêu thụ
 jared /dʒɑːr/ = descent: con cháu, chai sạn
 resident /ˈrezɪdənt/: cư dân, cư trú
