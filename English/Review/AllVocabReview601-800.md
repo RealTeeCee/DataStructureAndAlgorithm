@@ -1,3 +1,5 @@
+đóng kẹp ghim tài liệu, đóng sách: 
+gia công, ép, thành lá mỏng: 
 sự gia công, cán kim loại, ép kim loại: 
 máy cán, ép nhựa: 
 gia sư (n), dạy kèm (v): 
@@ -196,6 +198,5 @@ nhật thực một phần:
 chuyến đi thực tế, thực địa: 
 ngoài trời: 
 trong nhà: 
-chi trước: 
-gọt, bóc vỏ, lột: 
+
 

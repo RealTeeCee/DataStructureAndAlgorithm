@@ -415,8 +415,10 @@ skyscraper /ˈskaɪˌskreɪpər/: tòa trọc trời
 newsagent  /ˈnuːzeɪdʒənt/: quầy bán báo
 depressed = upset = sad /dɪˈprɛst/: buồn
 persuade /pərˈsweɪd/: thuyết phục
-encourage /ɪnˈkərɪdʒ/: khuyến khích
-fascinate /ˈfæsəˌneɪt/: mê hoặc, lôi cuốn
+encourage /ɪnˈkərɪdʒ/: khuyến khích (bằng lời nói) (common - thông thường)
+incent /ɪnˈsɛnt/: khuyến khích, khích lệ; thúc đẩy (đi kèm phần thưởng) (formal - trang trọng)
+incentive prize /ɪnˈsɛntɪv prize/: giải khuyến khích, ưu đãi
+fascinate /ˈfæsəˌneɪt/: (v) mê hoặc, thu hút
 rough /rʌf/: thô, nhám (bề mặt), rối (tóc)
 roughly /ˈrʌfli/: đại khái
 rely /rɪˈlaɪ/: tin cậy, phụ thuộc
@@ -428,18 +430,18 @@ widely considered /ˈwaɪdli kənˈsɪdər/: được số đông biết đê
 interrupt /ˌɪntəˈrʌpt/: ngắt, gián đoạn
 orchestra /ˈɔrkəstrə/ : dàn nhạc
 referee /ˌrɛfəˈri/: trọng tài
-rainforest /ˈreɪnˌfɔrəst/: rừng nhiệt đới
+tropical /'trɔpikəl/: nhiệt đới
+tropical forest /'trɔpikəl ˈfôrəst/: rừng nhiệt đới (chung)
+rainforest /ˈreɪnˌfɔrəst/: rừng mưa nhiệt đới
 chimpanzee /ˌtʃɪmpænˈzi/: tinh tinh
 orangutan /əˈræŋəˌtæn/: đười ươi
 ape /eɪp/: vượn
 gorilla /ɡəˈrɪlə/: khỉ đột
 souvenir /ˌsuvəˈnɪr/: quà lưu niệm
 gym-goer: người tập gym
-incent = encourage /ɪnˈsɛnt/: khích lệ
-incentive prize /ɪnˈsɛntɪv prize/: giải khuyến khích, ưu đãi
 meditate /ˈmɛdəˌteɪt/: suy ngẫm, thiền định
 high blood pressure /haɪ blʌd ˈprɛʃər/  : cao huyết áp 
-obesity /oʊˈbis/: béo phì 
+obesity /oʊˈbisədi/: béo phì 
 diabetes /ˌdaɪəˈbit̮iz/: bệnh tiểu đường
 colony /ˈkɑləni/: thuộc địa, đất thực dân
 colonist /ˈkɑlənɪst/: người thực dân, người thuộc địa
@@ -455,12 +457,12 @@ frown /fraʊn/: nhăn mặt (shows disapproval or displeasure.)
 grimace /ˈɡrɪməs/: nhăn nhó (show pain or disgust)
 marble /ˈmɑrbl/: đá hoa cương, viên bi
 revise /rɪˈvaɪz/: ôn lại
-revised : cải tiến lại
+revised /rɪˈvaɪzd/: cải tiến lại
 draft /dræft/: bản nháp, thảo
-revised draft: dự thảo sửa đổi
+revised draft //: dự thảo sửa đổi
 trim /trɪm/: cắt tỉa
 charge /tʃɑrdʒ/: (n) phí, nhiệm vụ (v) tốn, sạc (pin)
-in charge: phụ trách, có trách nhiệm
+in charge //: phụ trách, có trách nhiệm
 reception /rɪˈsɛpʃn/: sự tiếp nhận, nơi tiếp khách
 toss /tɔs/: ném, liệng
 petal /ˈpɛt̮l/: cánh hoa
@@ -551,7 +553,7 @@ gravy /ˈɡreɪvi/: nước sốt thịt, nước nhựa thịt
 savory /ˈseɪvəri/: cay hoặc mặn
 flaky /ˈfleɪki/: bong tróc
 biscuits and gravy /ˈbɪskət n ˈɡreɪvi/: bánh quy bột mềm sốt thịt
-biscuit /ˈbɪskət/: bánh quy (savory: cay hoặc mặn, thick, doughy, )
+biscuit /ˈbɪskət/: bánh quy (savory: cay hoặc mặn, thick, doughy)
 cookie /ˈkʊki/: bánh quy (sweet, thin)
 cracker /ˈkrækər/: bánh quy (salty, thin, flaky: bong tróc)
 saturate /ˈsætʃəˌreɪt/: bão hòa

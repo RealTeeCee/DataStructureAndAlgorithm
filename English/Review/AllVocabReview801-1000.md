@@ -1,3 +1,5 @@
+chi trước: 
+gọt, bóc vỏ, lột: 
 vỏ chuối: 
 (v) đánh đu (n) cái đu, sự đu đưa: 
 (v) bắn, ném rổ (basketball), sút (football): 
@@ -196,5 +198,3 @@ phòng trưng bày (tranh, tượng):
 quán trọ;  khách sạn nhỏ (ở nông thôn, thị trấn); nhà nội trú (của học sinh đại học): 
 sàn nhảy; điệu nhảy: 
 (n) mền, chăn; lớp phủ (a) tính bao trùm (v) trùm chăn, đắp chăn: 
-món tráng miệng; món ngọt cuối bữa: 
-(adv) suốt, từ đầu đến cuối, khắp, xuyên suốt: 

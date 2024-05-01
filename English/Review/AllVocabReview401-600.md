@@ -11,8 +11,10 @@ tòa trọc trời:
 quầy bán báo: 
 buồn: 
 thuyết phục: 
-khuyến khích: 
-mê hoặc, lôi cuốn: 
+khuyến khích (bằng lời nói) (common - thông thường): 
+khuyến khích, khích lệ; thúc đẩy (đi kèm phần thưởng) (formal - trang trọng): 
+giải khuyến khích, ưu đãi: 
+(v) mê hoặc, thu hút: 
 thô, nhám (bề mặt), rối (tóc): 
 đại khái: 
 tin cậy, phụ thuộc: 
@@ -24,15 +26,15 @@ xem xét:
 ngắt, gián đoạn: 
 dàn nhạc: 
 trọng tài: 
-rừng nhiệt đới: 
+nhiệt đới: 
+rừng nhiệt đới (chung): 
+rừng mưa nhiệt đới: 
 tinh tinh: 
 đười ươi: 
 vượn: 
 khỉ đột: 
 quà lưu niệm: 
 người tập gym: 
-khích lệ: 
-giải khuyến khích, ưu đãi: 
 suy ngẫm, thiền định: 
 cao huyết áp : 
 béo phì : 
@@ -102,7 +104,7 @@ dự bị,thay thế, người thế chỗ, :
 người thay thế: 
 không khuyến khích: 
 quấy rầy: 
- lịch sự != bất lịch sự: 
+lịch sự != bất lịch sự: 
 kèn: 
 nhầy nhụa: 
 trơn tru, bóng loáng: 
@@ -147,9 +149,9 @@ nước sốt thịt, nước nhựa thịt:
 cay hoặc mặn: 
 bong tróc: 
 bánh quy bột mềm sốt thịt: 
-cay hoặc mặn, thick, doughy, ): 
+bánh quy (cay hoặc mặn, thick, doughy, ): 
 bánh quy (sweet, thin): 
-bong tróc): 
+bánh quy (salty, thin, flaky: bong tróc): 
 bão hòa: 
 đặc biệt, xuất chúng, phi thường: 
 trên: 
@@ -196,6 +198,5 @@ trợ lý giám đốc:
 sự kiểm kê, bản kê hàng hóa, tiền bạc, ruộng đất: 
 (n) dấu = mark, sign, point, note (v) trói buộc, ưng thuận: 
 (a) ràng buộc (n) sự đóng dính: 
-đóng kẹp ghim tài liệu, đóng sách: 
-gia công, ép, thành lá mỏng: 
+
 
