@@ -1,26 +1,26 @@
-triều đình: .
-con dế:  .
-lục lạc:  .
-rắn đuôi chuông:  .
-ăng ten:  .
-có thể nghe được:  .
-tần số:  .
-cứng nhắc:  .
-giấy cứng:  .
-cây kéo:  .
-cân xứng:  .
-hướng lên, hướng xuống, hướng theo, hướng ngược:  .
-đóng băng, đứng yên:  .
-bộ đồ lặn:  .
-đồ bơi:  .
-cá hề (Nemo):  .
-cồn:  .
-đồ uống:  .
-đồ uống có .cồn:  
-con lười, sự lười biếng:  .
-con lười tiền sử:  .
-người làm vườn thú:  .
-động vật ăn thịt, kẻ săn mồi:  .
+triều đình: 
+con dế:  
+lục lạc:  
+rắn đuôi chuông:  
+ăng ten:  
+có thể nghe được:  
+tần số:  
+cứng nhắc:  
+giấy cứng:  
+cây kéo:  
+cân xứng:  
+hướng lên, hướng xuống, hướng theo, hướng ngược:  
+đóng băng, đứng yên:  
+bộ đồ lặn:  
+đồ bơi:  
+cá hề (Nemo):  
+cồn:  
+đồ uống:  
+đồ uống có cồn:  
+con lười, sự lười biếng:  
+con lười tiền sử:  
+người làm vườn thú:  
+động vật ăn thịt, kẻ săn mồi:  
 bảo tồn, duy trì hay bảo vệ cái gì đó có giá trị sử dụng lâu dài, cần duy trì để sử dụng trong tương lai: 
 Bảo tồn; hạn chế tối đa hay ngăn cấm khai thác, sử dụng nguồn tài nguyên: 
 đặt trước; dự trữ; giữ gìn để sài: 
