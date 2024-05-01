@@ -87,7 +87,6 @@ sao băng:
 thiên thạch: 
 đổ, tràn: 
 tia cực tím: 
-đài kỷ niệm, công trình kỷ niệm; di tích: 
 di sản kế thừa: 
 ứng viên: 
 trân trọng, thành thật: 
@@ -99,7 +98,9 @@ trượt tuyết (ván đôi tay cầm thanh trượt):
 giòn rụm: 
 rắc, rãi: 
 bí đỏ: 
-công thức: 
+thành phần, nguyên liệu: 
+công thức (nấu nướng): 
+công thức (toán học): 
 (mặt nước) nông, không sâu, (con người) thiếu sâu sắc: 
 rễ cây: 
 bóng râm: 
@@ -172,9 +173,11 @@ dáng (người), hình dạng:
 cộng tác: 
 hợp tác: 
 (n) bụi, phấn hoa = pollen, rác: 
-quét nhà: 
+cái chổi : 
+(n) bụi, phấn hoa = pollen, rác: 
+quét bụi (dùng bất kì thứ gì): 
 quét, vét bùn, cạo ống: 
-quét nhà: 
+quét nhà (dùng chổi): 
 (v) hút chân không (n) máy hút bụi, khoảng chân không: 
 (v) húi bụi: 
 (n) chổi lau nhà: 

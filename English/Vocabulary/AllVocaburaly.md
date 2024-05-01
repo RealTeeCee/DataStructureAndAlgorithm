@@ -362,7 +362,6 @@ clumpsy /ˈklʌmzi/: vụng về
 graceful /ˈɡreɪsfl/: kiều diễm, duyên dáng
 magnet /ˈmæɡnət/: nam châm
 magnetic (a) - magnetism (n) /mæɡˈnɛt̮ɪk  ˈmæɡnəˌtɪzə/: từ tính
-monuments /ˈmɑnyəmənt/: di tích, đài tưởng niệm
 Skittles /ˈskɪtl/: kẹo Skittle, trò Skittle ở Anh
 clear glass /klɪr ɡlæs/: kính trong
 stir /stər/: khuấy
@@ -499,7 +498,9 @@ skiing /ˈskiɪŋ/: trượt tuyết (ván đôi tay cầm thanh trượt)
 crunchy /ˈkrʌntʃi/: giòn rụm
 sprinkle /ˈsprɪŋkl/: rắc, rãi
 pumpskin /ˈpʌmpkɪn/: bí đỏ
-ingredient /ɪnˈɡridiənt/: công thức
+ingredient /ɪnˈɡridiənt/: thành phần, nguyên liệu
+recipe /'resəpi/: công thức (nấu nướng)
+formula /'fɔ:mjulə/: công thức (toán học)
 shallow /ˈʃæloʊ/: (mặt nước) nông, không sâu, (con người) thiếu sâu sắc
 root /rut/: rễ cây
 shade /ʃeɪd/: bóng râm
@@ -571,10 +572,11 @@ fragance /ˈfreɪɡrəns/: hương thơm
 shape /ʃeɪp/: dáng (người), hình dạng
 collab (collaboration): cộng tác
 collaborate /kəˈlæbəˌreɪt/: hợp tác
+broom /bru:m/: cái chổi 
 dust /dʌst/: (n) bụi, phấn hoa = pollen, rác
-dusting //: quét nhà
+dusting //: quét bụi (dùng bất kì thứ gì)
 sweep /swip/: quét, vét bùn, cạo ống
-sweeping //: quét nhà
+sweeping //: quét nhà (dùng chổi)
 vacuum /ˈvækyum/: (v) hút chân không (n) máy hút bụi, khoảng chân không
 vacuuming //: (v) húi bụi
 mop /mɑp/: (n) chổi lau nhà
@@ -721,7 +723,7 @@ salary /ˈsæl.ɚ.i/: lương lậu
 bankbook /ˈbæŋkbʊk/: sổ tiết kiệm
 deposit / withdraw /dɪˈpɑː.zɪt wɪðˈdrɑː/: gửi/rút tiền
 anger /ˈæŋ.gɚ/: sự giận dữ (giận dữ, căm phẫn hoặc khó chịu)
-mad /mæd/: sự điên tiết (sự tức giận tạm thời hoặc không kiểm soát)
+madness /mæd/: sự điên tiết (sự tức giận tạm thời hoặc không kiểm soát)
 fury /ˈfjʊr.i/: sự sôi máu (cảm giác mất kiểm soát hoặc sự bùng nổ mạnh mẽ của cảm xúc tức giận)
 resentment /rɪˈzent.mənt/: sự căm phẫn, oán trách phẫn uất (tức giận và oán trách do cảm giác bị xúc phạm, tổn thương hoặc bất công)
 crust /krʌst/: vỏ bánh mì, vỏ tôm, lớp rỉ sét
@@ -760,7 +762,7 @@ adjust /əˈdʒʌst/: điều chỉnh, thiết lập
 unicycle = monocycle /ˈjuː.nəˌsaɪ.kəl 'mɔnousaikl/: xe đạp 1 bánh
 council /'kaunsl/: hội đồng
 pitch /piCH/: sân bóng đá
-hilarious /hi'leəriəs/: buồn cười, hài hước
+hilarious /hi'leəriəs/: cực kì buồn cười, hài hước
 jungle = forest /ˈjəNGɡəl ˈfôrəst/: rừng
 crime /kraim/: tội ác, tội lỗi
 criminal /'kriminl/: (n) tội phạm (a) có tội, phạm tội (người đã bị chứng minh và công nhận là phạm tội)
@@ -1140,7 +1142,6 @@ personalize /ˈpɝː.sən.əl.aɪz/: cá nhân hóa
 therapy /ˈθer.ə.pi/: sự trị liệu, điều trị, liệu pháp
 tent /tent/: lều, rạp, cái tăng
 sleeping bag /ˈsliː.pɪŋ ˌbæg/: túi ngủ; cái mềm để chui vào ngũ
-broom /bru:m/: cái chổi
 gather /'gæðə/: tập hợp, tụ họp lại; hái, lượm, thu thập
 gathering material //: thu thập vật liệu
 fire starting /ˈfaɪr ˌstɑːr.t̬ing/: bắt lửa

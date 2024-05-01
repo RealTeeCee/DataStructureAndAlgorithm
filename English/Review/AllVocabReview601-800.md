@@ -160,7 +160,7 @@ bầu không khí:
 xe đạp 1 bánh: 
 hội đồng: 
 sân bóng đá: 
-buồn cười, hài hước: 
+cực kì buồn cười, hài hước: 
 rừng: 
 tội ác, tội lỗi: 
 (n) tội phạm (a) có tội, phạm tội (người đã bị chứng minh và công nhận là phạm tội): 
