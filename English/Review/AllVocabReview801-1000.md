@@ -1,3 +1,10 @@
+nhật thực: 
+nhật thực toàn phần: 
+nhật thực một phần: 
+(n) chuyến đi, sự hụt chân (v) vấp ngã: 
+chuyến đi thực tế, thực địa: 
+ngoài trời: 
+trong nhà: 
 chi trước: 
 gọt, bóc vỏ, lột: 
 vỏ chuối: 
@@ -191,10 +198,3 @@ vật bỏ đi, rác rưởi; chuyện tầm phào, nhảm nhí:
 vượt qua, khắc phục (khó khăn...): 
 sự truyền cảm; sự cảm hứng; sự hít vào, sự thở vào: 
 trì hoãn: 
-người quản trị, quản trị viên: 
-trang viên, thái ấp: 
-vùng Baltic, biển Ban-tích; thuộc một nhánh của ngôn ngữ ấn Âu gồm tiếng Latvia tiếng Lituania và tiếng Phổ cổ; : thuộc nhánh Ban-tích
-phòng trưng bày (tranh, tượng): 
-quán trọ;  khách sạn nhỏ (ở nông thôn, thị trấn); nhà nội trú (của học sinh đại học): 
-sàn nhảy; điệu nhảy: 
-(n) mền, chăn; lớp phủ (a) tính bao trùm (v) trùm chăn, đắp chăn: 

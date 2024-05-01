@@ -1,42 +1,48 @@
-triều đình:  
-con dế:  
-lục lạc:  
-rắn đuôi chuông:  
-ăng ten:  
-có thể nghe được:  
-tần số:  
-cứng nhắc:  
-giấy cứng:  
-cây kéo:  
-cân xứng:  
-hướng lên, hướng xuống, hướng theo, hướng ngược:  
-đóng băng, đứng yên:  
-bộ đồ lặn:  
-đồ bơi:  
-cá hề (Nemo):  
-cồn:  
-đồ uống:  
-đồ uống có cồn:  
-con lười, sự lười biếng:  
-con lười tiền sử:  
-người làm vườn thú:  
-động vật ăn thịt, kẻ săn mồi:  
+triều đình: .
+con dế:  .
+lục lạc:  .
+rắn đuôi chuông:  .
+ăng ten:  .
+có thể nghe được:  .
+tần số:  .
+cứng nhắc:  .
+giấy cứng:  .
+cây kéo:  .
+cân xứng:  .
+hướng lên, hướng xuống, hướng theo, hướng ngược:  .
+đóng băng, đứng yên:  .
+bộ đồ lặn:  .
+đồ bơi:  .
+cá hề (Nemo):  .
+cồn:  .
+đồ uống:  .
+đồ uống có .cồn:  
+con lười, sự lười biếng:  .
+con lười tiền sử:  .
+người làm vườn thú:  .
+động vật ăn thịt, kẻ săn mồi:  .
 bảo tồn, duy trì hay bảo vệ cái gì đó có giá trị sử dụng lâu dài, cần duy trì để sử dụng trong tương lai: 
-trong khi: 
+Bảo tồn; hạn chế tối đa hay ngăn cấm khai thác, sử dụng nguồn tài nguyên: 
+đặt trước; dự trữ; giữ gìn để sài: 
+sự đặt trước; sự bảo lưu, lưu trữ; giữ gìn để sài: 
 sự tương phản, đối lập:
 tuần tự, có trình tự; được sắp xếp theo thứ tự: 
 đồng thời, cùng một lúc; đồng bộ: 
 
+
 * trong khi: 
 # compare two things, noting the difference between them
 
 * trong khi: 
 # compare two things, noting the difference between them
+
 # compare two things happening specifically at the same time
+
 # also mean a long length of time when used in "a while"
 
 * cùng lúc đó: 
 # Emphasizes what is happening at the same time. Can be use for "contrast", "simultaneous", "sequential" but most common use for "contrast" - meanwhile thường dùng nhiều nhất với 2 hành động trái ngược nhau
+
 
 hợp với (sth), đồng ý với (someone): 
 nông nghiệp: 
@@ -135,6 +141,7 @@ phân tầng:
 tầng trung lưu: 
 tầng bình lưu: 
 tầng đối lưu: 
+
 high (cirro-, cirrus), middle (alto-), multi-level (nimbo-, cumulo-, cumulus), and low (strato-, stratus)
 mây quyển (high) a type of light cloud that forms high in the sky: 
 mây tích (multi-level - form low to high) a type of thick white cloud: 
@@ -191,10 +198,3 @@ triệu chứng:
 vệ sinh: 
 gia cầm: 
 sống: 
-chưa chín: 
-quá chín: 
-dụng cụ nhà bếp, nông cụ: 
-dụng cụ nấu ăn: 
-con hàu: 
-hình con hàu: 
-phức tạp: 

@@ -93,8 +93,6 @@ expand /iks'pænd/: mở rộng, trải ra; nở ra, phồng ra, giãn; (toán h
 expansion /iks'pænʃn/: sự mở rộng, sự bành trướng, sự phát triển, sự phồng ra; phần mở rộng
 personalize /ˈpɝː.sən.əl.aɪz/: cá nhân hóa
 therapy /ˈθer.ə.pi/: sự trị liệu, điều trị, liệu pháp
-reserve /rəˈzərv/: đặt trước; dự trữ; giữ gìn để sài
-reservation /,rezə'veiʃn/: sự đặt trước; sự bảo lưu, lưu trữ; giữ gìn để sài
 tent /tent/: lều, rạp, cái tăng
 sleeping bag /ˈsliː.pɪŋ ˌbæg/: túi ngủ; cái mềm để chui vào ngũ
 broom /bru:m/: cái chổi

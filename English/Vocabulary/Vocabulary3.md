@@ -15,6 +15,9 @@ Megatherium //: con lười tiền sử
 zookeeper /ˈzuːkiːpər/: người làm vườn thú
 predator /ˈpredətər/: động vật ăn thịt, kẻ săn mồi
 conserve /kənˈsɜːrv/: bảo tồn, duy trì hay bảo vệ cái gì đó có giá trị sử dụng lâu dài, cần duy trì để sử dụng trong tương lai.
+preserve /prɪˈzərv/: Bảo tồn; hạn chế tối đa hay ngăn cấm khai thác, sử dụng nguồn tài nguyên
+reserve /rəˈzərv/: đặt trước; dự trữ; giữ gìn để sài
+reservation /,rezə'veiʃn/: sự đặt trước; sự bảo lưu, lưu trữ; giữ gìn để sài
 whereas /ˌwerˈæz/: trong khi
 go with //: hợp với (sth), đồng ý với (someone)
 agriculture /ˈæɡrɪkʌltʃər/: nông nghiệp

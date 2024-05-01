@@ -1,3 +1,10 @@
+sự điều tra, kiểm duyệt, khám xét: 
+hỗ trợ, giúp sức: 
+trợ thủ, trợ lý, phụ tá: 
+trợ lý giám đốc: 
+sự kiểm kê, bản kê hàng hóa, tiền bạc, ruộng đất: 
+(n) dấu = mark, sign, point, note (v) trói buộc, ưng thuận: 
+(a) ràng buộc (n) sự đóng dính: 
 đóng kẹp ghim tài liệu, đóng sách: 
 gia công, ép, thành lá mỏng: 
 sự gia công, cán kim loại, ép kim loại: 
@@ -191,12 +198,6 @@ gấu túi:
 gấu túi non; kangaroo non: 
 sự che khuất, pha tối, đèn biển: 
 nguyệt thực: 
-nhật thực: 
-nhật thực toàn phần: 
-nhật thực một phần: 
-(n) chuyến đi, sự hụt chân (v) vấp ngã: 
-chuyến đi thực tế, thực địa: 
-ngoài trời: 
-trong nhà: 
+
 
 

@@ -1,3 +1,10 @@
+chưa chín: 
+quá chín: 
+dụng cụ nhà bếp, nông cụ: 
+dụng cụ nấu ăn: 
+con hàu: 
+hình con hàu: 
+phức tạp: 
 khu phức hợp ngầm: 
 hội nghị: 
 (a) chìm, đắm, chìm dưới đáy (đã chìm trước đó): 
@@ -191,12 +198,6 @@ viễn thông:
 (n) giao dịch, sự đổi, thị trường chứng khoáng (v) giao dịch, giao hoán, trao đổi: 
 bảo mẫu, giữ trẻ, vú em (= mamma): 
 quan sát: 
-sự điều tra, kiểm duyệt, khám xét: 
-hỗ trợ, giúp sức: 
-trợ thủ, trợ lý, phụ tá: 
-trợ lý giám đốc: 
-sự kiểm kê, bản kê hàng hóa, tiền bạc, ruộng đất: 
-(n) dấu = mark, sign, point, note (v) trói buộc, ưng thuận: 
-(a) ràng buộc (n) sự đóng dính: 
+
 
 

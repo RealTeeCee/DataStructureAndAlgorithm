@@ -222,6 +222,9 @@ Megatherium //: con lười tiền sử
 zookeeper /ˈzuːkiːpər/: người làm vườn thú
 predator /ˈpredətər/: động vật ăn thịt, kẻ săn mồi
 conserve /kənˈsɜːrv/: bảo tồn, duy trì hay bảo vệ cái gì đó có giá trị sử dụng lâu dài, cần duy trì để sử dụng trong tương lai.
+preserve /prɪˈzərv/: Bảo tồn; hạn chế tối đa hay ngăn cấm khai thác, sử dụng nguồn tài nguyên
+reserve /rəˈzərv/: đặt trước; dự trữ; giữ gìn để sài
+reservation /,rezə'veiʃn/: sự đặt trước; sự bảo lưu, lưu trữ; giữ gìn để sài
 contrast /'kɔntræst/: (n) sự tương phản, đối lập
 sequential /si'kwenʃəl/: (a) tuần tự, có trình tự; được sắp xếp theo thứ tự
 simultaneous /,siməl'teinjəs/: (a)đồng thời, cùng một lúc; đồng bộ
@@ -1135,8 +1138,6 @@ expand /iks'pænd/: mở rộng, trải ra; nở ra, phồng ra, giãn; (toán h
 expansion /iks'pænʃn/: sự mở rộng, sự bành trướng, sự phát triển, sự phồng ra; phần mở rộng
 personalize /ˈpɝː.sən.əl.aɪz/: cá nhân hóa
 therapy /ˈθer.ə.pi/: sự trị liệu, điều trị, liệu pháp
-reserve /rəˈzərv/: đặt trước; dự trữ; giữ gìn để sài
-reservation /,rezə'veiʃn/: sự đặt trước; sự bảo lưu, lưu trữ; giữ gìn để sài
 tent /tent/: lều, rạp, cái tăng
 sleeping bag /ˈsliː.pɪŋ ˌbæg/: túi ngủ; cái mềm để chui vào ngũ
 broom /bru:m/: cái chổi
@@ -1260,7 +1261,6 @@ repertoire /ˈrɛpərˌtwɑr/: Tiết mục
 innovate /ˈɪnəˌveɪt/: Đổi mới ,cải cách
 digit /ˈdɪdʒət/: Chữ số, Số từ 1 đến 9 và 0, 
 digital /ˈdɪdʒət̮l/: Kỹ thuật số
-preserve /prɪˈzərv/: Bảo tồn; hạn chế tối đa hay ngăn cấm khai thác, sử dụng nguồn tài nguyên
 sense /sɛns/:  Giác quan, cảm giác ...
 parallelism /ˈpærəlɛˌlɪzəm/: Song hành
 yawn /yɔn/: Ngáp (v)
