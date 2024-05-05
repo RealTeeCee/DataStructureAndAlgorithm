@@ -201,6 +201,6 @@ viễn thông:
 (n) giao dịch, sự đổi, thị trường chứng khoáng (v) giao dịch, giao hoán, trao đổi: 
 bảo mẫu, giữ trẻ, vú em (= mamma): 
 quan sát: 
-
+sự điều tra, kiểm duyệt, khám xét: 
 
 

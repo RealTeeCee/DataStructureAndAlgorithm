@@ -1,3 +1,5 @@
+sự che khuất, pha tối, đèn biển: 
+nguyệt thực: 
 nhật thực: 
 nhật thực toàn phần: 
 nhật thực một phần: 

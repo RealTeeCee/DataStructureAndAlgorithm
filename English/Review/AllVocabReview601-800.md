@@ -1,4 +1,3 @@
-sự điều tra, kiểm duyệt, khám xét: 
 hỗ trợ, giúp sức: 
 trợ thủ, trợ lý, phụ tá: 
 trợ lý giám đốc: 
@@ -196,8 +195,6 @@ găng tay hở ngón; găng đấu quyền anh:
 thú có túi: 
 gấu túi: 
 gấu túi non; kangaroo non: 
-sự che khuất, pha tối, đèn biển: 
-nguyệt thực: 
 
 
 
