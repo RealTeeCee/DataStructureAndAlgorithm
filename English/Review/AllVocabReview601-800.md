@@ -123,6 +123,7 @@ sự giận dữ (giận dữ, căm phẫn hoặc khó chịu):
 sự điên tiết (sự tức giận tạm thời hoặc không kiểm soát): 
 sự sôi máu (cảm giác mất kiểm soát hoặc sự bùng nổ mạnh mẽ của cảm xúc tức giận): 
 sự căm phẫn, oán trách phẫn uất (tức giận và oán trách do cảm giác bị xúc phạm, tổn thương hoặc bất công): 
+sự phẫn nộ (sự nổi giận mạnh mẽ và có thể dẫn đến hành động bạo lực hoặc hủy diệt): 
 vỏ bánh mì, vỏ tôm, lớp rỉ sét: 
 tầng lớp thượng lưu: 
 kiếm ăn hàng ngày: 
@@ -132,7 +133,6 @@ lõi trái đất:
 khớp với nhau: 
 đỉa, tấm, miếng, mảng, bản: 
 lục địa: 
-sự phẫn nộ (sự nổi giận mạnh mẽ và có thể dẫn đến hành động bạo lực hoặc hủy diệt): 
 phun trào (núi lửa); nổ ra (chiến tranh); nhú lên (răng): 
 núi lửa: 
 cuồng phong, bão lớn phổ biến ở Đại Tây Dương: 

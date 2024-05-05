@@ -726,6 +726,7 @@ anger /ˈæŋ.gɚ/: sự giận dữ (giận dữ, căm phẫn hoặc khó ch
 madness /mæd/: sự điên tiết (sự tức giận tạm thời hoặc không kiểm soát)
 fury /ˈfjʊr.i/: sự sôi máu (cảm giác mất kiểm soát hoặc sự bùng nổ mạnh mẽ của cảm xúc tức giận)
 resentment /rɪˈzent.mənt/: sự căm phẫn, oán trách phẫn uất (tức giận và oán trách do cảm giác bị xúc phạm, tổn thương hoặc bất công)
+wrath /rɑːθ/: sự phẫn nộ (sự nổi giận mạnh mẽ và có thể dẫn đến hành động bạo lực hoặc hủy diệt)
 crust /krʌst/: vỏ bánh mì, vỏ tôm, lớp rỉ sét
 the upper crust //: tầng lớp thượng lưu
 to earn one's crust //: kiếm ăn hàng ngày
@@ -735,7 +736,6 @@ The Earth's core //: lõi trái đất
 fit together //: khớp với nhau
 plate /pleit/: đỉa, tấm, miếng, mảng, bản
 continent /'kɔntinənt/: lục địa
-wrath /rɑːθ/: sự phẫn nộ (sự nổi giận mạnh mẽ và có thể dẫn đến hành động bạo lực hoặc hủy diệt)
 erupt /i'rʌpt/: phun trào (núi lửa); nổ ra (chiến tranh); nhú lên (răng)
 volcano /vɔl'keinou/: núi lửa
 hurricane /'hʌrikən/: cuồng phong, bão lớn phổ biến ở Đại Tây Dương
