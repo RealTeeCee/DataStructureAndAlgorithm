@@ -51,7 +51,7 @@ flea /flē/: con bọ chét
 second-hand /'sekənd'hænd/: cũ, mua lại, hàng đã dùng qua
 promote /prəˈmōt/: thăng cấp, thăng chức; sáng lập, đề xướng; làm tăng tiến, đẩy mạnh, xúc tiến
 strict /strikt/: nghiêm ngặt, nghiêm khắc; nghiêm chỉnh
-convince /kən'vins/: làm cho tin, làm cho nghe theo, thuyết phục
+convince /kən'vins/: làm cho tin, thuyết phục dựa trên sự thật (Còn persuade dựa trên lý luận)
 bubbly /'bʌbli/: có bong bóng, nhiều bọt, nhiều tăm; sủi bọt, sủi tăm
 bubbly student /'bʌbli student/: sinh viên sôi nổi
 supervisor /ˈso͞opərˌvīzər/: người giám sát
