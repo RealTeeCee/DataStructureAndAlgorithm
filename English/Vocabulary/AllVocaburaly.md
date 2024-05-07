@@ -867,7 +867,7 @@ bubbly /'bʌbli/: có bong bóng, nhiều bọt, nhiều tăm; sủi bọt, sủ
 bubbly student /'bʌbli student/: sinh viên sôi nổi
 supervisor /'sju:pəvaizə/: người giám sát
 remain /ri'mein/: (v) còn lại, vẫn (n) đồ còn lại, còn sót; tàn tích, di tích, di hài
-get rid of //: thoát khỏi; dẹp sạch
+get rid of //: tống khứ đi, bỏ đi; thoát khỏi
 stationary /'steiʃnəri/: (n) người ở một chỗ; vật để ở một chỗ (a) đứng ở một chỗ, không di chuyển; không mang đi được, để một chỗ 
 decide /dəˈsīd/: quyết định 
 team decider: /dəˈsīdər/: người quyết định đội
@@ -886,7 +886,7 @@ imply /im'plai/: (v) ý nói, ngụ ý; bao hàm
 figure /'figə/: hình dáng; sơ đồ; nhân vật
 resort /'ri:'sɔ:t/: (n) khu nghỉ mát; phương kế, phương sách (v) thường xuyên lui tới; dùng đến, cầu đến, nhớ vào
 slope /sloup/: (n) dốc, đường dốc, chỗ dốc; độ dốc (v) cắt nghiêng, làm nghiêng
-wirelessly /ˈwīərləslē/: không dây
+wirelessly /ˈwīərləslē/: (bằng 1 cách) không dây
 hive /hīv/: tổ ong
 let alone + V = not to mention //: huống hồ là, chứ đừng nói đến —used especially to emphasize the improbability of a contrasting example.
 express /iks'pres/: (n) người đưa thư hoả tốc, công văn hoả tốc (a) rõ ràng; (giống) như hệt, như in
@@ -912,6 +912,7 @@ impatient != patient /im'peiʃənt != peiʃənt/: thiếu kiên nhẫn, nóng 
 tiny /'taini/: tí hon, bé ti, nhỏ xíu
 session /'seʃn/: phiên, kỳ tác vụ; buổi họp
 heatwave /heat-wave/: đợt nắng nóng
+soar /sôr/: (v) bay lên; bay lượn trên không
 soaring /'sɔ:riɳ/: (a) tăng vọt, vọt lên; (n) sự tham lam
 rainfall /ˈrānˌfôl/: lượng mưa
 lockdown /lockdown/ : lệnh đóng cửa
@@ -975,7 +976,7 @@ area /'eəriə/: diện tích, bề mặt; vùng, khu vực; phạm vi, tầm
 meeting area //: khu vực họp
 shelter /'ʃeltə/: chỗ che, chỗ nương tựa, chỗ núp, hầm; lầu, chòi; phòng, cabin (người lái); (v) che chở, bảo vệ; ẩn, núp, nấp, trốn
 to shelter someone from the rain //: che cho ai khỏi mưa
-accidentally /,æksi'dentəli/: tình cờ, ngẫu nhiên
+accidentally /,æksi'dentəli/: (một cách) tình cờ, ngẫu nhiên
 accident /'æksidənt/: (n) sự cố, tai nạn, tai biến; sự gồ ghề, sự khấp khểnh; by accident: tình cờ, ngẫu nhiên
 incident /'insidənt/: (n) sự cố, việc bất ngờ xảy ra, việc rắc rối (a) (+ to) vốn có; (vật lý) tới - incident ray: tia tới
 result /ri'zʌlt/: (n) kết quả (v) (+ from) do bởi, do mà ra; (+ in) dẫn đến, đưa đến, kết quả là

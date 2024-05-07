@@ -56,7 +56,7 @@ bubbly /'bʌbli/: có bong bóng, nhiều bọt, nhiều tăm; sủi bọt, sủ
 bubbly student /'bʌbli student/: sinh viên sôi nổi
 supervisor /ˈso͞opərˌvīzər/: người giám sát
 remain /ri'mein/: (v) còn lại, vẫn (n) đồ còn lại, còn sót; tàn tích, di tích, di hài
-get rid of //: thoát khỏi; dẹp sạch
+get rid of //: tống khứ đi, bỏ đi; thoát khỏi
 stationary /'steiʃnəri/: (n) người ở một chỗ; vật để ở một chỗ (a) đứng ở một chỗ, không di chuyển; không mang đi được, để một chỗ 
 decide /dəˈsīd/: quyết định 
 team decider: /dəˈsīdər/: người quyết định đội; người phân đội
@@ -75,7 +75,7 @@ imply /im'plai/: (v) ý nói, ngụ ý; bao hàm
 figure /'figə/: hình dáng; sơ đồ; nhân vật
 resort /'ri:'sɔ:t/: (n) khu nghỉ mát; phương kế, phương sách (v) thường xuyên lui tới; dùng đến, cầu đến, nhớ vào
 slope /sloup/: (n) độ dốc; đường dốc, chỗ dốc (v) cắt nghiêng, làm nghiêng
-wirelessly /ˈwīərləslē/: không dây
+wirelessly /ˈwīərləslē/: (bằng 1 cách) không dây
 hive /hīv/: tổ ong
 let alone + V = not to mention //: huống hồ là, chứ đừng nói đến —used especially to emphasize the improbability of a contrasting example.
 express /iks'pres/: (n) người đưa thư hoả tốc, công văn hoả tốc (a) rõ ràng; (giống) như hệt, như in

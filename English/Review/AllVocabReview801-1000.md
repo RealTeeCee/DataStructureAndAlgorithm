@@ -67,7 +67,7 @@ có bong bóng, nhiều bọt, nhiều tăm; sủi bọt, sủi tăm:
 sinh viên sôi nổi: 
 người giám sát: 
 (v) còn lại, vẫn (n) đồ còn lại, còn sót; tàn tích, di tích, di hài: 
-thoát khỏi; dẹp sạch: 
+tống khứ đi, bỏ đi; thoát khỏi: 
 (n) người ở một chỗ; vật để ở một chỗ (a) đứng ở một chỗ, không di chuyển; không mang đi được, để một chỗ : 
 quyết định : 
 người quyết định đội: 
@@ -86,7 +86,7 @@ sự rung động; sự làm rung động:
 hình dáng; sơ đồ; nhân vật: 
 (n) khu nghỉ mát; phương kế, phương sách (v) thường xuyên lui tới; dùng đến, cầu đến, nhớ vào: 
 (n) dốc, đường dốc, chỗ dốc; độ dốc (v) cắt nghiêng, làm nghiêng: 
-không dây: 
+(bằng 1 cách) không dây: 
 tổ ong: 
 huống hồ là, chứ đừng nói đến —used especially to emphasize the improbability of a contrasting example.: 
 (n) người đưa thư hoả tốc, công văn hoả tốc (a) rõ ràng; (giống) như hệt, như in: 
@@ -112,6 +112,7 @@ thiếu kiên nhẫn, nóng vội, nôn nóng:
 tí hon, bé ti, nhỏ xíu: 
 phiên, kỳ tác vụ; buổi họp: 
 đợt nắng nóng: 
+(v) bay lên; bay lượn trên không: 
 (a) tăng vọt, vọt lên; (n) sự tham lam: 
 lượng mưa: 
 lệnh đóng cửa: 
@@ -175,8 +176,8 @@ diện tích, bề mặt; vùng, khu vực; phạm vi, tầm:
 khu vực họp: 
 chỗ che, chỗ nương tựa, chỗ núp, hầm; lầu, chòi; phòng, cabin (người lái); (v) che chở, bảo vệ; ẩn, núp, nấp, trốn: 
 che cho ai khỏi mưa: 
-tình cờ, ngẫu nhiên: 
-tình cờ, ngẫu nhiên: 
+(một cách) tình cờ, ngẫu nhiên: 
+(n) sự cố, tai nạn, tai biến; sự gồ ghề, sự khấp khểnh: 
 (n) sự cố, việc bất ngờ xảy ra, việc rắc rối (a) (+ to) vốn có; (vật lý) tới - incident tia tới: 
 (n) kết quả (v) (+ from) do bởi, do mà ra; (+ in) dẫn đến, đưa đến, kết quả là: 
 gây thiệt hại; làm tổn thương (danh dự...): 
@@ -197,4 +198,3 @@ trước hết; chủ yếu:
 ma quái, như ma quỷ: 
 thời niên thiếu, thiếu niên, tuổi trẻ, thanh xuân: 
 công trình kiến trúc, cấu trúc; khoa kiến trúc: 
-vật bỏ đi, rác rưởi; chuyện tầm phào, nhảm nhí: 
