@@ -824,7 +824,7 @@ antler /ˈantlər/: sừng gạc (nai, hươu, tuần lộc)
 horn /horn/: (n) sừng; cái tù và (v) in dính vào; can thiệp vào; gắn sừng
 permanent /'pə:mənənt/: vĩnh cữu; cố định; lâu dài; bền vững
 doughnut /'dounʌt/: bánh rán, bánh vòng, bánh chữ O
-concert/kən'sə:t/: (n) buổi hòa nhạc (v) dự tính, sắp đặt; phối hợp
+concert /ˈkɑːn.sɚt/: (n) buổi hòa nhạc (v) dự tính, sắp đặt; phối hợp
 punch /pʌntʃ/: đấm
 fist /fist/: nắm đấm, quả đấm (v) đấm nhau
 braise /breiz/: om, rim, kho 
