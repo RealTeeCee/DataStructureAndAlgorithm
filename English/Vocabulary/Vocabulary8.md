@@ -45,7 +45,7 @@ radiocarbon /ˌreɪ.di.əʊ.kɑːbən/ : các bon phóng xạ
 attack /ə'tæk/: tấn công, công kích; cơn
 an attack of fever /ə'tæk əv 'fi:və/: cơn sốt
 a heart attack /hɑ:t ə'tæk/: cơn đau tim
-anxiety attacks /æɳ'zaiəti ə'tæk/: cơn lo âu
+anxiety attack /æɳ'zaiəti ə'tæk/: cơn lo âu
 landfill /ˈlænd.fɪl/: đắp đất
 flea /flē/: con bọ chét
 second-hand /'sekənd'hænd/: cũ, mua lại, hàng đã dùng qua
