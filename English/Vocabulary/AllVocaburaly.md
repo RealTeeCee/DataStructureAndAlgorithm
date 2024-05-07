@@ -831,7 +831,8 @@ braise /breiz/: om, rim, kho
 juggle /ˈdʒʌɡ.əl/: (n) trò tung hứng (v) tung hứng, múa rối (+ with) lừa bịp, lừa dối; xuyên tạc
 circus /'sə:kəs/: rạp, gánh xiếc
 load /loud/: (v) tải; chất, bốc hàng; chở (n) vật gánh, vật chở
-nutrient /'nju:triənt/: (a) bổ, dinh dưỡng (n) chất dinh dưỡng
+nutrient /ˈnuː.tri.ənt/: (a) bổ, dinh dưỡng = nutritious (n) chất dinh dưỡng
+nutrition /nuːˈtrɪʃ.ən/: đồ ăn bổ dưỡng; sự dinh dưỡng
 donkey /ˈdôNGkē/: con lừa; người ngu đần (như lừa)
 cotton /ˈkätn/: bông gòn
 cotton candy /ˈkätn 'kændi/: kẹo bông gòn
