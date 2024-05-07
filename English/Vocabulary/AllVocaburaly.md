@@ -828,7 +828,7 @@ concert /ˈkɑːn.sɚt/: (n) buổi hòa nhạc (v) dự tính, sắp đă�
 punch /pʌntʃ/: đấm
 fist /fist/: nắm đấm, quả đấm (v) đấm nhau
 braise /breiz/: om, rim, kho 
-juggle: (n) trò tung hứng (v) tung hứng, múa rối (+ with) lừa bịp, lừa dối; xuyên tạc
+juggle /ˈdʒʌɡ.əl/: (n) trò tung hứng (v) tung hứng, múa rối (+ with) lừa bịp, lừa dối; xuyên tạc
 circus /'sə:kəs/: rạp, gánh xiếc
 load /loud/: (v) tải; chất, bốc hàng; chở (n) vật gánh, vật chở
 nutrient /'nju:triənt/: (a) bổ, dinh dưỡng (n) chất dinh dưỡng
