@@ -56,7 +56,7 @@ bubbly /'bʌbli/: có bong bóng, nhiều bọt, nhiều tăm; sủi bọt, sủ
 bubbly student /'bʌbli student/: sinh viên sôi nổi
 supervisor /ˈso͞opərˌvīzər/: người giám sát
 remain /ri'mein/: (v) còn lại, vẫn (n) đồ còn lại, còn sót; tàn tích, di tích, di hài
-get rid of: thoát khỏi; dẹp sạch
+get rid of //: thoát khỏi; dẹp sạch
 stationary /'steiʃnəri/: (n) người ở một chỗ; vật để ở một chỗ (a) đứng ở một chỗ, không di chuyển; không mang đi được, để một chỗ 
 decide /dəˈsīd/: quyết định 
 team decider: /dəˈsīdər/: người quyết định đội; người phân đội

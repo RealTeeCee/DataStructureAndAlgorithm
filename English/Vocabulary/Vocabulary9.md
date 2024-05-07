@@ -31,13 +31,13 @@ incident /'insidənt/: (n) sự cố, việc bất ngờ xảy ra, việc rắ
 result /ri'zʌlt/: (n) kết quả (v) (+ from) do bởi, do mà ra; (+ in) dẫn đến, đưa đến, kết quả là
 damage /'dæmidʤ/: (n) sự thiệt hại; (v) (= endamage /in'dæmidʤ/): gây thiệt hại; làm tổn thương (danh dự...)
 poster /'poustə/: áp phích; quảng cáo
-closing sale //: hạ giá trước khi đóng cửa
+closing sale /ˈkloʊz.zɪŋ seɪl/: hạ giá trước khi đóng cửa
 motion /'mouʃn/: sự vận động, sự chuyển đông, sự di động; cử động, cử chỉ, dáng đi; (v) ra hiệu, ra ý
 friction /'frikʃn/:  sự mài xát, sự ma xát; sự chà xát; sự xích mích
 complement /'kɔmpliment/: phần bù, phần bổ sung; bổ ngữ; (toán học) phần bù (góc bù)
 control /kənˈtrōl/: (v) điều khiển (n) sự cầm lái, sự điều khiển
 controller /kənˈtrōlər/: bộ điều chỉnh; người kiểm soát; (= comptroller) quản lý, trưởng ban quản trị (bệnh viện, trường học, doanh trại quân đội...)
-figure out//: tìm ra; tính toán ra được
+figure out /ˈfɪɡ.jɚ aʊt/: tìm ra; tính toán ra được
 soundtrack /'saundtræk/: đường ghi âm (phim, game, ghi âm); nhạc (phim, game, ghi âm)
 blast /blɑ:st/: vụ nổ, tiếng nổ; luồng hơi (bễ lò), hơi (bom...); (v) làm nổ tung, phá (bằng mìn); phá hoại, làm tan vỡ (hạnh phúc)
 nostalgic /nɔs'tældʤik/: (a) hoài cổ, nhớ nhà, nhớ quê hương; luyến tiếc

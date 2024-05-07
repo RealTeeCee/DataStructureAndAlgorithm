@@ -839,8 +839,8 @@ cotton candy /ˈkätn 'kændi/: kẹo bông gòn
 scallion /'skæljən/: hành tăm
 pancake /'pænkeik/: bánh kếp
 dim sum /ˌdim ˈsəm/: món dim sum
-scallion pancakes: bánh xèo hành
-Generational /ˌjenəˈrāSH(ə)nəl/ : thế hệ
+scallion pancakes //: bánh xèo hành
+Generational /ˌjenəˈrāSH(ə)nəl/ : (thuộc) thế hệ
 demonstrate /'demənstreit/: biểu diễn, phô diễn; biểu tình; chứng minh, giải thích; bày tỏ, biểu lộ, làm thấy rõ
 trophy /'troufi/: cúp; vật kỷ niệm chiến công, chiến tích
 magic staff /'mædʤik stɑ:f/: gậy phép
@@ -853,21 +853,21 @@ curriculum /kə'rikjuləm/: chương trình giảng dạy
 societies /sə'saiəti/: hoạt động xã hội, đoàn thể, hội
 radiocarbon /ˌreɪ.di.əʊ.kɑːbən/ : các bon phóng xạ
 attack /ə'tæk/: tấn công, công kích; cơn
-an attack of fever //: cơn sốt
-a heart attack //: cơn đau tim
-anxiety attacks //: cơn lo âu
+an attack of fever /ə'tæk əv ˈfiː.vɚ/: cơn sốt
+a heart attack /hɑ:t ə'tæk/: cơn đau tim
+anxiety attacks /æɳ'zaiəti ə'tæk/: cơn lo âu
 landfill /ˈlænd.fɪl/: đắp đất
-flea /flea/: con bọ chét
+flea /flē/: con bọ chét
 second-hand /'sekənd'hænd/: cũ, mua lại, hàng đã dùng qua
 backpack /ˈbakˌpak/: cái balo, cái cặp đeo trên vai
-promote /promote/: thăng cấp, thăng chức; sáng lập, đề xướng; làm tăng tiến, đẩy mạnh, xúc tiến
+promote /prəˈmōt/: thăng cấp, thăng chức; sáng lập, đề xướng; làm tăng tiến, đẩy mạnh, xúc tiến
 strict /strikt/: nghiêm ngặt, nghiêm khắc; nghiêm chỉnh
 convince /kən'vins/: làm cho tin, làm cho nghe theo, thuyết phục
 bubbly /'bʌbli/: có bong bóng, nhiều bọt, nhiều tăm; sủi bọt, sủi tăm
 bubbly student /'bʌbli student/: sinh viên sôi nổi
 supervisor /'sju:pəvaizə/: người giám sát
 remain /ri'mein/: (v) còn lại, vẫn (n) đồ còn lại, còn sót; tàn tích, di tích, di hài
-get rid of: thoát khỏi; dẹp sạch
+get rid of //: thoát khỏi; dẹp sạch
 stationary /'steiʃnəri/: (n) người ở một chỗ; vật để ở một chỗ (a) đứng ở một chỗ, không di chuyển; không mang đi được, để một chỗ 
 decide /dəˈsīd/: quyết định 
 team decider: /dəˈsīdər/: người quyết định đội
@@ -981,13 +981,13 @@ incident /'insidənt/: (n) sự cố, việc bất ngờ xảy ra, việc rắ
 result /ri'zʌlt/: (n) kết quả (v) (+ from) do bởi, do mà ra; (+ in) dẫn đến, đưa đến, kết quả là
 damage /'dæmidʤ/: (n) sự thiệt hại; (v) (= endamage /in'dæmidʤ/): gây thiệt hại; làm tổn thương (danh dự...)
 poster /'poustə/: áp phích; quảng cáo
-closing sale //: hạ giá trước khi đóng cửa
+closing sale /ˈkloʊz.zɪŋ seɪl/: hạ giá trước khi đóng cửa
 motion /'mouʃn/: sự vận động, sự chuyển đông, sự di động; cử động, cử chỉ, dáng đi; (v) ra hiệu, ra ý
 friction /'frikʃn/:  sự mài xát, sự ma xát; sự chà xát; sự xích mích
 complement /'kɔmpliment/: phần bù, phần bổ sung; bổ ngữ; (toán học) phần bù (góc bù)
 control /kənˈtrōl/: (v) điều khiển (n) sự cầm lái, sự điều khiển
 controller /kənˈtrōlər/: bộ điều chỉnh; người kiểm soát; (= comptroller) quản lý, trưởng ban quản trị (bệnh viện, trường học, doanh trại quân đội...)
-figure out//: tìm ra; tính toán ra được
+figure out /ˈfɪɡ.jɚ aʊt/: tìm ra; tính toán ra được
 soundtrack /'saundtræk/: đường ghi âm (phim, game, ghi âm); nhạc (phim, game, ghi âm)
 blast /blɑ:st/: vụ nổ, tiếng nổ; luồng hơi (bễ lò), hơi (bom...); (v) làm nổ tung, phá (bằng mìn); phá hoại, làm tan vỡ (hạnh phúc)
 nostalgic /nɔs'tældʤik/: (a) hoài cổ, nhớ nhà, nhớ quê hương; luyến tiếc

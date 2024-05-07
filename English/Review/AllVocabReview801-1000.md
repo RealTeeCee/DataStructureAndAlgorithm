@@ -31,7 +31,8 @@ om, rim, kho :
 (n) trò tung hứng (v) tung hứng, múa rối (+ with) lừa bịp, lừa dối; xuyên tạc: 
 rạp, gánh xiếc: 
 (v) tải; chất, bốc hàng; chở (n) vật gánh, vật chở: 
-(a) bổ, dinh dưỡng (n) chất dinh dưỡng: 
+(a) bổ, dinh dưỡng (n) chất dinh dưỡng:
+đồ ăn bổ dưỡng; sự dinh dưỡng: 
 con lừa; người ngu đần (như lừa): 
 bông gòn: 
 kẹo bông gòn: 
@@ -39,7 +40,7 @@ hành tăm:
 bánh kếp: 
 món dim sum: 
 bánh xèo hành: 
-thế hệ: 
+(thuộc) thế hệ: 
 biểu diễn, phô diễn; biểu tình; chứng minh, giải thích; bày tỏ, biểu lộ, làm thấy rõ: 
 cúp; vật kỷ niệm chiến công, chiến tích: 
 gậy phép: 
@@ -197,4 +198,3 @@ ma quái, như ma quỷ:
 thời niên thiếu, thiếu niên, tuổi trẻ, thanh xuân: 
 công trình kiến trúc, cấu trúc; khoa kiến trúc: 
 vật bỏ đi, rác rưởi; chuyện tầm phào, nhảm nhí: 
-vượt qua, khắc phục (khó khăn...): 
