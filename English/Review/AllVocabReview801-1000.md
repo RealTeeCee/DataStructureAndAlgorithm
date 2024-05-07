@@ -198,5 +198,3 @@ thời niên thiếu, thiếu niên, tuổi trẻ, thanh xuân:
 công trình kiến trúc, cấu trúc; khoa kiến trúc: 
 vật bỏ đi, rác rưởi; chuyện tầm phào, nhảm nhí: 
 vượt qua, khắc phục (khó khăn...): 
-sự truyền cảm; sự cảm hứng; sự hít vào, sự thở vào: 
-trì hoãn: 
