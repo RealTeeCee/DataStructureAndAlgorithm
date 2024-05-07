@@ -62,7 +62,7 @@ cũ, mua lại, hàng đã dùng qua:
 cái balo, cái cặp đeo trên vai: 
 thăng cấp, thăng chức; sáng lập, đề xướng; làm tăng tiến, đẩy mạnh, xúc tiến: 
 nghiêm ngặt, nghiêm khắc; nghiêm chỉnh: 
-làm cho tin, làm cho nghe theo, thuyết phục: 
+làm cho tin, thuyết phục dựa trên sự thật (Còn persuade dựa trên lý luận): 
 có bong bóng, nhiều bọt, nhiều tăm; sủi bọt, sủi tăm: 
 sinh viên sôi nổi: 
 người giám sát: 
