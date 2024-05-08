@@ -1066,7 +1066,10 @@ downhill /dounˈhil/: (n) đường xuống dốc; lúc sắp chết (adv)
 classify //: phân loại, phân hạng
 dwarf /dwôrf/: người lùn, chú lùn (7 chú lùn)
 oxygen /ˈäksəjən/: ôxy
-decay /dəˈkā/: (thực vật) phân hủy = rot = decompose
+* decompose /ˌdiː.kəmˈpoʊz/: phân hủy (từ chung mà có thể ám chỉ bất kỳ quá trình phân giải tự nhiên nào của vật liệu hoặc chất liệu)
+* decay /dəˈkā/: phân hủy  (phân huỷ do vi sinh vật như vi khuẩn hoặc nấm)
+* biodegradable /ˌbaɪəʊdɪˈɡreɪdəbl/: phân hủy sinh học (phân hủy một cách tự nhiên và không gây ra sự ô nhiễm độc hại)
+* rot /rɑːt/: phân hủy hữu cơ (phân hủy hoặc sự hỏng hóc của vật liệu hữu cơ hoặc thực phẩm)
 fungi /fəngi/: nấm bệnh; (nhiễm) nấm
 recycle /rēˈsīkl/: tái chế
 handheld /ˈhandˌheld/: cầm tay
@@ -1107,7 +1110,9 @@ opposed to //: bất đồng với; trái lại, trái ngược với
 day off //: ngày nghỉ
 effect /i'fekt/: hiệu lực, hiệu quả, tác dụng
 special effect //: hiệu ứng đặc biệt
-genre /ʤỴ:ɳr/: thể loại, loại
+* genre /ʤỴ:ɳr/: thể loại, loại (nghệ thuật, văn học, âm nhạc, phim ảnh. Ví dụ: thể loại tiểu thuyết kinh điển, thể loại phim hành động, thể loại nhạc jazz.)
+* type /taɪp/: thể loại, phân loại (phân loại cụ thể hoặc một nhóm nhỏ các đối tượng hoặc sự kiện có các đặc điểm chung. Ví dụ: các loại hình thực vật, các loại hình sản phẩm, các loại hình ngôn ngữ.)
+* kind /kaɪnd/:  Loại, giống loài (phân loại dựa trên các đặc điểm tự nhiên hoặc thuộc tính chung. Ví dụ: các loại hình động vật, các loại hình tự nhiên, các loại hình của ý thức.)
 spot /spɔt/: địa điểm, chỗ, vị trí; dấu, đốm, vết
 stake /steik/: cọc đóng, cọc gỗ; cổ phần
 twig /twiɡ/: cành cây
