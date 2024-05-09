@@ -198,6 +198,3 @@ vật chứa nhựa; thùng chứa nhựa:
 bộ cửa kính, bộ kính màu: 
 (v) làm hư, làm hỏng; thối, ươn (quả, cá...) (n) đất đá đào lên, đất bùn nạo vét lên: 
 hỗn hợp: 
-(v) làm tan chảy: 
-làm phẳng : 
-nghề làm thủy tinh: 

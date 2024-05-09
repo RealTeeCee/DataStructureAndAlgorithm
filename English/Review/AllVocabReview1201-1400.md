@@ -1,3 +1,6 @@
+(v) làm tan chảy: 
+làm phẳng : 
+nghề làm thủy tinh: 
 tầm nhìn; thị lực: 
 làm hoảng sợ, làm sợ: 
 chỉ đạo, thực hiện: 
