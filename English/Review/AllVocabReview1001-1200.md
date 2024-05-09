@@ -1,10 +1,10 @@
-vật bỏ đi, rác rưởi; chuyện tầm phào, nhảm nhí: 
-vượt qua, khắc phục (khó khăn...): 
-sự truyền cảm; sự cảm hứng; sự hít vào, sự thở vào: 
-trì hoãn: 
-người quản trị, quản trị viên: 
-trang viên, thái ấp: 
-vùng Baltic, biển Ban-tích; thuộc một nhánh của ngôn ngữ ấn Âu gồm tiếng Latvia tiếng Lituania và tiếng Phổ cổ; : thuộc nhánh Ban-tích
+vật bỏ đi, rác rưởi; chuyện tầm phào, nhảm nhí: .
+vượt qua, khắc phục (khó khăn...): .
+sự truyền cảm; sự cảm hứng; sự hít vào, sự thở vào: .
+trì hoãn: .
+người quản trị, quản trị viên: .
+trang viên, thái ấp: .
+vùng Baltic, biển Ban-tích; thuộc một nhánh của ngôn ngữ ấn Âu gồm tiếng Latvia tiếng Lituania và tiếng Phổ cổ; : .thuộc nhánh Ban-tích
 phòng trưng bày (tranh, tượng): 
 quán trọ;  khách sạn nhỏ (ở nông thôn, thị trấn); nhà nội trú (của học sinh đại học): 
 sàn nhảy; điệu nhảy: 
@@ -63,13 +63,15 @@ ngựa 1 sừng:
 bút lông: 
 bút màu: 
 (n) đường xuống dốc; lúc sắp chết (adv) dốc xuống; suy yếu (a) dốc, nghiêng: 
+siêu dốc (gấp đôi hoặc gấp ba so với độ dốc thông thường): 
+dốc, độ dốc của một bề mặt: 
 phân loại, phân hạng: 
 người lùn, chú lùn (7 chú lùn): 
 ôxy: 
-phân hủy (từ chung mà có thể ám chỉ bất kỳ quá trình phân giải tự nhiên nào của vật liệu hoặc chất liệu): 
-phân hủy  (phân huỷ do vi sinh vật như vi khuẩn hoặc nấm): 
-phân hủy sinh học (phân hủy một cách tự nhiên và không gây ra sự ô nhiễm độc hại): 
-phân hủy hữu cơ (phân hủy hoặc sự hỏng hóc của vật liệu hữu cơ hoặc thực phẩm): 
+phân hủy (từ chung mà có thể ám chỉ bất kỳ quá trình phân giải tự nhiên nào của vật liệu hoặc chất liệu) Ex: lá, vỏ chuối, thực vật chết, giấy báo, mạt cưa: 
+phân hủy  (phân huỷ do vi sinh vật như vi khuẩn hoặc nấm). Ex: táo, xà lách, bánh mì, gỗ, cỏ phơi: 
+phân hủy sinh học (phân hủy một cách tự nhiên và không gây ra sự ô nhiễm độc hại) Ex: cốc giấy, thìa gỗ, thùng  các-tông, bao bì, bột bắp, rơm tre: 
+phân hủy hữu cơ (phân hủy hoặc sự hỏng hóc của vật liệu hữu cơ hoặc thực phẩm) Ex: thịt, Quả cam, Cà chua, Phô mai, Trứng: 
 nấm bệnh; (nhiễm) nấm: 
 tái chế: 
 cầm tay: 

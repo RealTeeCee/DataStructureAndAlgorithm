@@ -1062,14 +1062,16 @@ mane /mein/: bờm
 unicorn /'ju:nikɔ:n/: ngựa 1 sừng
 marker /'mɑ:kə/: bút lông
 crayon /'kreiən/: bút màu
-downhill /dounˈhil/: (n) đường xuống dốc; lúc sắp chết (adv) dốc xuống; suy yếu (a) dốc, nghiêng
+* downhill /dounˈhil/: (n) đường xuống dốc; lúc sắp chết (adv) dốc xuống; suy yếu (a) dốc, nghiêng
+* steep /stiːp/: siêu dốc (gấp đôi hoặc gấp ba so với độ dốc thông thường)
+* slope /sloup/: dốc, độ dốc của một bề mặt
 classify //: phân loại, phân hạng
 dwarf /dwôrf/: người lùn, chú lùn (7 chú lùn)
 oxygen /ˈäksəjən/: ôxy
-* decompose /ˌdiː.kəmˈpoʊz/: phân hủy (từ chung mà có thể ám chỉ bất kỳ quá trình phân giải tự nhiên nào của vật liệu hoặc chất liệu)
-* decay /dəˈkā/: phân hủy  (phân huỷ do vi sinh vật như vi khuẩn hoặc nấm)
-* biodegradable /ˌbaɪəʊdɪˈɡreɪdəbl/: phân hủy sinh học (phân hủy một cách tự nhiên và không gây ra sự ô nhiễm độc hại)
-* rot /rɑːt/: phân hủy hữu cơ (phân hủy hoặc sự hỏng hóc của vật liệu hữu cơ hoặc thực phẩm)
+* decompose /ˌdiː.kəmˈpoʊz/: phân hủy (từ chung mà có thể ám chỉ bất kỳ quá trình phân giải tự nhiên nào của vật liệu hoặc chất liệu) Ex: lá, vỏ chuối, thực vật chết, giấy báo, mạt cưa
+* decay /dəˈkā/: phân hủy  (phân huỷ do vi sinh vật như vi khuẩn hoặc nấm). Ex: táo, xà lách, bánh mì, gỗ, cỏ phơi
+* biodegradable /ˌbaɪəʊdɪˈɡreɪdəbl/: phân hủy sinh học (phân hủy một cách tự nhiên và không gây ra sự ô nhiễm độc hại) Ex: cốc giấy, thìa gỗ, thùng các-tông, bao bì, bột bắp, rơm tre
+* rot /rɑːt/: phân hủy hữu cơ (phân hủy hoặc sự hỏng hóc của vật liệu hữu cơ hoặc thực phẩm) Ex: thịt, Quả cam, Cà chua, Phô mai, Trứng
 fungi /fəngi/: nấm bệnh; (nhiễm) nấm
 recycle /rēˈsīkl/: tái chế
 handheld /ˈhandˌheld/: cầm tay
