@@ -1174,7 +1174,7 @@ waterproof /ˈwôdərˌpro͞of/: chống nước; không thấm nước
 blowhole /ˈblōˌhōl/: lỗ phun nước
 bottlenose dolphin /ˌbädlˌnōz ˈdälfən/: cá heo mũi chai
 killer whale /ˈkilər wāl/: cá voi sát thủ (còn gọi là cá heo sát thủ)
-rinse /rins/: rửa sạch
+rinse /rins/: rửa sạch (rửa nhẹ nhàng = cách đổ nước vào hoặc lên trên hoặc nhúng vào nước)
 googly eyes //: đôi mắt tinh tường
 glow /glou/: (n) ánh sáng rực rỡ; sức nóng rực; (v) rực sáng, bừng sáng; nóng rực, nóng bừng lên
 astronomy /əs'trɔnəmi/: thiên văn học

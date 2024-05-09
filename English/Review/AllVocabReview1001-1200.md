@@ -174,7 +174,7 @@ chống nước; không thấm nước:
 lỗ phun nước: 
 cá heo mũi chai: 
 cá voi sát thủ (còn gọi là cá heo sát thủ): 
-rửa sạch: 
+rửa sạch (rửa nhẹ nhàng = cách đổ nước vào hoặc lên trên hoặc nhúng vào nước): 
 đôi mắt tinh tường: 
 (n) ánh sáng rực rỡ; sức nóng rực; (v) rực sáng, bừng sáng; nóng rực, nóng bừng lên: 
 thiên văn học: 
