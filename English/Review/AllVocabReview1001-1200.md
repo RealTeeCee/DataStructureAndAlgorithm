@@ -198,5 +198,3 @@ chất dẻo; nhựa:
 cái đựng, cái chứa (chai, lọ, bình, thành, hộp...); côngtenơ: 
 vật chứa nhựa; thùng chứa nhựa: 
 bộ cửa kính, bộ kính màu: 
-(v) làm hư, làm hỏng; thối, ươn (quả, cá...) (n) đất đá đào lên, đất bùn nạo vét lên: 
-hỗn hợp: 
