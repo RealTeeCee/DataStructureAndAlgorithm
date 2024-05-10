@@ -69,7 +69,7 @@ Bắt buộc (adj):
 tập giấy ghi: 
 splash-proof coating: Lớp phủ chống bắn tung tóe
 Mãnh liệt, mạnh mẽ (adj): 
-sturdy lockable: Có thể khóa chắc chắn.
+Có thể khóa chắc chắn.: 
 Gian nhà, căn phòng trên tàu, căn phòng trên xe lửa: 
 Phù hợp với: 
 cây bụi, cây nhỏ: 
@@ -81,7 +81,7 @@ Tiết mục:
 Đổi mới ,cải cách: 
 Chữ số, Số từ 1 đến 9 và 0, : 
 Kỹ thuật số: 
- Giác quan, cảm giác ...: 
+Giác quan, cảm giác ...: 
 Song hành: 
 Ngáp (v): 
 Ngáy (v) tiếng ngáy (n), tiếng ầm ầm (n), tiếng vu vu (n).: 
@@ -109,7 +109,7 @@ Cắt, ngắt:
 The country cannot do without foreign investment.: 
 Ghé vào: 
 thích: 
- Tìm ra: 
+Tìm ra: 
 thích: 
 Tiếp tục: 
 Giao , nộp: 

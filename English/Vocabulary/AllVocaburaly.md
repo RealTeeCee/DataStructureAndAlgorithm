@@ -1269,7 +1269,7 @@ compulsory /kəmˈpʌlsəri/: Bắt buộc (adj)
 writing pad = notepad //: tập giấy ghi
 splash-proof coating: Lớp phủ chống bắn tung tóe
 sturdy /ˈstərdi/: Mãnh liệt, mạnh mẽ (adj)
-sturdy lockable: Có thể khóa chắc chắn.
+sturdy lockable //: Có thể khóa chắc chắn.
 compartment /kəmˈpɑrtmənt/: Gian nhà, căn phòng trên tàu, căn phòng trên xe lửa
 fit into //: Phù hợp với
 shrub /ʃrʌb/: cây bụi, cây nhỏ
