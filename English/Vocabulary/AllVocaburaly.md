@@ -1239,8 +1239,8 @@ aromatic herb //: cây cỏ thơm
 specialized /ˈspeSHəˌlīzd/: chuyên dụng; thích ứng, thiết kế cho một mục đích riêng
 storytelling /ˈstôrēˌteliNG/: kể chuyện
 aspire /əs'paiə/: (+ to, after, at) thiết tha, mong mỏi, khao khát
-aspirin /əs'pərən/: (n) thuốc cãm, thuốc chống viêm
 aspiring /əs'pəriNG/: (adj) mong mỏi, khao khát
+aspirin /əs'pərən/: (n) thuốc cãm, thuốc chống viêm
 filmmaker /ˈfilmˌmākər/: nhà làm phim
 cinematic /ˌsinəˈmadik/: phim điện ảnh; (adv) cinematically: về mặt điện ảnh
 endangered species //: những loài có nguy có bị tuyệt chủng

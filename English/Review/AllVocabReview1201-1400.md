@@ -39,8 +39,8 @@ cây cỏ thơm:
 chuyên dụng; thích ứng, thiết kế cho một mục đích riêng: 
 kể chuyện: 
 (+ to, after, at) thiết tha, mong mỏi, khao khát: 
-(n) thuốc cãm, thuốc chống viêm: 
 (adj) mong mỏi, khao khát: 
+(n) thuốc cãm, thuốc chống viêm: 
 nhà làm phim: 
 phim điện ảnh; (adv) cinematically: về mặt điện ảnh: 
 những loài có nguy có bị tuyệt chủng: 
