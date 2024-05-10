@@ -1069,9 +1069,9 @@ classify //: phân loại, phân hạng
 dwarf /dwôrf/: người lùn, chú lùn (7 chú lùn)
 oxygen /ˈäksəjən/: ôxy
 * decompose /ˌdiː.kəmˈpoʊz/: phân hủy (từ chung mà có thể ám chỉ bất kỳ quá trình phân giải tự nhiên nào của vật liệu hoặc chất liệu) Ex: lá, vỏ chuối, thực vật chết, giấy báo, mạt cưa
-* decay /dəˈkā/: phân hủy  (phân huỷ do vi sinh vật như vi khuẩn hoặc nấm). Ex: táo, xà lách, bánh mì, gỗ, cỏ phơi
+* decay /dəˈkā/: phân rã, phân hủy  (phân huỷ do vi sinh vật như vi khuẩn hoặc nấm). Ex: táo, xà lách, bánh mì, gỗ, cỏ phơi
 * biodegradable /ˌbaɪəʊdɪˈɡreɪdəbl/: phân hủy sinh học (phân hủy một cách tự nhiên và không gây ra sự ô nhiễm độc hại) Ex: cốc giấy, thìa gỗ, thùng các-tông, bao bì, bột bắp, rơm tre
-* rot /rɑːt/: phân hủy hữu cơ (phân hủy hoặc sự hỏng hóc của vật liệu hữu cơ hoặc thực phẩm) Ex: thịt, Quả cam, Cà chua, Phô mai, Trứng
+* rot /rɑːt/: hư thối; phân hủy hữu cơ (phân hủy hoặc sự hỏng hóc của vật liệu hữu cơ hoặc thực phẩm thường đi kèm mùi rất thối) Ex: thịt, Quả cam, Cà chua, Phô mai, Trứng
 fungi /fəngi/: nấm bệnh; (nhiễm) nấm
 recycle /rēˈsīkl/: tái chế
 handheld /ˈhandˌheld/: cầm tay
@@ -1198,7 +1198,9 @@ plastic /'plæstik/: chất dẻo; nhựa
 container /kən'teinə/: cái đựng, cái chứa (chai, lọ, bình, thành, hộp...); côngtenơ
 plastic container //: vật chứa nhựa; thùng chứa nhựa
 stained-glass //: bộ cửa kính, bộ kính màu
-spoil /spɔil/: (v) làm hư, làm hỏng; thối, ươn (quả, cá...) (n) đất đá đào lên, đất bùn nạo vét lên
+spoil /spɔil/: (v) làm hư, làm hỏng; chiều hư; thối, ươn (quả, cá...) (n) đất đá đào lên, đất bùn nạo vét lên
+spoiled /spoild/: (a) hư hỏng, bị chiều hư; thối, ươn (quả, cá...), thực phẩm bị hư, hỏng (sữa, ..)
+rotten /ˈrɑː.tən/: (a) thối rữa, hư thối bốc mùi Ex: rotten meat (thịt thối)
 mixture /ˈmiksCHər/: hỗn hợp
 melt /melt/: (v) làm tan chảy
 flatten /ˈflatn/: làm phẳng 
@@ -1209,16 +1211,22 @@ conduct /'kɔndəkt/: chỉ đạo, thực hiện
 tablecloth /ˈtābəlˌklôTH/: khăn trải bàn
 artwork /ˈärtˌwərk/: tác phẩm nghệ thuật
 furniture /'fə:nitʃə/: đồ đạc (trong nhà); phụ tùng đồ gỗ
-engrave /in'greiv/: khắc, trổ, chạm
+* sculpt /skʌlpt/: (v) điêu khắc. Tạo hình ba chiều bằng cách cắt hoặc tạo hình từ vật liệu như đất sét, gỗ hoặc đá.
+* engrave /in'greiv/: (v) khắc, trổ, chạm. Tạo hình vẽ hoặc văn bản bằng cách cắt sâu vào bề mặt, thường sử dụng trên kim loại hoặc gỗ.
 wonderland /'wʌndəlænd/: xứ sở thần tiên; thế giới diệu kì
-outstanding /aut'stændiɳ/: xuất chúng; nổi bật, đáng chú ý; nổi tiếng
+* outstanding /aʊtˈstændɪŋ/: (a) nổi bật, xuất sắc. Có chất lượng hoặc giá trị đặc biệt, vượt trội so với những cái khác.
+* fabulous /ˈfæbjələs/: (a) tuyệt vời, tuyệt diệu. Rất tốt hoặc ấn tượng, thường gây ấn tượng mạnh mẽ và liên quan đến vẻ đẹp, phong cách và sự nổi bật.
+* gorgeous /ˈɡɔrdʒəs/: (a) lộng lẫy, đẹp đẽ. Thường ám chỉ đến vẻ đẹp rất đặc biệt và gây ấn tượng mạnh mẽ. hoặc hấp dẫn về mặt hình thức.
+* exceptional /ɪkˈsɛpʃənl/: (a) đặc biệt, xuất chúng, phi thường. Ngoại lệ hoặc vượt trội so với các trường hợp khác.
+* stunning /ˈstʌnɪŋ/: (a) cực kì ấn tượng; đáng kinh ngạc, rất cừ khôi. Làm cho ai đó hoặc cái gì đó ngạc nhiên hoặc choáng ngợp về mặt trình diễn hoặc hiệu suất.
+* amazing /əˈmeɪzɪŋ/: (a) đáng kinh ngạc, tuyệt vời. Rất ấn tượng hoặc gây ấn tượng mạnh mẽ. Thường được sử dụng để diễn đạt sự kinh ngạc và sự ngạc nhiên, thường với ý nghĩa của sự tuyệt vời và đáng kinh ngạc.
 restored /rəˈstôr/: phục hồi; hoàn nguyên, xây dựng lại
 precision = accuracy /pri'siʤn/: sự chính xác; tính đúng, tính chính xác;
 masterpiece /'mɑ:stəpi:s/: kiệt tác, tác phẩm lớn
-outrageous /aut'reidʤəs/: cực kỳ xấu, xúc phạm; rất táo bạo, khác thường và đáng kinh ngạc; cực kỳ phóng đại hoặc không thể xảy ra; 
+outrageous /aut'reidʤəs/: cực kỳ xúc phạm; cực kỳ phóng đại hoặc không thể xảy ra; rất táo bạo, khác thường (ít dùng). thường được sử dụng để diễn đạt sự bất ngờ hoặc phản đối mạnh mẽ
+the prices at that restaurant are outrageous //: Giá cả ở nhà hàng đó quá mức!
 compilation /,kɔmpi'leiʃn/: sự biên soạn, sự biên tập
 investigation /in,vesti'geiʃn/: cuộc điều tra; sự điều tra nghiên cứu
-recipe /'resipi/: (= ingredient) công thức (bánh, món ăn, thuốc pha chế); đơn thuốc, thuốc pha chế theo đơn, thuốc bốc theo đơn; phương pháp, cách làm (việc gì)
 arthritis /ɑ:'θraitis/: viêm khớp
 cortisone /ˈkôrdəˌsōn/: hormon chữa viêm và dị ứng
 sampling /ˈsamp(ə)ling/: sự lấy mẫu; đồ chưng bày
@@ -1227,7 +1235,6 @@ microgreens /ˈmīkrōˌɡrēːnz/: rau giống, rau mầm; rau xanh được 
 aromatic /ˌerəˈmadik/: thơm
 herb /hə:b/: cỏ, cây thảo; thảo dược
 aromatic herb //: cây cỏ thơm
-fabulous /ˈfabyələs/: tuyệt vời; phi thường, thần kỳ; thần thoại, (thuộc) truyện cổ tích; bịa đặt, hoang đường
 specialized /ˈspeSHəˌlīzd/: chuyên dụng; thích ứng, thiết kế cho một mục đích riêng
 storytelling /ˈstôrēˌteliNG/: kể chuyện
 aspire /əs'paiə/: (+ to, after, at) thiết tha, mong mỏi, khao khát
@@ -1263,13 +1270,12 @@ splash-proof coating: Lớp phủ chống bắn tung tóe
 sturdy /ˈstərdi/: Mãnh liệt, mạnh mẽ (adj)
 sturdy lockable: Có thể khóa chắc chắn.
 compartment /kəmˈpɑrtmənt/: Gian nhà, căn phòng trên tàu, căn phòng trên xe lửa
-fit into: Phù hợp với
+fit into //: Phù hợp với
 shrub /ʃrʌb/: cây bụi, cây nhỏ
 rehearsal /rɪˈhərsl/: Diễn tập (n), thuật truyện tỉ mỉ
 chamber /ˈtʃeɪmbər/: Buồng, phòng
 majority /məˈdʒɔrət̮i/: Đa số , phần nhiều, phần đông
-up-and-coming: Sắp tới
-broad range of: Phạm vi rộng của ...
+broad range of //: Phạm vi rộng của ...
 repertoire /ˈrɛpərˌtwɑr/: Tiết mục
 innovate /ˈɪnəˌveɪt/: Đổi mới ,cải cách
 digit /ˈdɪdʒət/: Chữ số, Số từ 1 đến 9 và 0, 

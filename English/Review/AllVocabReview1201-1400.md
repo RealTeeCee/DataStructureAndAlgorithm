@@ -1,4 +1,6 @@
-(v) làm hư, làm hỏng; thối, ươn (quả, cá...) (n) đất đá đào lên, đất bùn nạo vét lên: 
+(v) làm hư, làm hỏng; chiều hư; thối, ươn (quả, cá...) (n) đất đá đào lên, đất bùn nạo vét lên: 
+(a) hư hỏng, bị chiều hư; thối, ươn (quả, cá...), thực phẩm bị hư, hỏng (sữa, ..): 
+(a) thối rữa, hư thối bốc mùi Ex: rotten meat (thịt thối): 
 hỗn hợp: 
 (v) làm tan chảy: 
 làm phẳng : 
@@ -9,16 +11,22 @@ chỉ đạo, thực hiện:
 khăn trải bàn: 
 tác phẩm nghệ thuật: 
 đồ đạc (trong nhà); phụ tùng đồ gỗ: 
-khắc, trổ, chạm: 
+(v) điêu khắc. Tạo hình ba chiều bằng cách cắt hoặc tạo hình từ vật liệu như đất sét, gỗ hoặc đá: 
+(v) khắc, trổ, chạm. Tạo hình vẽ hoặc văn bản bằng cách cắt sâu vào bề mặt, thường sử dụng trên kim loại hoặc gỗ: 
 xứ sở thần tiên; thế giới diệu kì: 
-xuất chúng; nổi bật, đáng chú ý; nổi tiếng: 
+nổi bật, xuất sắc. Có chất lượng hoặc giá trị đặc biệt, vượt trội so với những cái khác: 
+tuyệt vời, tuyệt diệu. Rất tốt hoặc ấn tượng, thường gây ấn tượng mạnh mẽ và liên quan đến vẻ đẹp, phong cách và sự nổi bật: 
+lộng lẫy, đẹp đẽ. Thường ám chỉ đến vẻ đẹp rất đặc biệt và gây ấn tượng mạnh mẽ. hoặc hấp dẫn về mặt hình thức: 
+đặc biệt, xuất chúng, phi thường. Ngoại lệ hoặc vượt trội so với các trường hợp khác: 
+cực kì ấn tượng; đáng kinh ngạc, rất cừ khôi. Làm cho ai đó hoặc cái gì đó ngạc nhiên hoặc choáng ngợp về mặt trình diễn hoặc hiệu suất: 
+đáng kinh ngạc, tuyệt vời. Rất ấn tượng hoặc gây ấn tượng mạnh mẽ. Thường được sử dụng để diễn đạt sự kinh ngạc và sự ngạc nhiên, thường với ý nghĩa của sự tuyệt vời và đáng kinh ngạc: 
 phục hồi; hoàn nguyên, xây dựng lại: 
 sự chính xác; tính đúng, tính chính xác;: 
 kiệt tác, tác phẩm lớn: 
-cực kỳ xấu, xúc phạm; rất táo bạo, khác thường và đáng kinh ngạc; cực kỳ phóng đại hoặc không thể xảy ra; : 
+cực kỳ xúc phạm; cực kỳ phóng đại hoặc không thể xảy ra; rất táo bạo, khác thường (ít dùng). thường được sử dụng để diễn đạt sự bất ngờ hoặc phản đối mạnh mẽ: 
+Giá cả ở nhà hàng đó quá mức!: 
 sự biên soạn, sự biên tập: 
 cuộc điều tra; sự điều tra nghiên cứu: 
-(= ingredient) công thức (bánh, món ăn, thuốc pha chế); đơn thuốc, thuốc pha chế theo đơn, thuốc bốc theo đơn; : phương pháp, cách làm (việc gì)
 viêm khớp: 
 hormon chữa viêm và dị ứng: 
 sự lấy mẫu; đồ chưng bày: 
@@ -27,7 +35,6 @@ rau giống, rau mầm; rau xanh được thu hoạch ngay sau khi lá mầm �
 thơm: 
 cỏ, cây thảo; thảo dược: 
 cây cỏ thơm: 
-tuyệt vời; phi thường, thần kỳ; thần thoại, (thuộc) truyện cổ tích; bịa đặt, hoang đường: 
 chuyên dụng; thích ứng, thiết kế cho một mục đích riêng: 
 kể chuyện: 
 (+ to, after, at) thiết tha, mong mỏi, khao khát: 
@@ -63,13 +70,12 @@ splash-proof coating: Lớp phủ chống bắn tung tóe
 Mãnh liệt, mạnh mẽ (adj): 
 sturdy lockable: Có thể khóa chắc chắn.
 Gian nhà, căn phòng trên tàu, căn phòng trên xe lửa: 
-fit into: Phù hợp với
+Phù hợp với: 
 cây bụi, cây nhỏ: 
 Diễn tập (n), thuật truyện tỉ mỉ: 
 Buồng, phòng: 
 Đa số , phần nhiều, phần đông: 
-up-and-coming: Sắp tới
-broad range of: Phạm vi rộng của ...
+Phạm vi rộng của ...: 
 Tiết mục: 
 Đổi mới ,cải cách: 
 Chữ số, Số từ 1 đến 9 và 0, : 
@@ -192,14 +198,3 @@ luật sư:
 người mẫu; mô hình: 
 thợ may đồ nam: 
 thợ cắt tóc: 
-bà chủ nhà; bà nội trợ: 
-lãnh sự; (sử học) quan tổng tài : 
-thợ rèn: 
-tổng giám đốc: 
-(a) trước, xưa; cựu; (n) khuôn đúc; cái trước, người trước, vấn đề trước: 
-president: tổng thống, chủ tịch
-cựu tổng thống; cựu chủ tịch: 
-phó tổng thống: 
-phó giám đốc : 
-sĩ quan; nhân viên chính quyền, nhân viên viên chức: 
-(n) (chính trị) nghị viên, đại biểu; (a) tiêu biểu, tượng trưng; đại diện: 
