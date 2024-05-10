@@ -5,7 +5,8 @@ hỗn hợp:
 (v) làm tan chảy: 
 làm phẳng : 
 nghề làm thủy tinh: 
-tầm nhìn; thị lực: 
+tầm nhìn. Khả năng nhìn thấy những điều không thể nhìn thấy bằng mắt thường: 
+thị lực, thị giác; quang cảnh. khả năng nhìn thấy của các loài động vật: 
 làm hoảng sợ, làm sợ: 
 chỉ đạo, thực hiện: 
 khăn trải bàn: 

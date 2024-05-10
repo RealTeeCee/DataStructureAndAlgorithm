@@ -1205,7 +1205,8 @@ mixture /ˈmiksCHər/: hỗn hợp
 melt /melt/: (v) làm tan chảy
 flatten /ˈflatn/: làm phẳng 
 glassmaking /ˈɡlasˌmākiNG/: nghề làm thủy tinh
-vision = sight /'viʤn = sait/: tầm nhìn; thị lực
+* vision /ˈvɪʒən/: tầm nhìn. Khả năng nhìn thấy những điều không thể nhìn thấy bằng mắt thường
+* sight /saɪt/: thị lực, thị giác; quang cảnh. khả năng nhìn thấy của các loài động vật
 frighten /'fraitn/: làm hoảng sợ, làm sợ
 conduct /'kɔndəkt/: chỉ đạo, thực hiện
 tablecloth /ˈtābəlˌklôTH/: khăn trải bàn
