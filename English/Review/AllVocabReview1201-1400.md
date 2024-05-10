@@ -51,7 +51,7 @@ thuốc giảm đau:
 Sao Hoả: 
 sao Mộc; (thần thoại,thần học) thần Giu-pi-te: 
 (thiên văn học) sao Diêm vương; (thần thoại,thần học) Diêm vương: 
-Saturn /'sætən/:sao Thổ thần Xa-tuya, thần Nông
+(thiên văn học) sao Thổ thần Xa-tuya, thần Nông: 
 (thiên văn học) sao Hải vương; (thần thoại,thần học) thần biển, hải thần: 
 (thiên văn học) sao Thuỷ; thuỷ ngân; (thần thoại) Thần Méc-cua: 
 (thiên văn học) sao Thiên Vương; Thiên Vương tinh: 

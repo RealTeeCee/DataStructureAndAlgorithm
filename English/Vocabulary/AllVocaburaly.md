@@ -1251,7 +1251,7 @@ painkiller /ˈpānˌkilər/: thuốc giảm đau
 Mars /mɑ:z/: Sao Hoả
 Jupiter /'dʤu:pitə/ : sao Mộc; (thần thoại,thần học) thần Giu-pi-te
 Pluto /'plu:tou/: (thiên văn học) sao Diêm vương; (thần thoại,thần học) Diêm vương
-Saturn /'sætən/:sao Thổ thần Xa-tuya, thần Nông
+Saturn /'sætən/: (thiên văn học) sao Thổ thần Xa-tuya, thần Nông
 Neptune /'neptju:n/: (thiên văn học) sao Hải vương; (thần thoại,thần học) thần biển, hải thần
 Mercury  /'mə:kjuri/: (thiên văn học) sao Thuỷ; thuỷ ngân; (thần thoại) Thần Méc-cua
 Uranus /ˈjʊr.ən.əs/: (thiên văn học) sao Thiên Vương; Thiên Vương tinh
