@@ -1132,10 +1132,10 @@ mole /moul/: (động vật) chuột chũi; nốt ruồi; kè chắn, đê chă�
 wisdom /'wizd m/: khôn ngoan, thông tuệ
 approximate /ə'prɔksimit/: xấp xỉ, gần đúng; (+ to) gần gũi
 she is approximate to me //: cô ấy gần gũi với tôi 
-several /ˈsev.ɚ.əl/: một vài, nhiều; riêng, cá nhân; khác nhau
+several /ˈsev.ɚ.əl/: một vài, nhiều; riêng biệt, tách rời; khác nhau, riêng lẻ
 * legacy /ˈleɡ.ə.si/: di sản (bao gồm ảnh hưởng, đóng góp hoặc tài sản một người để lại sau khi họ qua đời)
 * estate /iˈstāt/: di sản (bao gồm tài sản, bất động sản, tiền mặt,.. là một phần của legacy)
-several estate /ˈsev.ɚ.əl iˈstāt/: bất động sản riêng tư
+several estate /ˈsev.ɚ.əl iˈstāt/: bất động sản riêng biệt
 * inheritance /ɪnˈhɛrət̮əns/: (nghĩa chính) sự kế thừa (pháp lý, sinh học, toán học, ..); di sản (tài sản được kế thừa = estate); 
 * heritage /ˈhɛrət̮ɪdʒ/: di sản (chủ yếu về giá trị, truyền thống và di sản văn hóa kế thừa từ các thế hệ trước đó)
 service /'sə:vis/: dịch vụ; ban, vụ, sở, cục, ngành 

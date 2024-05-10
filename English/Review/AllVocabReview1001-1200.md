@@ -132,10 +132,10 @@ phân phối một số lượng thuốc:
 khôn ngoan, thông tuệ: 
 xấp xỉ, gần đúng; (+ to) gần gũi: 
 cô ấy gần gũi với tôi : 
-một vài, nhiều; riêng, cá nhân; khác nhau: 
+một vài, nhiều; riêng biệt, tách rời; khác nhau, riêng lẻ: 
 di sản (bao gồm ảnh hưởng, đóng góp hoặc tài sản một người để lại sau khi họ qua đời): 
 di sản (bao gồm tài sản, bất động sản, tiền mặt,.. là một phần của legacy): 
-bất động sản riêng tư: 
+bất động sản riêng biệt: 
 (nghĩa chính) sự kế thừa (pháp lý, sinh học, toán học, ..); di sản (tài sản được kế thừa = estate): 
 di sản (chủ yếu về giá trị, truyền thống và di sản văn hóa kế thừa từ các thế hệ trước đó): 
 dịch vụ; ban, vụ, sở, cục, ngành: 
