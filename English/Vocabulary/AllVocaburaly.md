@@ -1198,9 +1198,9 @@ plastic /'plæstik/: chất dẻo; nhựa
 container /kən'teinə/: cái đựng, cái chứa (chai, lọ, bình, thành, hộp...); côngtenơ
 plastic container //: vật chứa nhựa; thùng chứa nhựa
 stained-glass //: bộ cửa kính, bộ kính màu
-spoil /spɔil/: (v) làm hư, làm hỏng; chiều hư; thối, ươn (quả, cá...) (n) đất đá đào lên, đất bùn nạo vét lên
-spoiled /spoild/: (a) hư hỏng, bị chiều hư; thối, ươn (quả, cá...), thực phẩm bị hư, hỏng (sữa, ..)
-rotten /ˈrɑː.tən/: (a) thối rữa, hư thối bốc mùi Ex: rotten meat (thịt thối)
+* spoil /spɔil/: (v) làm hư, làm hỏng; chiều hư; thối, ươn (quả, cá...) (n) đất đá đào lên, đất bùn nạo vét lên
+* spoiled /spoild/: (a) hư hỏng, bị chiều hư; thối, ươn (quả, cá...), thực phẩm bị hư, hỏng (sữa, ..)
+* rotten /ˈrɑː.tən/: (a) thối rữa, hư thối bốc mùi Ex: rotten meat (thịt thối)
 mixture /ˈmiksCHər/: hỗn hợp
 melt /melt/: (v) làm tan chảy
 flatten /ˈflatn/: làm phẳng 
