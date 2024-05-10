@@ -198,4 +198,3 @@ thị trưởng:
 luật sư: 
 người mẫu; mô hình: 
 thợ may đồ nam: 
-thợ cắt tóc: 
