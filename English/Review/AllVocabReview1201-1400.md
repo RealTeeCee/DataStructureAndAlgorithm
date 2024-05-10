@@ -46,10 +46,10 @@ phim điện ảnh; (adv) cinematically: về mặt điện ảnh:
 những loài có nguy có bị tuyệt chủng: 
 người thành đạt quá mức; người vượt trội: 
 nét cọ; dấu vết được tạo ra bởi một cây cọ vẽ trên một bề mặt: 
-(giải phẫu) hông; (kiến trúc) mép bờ mái nhà - sharp edge of a roof from the ridge to the eaves where the two sides : meet.
+(giải phẫu) hông; (kiến trúc) mép bờ mái nhà - sharp edge of a roof from the ridge to the eaves where the two sides meet: 
 thuốc giảm đau: 
 Sao Hoả: 
-Jupiter /'dʤu:pitə/ : sao Mộc; (thần thoại,thần học) thần Giu-pi-te
+sao Mộc; (thần thoại,thần học) thần Giu-pi-te: 
 (thiên văn học) sao Diêm vương; (thần thoại,thần học) Diêm vương: 
 Saturn /'sætən/:sao Thổ thần Xa-tuya, thần Nông
 (thiên văn học) sao Hải vương; (thần thoại,thần học) thần biển, hải thần: 
