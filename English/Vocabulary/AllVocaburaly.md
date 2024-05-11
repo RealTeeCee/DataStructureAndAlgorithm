@@ -1228,7 +1228,7 @@ outrageous /aut'reidʤəs/: cực kỳ xúc phạm; cực kỳ phóng đại ho
 the prices at that restaurant are outrageous //: Giá cả ở nhà hàng đó quá mức!
 compilation /,kɔmpi'leiʃn/: sự biên soạn, sự biên tập
 investigation /in,vesti'geiʃn/: cuộc điều tra; sự điều tra nghiên cứu
-arthritis /ɑ:'θraitis/: viêm khớp
+* arthritis /ɑ:'θraitis/: viêm khớp
 cortisone /ˈkôrdəˌsōn/: hormon chữa viêm và dị ứng
 sampling /ˈsamp(ə)ling/: sự lấy mẫu; đồ chưng bày
 gala /ˈɡālə/: dạ tiệc; hội, hội hè
@@ -1242,7 +1242,8 @@ aspire /əs'paiə/: (+ to, after, at) thiết tha, mong mỏi, khao khát
 aspiring /əs'pəriNG/: (adj) mong mỏi, khao khát
 aspirin /əs'pərən/: (n) thuốc cãm, thuốc chống viêm
 filmmaker /ˈfilmˌmākər/: nhà làm phim
-cinematic /ˌsinəˈmadik/: phim điện ảnh; (adv) cinematically: về mặt điện ảnh
+cinematic /ˌsinəˈmadik/: (a) (thuộc) điện ảnh, giống như trong phim điện ảnh; 
+cinematically /ˌsinəˈmadikly/: (adv) về mặt điện ảnh
 endangered species //: những loài có nguy có bị tuyệt chủng
 overachiever /ˌəʊvərəˈtʃiːvər/: người thành đạt quá mức; người vượt trội
 brush stroke /ˈbrəSHstrōk/: nét cọ; dấu vết được tạo ra bởi một cây cọ vẽ trên một bề mặt
@@ -1370,7 +1371,7 @@ hostess /'houstis/: nhân viên chào khách nữ; bà chủ nhà; bà ch�
 captain /'kæptin/: đội trưởng, người đứng đầu, chỉ huy
 drummer /'drʌmə/: tay trống
 tour guide /tuar gaI/: HDV du lịch
-plumber /'plʌmə/: thợ sửa ống nước; thợ hàn nối ống
+* plumber /'plʌmə/: thợ sửa ống nước; thợ hàn nối ống
 baker /'beikə/: thợ làm bánh; người làm bánh mì
 writer /'raitə/: tác giả, nhà văn; người viết, người thảo
 sailor /'seilə/: lính thuỷ, thuỷ thủ

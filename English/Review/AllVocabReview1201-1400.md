@@ -42,7 +42,8 @@ kể chuyện:
 (adj) mong mỏi, khao khát: 
 (n) thuốc cãm, thuốc chống viêm: 
 nhà làm phim: 
-phim điện ảnh; (adv) cinematically: về mặt điện ảnh: 
+(a) (thuộc) điện ảnh, giống như trong phim điện ảnh: 
+(adv) về mặt điện ảnh: 
 những loài có nguy có bị tuyệt chủng: 
 người thành đạt quá mức; người vượt trội: 
 nét cọ; dấu vết được tạo ra bởi một cây cọ vẽ trên một bề mặt: 
