@@ -1456,11 +1456,12 @@ guitarist /ɡɪˈtɑrɪst/: Nhạc sĩ guitar
 director /dəˈrɛktər: giám đốc
 assistant /əˈsɪstənt/: Trợ lý
 professor /prəˈfɛsər: giáo sư
-policeman /pəˈlismən/: cảnh sát
+policeman /pəˈlismən/: cảnh sát nam
+policewoman /pəˈliswumən/: cảnh sát nữ
 mechanic /məˈkænɪk/: thợ máy cơ khí
 mechanist /məˈkænɪst/: (triết học) người theo thuyết cơ giới; thợ máy
 consultant /kənˈsʌltnt/: Nhà tư vấn
-contractor /ˈkɑnˌtræktər/: thầu khoán
+contractor /ˈkɑnˌtræktər/: Nhà thầu khoán, người đấu thầu
 accountant /əˈkaʊntnt/: kế toán viên
 physician /fəˈzɪʃn/: thầy thuốc, y sĩ
 movie director /ˈmuvi dəˈrɛktər/: Đạo diễn phim
@@ -1479,29 +1480,25 @@ executive /ɪɡˈzɛkyət̮ɪv/: Người điều hành, lãnh đạo; thẩm c�
 chief executive officer (CEO) //: tổng giám đốc
 supervisor /ˈsupərˌvaɪzər/: Giám thị
 fortune teller /ˈfɔrtʃən ˈtɛlər/: thầy bói
-To fall behind: rớt lại phía sau.
-To give up: Từ bỏ, bỏ cuộc.
-To dress up: ăn mặc chỉnh tề
-To call back: gọi lại
-To pick up (*): Nhặt lên, đón ai đó
-To have sth on (*): mặc vào
-To give away (*): đưa, cho, tặng
-To catch up with: bắt kịp
-To brush up on: ôn lại
-To hand in (*): nộp
-To check over (*): kiểm tra lại
-To use up: sử dụng hết
-To head for: hướng về phía
-To plug in (*): cắm điện
-To clean up (*): lau, chùi, dọn dẹp
-To cut off (*): ngắt điện thoại
-To do without: không cần đến
-To take after: giống
-To call for: triệu tập
-To hit the hay = Go to bed: đi ngủ
-To hit the ceiling = Become very angry: Rất giận
-To go fly a kite = Go away: Đi chơi chỗ khác 
-To kick the bucket (chết ngủm Die) = pass away (qua đời - nên dùng hơn)
+To fall behind //: rớt lại phía sau.
+To give up //: Từ bỏ, bỏ cuộc.
+To dress up //: ăn mặc chỉnh tề
+To call back //: gọi lại
+To pick up (*) //: Nhặt lên, đón ai đó
+To have sth on (*) //: mặc vào
+To give away (*) //: đưa, cho, tặng
+To catch up with //: bắt kịp
+To brush up on //: ôn lại
+To hand in (*) //: nộp
+To check over (*) //: kiểm tra lại
+To use up //: sử dụng hết
+To head for //: hướng về phía
+To plug in (*) //: cắm điện
+To clean up (*) //: lau, chùi, dọn dẹp
+To cut off (*) //: ngắt điện thoại
+To do without //: không cần đến
+To take after //: giống
+To call for //: triệu tập
 disease /dəˈzēz/: bệnh tật, căn bệnh
 likelihood /ˈlīklēˌho͝od/: khả năng xảy ra
 factor /ˈfaktər/: nhân tố; hệ số
@@ -1509,22 +1506,25 @@ tobacco /təˈbakō/: thuốc lá
 contract: (n) hợp đồng, giao kèo; khế ước; (v) ký kết, kết ước; làm teo lại; tiêm nhiễm
 diet /'daiət/: (y học) chế độ ăn kiêng; chế độ ăn uống
 diet-related //: liên quan đến chế độ ăn uống
-disrupt /disˈrəpt/: làm gián đoạn
-prove /pro͞ov/: chứng minh
-witness /ˈwitnəs/: nhân chứng; bằng chứng
+* disrupt /disˈrəpt/: làm gián đoạn. Thường gây ra sự gián đoạn hoặc làm rối loạn, làm cho việc tiếp tục trở nên khó khăn hoặc không thể. Ex: The construction noise disrupted my concentration while I was working (Tiếng ồn của việc xây dựng làm gián đoạn sự tập trung của tôi khi tôi đang làm việc).
+* interrupt /ˌɪntəˈrʌpt/: ngắt, gián đoạn. Thường liên quan đến việc cắt ngang một quá trình hoặc một trạng thái hiện tại bằng cách chen ngang vào. Ex: She interrupted me while I was speaking to ask a question (Cô ấy đã ngắt lời tôi khi tôi đang nói để hỏi một câu hỏi).
+prove /pruːv/: (v) chứng minh
+proof /pruːf/: (n) bằng chứng, vật chứng; làm chống chịu được (waterproof - chống nước)
+witness /ˈwitnəs/: (n) nhân chứng
 eye-witness //: nhân chứng tận mắt
 beforehand /bi'fɔ:hænd/: sẵn sàng trước; Làm trước; đoán trước; biết trước.
 well-written //: viết hay
 heptathlon /hepˈtaTHˌlän/: bảy môn phối hợp nữ
 fountain /'fauntin/: đài, vòi phun nước (công viên)
-day in and day out //: ngày này qua ngày khác
+* day in and day out //: ngày này qua ngày khác. Thường dùng mô tả các hoạt động hoặc trạng thái kéo dài qua thời gian một cách liên tục. Ex: She worked tirelessly day in and day out to support her family (Cô ấy làm việc không mệt mỏi mỗi ngày để nuôi sống gia đình)
+* day by day //: ngày qua ngày. Thường dùng mô tả sự thay đổi từng chút một theo thời gian. Ex: His health is improving day by day (Sức khỏe của anh ấy đang cải thiện từng ngày).
 competent /'kɔmpitənt/: có đủ trình độ, thông thạo; (pháp lý) có thẩm quyền
 spectator /spek'teitə/: người xem, khán giả
 chant /tʃɑ:nt/: (n) thánh ca (v) cầu kinh; tụng kinh
 enthusiastic /in'θju:zi'æstik/: đam mê, say mê; hăng hái, nhiệt tình
 jealous /'dʤeləs/: ghen tị; ghen tuông; đố kỵ
 physique /fi'zi:k/: cơ thể vóc người, vóc dáng người
-exert /ig'zə:t/: dùng, sử dụng (sức mạnh, ảnh hưởng...)
+exert /ig'zə:t/: áp dụng lên, mang lại (một sức mạnh, ảnh hưởng hoặc chất lượng). Ex: the moon exerts a force on the Earth (Mặt Trăng tác dụng một lực lên Trái Đất); nỗ lực về thể chất hoặc tinh thần.
 to exert oneself //: cố gắng, rán sức
 cramp /kræmp/: (y học) chứng ruột rút; (a) bị chuột rút
 sprain /sprein/: sự bong gân
@@ -1559,12 +1559,13 @@ oolong /'u:lɔɳ/: chè/trà ô long
 interpolation /in,tə:pou'leiʃn/: (toán học) phép nội suy
 balcony /'bælkəni/: ban công
 redundant /ri'dʌndənt/: sự dư thừa; (văn) rườm rà
-carnage /'kɑ:nidʤ/: sự cố, sự kiện gây thiệt mạng nhiều người killing of a large number of people 
-massacre /'mæsəkə/: cuộc thảm sát (cố ý)
+* carnage /'kɑ:nidʤ/: cuộc thảm sát, sự tàn sát . Thường ám chỉ trong một tình huống chiến tranh hoặc một vụ tai nạn lớn, sự cố, sự kiện gây thiệt mạng nhiều người. Ex: The car bomb caused absolute carnage in the city center (Quả bom xe hỏa gây ra tình trạng tàn sát tột đỉnh ở trung tâm thành phố)
+* massacre /'mæsəkə/: cuộc thảm sát, sự tàn sát. Thường ám chỉ một lượng lớn người bị giết mà không có sự phòng ngự hoặc có sự phản kháng ít ỏi bởi do hành động của một nhóm hoặc tổ chức. Ex: The village was the site of a brutal massacre by invading forces (Ngôi làng đã là nơi của một vụ tàn sát tàn bạo bởi các lực lượng xâm lược)
 kindling /ˈkɪndlɪŋ/: những mảnh gỗ khô nhỏ, v.v. dùng để nhóm lửa
 flame /fleɪm/: một dòng khí cháy nóng rực phát ra từ vật gì đó đang cháy
 seaweed /ˈsiwid/: rong biển
 sieve /sɪv/: cái sàng.
+cone /koʊn/: hình nón
 paper cone /ˈpeɪpər koʊn/: nón giấy
 dash of salt /dæʃ ev sɔlt/: Một chút xíu muối
 colleague = fellow = co-worker /ˈkɑliɡ/:  đồng nghiệp
@@ -1585,9 +1586,9 @@ bean /bin/: hạt đậu
 mushroom /ˈmʌʃrum/: nấm
 gassy /ˈɡæsi/: đầy hơi
 snacking /snæk/: đồ ăn vặt
-sugary snack: đồ ăn vặt có đường
+sugary snack //: đồ ăn vặt có đường
 universal leaf symbol
-for the rest of: cho phần còn lại của ...
+for the rest of //: cho phần còn lại của ...
 greasy burger /ˈɡrizi ˈbərɡər/: bánh mì kẹp thịt béo ngậy
 cherish /ˈtʃɛrɪʃ/:  âu yếm, ôm ấp, yêu mến
 get hyper off of //: thoát khỏi cơn cuồng nhiệt ...
@@ -1836,6 +1837,7 @@ to bend over backwards: cố gắng rất nhiều
 to hit the hay //: đi ngủ
 to hit the ceiling //: cực kỳ tức giận
 to go fly a kite //: đi chơi chỗ khác, tránh chỗ khác
+to kick the bucket //: chết ngủm Die = pass away (qua đời - nên dùng hơn)
 to be in the hole //: nợ nần
 to face the music //: nhận hậu quả; chịu trách nhiệm về một cái gì đó bạn đã làm
 to blow it //: Làm hỏng, xử lý sai hoặc không tận dụng được cơ hội từ việc gì đó; mắc phạm sai lầm dẫn đến vụt mất cơ hội.
