@@ -68,7 +68,7 @@ Sự buồn chán:
 Sự phân công: 
 Bắt buộc (adj): 
 tập giấy ghi: 
-splash-proof coating: Lớp phủ chống bắn tung tóe
+Lớp phủ chống bắn tung tóe: 
 Mãnh liệt, mạnh mẽ (adj): 
 Có thể khóa chắc chắn.: 
 Gian nhà, căn phòng trên tàu, căn phòng trên xe lửa: 
