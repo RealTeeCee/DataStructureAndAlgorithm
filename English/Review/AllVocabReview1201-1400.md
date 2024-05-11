@@ -198,4 +198,3 @@ công nhân, thợ; người lao động, người làm việc:
 thị trưởng: 
 luật sư: 
 người mẫu; mô hình: 
-thợ may đồ nam: 
