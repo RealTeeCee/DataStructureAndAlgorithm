@@ -1272,7 +1272,7 @@ splash-proof coating: Lớp phủ chống bắn tung tóe
 sturdy /ˈstərdi/: Mãnh liệt, mạnh mẽ (adj)
 sturdy lockable //: Có thể khóa chắc chắn.
 compartment /kəmˈpɑrtmənt/: Gian nhà, căn phòng trên tàu, căn phòng trên xe lửa
-fit into //: Phù hợp với
+fit into //: Phù hợp với; thích nghi với, hòa nhập vào
 shrub /ʃrʌb/: cây bụi, cây nhỏ
 rehearsal /rɪˈhərsl/: Diễn tập (n), thuật truyện tỉ mỉ
 chamber /ˈtʃeɪmbər/: Buồng, phòng
@@ -1284,9 +1284,9 @@ digit /ˈdɪdʒət/: Chữ số, Số từ 1 đến 9 và 0,
 digital /ˈdɪdʒət̮l/: Kỹ thuật số
 sense /sɛns/:  Giác quan, cảm giác ...
 parallelism /ˈpærəlɛˌlɪzəm/: Song hành
-yawn /yɔn/: Ngáp (v)
-snore /snɔr/: Ngáy (v) tiếng ngáy (n), tiếng ầm ầm (n), tiếng vu vu (n).
-sign /saɪ/: Thở dài (v)
+* yawn /yɔn/: Ngáp (v)
+* snore /snɔr/: Ngáy (v) tiếng ngáy (n), tiếng ầm ầm (n), tiếng vu vu (n).
+* sign /saɪ/: Thở dài (v)
 fall behind //: Tụt lại phía sau.
 Idiomatic expressions //: câu thành ngữ
 By hydrofoil /ˈhaɪdrəˌfɔɪl/: Bằng tàu cánh ngầm.
@@ -1294,38 +1294,53 @@ By raising my hand //: Bằng cách giơ tay.
 Within my abilities //: Trong giới hạn khả năng của tôi.
 With detergent /dɪˈtərdʒənt/: Với chất tẩy bẩn.
 Due to poverty /ˈpɑvərt̮i/: Do bởi cái nghèo.
-To stick out one's neck //: chịu nguy hiểm (Nghĩa đúng) = take a risk.
-To get off someone's back //: Tránh làm phiền ai (Nghĩa đúng) = Stop  bothering sb.
-To tease /tiz/: trêu chọc.
-To defrost /dɪˈfrɔst/: Rã đông.
-To mend /mɛnd/: Sửa đổi.
-To tame /teɪm/: Thuần hóa.
-To brush up on = Review //: ôn bài
-To call up //: Mời, nhắc lại.
-To call off //: Hủy bỏ, kết thúc 
-To catch up with //: Bắt kịp
-To check over //: Kiểm tra
-To clean up = clean //: dọn dẹp
-To cut off //: Cắt, ngắt
-To do without //: To manage, work, or perform successfully without having someone or something present //: The country cannot do without foreign investment.
-To drop in on = Visit //: Ghé vào
-To feel like = like //: thích
-To find out //:  Tìm ra
-To go for = like //: thích
-To go on //: Tiếp tục
-To hand in //: Giao , nộp
-To have sth (clothes) on: = Put on //: mặc vào (*) 
-To head for (+ place) //: Đi về phía trước.
-To keep up with //: Theo kịp với.
-To look over //: Nhìn qua
-To make ... up //: tự nghĩ ra, chế (thường theo nghĩa lừa dối)
-To pay for //: Trả tiền ...
-To pick out = choose //: Chọn
-To plug in //: cắm
-To put off = delay //: Hoãn lại
-To put together //: Gom lại
-To run into //: tình cờ
-To turn in //: Nộp lại
+tease /tiz/: trêu chọc.
+defrost /dɪˈfrɔst/: Rã đông.
+mend /mɛnd/: (v) Sửa chữa hoặc cải thiện - She mended her torn dress (Cô ấy sửa váy rách của mình); (n) Sự sửa chữa hoặc cải thiện - The old house needed several mends (Căn nhà cũ cần một số sửa chữa)
+tame /teɪm/: Thuần hóa.
+brush up on = Review //: ôn bài
+call up //: Mời, triệu tập; liên lạc với ai đó qua điện thoại
+call off //: Hủy bỏ, kết thúc 
+catch up with //: Bắt kịp
+check over //: Kiểm tra
+clean up = clean //: dọn dẹp
+cut off //: Cắt, ngắt
+do without //: quản lý, làm việc mà không cần có ai đó hoặc cái gì đó hiện diện //: Ex: The country cannot do without foreign investment.
+drop in on = Visit //: Ghé vào 
+find out //:  Tìm ra
+* go for //: thích, lựa chọn nghiêng về phía .. Thường được sử dụng để chỉ việc chọn lựa hoặc quyết định thực hiện một hành động hoặc mục tiêu cụ thể. Ex: I think I'll go for the salad instead of the burger  (Tôi nghĩ tôi sẽ chọn salad thay vì bánh hamburger).
+* feel like //: cảm thấy thích. Thường được sử dụng để diễn đạt sự mong muốn hoặc sở thích của bạn vào một thời điểm nhất thời. Ex: I feel like eating pizza tonight (Tôi muốn ăn pizza tối nay)
+* like //: thích. Thường được sử dụng để chỉ sự ưa thích hoặc yêu thích một cái gì đó một cách tổng quát, không cần liên kết với một thời điểm cụ thể. Ví dụ: "I like reading books" (Tôi thích đọc sách)
+
+* go on //: Tiếp tục. Thường ám chỉ việc tiếp tục một sự kiện hoặc hành động cụ thể
+1. Thông thường 
+Ex: After the meeting, they decided to go on with the project (Sau cuộc họp, họ quyết định tiếp tục với dự án).
+2. Đàm thoại
+Ex: That is a great story. Go on! (Đó là một câu chuyện tuyệt vời. Tiếp đi!)
+
+* carry on //: Tiếp tục. Thường nhấn mạnh vào việc tiếp tục một hành động một cách kiên nhẫn và quyết tâm
+1. Thông thường
+Even though it was raining, they decided to carry on with their journey (Mặc dù trời đang mưa, họ quyết định tiếp tục hành trình của mình)
+2. Đàm thoại
+Ex: Q: Am I doing this correctly? A: Yes you are. Carry on! (Tôi làm điều này có đúng không? Đúng rồi. Tiếp đi!)
+
+* keep on //: Tiếp tục. Thường ám chỉ việc tiếp tục một hành động trong một khoảng thời gian dài
+1. Thông thường 
+Ex: Despite the difficulties, he kept on working on his project (Mặc dù gặp khó khăn, anh ấy vẫn tiếp tục làm việc vào dự án của mình)
+
+hand in //: Giao , nộp
+have sth (clothes) on: = Put on //: mặc vào (*) 
+head for (+ place) //: Đi về phía trước.
+keep up with //: Theo kịp với.
+look over //: Nhìn qua
+make ... up //: tự nghĩ ra, chế (thường theo nghĩa lừa dối)
+pay for //: Trả tiền ...
+pick out = choose //: Chọn
+plug in //: cắm
+put off = delay //: Hoãn lại
+put together //: Gom lại
+run into //: tình cờ
+turn in //: Nộp lại
 Hot /hɑt/: nóng
 Cold /koʊld/: Lạnh
 Stuffy /ˈstʌfi/: Khó chịu, oi ả
@@ -1467,19 +1482,15 @@ fortune teller /ˈfɔrtʃən ˈtɛlər/: thầy bói
 To fall behind: rớt lại phía sau.
 To give up: Từ bỏ, bỏ cuộc.
 To dress up: ăn mặc chỉnh tề
-To go on: tiêp tục
 To call back: gọi lại
 To pick up (*): Nhặt lên, đón ai đó
 To have sth on (*): mặc vào
 To give away (*): đưa, cho, tặng
 To catch up with: bắt kịp
 To brush up on: ôn lại
-To keep on: Tiếp tục
 To hand in (*): nộp
 To check over (*): kiểm tra lại
 To use up: sử dụng hết
-To go for: cảm thấy thích
-To feel like: cảm thấy thích
 To head for: hướng về phía
 To plug in (*): cắm điện
 To clean up (*): lau, chùi, dọn dẹp

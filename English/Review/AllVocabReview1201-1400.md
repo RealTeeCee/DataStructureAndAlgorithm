@@ -72,7 +72,7 @@ Lớp phủ chống bắn tung tóe:
 Mãnh liệt, mạnh mẽ (adj): 
 Có thể khóa chắc chắn.: 
 Gian nhà, căn phòng trên tàu, căn phòng trên xe lửa: 
-Phù hợp với: 
+Phù hợp với; thích nghi với, hòa nhập vào: 
 cây bụi, cây nhỏ: 
 Diễn tập (n), thuật truyện tỉ mỉ: 
 Buồng, phòng: 
@@ -94,25 +94,28 @@ Bằng cách giơ tay.:
 Trong giới hạn khả năng của tôi.: 
 Với chất tẩy bẩn.: 
 Do bởi cái nghèo.: 
-chịu nguy hiểm (Nghĩa đúng) = take a risk.: 
-Tránh làm phiền ai (Nghĩa đúng) = Stop  bothering sb.: 
 trêu chọc.: 
 Rã đông.: 
-Sửa đổi.: 
+(v) Sửa chữa hoặc cải thiện; (n) Sự sửa chữa hoặc cải thiện: 
 Thuần hóa.: 
 ôn bài: 
-Mời, nhắc lại.: 
+Mời, triệu tập; liên lạc với ai đó qua điện thoại: 
 Hủy bỏ, kết thúc : 
 Bắt kịp: 
 Kiểm tra: 
 dọn dẹp: 
 Cắt, ngắt: 
-The country cannot do without foreign investment.: 
+quản lý, làm việc mà không cần có ai đó hoặc cái gì đó hiện diện: 
 Ghé vào: 
-thích: 
 Tìm ra: 
-thích: 
-Tiếp tục: 
+
+thích, lựa chọn nghiêng về phía .. Thường được sử dụng để chỉ việc chọn lựa hoặc quyết định thực hiện một hành động hoặc mục tiêu cụ thể: 
+cảm thấy thích. Thường được sử dụng để diễn đạt sự mong muốn hoặc sở thích của bạn vào một thời điểm nhất thời: 
+thích. Thường được sử dụng để chỉ sự ưa thích hoặc yêu thích một cái gì đó một cách tổng quát, không cần liên kết với một thời điểm cụ thể: 
+
+Tiếp tục. Thường ám chỉ việc tiếp tục một sự kiện hoặc hành động cụ thể: 
+Tiếp tục. Thường nhấn mạnh vào việc tiếp tục một hành động một cách kiên nhẫn và quyết tâm: 
+Tiếp tục. Thường ám chỉ việc tiếp tục một hành động trong một khoảng thời gian dài: 
 Giao , nộp: 
 mặc vào (*) : 
 Đi về phía trước.: 
@@ -183,18 +186,4 @@ thợ may đồ nữ:
 bồi bàn, phục vụ bàn nam: 
 bồi bàn, phục vụ bàn nữ: 
 thợ xây, thợ nề: 
-người bán hàng (nam): 
-nghệ sĩ, họa sĩ: 
-thợ hàn: 
-đồ tễ; người hàng thịt; kẻ hung bạo, kẻ hay tàn sát: 
-thợ sơn; họa sĩ: 
-huấn luyện viên; người dạy (súc vật): 
-thợ in; máy in: 
-chiêu đãi viên (trên máy bay, trên tàu thuỷ); uỷ viên ban tổ chức (một cuộc đua ngựa, một cuộc khiêu vũ...): 
-nhà phẫu thuật, bác sĩ phẫu thuật: 
-vận động viên: 
-người ăn mày, người ăn xin: 
-công nhân, thợ; người lao động, người làm việc: 
-thị trưởng: 
-luật sư: 
-người mẫu; mô hình: 
+
