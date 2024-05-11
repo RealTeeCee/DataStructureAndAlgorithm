@@ -1262,7 +1262,7 @@ campfire /ˈkampˌfīər/: lửa trại
 feedback /ˈfēdˌbak/: nhận xét, phản hồi; sự liên hệ ngược; (y học) hồi tiếp
 scribe /skrīb/: người ghi chép; người sao chép bản thảo
 issue /ˈɪʃu/: Cấp, phát hành (v), vấn đề (n).
-experience /ɪkˈspɪriəns/: Trải qua, học hỏi ... (v), Kinh nghiệm, từng trair ...(n) 
+experience /ɪkˈspɪriəns/: (v) Trải qua, học hỏi ..., (n) Kinh nghiệm, trải nghiệm, sự từng trải
 antidote  /ˈæntɪˌdoʊt/: Thuốc giải độc
 boredom /ˈbɔrdəm/: Sự buồn chán
 assignment /əˈsaɪnmənt/: Sự phân công

@@ -62,7 +62,7 @@ lửa trại:
 nhận xét, phản hồi; sự liên hệ ngược; (y học) hồi tiếp: 
 người ghi chép; người sao chép bản thảo: 
 Cấp, phát hành (v), vấn đề (n).: 
-Trải qua, học hỏi ... (v), Kinh nghiệm, từng trair ...(n) : 
+(v) Trải qua, học hỏi ..., (n) Kinh nghiệm, trải nghiệm, sự từng trải: 
 Thuốc giải độc: 
 Sự buồn chán: 
 Sự phân công: 
