@@ -186,7 +186,7 @@ nấm:
 thói ăn đồ ăn vặt:  
 đồ ăn vặt có đường: 
 universal leaf symbol
-cho phần còn lại của ...: 
+cho đến hết ...: 
 bánh mì kẹp thịt béo ngậy: 
 âu yếm, ôm ấp, yêu mến: 
 thoát khỏi cơn cuồng nhiệt ...: 
