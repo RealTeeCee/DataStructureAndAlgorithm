@@ -91,7 +91,7 @@ lau, chùi, dọn dẹp:
 ngắt điện thoại: 
 không cần đến; quản lý, làm việc mà không cần có ai đó hoặc cái gì đó hiện diện: 
 giống: 
-triệu tập: 
+yêu cầu, cần gì đó; kêu gọi, công khai yêu cầu một cái gì đó: 
 bệnh tật, căn bệnh: 
 khả năng xảy ra: 
 nhân tố; hệ số: 

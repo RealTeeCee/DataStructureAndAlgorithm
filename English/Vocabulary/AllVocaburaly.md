@@ -1491,7 +1491,7 @@ To clean up (*) //: lau, chùi, dọn dẹp
 To cut off (*) //: ngắt điện thoại
 To do without //: không cần đến; quản lý, làm việc mà không cần có ai đó hoặc cái gì đó hiện diện
 To take after //: giống
-To call for //: triệu tập
+To call for sth //: (1) yêu cầu, cần gì đó. Ex: I've been promoted. This calls for a celebration! (Tôi đã được thăng chức. Điều này cần một lễ kỷ niệm); (2) kêu gọi, công khai yêu cầu một cái gì đó. Ex: They called for the immediate release of the hostages (Họ kêu gọi thả con tin ngay lập tức). The opposition have called for him to resign (Phe đối lập đã kêu gọi ông từ chức)
 disease /dəˈzēz/: bệnh tật, căn bệnh
 likelihood /ˈlīklēˌho͝od/: khả năng xảy ra
 factor /ˈfaktər/: nhân tố; hệ số
