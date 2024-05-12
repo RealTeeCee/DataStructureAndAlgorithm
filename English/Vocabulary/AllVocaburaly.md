@@ -1488,7 +1488,7 @@ To give away (*) //: đưa, cho, tặng
 To use up //: sử dụng hết
 To plug in (*) //: cắm điện
 To clean up (*) //: lau, chùi, dọn dẹp
-To cut off (*) //: ngắt điện thoại
+To cut off (*) //: cắt, ngắt
 To do without //: không cần đến; quản lý, làm việc mà không cần có ai đó hoặc cái gì đó hiện diện
 To take after //: giống
 To call for sth //: (1) yêu cầu, cần gì đó. Ex: I've been promoted. This calls for a celebration! (Tôi đã được thăng chức. Điều này cần một lễ kỷ niệm); (2) kêu gọi, công khai yêu cầu một cái gì đó. Ex: They called for the immediate release of the hostages (Họ kêu gọi thả con tin ngay lập tức). The opposition have called for him to resign (Phe đối lập đã kêu gọi ông từ chức)

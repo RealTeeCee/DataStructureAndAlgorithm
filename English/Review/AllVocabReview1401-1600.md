@@ -88,7 +88,7 @@ Nhặt lên, đón ai đó:
 sử dụng hết: 
 cắm điện: 
 lau, chùi, dọn dẹp: 
-ngắt điện thoại: 
+Cắt, ngắt: 
 không cần đến; quản lý, làm việc mà không cần có ai đó hoặc cái gì đó hiện diện: 
 giống: 
 yêu cầu, cần gì đó; kêu gọi, công khai yêu cầu một cái gì đó: 
