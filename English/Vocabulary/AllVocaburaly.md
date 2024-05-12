@@ -1586,7 +1586,7 @@ snack /snæk/: đồ ăn vặt. Ex: I grabbed a bag of chips as a quick snack 
 snacking /ˈsnækɪŋ/: thói ăn đồ ăn vặt. Ex: She tends to do a lot of snacking during the day (Cô ấy thường xuyên ăn nhẹ trong suốt ngày).
 sugary snack //: đồ ăn vặt có đường
 universal leaf symbol
-for the rest of //: cho đến hết ...  thường được sử dụng để mô tả hành động hoặc sự kiện sẽ tiếp tục xảy ra trong một khoảng thời gian dài sau một điểm nhất định. Ex: She decided to stay in Europe for the rest of the summer (Cô ấy quyết định ở lại châu Âu cho đến hết mùa hè). I'll be working from home for the rest of the week (Tôi sẽ làm việc ở nhà cho đến hết tuần này).
+for the rest of (time) //: cho đến hết ...  thường được sử dụng để mô tả hành động hoặc sự kiện sẽ tiếp tục xảy ra trong một khoảng thời gian dài sau một điểm nhất định. Ex: She decided to stay in Europe for the rest of the summer (Cô ấy quyết định ở lại châu Âu cho đến hết mùa hè). I'll be working from home for the rest of the week (Tôi sẽ làm việc ở nhà cho đến hết tuần này).
 greasy burger /ˈɡrizi ˈbərɡər/: bánh mì kẹp thịt béo ngậy
 cherish /ˈtʃɛrɪʃ/:  âu yếm, ôm ấp, yêu mến
 get hyper off of //: thoát khỏi cơn cuồng nhiệt ...
