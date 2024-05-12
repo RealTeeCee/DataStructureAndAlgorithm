@@ -1598,7 +1598,8 @@ greasy /ˈɡrizi/: (a) nhiều dầu mỡ; bóng bẩy (greasy smile - Nụ c
 greasy burger /ˈɡrizi ˈbərɡər/: bánh mì kẹp thịt béo ngậy
 cherish /ˈtʃɛrɪʃ/:  âu yếm, ôm ấp, yêu mến
 get hyper off of //: thoát khỏi cơn cuồng nhiệt ...
-a whole //: toàn bộ
+* whole /hoʊl/: toàn bộ, nguyên cái. thường chỉ một cái gì đó không bị chia tách hoặc phân chia thành các phần riêng biệt. ám chỉ đến một thực thể, đối tượng hoặc khía cạnh cụ thể của một cái gì đó. Ex: I ate the whole pizza by myself (Tôi ăn hết cả cái pizza một mình)
+* entire /ɪnˈtaɪr/: toàn bộ, hoàn toàn, tất cả. thường được sử dụng để nhấn mạnh tính bao phủ hoặc toàn diện của cái gì đó. Nó thường được sử dụng trong các ngữ cảnh trang trọng hoặc hình thức văn viết hơn "whole". Ex: The entire city was affected by the blackout (Toàn bộ thành phố bị ảnh hưởng bởi cúp điện)
 virtual reality (V.R) /ˈvərtʃuəl riˈælət̮i/: thực tế ảo
 recent advancement technology /ˈrisnt ədˈvænsmən tɛkˈnɑlədʒi/: công nghệ tiến bộ gần đây
 escape /ɪˈskeɪp/: trốn, trốn khỏi, vượt ngục

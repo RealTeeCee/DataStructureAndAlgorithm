@@ -1,4 +1,5 @@
-toàn bộ: 
+* toàn bộ, nguyên cái. thường chỉ một cái gì đó không bị chia tách hoặc phân chia thành các phần riêng biệt. ám chỉ đến một thực thể, đối tượng hoặc khía cạnh cụ thể của một cái gì đó: 
+* toàn bộ, hoàn toàn, tất cả. thường được sử dụng để nhấn mạnh tính bao phủ hoặc toàn diện của cái gì đó. Nó thường được sử dụng trong các ngữ cảnh trang trọng hoặc hình thức văn viết hơn: 
 thực tế ảo: 
 công nghệ tiến bộ gần đây: 
 trốn, trốn khỏi, vượt ngục: 
@@ -6,13 +7,13 @@ tưởng tượng:
 ảnh hưởng xấu: 
 tương tác: 
 đối mặt: 
-be aware of // : nhận thức, hiểu biết về một sự vật, hành động cụ thể hoặc có kiến thức, kinh nghiệm về một điều gì đó.
+nhận thức, hiểu biết về một sự vật, hành động cụ thể hoặc có kiến thức, kinh nghiệm về một điều gì đó: 
 câu chuyện trước khi đi ngủ: 
 chương: 
 Loạt: 
 Dãy núi Alps: 
 người Appalachia: 
-heartwarming story /ˈhɑrtˌwɔrmɪŋ/ : câu chuyện cảm động
+câu chuyện cảm động: 
 sự thật: 
 côn trùng: 
 gần với các cạnh ,sát mép, gần rìa: 
@@ -26,7 +27,7 @@ quyền lực; hùng mạnh != bất lực; không có sức mạnh:
 có học thức; tài trí; (thuộc) trí óc != không có trí tuệ: 
 ngẫm nghĩ, hay trầm tư, suy tư; sâu sắc, thâm trầm: 
 linh động, linh hoạt; dẻo, mềm dẻo, dễ uốn nắn != không linh hoạt: 
-patient != impatient: kiên nhẫn, kiên trì != không kiên trì, thiếu kiên nhẫn
+kiên nhẫn, kiên trì != không kiên trì, thiếu kiên nhẫn: 
 nhanh nhẹn, mau: 
 chậm chạp; uể oải, lờ đờ, lờ phờ: 
 ăn nói rõ ràng, nhanh nhẹn != ăn nói ú ớ, nói chuyện không rõ ràng: 
@@ -45,11 +46,11 @@ nói nhiều:
 ít nói: 
 tự do: 
 bảo thủ: 
-Tender != rude /ˈtɛndər/ : dịu dàng
+dịu dàng: 
 duyên dáng: 
 hay lý luận: 
 đúng giờ: 
-Helpful != helpless /ˈhɛlpfl: hay giúp đỡ
+hay giúp đỡ: 
 ốm, gầy gò: 
 chín chắn: 
 ngây ngô, con nít: 
@@ -109,7 +110,7 @@ người cao tuổi:
 tuổi già: 
 sự ốm yếu bệnh tật: 
 lạ, đẹp và ấn tượng: 
-birdwatching // : ngắm chim
+ngắm chim: 
 hương vị: 
 huấn luyện viên karate: 
 kickboxing lesson: bài học đấm bốc (một dạng đấm bốc có thể đá)
