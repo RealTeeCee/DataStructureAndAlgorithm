@@ -84,7 +84,7 @@ chế độ nô lệ:
 vị trí tuyển dụng: 
 sự thuận tiện; điều kiện dễ dàng, điều kiện thuận lợi;: 
 được chỉ định: 
-bình thường: 
+giản dị bình thường, thoải mái: 
 (v) bỏ lỡ, bỏ qua; tha thứ; coi nhẹ: 
          (n) cảnh quan từ trên cao, vị trí cao để quan sát: 
 (thiên văn học) sao Hải vương; (thần thoại,thần học) thần biển, hải thần: 

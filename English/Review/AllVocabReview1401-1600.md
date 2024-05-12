@@ -120,7 +120,9 @@ có đủ trình độ, thông thạo; (pháp lý) có thẩm quyền:
 (n) thánh ca (v) cầu kinh; tụng kinh: 
 đam mê, say mê; hăng hái, nhiệt tình: 
 ghen tị; ghen tuông; đố kỵ: 
-cơ thể vóc người, vóc dáng người: 
+* cơ thể vóc người, vóc dáng người. thường ám chỉ đến hình dáng hoặc cấu trúc cơ thể của một người, đặc biệt là về mặt cơ bắp và thể chất. thường mô tả các đặc điểm về cơ thể, như sức mạnh, thể trạng, hoặc hình dáng tổng thể: 
+* hình dáng, dáng người; sơ đồ; nhân vật. thường ám chỉ đến hình dáng nữ giới, đặc biệt là về tỉ lệ giữa vòng eo, vòng hông và vòng mông. thường được mô tả sự hấp dẫn hoặc tỉ lệ của hình dáng người phụ nữ: 
+* dáng (người), hình dạng. ám chỉ hình dáng tổng thể của một vật thể hoặc một phần của cơ thể không chỉ giới hạn trong ngữ cảnh của con người. Trong ngữ cảnh của con người thường ám chỉ đến hình dáng tổng thể của cơ thể, bao gồm cả cân nặng, chiều cao và tỉ lệ cơ thể: 
 áp dụng lên, mang lại (một sức mạnh, ảnh hưởng hoặc chất lượng); nỗ lực về thể chất hoặc tinh thần: 
 cố gắng, rán sức: 
 (y học) chứng ruột rút; (a) bị chuột rút: 
@@ -128,7 +130,8 @@ sự bong gân:
 nước máy: 
 (thực vật) nhụy hoa: 
 (thực vật học) thân củ, củ; nấm cục, nấm truýp: 
-sự tiện nghi; sự an nhàn; sự an ủi: 
+* sự tiện nghi, thoải mái; sự an nhàn; sự an ủi. thường ám chỉ đến sự thoải mái và tiện lợi trong cảm giác về tinh thần hoặc vật chất: 
+* sự thuận tiện. thường ám chỉ đến sự thuận tiện hoặc dễ dàng trong việc thực hiện một nhiệm vụ nào đó mà không gặp phải sự rắc rối hoặc bất tiện: 
 công bố; ban bố; xuất bản: 
 (âm nhạc) đàn clavico: 
 (thơ ca) dây đàn; (toán học) dây cung; (giải phẫu) dây, thừng: 
@@ -141,7 +144,9 @@ sự phát hiện ra, sự nhận diện ra; sự nhận dạng; nét để nh�
 khía cạnh; mặt; vẻ, bề ngoài; diện mạo: 
 (v) gập lại, gấp nếp lại; (n) nếp gấp: 
 (v) mở ra, trải ra; bày tỏ, để lộ, bộc lộ: 
-chung, công, công cộng; thường, thông thường, phổ thông: 
+* chung, công, công cộng; thường, thông thường, phổ thông. mô tả cái gì đó xuất hiện thường xuyên hoặc được gặp phổ biến trong một tình huống hoặc cộng đồng nhất định: 
+* bình thường, thông thường. mô tả cái gì đó hoạt động hoặc xuất hiện theo cách mà đa số người xem là phù hợp hoặc không gây bất ngờ: 
+* giản dị bình thường, thoải mái. mô tả một phong cách không cầu kỳ hoặc không cảm thấy cứng nhắc: 
 tôn giáo, đạo; sự tín ngưỡng: 
 sự thử; bản thử nghiệm: 
 sự sai lầm, sự sai sót, lỗi: 
@@ -193,8 +198,4 @@ cho đến hết ...:
 bánh mì kẹp thịt béo ngậy: 
 âu yếm, ôm ấp, yêu mến: 
 thoát khỏi cơn cuồng nhiệt ...: 
-toàn bộ: 
-thực tế ảo: 
-công nghệ tiến bộ gần đây: 
-trốn, trốn khỏi, vượt ngục: 
-tưởng tượng: 
+

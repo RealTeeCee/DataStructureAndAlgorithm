@@ -687,7 +687,7 @@ slavery /ˈsleɪvəri/: chế độ nô lệ
 vacancy /ˈveɪkənsi/ : vị trí tuyển dụng
 facility /fəˈsɪlət̮i/: sự thuận tiện; điều kiện dễ dàng, điều kiện thuận lợi;
 designated /ˈdɛzɪɡˌneɪt/: được chỉ định
-casual /ˈkæʒuəl/: bình thường
+casual /ˈkæʒuəl/: giản dị bình thường, thoải mái
 overlook /ˌoʊ.vəˈlʊk/: (v) bỏ lỡ, bỏ qua; tha thứ; coi nhẹ
          /ˈoʊ.vɚ.lʊk/: (n) cảnh quan từ trên cao, vị trí cao để quan sát
 neptune /ˈnep.tuːn/: (thiên văn học) sao Hải vương; (thần thoại,thần học) thần biển, hải thần
@@ -1520,19 +1520,22 @@ competent /'kɔmpitənt/: có đủ trình độ, thông thạo; (pháp lý) có
 chant /tʃɑ:nt/: (n) thánh ca (v) cầu kinh; tụng kinh
 enthusiastic /in'θju:zi'æstik/: đam mê, say mê; hăng hái, nhiệt tình
 jealous /'dʤeləs/: ghen tị; ghen tuông; đố kỵ
-physique /fi'zi:k/: cơ thể vóc người, vóc dáng người
+* physique /fi'zi:k/: cơ thể vóc người, vóc dáng người. thường ám chỉ đến hình dáng hoặc cấu trúc cơ thể của một người, đặc biệt là về mặt cơ bắp và thể chất. thường mô tả các đặc điểm về cơ thể, như sức mạnh, thể trạng, hoặc hình dáng tổng thể: Ex: He has a muscular physique from years of weightlifting (Anh ấy có một thể hình cơ bắp từ nhiều năm tập thể dục nặng).
+* figure /ˈfɪɡ.jɚ/: hình dáng, dáng người; sơ đồ; nhân vật. thường ám chỉ đến hình dáng nữ giới, đặc biệt là về tỉ lệ giữa vòng eo, vòng hông và vòng mông. thường được mô tả sự hấp dẫn hoặc tỉ lệ của hình dáng người phụ nữ. Ex: She has an hourglass figure (Cô ấy có hình dáng hộp cát).
+* shape /ʃeɪp/: dáng (người), hình dạng. ám chỉ hình dáng tổng thể của một vật thể hoặc một phần của cơ thể không chỉ giới hạn trong ngữ cảnh của con người. Trong ngữ cảnh của con người thường ám chỉ đến hình dáng tổng thể của cơ thể, bao gồm cả cân nặng, chiều cao và tỉ lệ cơ thể. Ex: The vase has a unique shape (Cái bình có hình dáng độc đáo)
 exert /ig'zə:t/: áp dụng lên, mang lại (một sức mạnh, ảnh hưởng hoặc chất lượng). Ex: the moon exerts a force on the Earth (Mặt Trăng tác dụng một lực lên Trái Đất); nỗ lực về thể chất hoặc tinh thần.
 to exert oneself //: cố gắng, rán sức
 cramp /kræmp/: (y học) chứng ruột rút; (a) bị chuột rút
 sprain /sprein/: sự bong gân
 tap water /ˈtæp ˌwɑː.t̬ɚ/: nước máy
-pistil /'pistil/: (thực vật) nhụy hoa
+pistil /ˈpɪs.tɪl/: (thực vật) nhụy hoa
 tuber /'tju:bə/: (thực vật học) thân củ, củ; nấm cục, nấm truýp
-comfort /'kʌmfət/: sự tiện nghi; sự an nhàn; sự an ủi
+* comfort /'kʌmfət/: sự tiện nghi, thoải mái; sự an nhàn; sự an ủi. thường ám chỉ đến sự thoải mái và tiện lợi trong cảm giác về tinh thần hoặc vật chất. Ex: This chair provides great comfort for my back (Cái ghế này mang lại sự thoải mái tốt cho lưng tôi)
+* convenience /kənˈviː.ni.əns/: sự thuận tiện. thường ám chỉ đến sự thuận tiện hoặc dễ dàng trong việc thực hiện một nhiệm vụ nào đó mà không gặp phải sự rắc rối hoặc bất tiện. Ex: The convenience of online shopping allows me to buy things from home (Sự thuận tiện của mua sắm trực tuyến cho phép tôi mua hàng từ nhà)
 publish /'pʌbliʃ/: công bố; ban bố; xuất bản
 harpsichord /'hɑ:psikɔ:d/: (âm nhạc) đàn clavico
 chord /kɔ:d/: (thơ ca) dây đàn; (toán học) dây cung; (giải phẫu) dây, thừng
-prolonged /prolonged/: (a) kéo dài, được nối dài thêm
+prolonged /prəˈlɑːŋd/: (a) kéo dài, được nối dài thêm
 supervised /'sju:pəvaiz/: giám sát
 symphony /'simfəni/: bản nhạc giao hưởng
 identification /ai,dentifi'keiʃn/: sự phát hiện ra, sự nhận diện ra; sự nhận dạng; nét để nhận ra
@@ -1541,7 +1544,9 @@ eventually /i'ventjuəli/: (adv) cuối cùng
 aspect /'æspekt/: khía cạnh; mặt; vẻ, bề ngoài; diện mạo
 fold /fould/: (v) gập lại, gấp nếp lại; (n) nếp gấp
 unfold /ʌn'fould/: (v) mở ra, trải ra; bày tỏ, để lộ, bộc lộ
-common /'kɔmən/: chung, công, công cộng; thường, thông thường, phổ thông
+* common /'kɔmən/: chung, công, công cộng; thường, thông thường, phổ thông. mô tả cái gì đó xuất hiện thường xuyên hoặc được gặp phổ biến trong một tình huống hoặc cộng đồng nhất định. Ex: It's normal to feel nervous before a big presentation (Cảm thấy hồi hộp trước một bài thuyết trình lớn là điều bình thường)
+* normal /ˈnɔːr.məl/: bình thường, thông thường. mô tả cái gì đó hoạt động hoặc xuất hiện theo cách mà đa số người xem là phù hợp hoặc không gây bất ngờ. Ex: It's normal to feel nervous before a big presentation (Cảm thấy hồi hộp trước một bài thuyết trình lớn là điều bình thường)
+* casual /ˈkæʒuəl/: giản dị bình thường, thoải mái. mô tả một phong cách không cầu kỳ hoặc không cảm thấy cứng nhắc. Ex:  I usually dress casually on the weekends (Thường tôi ăn mặc thoải mái vào cuối tuần)
 religion /ri'lidʤn/: tôn giáo, đạo; sự tín ngưỡng
 trial /'traiəl/: sự thử; bản thử nghiệm
 error /'erə/: sự sai lầm, sự sai sót, lỗi

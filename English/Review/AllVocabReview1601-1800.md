@@ -1,3 +1,8 @@
+toàn bộ: 
+thực tế ảo: 
+công nghệ tiến bộ gần đây: 
+trốn, trốn khỏi, vượt ngục: 
+tưởng tượng: 
 ảnh hưởng xấu: 
 tương tác: 
 đối mặt: 
