@@ -93,7 +93,9 @@ không cần đến; quản lý, làm việc mà không cần có ai đó hoặc
 giống: 
 yêu cầu, cần gì đó; kêu gọi, công khai yêu cầu một cái gì đó: 
 bệnh tật, căn bệnh: 
-khả năng xảy ra: 
+khả năng xảy ra, thường được sử dụng để mô tả mức độ tin cậy hoặc khả năng của một sự kiện: 
+khả năng, năng lực. thường liên quan đến khả năng kỹ thuật, tài chính hoặc vận động để thực hiện điều gì đó: 
+xác suất. khái niệm toán học để đo lường mức độ mà một sự kiện cụ thể sẽ xảy ra: 
 nhân tố; hệ số: 
 thuốc lá: 
 (n) hợp đồng, giao kèo; khế ước; (v) ký kết, kết ước; làm teo lại; tiêm nhiễm: 

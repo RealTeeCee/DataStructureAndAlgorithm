@@ -1493,7 +1493,9 @@ To do without //: không cần đến; quản lý, làm việc mà không cần 
 To take after //: giống
 To call for sth //: (1) yêu cầu, cần gì đó. Ex: I've been promoted. This calls for a celebration! (Tôi đã được thăng chức. Điều này cần một lễ kỷ niệm); (2) kêu gọi, công khai yêu cầu một cái gì đó. Ex: They called for the immediate release of the hostages (Họ kêu gọi thả con tin ngay lập tức). The opposition have called for him to resign (Phe đối lập đã kêu gọi ông từ chức)
 disease /dəˈzēz/: bệnh tật, căn bệnh
-likelihood /ˈlīklēˌho͝od/: khả năng xảy ra
+* likelihood /ˈlīklēˌho͝od/: khả năng xảy ra. thường được sử dụng để mô tả mức độ tin cậy hoặc khả năng của một sự kiện, thường được diễn đạt bằng cụm từ như "high likelihood" (khả năng cao) hoặc "low likelihood" (khả năng thấp). Ex: There is a high likelihood of rain tomorrow (Có khả năng cao mưa vào ngày mai).
+* capability /ˌkeɪ.pəˈbɪl.ə.t̬i/: khả năng, năng lực. thường liên quan đến khả năng kỹ thuật, tài chính hoặc vận động để thực hiện điều gì đó. Ex: She has the capability to speak five languages fluently (Cô ấy có khả năng nói lưu loát năm ngôn ngữ).
+* probability /ˌprɑː.bəˈbɪl.ə.t̬i/: xác suất. khái niệm toán học để đo lường mức độ mà một sự kiện cụ thể sẽ xảy ra. There is a 70% probability of winning the lottery (Có xác suất 70% để trúng số trong xổ số).
 factor /ˈfaktər/: nhân tố; hệ số
 tobacco /təˈbakō/: thuốc lá
 contract: (n) hợp đồng, giao kèo; khế ước; (v) ký kết, kết ước; làm teo lại; tiêm nhiễm
