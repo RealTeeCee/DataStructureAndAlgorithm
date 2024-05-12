@@ -848,7 +848,7 @@ slack /slæk/: (a) uể oải, chậm chạp, ế ẩm (n) phần dây chùng (v
 slack off /slæk ɑːf/: giảm bớt hoạt động, lãng công
 refreshment /ri'freʃmənt/: các món ăn uống, các món ăn và các loại giải khát; sự nghỉ dưỡng,  sự tĩnh dưỡng
 mattress /'mætris/: nệm, đệm không khí, đệm bông
-co-workers /ˌkoʊˈwɝː.kɚ/: bạn cùng làm việc với nhau; bạn đồng nghiệp
+co-worker /ˌkoʊˈwɝː.kɚ/: bạn cùng làm việc với nhau; bạn đồng nghiệp
 curriculum /kə'rikjuləm/: chương trình giảng dạy
 societies /sə'saiəti/: hoạt động xã hội, đoàn thể, hội
 radiocarbon /ˌreɪ.di.əʊ.kɑːbən/ : các bon phóng xạ
@@ -1563,7 +1563,9 @@ sieve /sɪv/: cái sàng.
 cone /koʊn/: hình nón
 paper cone /ˈpeɪpər koʊn/: nón giấy
 dash of salt /dæʃ ev sɔlt/: Một chút xíu muối
-colleague = fellow = co-worker /ˈkɑliɡ/:  đồng nghiệp
+* colleague /ˈkɑliɡ/:  đồng nghiệp. thường được sử dụng để chỉ đến một người làm việc cùng một tổ chức, công ty, hoặc ngành nghề. Từ này thường được sử dụng trong một bối cảnh chuyên nghiệp. Ex: I have a meeting with my colleagues from the marketing department (Tôi có cuộc họp với các đồng nghiệp của mình từ bộ phận tiếp thị).
+* fellow /ˈfeləʊ/: bạn đồng hành, đồng nghiệp. thường được sử dụng để chỉ đến một người có cùng sở thích, quan điểm, hoặc tình cảm với người nói. thường được sử dụng trong một ngữ cảnh cá nhân hoặc gần gũi hơn Colleague. Ex: He's a fellow enthusiast of classic cars (Anh ấy là một người đam mê xe cổ điển như tôi)
+* co-worker /ˌkoʊˈwɝː.kɚ/: bạn cùng làm việc với nhau; bạn đồng nghiệp. thường được sử dụng để chỉ đến một người làm việc cùng một nơi làm việc hoặc trong cùng một dự án mà không cần thiết phải là trong cùng một bộ phận hoặc ngành nghề. thường ngụ ý về một mức độ sự hợp tác và tương tác hàng ngày. Ex: My co-workers and I are planning a team-building event (Tôi và các đồng nghiệp đang lên kế hoạch tổ chức một sự kiện xây dựng đội ngũ)
 regulate /'regiuleit/: điều tiết; chỉnh đốn, điều chỉnh theo mong muốn, chỉnh lại cho đúng (Dựa trên quy tắc); sắp đặt
 regulation /'regiuleiSHən/: quy định, quy tắc; sự chỉnh đốn; sự sắp đặt
 sketch /skɛtʃ/: bản phác họa (n),  phác họa (v)
