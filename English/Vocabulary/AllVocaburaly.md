@@ -1514,7 +1514,9 @@ fountain /'fauntin/: đài, vòi phun nước (công viên)
 * day in and day out //: ngày này qua ngày khác. Thường dùng mô tả các hoạt động hoặc trạng thái kéo dài qua thời gian một cách liên tục. Ex: She worked tirelessly day in and day out to support her family (Cô ấy làm việc không mệt mỏi mỗi ngày để nuôi sống gia đình)
 * day by day //: ngày qua ngày. Thường dùng mô tả sự thay đổi từng chút một theo thời gian. Ex: His health is improving day by day (Sức khỏe của anh ấy đang cải thiện từng ngày).
 competent /'kɔmpitənt/: có đủ trình độ, thông thạo; (pháp lý) có thẩm quyền
-spectator /spek'teitə/: người xem, khán giả
+* spectator /spek'teitə/: người xem, khán giả. thường ám chỉ những người xem một sự kiện cụ thể, như một trận đấu thể thao, một buổi biểu diễn nghệ thuật hoặc một sự kiện trên sân khấu, không tham gia trực tiếp vào sự kiện và thường là người xem từ xa. Ex: The spectators cheered loudly as the team scored a goal (Các khán giả hò reo ồn ào khi đội ghi bàn)
+* audience /ˈɑː.di.əns/: độc giả, khán giả. thường ám chỉ những người xem một sự kiện hoặc biểu diễn trực tiếp. thường không chỉ đơn thuần là người xem mà còn có thể bao gồm những người tham gia một cách trực tiếp trong sự kiện đó, nhưng vẫn tiếp tục đóng vai trò là người quan sát. Ex: The audience was moved to tears by the emotional performance (Khán giả đã bị cảm động đến nước mắt bởi màn biểu diễn đầy cảm xúc)
+* observer /əbˈzɝː.vɚ/: người quan sát. một thuật ngữ rộng hơn, ám chỉ đến bất kỳ ai đang quan sát hoặc theo dõi một sự kiện.  có thể là một nhà nghiên cứu, một nhà quan sát xã hội hoặc bất kỳ ai đang thực hiện việc quan sát để thu thập thông tin hoặc hiểu biết. The observers noted the behavior of the animals in their natural habitat (Các nhà quan sát ghi nhận hành vi của các loài động vật trong môi trường sống tự nhiên của chúng)
 chant /tʃɑ:nt/: (n) thánh ca (v) cầu kinh; tụng kinh
 enthusiastic /in'θju:zi'æstik/: đam mê, say mê; hăng hái, nhiệt tình
 jealous /'dʤeləs/: ghen tị; ghen tuông; đố kỵ

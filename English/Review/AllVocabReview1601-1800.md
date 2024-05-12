@@ -1,3 +1,5 @@
+ảnh hưởng xấu: 
+tương tác: 
 đối mặt: 
 be aware of // : nhận thức, hiểu biết về một sự vật, hành động cụ thể hoặc có kiến thức, kinh nghiệm về một điều gì đó.
 câu chuyện trước khi đi ngủ: 
@@ -196,5 +198,3 @@ người nhiều kinh nghiệm hơn; người lớn tuổi; người giữ 
 đội cấp cao: 
 kỷ lục ghi bàn: 
 (n) sự sốc, sự khích động, sự đột xuất; (v) gây sốc, gây kích động, làm chướng tai gai mắt; gây giật điện: 
-tiền lương, tiền công: 
-trả lương: 
