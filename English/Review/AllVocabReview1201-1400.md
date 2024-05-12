@@ -118,7 +118,7 @@ Tiếp tục. Thường nhấn mạnh vào việc tiếp tục một hành đ�
 Tiếp tục. Thường ám chỉ việc tiếp tục một hành động trong một khoảng thời gian dài: 
 Giao , nộp: 
 mặc vào (*) : 
-Đi về phía trước.: 
+Đi về phía trước, hướng về phía: 
 Theo kịp với.: 
 Nhìn qua: 
 tự nghĩ ra, chế (thường theo nghĩa lừa dối): 

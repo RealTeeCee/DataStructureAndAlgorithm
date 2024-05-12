@@ -80,23 +80,16 @@ Người điều hành, lãnh đạo; thẩm cấp chỉ huy:
 tổng giám đốc: 
 Giám thị: 
 thầy bói: 
-rớt lại phía sau.: 
 Từ bỏ, bỏ cuộc.: 
 ăn mặc chỉnh tề: 
 gọi lại: 
 Nhặt lên, đón ai đó: 
-mặc vào: 
 đưa, cho, tặng: 
-bắt kịp: 
-ôn lại: 
-nộp: 
-kiểm tra lại: 
 sử dụng hết: 
-hướng về phía: 
 cắm điện: 
 lau, chùi, dọn dẹp: 
 ngắt điện thoại: 
-không cần đến: 
+không cần đến; quản lý, làm việc mà không cần có ai đó hoặc cái gì đó hiện diện: 
 giống: 
 triệu tập: 
 bệnh tật, căn bệnh: 

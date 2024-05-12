@@ -1330,7 +1330,7 @@ Ex: Despite the difficulties, he kept on working on his project (Mặc dù gặp
 
 hand in //: Giao , nộp
 have sth (clothes) on: = Put on //: mặc vào (*) 
-head for (+ place) //: Đi về phía trước.
+head for (+ place) //: Đi về phía trước; hướng về phía
 keep up with //: Theo kịp với.
 look over //: Nhìn qua
 make ... up //: tự nghĩ ra, chế (thường theo nghĩa lừa dối)
@@ -1480,23 +1480,16 @@ executive /ɪɡˈzɛkyət̮ɪv/: Người điều hành, lãnh đạo; thẩm c�
 chief executive officer (CEO) //: tổng giám đốc
 supervisor /ˈsupərˌvaɪzər/: Giám thị
 fortune teller /ˈfɔrtʃən ˈtɛlər/: thầy bói
-To fall behind //: rớt lại phía sau.
 To give up //: Từ bỏ, bỏ cuộc.
 To dress up //: ăn mặc chỉnh tề
 To call back //: gọi lại
 To pick up (*) //: Nhặt lên, đón ai đó
-To have sth on (*) //: mặc vào
 To give away (*) //: đưa, cho, tặng
-To catch up with //: bắt kịp
-To brush up on //: ôn lại
-To hand in (*) //: nộp
-To check over (*) //: kiểm tra lại
 To use up //: sử dụng hết
-To head for //: hướng về phía
 To plug in (*) //: cắm điện
 To clean up (*) //: lau, chùi, dọn dẹp
 To cut off (*) //: ngắt điện thoại
-To do without //: không cần đến
+To do without //: không cần đến; quản lý, làm việc mà không cần có ai đó hoặc cái gì đó hiện diện
 To take after //: giống
 To call for //: triệu tập
 disease /dəˈzēz/: bệnh tật, căn bệnh
