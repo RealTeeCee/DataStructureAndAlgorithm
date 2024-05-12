@@ -161,8 +161,8 @@ chè/trà ô long:
 (toán học) phép nội suy: 
 ban công: 
 sự dư thừa; (văn) rườm rà: 
-cuộc thảm sát, sự tàn sát . Thường ám chỉ trong một tình huống chiến tranh hoặc một vụ tai nạn lớn, sự cố, sự kiện gây thiệt mạng nhiều người: 
-cuộc thảm sát, sự tàn sát. Thường ám chỉ một lượng lớn người bị giết mà không có sự phòng ngự hoặc có sự phản kháng ít ỏi bởi do hành động của một nhóm hoặc tổ chức: 
+* cuộc thảm sát, sự tàn sát . Thường ám chỉ trong một tình huống chiến tranh hoặc một vụ tai nạn lớn, sự cố, sự kiện gây thiệt mạng nhiều người: 
+* cuộc thảm sát, sự tàn sát. Thường ám chỉ một lượng lớn người bị giết mà không có sự phòng ngự hoặc có sự phản kháng ít ỏi bởi do hành động của một nhóm hoặc tổ chức: 
 những mảnh gỗ khô nhỏ, v.v. dùng để nhóm lửa: 
 một dòng khí cháy nóng rực phát ra từ vật gì đó đang cháy: 
 rong biển: 
@@ -170,9 +170,9 @@ cái sàng.:
 hình nón: 
 nón giấy: 
 Một chút xíu muối: 
-đồng nghiệp. thường được sử dụng để chỉ đến một người làm việc cùng một tổ chức, công ty, hoặc ngành nghề. Từ này thường được sử dụng trong một bối cảnh chuyên nghiệp: 
-bạn đồng hành, đồng nghiệp. thường được sử dụng để chỉ đến một người có cùng sở thích, quan điểm, hoặc tình cảm với người nói. thường được sử dụng trong một ngữ cảnh cá nhân hoặc gần gũi hơn Colleague: 
-bạn cùng làm việc với nhau; bạn đồng nghiệp. thường được sử dụng để chỉ đến một người làm việc cùng một nơi làm việc hoặc trong cùng một dự án mà không cần thiết phải là trong cùng một bộ phận hoặc ngành nghề. thường ngụ ý về một mức độ sự hợp tác và tương tác hàng ngày: 
+* đồng nghiệp. thường được sử dụng để chỉ đến một người làm việc cùng một tổ chức, công ty, hoặc ngành nghề. Từ này thường được sử dụng trong một bối cảnh chuyên nghiệp: 
+* bạn đồng hành, đồng nghiệp. thường được sử dụng để chỉ đến một người có cùng sở thích, quan điểm, hoặc tình cảm với người nói. thường được sử dụng trong một ngữ cảnh cá nhân hoặc gần gũi hơn Colleague: 
+* bạn cùng làm việc với nhau; bạn đồng nghiệp. thường được sử dụng để chỉ đến một người làm việc cùng một nơi làm việc hoặc trong cùng một dự án mà không cần thiết phải là trong cùng một bộ phận hoặc ngành nghề. thường ngụ ý về một mức độ sự hợp tác và tương tác hàng ngày: 
 điều tiết; chỉnh đốn, điều chỉnh theo mong muốn, chỉnh lại cho đúng (Dựa trên quy tắc); sắp đặt: 
 quy định, quy tắc; sự chỉnh đốn; sự sắp đặt: 
 bản phác họa (n),  phác họa (v): 
