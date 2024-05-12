@@ -187,6 +187,7 @@ thói ăn đồ ăn vặt:
 đồ ăn vặt có đường: 
 universal leaf symbol
 cho đến hết ...: 
+(a) nhiều dầu mỡ; bóng bẩy: 
 bánh mì kẹp thịt béo ngậy: 
 âu yếm, ôm ấp, yêu mến: 
 thoát khỏi cơn cuồng nhiệt ...: 
@@ -196,3 +197,4 @@ công nghệ tiến bộ gần đây:
 trốn, trốn khỏi, vượt ngục: 
 tưởng tượng: 
 ảnh hưởng xấu: 
+tương tác: 
