@@ -182,7 +182,8 @@ chất liệu trám răng, chất liệu mềm dùng để lót đệm, gối…
 hạt đậu: 
 nấm: 
 đầy hơi: 
-đồ ăn vặt: 
+đồ ăn vặt:
+thói ăn đồ ăn vặt:  
 đồ ăn vặt có đường: 
 universal leaf symbol
 cho phần còn lại của ...: 

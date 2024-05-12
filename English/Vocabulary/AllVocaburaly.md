@@ -1568,7 +1568,7 @@ dash of salt /dæʃ ev sɔlt/: Một chút xíu muối
 * co-worker /ˌkoʊˈwɝː.kɚ/: bạn cùng làm việc với nhau; bạn đồng nghiệp. thường được sử dụng để chỉ đến một người làm việc cùng một nơi làm việc hoặc trong cùng một dự án mà không cần thiết phải là trong cùng một bộ phận hoặc ngành nghề. thường ngụ ý về một mức độ sự hợp tác và tương tác hàng ngày. Ex: My co-workers and I are planning a team-building event (Tôi và các đồng nghiệp đang lên kế hoạch tổ chức một sự kiện xây dựng đội ngũ)
 regulate /'regiuleit/: điều tiết; chỉnh đốn, điều chỉnh theo mong muốn, chỉnh lại cho đúng (Dựa trên quy tắc); sắp đặt
 regulation /'regiuleiSHən/: quy định, quy tắc; sự chỉnh đốn; sự sắp đặt
-sketch /skɛtʃ/: bản phác họa (n),  phác họa (v)
+sketch /skɛtʃ/: bản phác họa (n), phác họa (v)
 sketchbook /ˈskɛtʃbʊk/: sổ phác thảo
 pirate /ˈpaɪrət/: cướp biển
 vegetarian /ˌvɛdʒəˈtɛriən/: người ăn chay
@@ -1582,7 +1582,8 @@ tofu /ˈtoʊfu/: đậu hũ
 bean /bin/: hạt đậu
 mushroom /ˈmʌʃrum/: nấm
 gassy /ˈɡæsi/: đầy hơi
-snacking /snæk/: đồ ăn vặt
+snack /snæk/: đồ ăn vặt. Ex: I grabbed a bag of chips as a quick snack (Tôi đã lấy một gói khoai tây chiên như một loại đồ ăn vặt nhanh).
+snacking /ˈsnækɪŋ/: thói ăn đồ ăn vặt. Ex: She tends to do a lot of snacking during the day (Cô ấy thường xuyên ăn nhẹ trong suốt ngày).
 sugary snack //: đồ ăn vặt có đường
 universal leaf symbol
 for the rest of //: cho phần còn lại của ...
