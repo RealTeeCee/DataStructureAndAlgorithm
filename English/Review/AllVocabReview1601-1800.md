@@ -2,7 +2,7 @@
 * toàn bộ, hoàn toàn, tất cả. thường được sử dụng để nhấn mạnh tính bao phủ hoặc toàn diện của cái gì đó. Nó thường được sử dụng trong các ngữ cảnh trang trọng hoặc hình thức văn viết hơn: 
 thực tế ảo: 
 công nghệ tiến bộ gần đây: 
-trốn, trốn khỏi, vượt ngục: 
+thoát, trốn khỏi, vượt ngục: 
 tưởng tượng: 
 ảnh hưởng xấu: 
 tương tác: 
