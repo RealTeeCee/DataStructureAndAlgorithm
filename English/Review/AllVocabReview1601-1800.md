@@ -1,26 +1,26 @@
-* toàn bộ, nguyên cái. thường chỉ một cái gì đó không bị chia tách hoặc phân chia thành các phần riêng biệt. ám chỉ đến một thực thể, đối tượng hoặc khía cạnh cụ thể của một cái gì đó: .
-* toàn bộ, hoàn toàn, tất cả. thường được sử dụng để nhấn mạnh tính bao phủ hoặc toàn diện của cái gì đó. Nó thường được sử dụng trong các ngữ cảnh trang trọng hoặc hình thức văn viết hơn: .
-thực tế ảo: .
-công nghệ tiến bộ gần đây: .
-thoát, trốn khỏi, vượt ngục: .
-tưởng tượng: .
-ảnh hưởng xấu: .
-tương tác: .
-mặt đối mặt: .
-nhận thức, hiểu biết về một sự vật, hành động cụ thể hoặc có kiến thức, kinh nghiệm về một điều gì đó: .
-câu chuyện trước khi đi ngủ: .
-chương: .
-Loạt. thường được sử dụng để mô tả một chuỗi các sự kiện hoặc hiện tượng có liên quan hoặc tuần tự:  .
-Dãy núi Alps: .
-người Appalachia: .
-câu chuyện cảm động: .
-sự thật: .
-côn trùng: .
-gần với các cạnh ,sát mép, gần rìa: .
-ban nhạc chơi nhạc trên những chiếc trống được làm từ những thùng chứa dầu bằng kim loại rỗng.: .
-* từ đồ dùng đóng hộp, thực phẩm làm từ lon ...: .
-* sẵn sàng sử dụng hoặc sẵn sàng để hoạt động ngay lập tức. thường ám chỉ đến tính linh hoạt hoặc khả năng làm việc ngay sau khi được mua hoặc nhận: .
-* tư duy đột phá, suy nghĩ khác biệt, nghĩ rộng ra ngoài chiếc hộp. ám chỉ đến việc tìm ra các giải pháp mới, khác biệt và đột phá bằng cách tiếp cận vấn đề từ góc độ không truyền thống: .
+* toàn bộ, nguyên cái. thường chỉ một cái gì đó không bị chia tách hoặc phân chia thành các phần riêng biệt. ám chỉ đến một thực thể, đối tượng hoặc khía cạnh cụ thể của một cái gì đó: 
+* toàn bộ, hoàn toàn, tất cả. thường được sử dụng để nhấn mạnh tính bao phủ hoặc toàn diện của cái gì đó. Nó thường được sử dụng trong các ngữ cảnh trang trọng hoặc hình thức văn viết hơn: 
+thực tế ảo: 
+công nghệ tiến bộ gần đây: 
+thoát, trốn khỏi, vượt ngục: 
+tưởng tượng: 
+ảnh hưởng xấu: 
+tương tác: 
+mặt đối mặt: 
+nhận thức, hiểu biết về một sự vật, hành động cụ thể hoặc có kiến thức, kinh nghiệm về một điều gì đó: 
+câu chuyện trước khi đi ngủ: 
+chương: 
+Loạt. thường được sử dụng để mô tả một chuỗi các sự kiện hoặc hiện tượng có liên quan hoặc tuần tự:  
+Dãy núi Alps: 
+người Appalachia: 
+câu chuyện cảm động: 
+sự thật: 
+côn trùng: 
+gần với các cạnh ,sát mép, gần rìa: 
+ban nhạc chơi nhạc trên những chiếc trống được làm từ những thùng chứa dầu bằng kim loại rỗng.: 
+* từ đồ dùng đóng hộp, thực phẩm làm từ lon ...: 
+* sẵn sàng sử dụng hoặc sẵn sàng để hoạt động ngay lập tức. thường ám chỉ đến tính linh hoạt hoặc khả năng làm việc ngay sau khi được mua hoặc nhận: 
+* tư duy đột phá, suy nghĩ khác biệt, nghĩ rộng ra ngoài chiếc hộp. ám chỉ đến việc tìm ra các giải pháp mới, khác biệt và đột phá bằng cách tiếp cận vấn đề từ góc độ không truyền thống: 
 1. ra khỏi; 2. công khai, tiết lộ; 3. ra mắt trong xã hội hoặc trên sân khấu: 
 rộng rãi, hào phóng, quảng đại; rộng lượng, khoan hồng : 
 keo kiệt, bủn xỉn: 
