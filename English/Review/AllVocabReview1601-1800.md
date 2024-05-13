@@ -17,12 +17,12 @@ câu chuyện cảm động:
 sự thật: 
 côn trùng: 
 gần với các cạnh ,sát mép, gần rìa: 
-ban nhạc chơi nhạc trên những chiếc trống được làm từ những thùng chứa dầu bằng kim loại rỗng.: 
+ban nhạc chơi nhạc trên những chiếc trống được làm từ những thùng chứa dầu bằng kim loại rỗng: 
 * từ đồ dùng đóng hộp, thực phẩm làm từ lon ...: 
 * sẵn sàng sử dụng hoặc sẵn sàng để hoạt động ngay lập tức. thường ám chỉ đến tính linh hoạt hoặc khả năng làm việc ngay sau khi được mua hoặc nhận: 
 * tư duy đột phá, suy nghĩ khác biệt, nghĩ rộng ra ngoài chiếc hộp. ám chỉ đến việc tìm ra các giải pháp mới, khác biệt và đột phá bằng cách tiếp cận vấn đề từ góc độ không truyền thống: 
 1. ra khỏi; 2. công khai, tiết lộ; 3. ra mắt trong xã hội hoặc trên sân khấu: 
-rộng rãi, hào phóng, quảng đại; rộng lượng, khoan hồng : 
+rộng rãi, hào phóng, quảng đại; rộng lượng, khoan hồng: 
 keo kiệt, bủn xỉn: 
 giàu kinh nghiệm, từng trải, lão luyện != thiếu kinh nghiệm: 
 quyền lực; hùng mạnh != bất lực; không có sức mạnh: 
@@ -47,7 +47,7 @@ yếu ớt; non kém; thiếu nghị lực, mềm yếu, nhu nhược; học l�
 nói nhiều: 
 ít nói: 
 tự do: 
-bảo thủ != cấp tiến, tiến tới, người theo chủ nghĩa tiến bộ : 
+bảo thủ != cấp tiến, tiến tới, người theo chủ nghĩa tiến bộ: 
 Tender != rude /ˈtɛndər != ruːd/ : dịu dàng != thô lỗ
 duyên dáng != vô duyên: 
 hay lý luận, thích tranh cãi hoặc gây gổ != dễ chịu, hòa nhã, thích hòa giải: 
@@ -166,7 +166,7 @@ thú vị, thích thú:
 (thuộc) nấu nướng, (thuộc) việc bếp núc: 
 kỹ năng nấu nướng: 
 minh chứng; di chúc; kinh thánh: 
-Mỗi bữa ăn trên bàn ăn của gia đình chúng tôi là minh chứng cho tài nấu nướng điêu luyện của cô.: 
+Mỗi bữa ăn trên bàn ăn của gia đình chúng tôi là minh chứng cho tài nấu nướng điêu luyện của cô: 
 gây ấn tượng mạnh mẽ; oai nghiêm, hùng vĩ, đường bệ, bệ vệ: 
 áp đặt với: 
 tráng kiện, khoẻ mạnh, cường tráng: 
