@@ -107,7 +107,7 @@ tai nghe ảo:
 nhà tâm lý học: 
 (+ in) tham dự, tham gia vào: 
 người tham gia: 
-uncertainty: tính không chắc chắn
+tính không chắc chắn: 
 ác công ty tên tuổi: 
 rối loạn căng thẳng: 
 lớn hơn (tuổi): 
@@ -118,7 +118,7 @@ lạ, đẹp và ấn tượng:
 ngắm chim: 
 hương vị: 
 huấn luyện viên karate: 
-kickboxing lesson: bài học đấm bốc (một dạng đấm bốc có thể đá)
+bài học đấm bốc (một dạng đấm bốc có thể đá): 
 hàng đầu: 
 xa hơn: 
 bắt nạt: 
@@ -151,7 +151,7 @@ người quan sát nhận dạng chim trời:
 một cặp, một đôi: 
 ống nhòm: 
 để mắt tới: 
-tìm kiếm / theo dõi thứ gì đó / ai đó với sự chú ý cẩn thận và kiên nhẫn.: 
+tìm kiếm / theo dõi thứ gì đó / ai đó với sự chú ý cẩn thận và kiên nhẫn:  
 công dân; người dân thành thị; người thường dân (trái với quân đội): 
 (v) cống hiến, hiến dâng; dành cho; khánh thành, khai mạc: 
 tận tụy, tận tâm; có tính cách chuyên môn; dành riêng: 
