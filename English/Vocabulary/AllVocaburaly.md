@@ -1635,8 +1635,8 @@ sluggish /ˈsləɡiSH/: chậm chạp; uể oải, lờ đờ, lờ phờ
 articulate != inarticulate /ɑ:'tikjulit/: ăn nói rõ ràng, nhanh nhẹn != ăn nói ú ớ, nói chuyện không rõ ràng
 professional != unprofessional /professional/: chuyên nghiệp != nghiệp dư, không chuyên nghiệp
 skillful != unskillful /ˈskilfəl/: có kĩ năng, khéo tay; tài giỏi != không khéo léo, thiếu kĩ năng
-obese != skinny /ou'bi:s/: béo phì, phệ bụng
-thorough != careless /ˈTHərō/: am tường; kỹ lưỡng, uyên thâm
+obese != skinny /ou'bi:s/: béo phì, phệ bụng != ốm yếu
+thorough != careless /ˈTHərō/: am tường; kỹ lưỡng, uyên thâm != cẩu thả
 considerate != inconsiderate //: ân cần, chu đáo; thận trọng; hay quan tâm tới người khác != thiếu ân cần, thiếu chu đáo, thiếu quan tâm
 nervous != calm /ˈnərvəs/: lo lắng; hay sợ
 devoted != heartless /di'voutid/: hết lòng, tận tâm, tận tình, tận tuỵ
@@ -1647,23 +1647,26 @@ weak /wik/: yếu ớt; non kém; thiếu nghị lực, mềm yếu, nhu như�
 Talkative /ˈtɔkət̮ɪv/: nói nhiều
 Quiet /ˈkwaɪət/: ít nói
 Liberal /ˈlɪbərəl/: tự do
-Conservative != ? /kənˈsərvət̮ɪv/: bảo thủ
-Tender != rude /ˈtɛndər/ : dịu dàng
-Graceful != graceless/ˈɡreɪsfl/: duyên dáng
-Argumentative != compromising /ˌɑrɡyəˈmɛntət̮ɪv/: hay lý luận
-Punctual != late /ˈpʌŋktʃuəl/: đúng giờ
-Helpful != helpless /ˈhɛlpfl: hay giúp đỡ
+Conservative != progressive /kənˈsərvət̮ɪv != prəˈɡres.ɪv/: bảo thủ != cấp tiến, tiến tới, người theo chủ nghĩa tiến bộ 
+Tender != rude /ˈtɛndər != ruːd/ : dịu dàng != thô lỗ
+Graceful != graceless/ˈɡreɪsfl != ˈɡreɪs.ləs/: duyên dáng != vô duyên
+Argumentative != agreeable /ˌɑrɡyəˈmɛntət̮ɪv != əˈɡriː.ə.bəl/: hay lý luận, thích tranh cãi hoặc gây gổ != dễ chịu, hòa nhã, thích hòa giải
+Punctual != tardy /ˈpʌŋktʃuəl != ˈtɑːr.di/: đúng giờ != hay đến muộn, không đúng giờ
+tardiness:
+Helpful != unhelpful /ˈhɛlpfl != unˈhɛlpfl/: giúp ích, hữu ích != không hữu ích
+helpless /ˈhelp.ləs/: bất lực, không được ai giúp đỡ
 Skinny /ˈskɪni/: ốm, gầy gò
 Mature /məˈtʃʊr/: chín chắn
 Immature /ˌɪməˈtʃʊr/: ngây ngô, con nít
 Caring != heartless /ˈkɛrɪŋ/: chu đáo
-Kind-hearted != unkind, unsympathetic /kaɪnd hɑrtid/: tốt bụng
-Understanding != /ˌʌndərˈstændɪŋ/: hiểu biết, am hiểu, mau hiểu
-Attractive != ? /əˈtræktɪv/: lôi cuốn, hấp dẫn
-Gracious != rude /ˈɡreɪʃəs/: hòa nhã, thanh tao, nhã nhặn
-Friendly != unfriendly /ˈfrɛndli/: thân thiện
-Sentimental != heartless /ˌsɛntəˈmɛntl/: tình cảm
-Famous != infamous /ˈfeɪməs/: nổi tiếng
+Kind-hearted != unkind, unsympathetic /kaɪnd-hɑrtid != ˌʌn.sɪm.pəˈθet̬.ɪk/: tốt bụng != không thông cảm, thương xót
+Understanding != unsympathetic /ˌʌndərˈstændɪŋ != ˌʌn.sɪm.pəˈθet̬.ɪk/: am hiểu, mau hiểu, thông cảm != không thông cảm, thương xót
+Attractive != unattractive /əˈtræktɪv != ˌʌn.əˈtræk.tɪv/: lôi cuốn, hấp dẫn != kém hấp dẫn
+Gracious != rude /ˈɡreɪʃəs/: hòa nhã, thanh tao, nhã nhặn != thô lỗ
+Friendly != unfriendly /ˈfrɛndli/: thân thiện != ko thân thiện
+Sentimental != heartless /ˌsɛntəˈmɛntl/: tình cảm != vô tâm
+Famous != unknown /ˈfeɪməs != ʌnˈnoʊn/: nổi tiếng != không được biết đến
+infamous /ˈɪn.fə.məs/: khả ố, khét tiếng, ô nhục (danh tiếng xấu vì những lý do tiêu cực)
 # Describing Adjectives
 # Face: khuôn mặt
 oval /'ouvəl/: mặt trái xoan

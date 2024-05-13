@@ -1,26 +1,26 @@
-* toàn bộ, nguyên cái. thường chỉ một cái gì đó không bị chia tách hoặc phân chia thành các phần riêng biệt. ám chỉ đến một thực thể, đối tượng hoặc khía cạnh cụ thể của một cái gì đó: 
-* toàn bộ, hoàn toàn, tất cả. thường được sử dụng để nhấn mạnh tính bao phủ hoặc toàn diện của cái gì đó. Nó thường được sử dụng trong các ngữ cảnh trang trọng hoặc hình thức văn viết hơn: 
-thực tế ảo: 
-công nghệ tiến bộ gần đây: 
-thoát, trốn khỏi, vượt ngục: 
-tưởng tượng: 
-ảnh hưởng xấu: 
-tương tác: 
-mặt đối mặt: 
-nhận thức, hiểu biết về một sự vật, hành động cụ thể hoặc có kiến thức, kinh nghiệm về một điều gì đó: 
-câu chuyện trước khi đi ngủ: 
-chương: 
-Loạt. thường được sử dụng để mô tả một chuỗi các sự kiện hoặc hiện tượng có liên quan hoặc tuần tự:  
-Dãy núi Alps: 
-người Appalachia: 
-câu chuyện cảm động: 
-sự thật: 
-côn trùng: 
-gần với các cạnh ,sát mép, gần rìa: 
-ban nhạc chơi nhạc trên những chiếc trống được làm từ những thùng chứa dầu bằng kim loại rỗng.: 
-* từ đồ dùng đóng hộp, thực phẩm làm từ lon ...: 
-* sẵn sàng sử dụng hoặc sẵn sàng để hoạt động ngay lập tức. thường ám chỉ đến tính linh hoạt hoặc khả năng làm việc ngay sau khi được mua hoặc nhận: 
-* tư duy đột phá, suy nghĩ khác biệt, nghĩ rộng ra ngoài chiếc hộp. ám chỉ đến việc tìm ra các giải pháp mới, khác biệt và đột phá bằng cách tiếp cận vấn đề từ góc độ không truyền thống: 
+* toàn bộ, nguyên cái. thường chỉ một cái gì đó không bị chia tách hoặc phân chia thành các phần riêng biệt. ám chỉ đến một thực thể, đối tượng hoặc khía cạnh cụ thể của một cái gì đó: .
+* toàn bộ, hoàn toàn, tất cả. thường được sử dụng để nhấn mạnh tính bao phủ hoặc toàn diện của cái gì đó. Nó thường được sử dụng trong các ngữ cảnh trang trọng hoặc hình thức văn viết hơn: .
+thực tế ảo: .
+công nghệ tiến bộ gần đây: .
+thoát, trốn khỏi, vượt ngục: .
+tưởng tượng: .
+ảnh hưởng xấu: .
+tương tác: .
+mặt đối mặt: .
+nhận thức, hiểu biết về một sự vật, hành động cụ thể hoặc có kiến thức, kinh nghiệm về một điều gì đó: .
+câu chuyện trước khi đi ngủ: .
+chương: .
+Loạt. thường được sử dụng để mô tả một chuỗi các sự kiện hoặc hiện tượng có liên quan hoặc tuần tự:  .
+Dãy núi Alps: .
+người Appalachia: .
+câu chuyện cảm động: .
+sự thật: .
+côn trùng: .
+gần với các cạnh ,sát mép, gần rìa: .
+ban nhạc chơi nhạc trên những chiếc trống được làm từ những thùng chứa dầu bằng kim loại rỗng.: .
+* từ đồ dùng đóng hộp, thực phẩm làm từ lon ...: .
+* sẵn sàng sử dụng hoặc sẵn sàng để hoạt động ngay lập tức. thường ám chỉ đến tính linh hoạt hoặc khả năng làm việc ngay sau khi được mua hoặc nhận: .
+* tư duy đột phá, suy nghĩ khác biệt, nghĩ rộng ra ngoài chiếc hộp. ám chỉ đến việc tìm ra các giải pháp mới, khác biệt và đột phá bằng cách tiếp cận vấn đề từ góc độ không truyền thống: .
 1. ra khỏi; 2. công khai, tiết lộ; 3. ra mắt trong xã hội hoặc trên sân khấu: 
 rộng rãi, hào phóng, quảng đại; rộng lượng, khoan hồng : 
 keo kiệt, bủn xỉn: 
@@ -35,8 +35,8 @@ chậm chạp; uể oải, lờ đờ, lờ phờ:
 ăn nói rõ ràng, nhanh nhẹn != ăn nói ú ớ, nói chuyện không rõ ràng: 
 chuyên nghiệp != nghiệp dư, không chuyên nghiệp: 
 có kĩ năng, khéo tay; tài giỏi != không khéo léo, thiếu kĩ năng: 
-béo phì, phệ bụng: 
-am tường; kỹ lưỡng, uyên thâm: 
+béo phì, phệ bụng != ốm yếu: 
+am tường; kỹ lưỡng, uyên thâm != cẩu thả: 
 ân cần, chu đáo; thận trọng; hay quan tâm tới người khác != thiếu ân cần, thiếu chu đáo, thiếu quan tâm: 
 lo lắng; hay sợ: 
 hết lòng, tận tâm, tận tình, tận tuỵ: 
@@ -47,23 +47,26 @@ yếu ớt; non kém; thiếu nghị lực, mềm yếu, nhu nhược; học l�
 nói nhiều: 
 ít nói: 
 tự do: 
-bảo thủ: 
-dịu dàng: 
-duyên dáng: 
-hay lý luận: 
-đúng giờ: 
-hay giúp đỡ: 
+bảo thủ != cấp tiến, tiến tới, người theo chủ nghĩa tiến bộ : 
+Tender != rude /ˈtɛndər != ruːd/ : dịu dàng != thô lỗ
+duyên dáng != vô duyên: 
+hay lý luận, thích tranh cãi hoặc gây gổ != dễ chịu, hòa nhã, thích hòa giải: 
+đúng giờ != hay đến muộn, không đúng giờ: 
+tardiness:
+giúp ích, hữu ích != không hữu ích: 
+bất lực, không được ai giúp đỡ: 
 ốm, gầy gò: 
 chín chắn: 
 ngây ngô, con nít: 
 chu đáo: 
-tốt bụng: 
-hiểu biết, am hiểu, mau hiểu: 
-lôi cuốn, hấp dẫn: 
-hòa nhã, thanh tao, nhã nhặn: 
-thân thiện: 
-tình cảm: 
-nổi tiếng: 
+tốt bụng != không thông cảm, thương xót: 
+am hiểu, mau hiểu, thông cảm != không thông cảm, thương xót: 
+lôi cuốn, hấp dẫn != kém hấp dẫn: 
+hòa nhã, thanh tao, nhã nhặn != thô lỗ: 
+thân thiện != ko thân thiện: 
+tình cảm != vô tâm: 
+nổi tiếng != không được biết đến: 
+khả ố, khét tiếng, ô nhục (danh tiếng xấu vì những lý do tiêu cực): 
 # Describing Adjectives
 # Face: khuôn mặt
 mặt trái xoan: 
@@ -195,6 +198,3 @@ nước mặt thoáng; ngoài khơi:
 người giữ kỷ lục: 
 sự can đảm, sự dũng cảm, dũng khí: 
 biểu diễn kĩ xảo: 
-Một cú sút/đánh bóng xuất chúng độc đáo để thể hiện bản thân hoặc ném một quả bóng không thể thực hiện được : 
-(n) sự di chuyển, sự dời chỗ; sự truyền; sự chuyển cho; (v) dời, chuyển, dọn; (+ to) chuyển tới: 
-đám đông; the crowd: quần chúng; bọn, tụi, lũ, nhóm: 
