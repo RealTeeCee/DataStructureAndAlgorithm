@@ -198,11 +198,3 @@ biểu diễn kĩ xảo:
 Một cú sút/đánh bóng xuất chúng độc đáo để thể hiện bản thân hoặc ném một quả bóng không thể thực hiện được : 
 (n) sự di chuyển, sự dời chỗ; sự truyền; sự chuyển cho; (v) dời, chuyển, dọn; (+ to) chuyển tới: 
 đám đông; the crowd: quần chúng; bọn, tụi, lũ, nhóm: 
-(n) y sĩ; bác sĩ; người cứu thương: 
-(a) (thuộc) y học : 
-tình trạng sức khỏe: 
-nhớ nhà, nhớ quê hương: 
-người nhiều kinh nghiệm hơn; người lớn tuổi; người giữ chức vụ cao và có thẩm quyền.: 
-đội cấp cao: 
-kỷ lục ghi bàn: 
-(n) sự sốc, sự khích động, sự đột xuất; (v) gây sốc, gây kích động, làm chướng tai gai mắt; gây giật điện: 
