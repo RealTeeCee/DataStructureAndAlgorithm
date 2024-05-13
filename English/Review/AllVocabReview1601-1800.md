@@ -105,7 +105,7 @@ tóc hư tổn:
 phát triển, lớn lên, nẩy mầm, mọc lên: 
 tai nghe ảo: 
 nhà tâm lý học: 
-(+ in) tham dự, tham gia vào: 
+(+ in) tham dự, tham gia vào = take part in: 
 người tham gia: 
 tính không chắc chắn: 
 ác công ty tên tuổi: 
