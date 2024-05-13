@@ -1606,7 +1606,7 @@ escape /ɪˈskeɪp/: thoát, trốn khỏi, vượt ngục
 imaginary /ɪˈmædʒəˌnɛri/: tưởng tượng
 negative effect /ˈnɛɡət̮ɪv ɪˈfɛkt/: ảnh hưởng xấu
 interact /ˌɪntərˈækt/: tương tác
-face to face //: đối mặt
+face to face //: mặt đối mặt
 be aware of // : nhận thức, hiểu biết về một sự vật, hành động cụ thể hoặc có kiến thức, kinh nghiệm về một điều gì đó.
 bedtime story /ˈbedtaɪm ˈstɔri/: câu chuyện trước khi đi ngủ
 chapter /ˈtʃæptər/: chương
