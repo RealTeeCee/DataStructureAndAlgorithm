@@ -1627,7 +1627,7 @@ stingy /'stindʤi/: keo kiệt, bủn xỉn
 experienced != inexperienced /iks'piəriənst/: giàu kinh nghiệm, từng trải, lão luyện != thiếu kinh nghiệm
 powerful != powerless /'pauəful/: quyền lực; hùng mạnh != bất lực; không có sức mạnh
 intellectual != unintellectual /,intə'lektjuəl/: có học thức; tài trí; (thuộc) trí óc != không có trí tuệ
-thoughtful != thoughtless /'θɔ:tful/: ngẫm nghĩ, hay trầm tư, suy tư; sâu sắc, thâm trầm != không suy nghĩ, thiếu suy nghĩ
+thoughtful != thoughtless /'θɔ:tful ˈθɔ:tləs/: ngẫm nghĩ, hay trầm tư, suy tư; sâu sắc, thâm trầm != không suy nghĩ, thiếu suy nghĩ
 flexible != inflexible /flexible/: linh động, linh hoạt; dẻo, mềm dẻo, dễ uốn nắn != không linh hoạt
 patient != impatient: kiên nhẫn, kiên trì != không kiên trì, thiếu kiên nhẫn
 swift != sluggish / slow /swift/: nhanh nhẹn, mau
@@ -1637,8 +1637,8 @@ professional != unprofessional /professional/: chuyên nghiệp != nghiệp dư
 skillful != unskillful /ˈskilfəl/: có kĩ năng, khéo tay; tài giỏi != không khéo léo, thiếu kĩ năng
 obese != skinny /ou'bi:s/: béo phì, phệ bụng != ốm yếu
 thorough != careless /ˈTHərō/: am tường; kỹ lưỡng, uyên thâm != cẩu thả
-considerate != inconsiderate //: ân cần, chu đáo; thận trọng; hay quan tâm tới người khác != thiếu ân cần, thiếu chu đáo, thiếu quan tâm
-nervous != calm /ˈnərvəs/: lo lắng; hay sợ
+considerate != inconsiderate /kənˈsɪd.ɚ.ət != ˌɪn.kənˈsɪd.ər.ət/: ân cần, chu đáo; thận trọng; hay quan tâm tới người khác != thiếu ân cần, thiếu chu đáo, thiếu quan tâm
+nervous != calm /ˈnərvəs != kɑːm/: lo lắng; hay sợ != bình tĩnh
 devoted != heartless /di'voutid/: hết lòng, tận tâm, tận tình, tận tuỵ
 easygoing != strict /ˌēzēˈɡōiNG/: dễ tính, dễ dãi != nghiêm khắc
 strong != frail / weak /strôNG/: mạnh mẽ

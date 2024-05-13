@@ -38,7 +38,7 @@ có kĩ năng, khéo tay; tài giỏi != không khéo léo, thiếu kĩ năn
 béo phì, phệ bụng != ốm yếu: 
 am tường; kỹ lưỡng, uyên thâm != cẩu thả: 
 ân cần, chu đáo; thận trọng; hay quan tâm tới người khác != thiếu ân cần, thiếu chu đáo, thiếu quan tâm: 
-lo lắng; hay sợ: 
+lo lắng; hay sợ != bình tĩnh: 
 hết lòng, tận tâm, tận tình, tận tuỵ: 
 dễ tính, dễ dãi != nghiêm khắc: 
 mạnh mẽ: 
