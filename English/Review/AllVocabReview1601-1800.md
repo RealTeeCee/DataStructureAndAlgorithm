@@ -48,11 +48,11 @@ nói nhiều:
 ít nói: 
 tự do: 
 bảo thủ != cấp tiến, tiến tới, người theo chủ nghĩa tiến bộ: 
-Tender != rude /ˈtɛndər != ruːd/ : dịu dàng != thô lỗ
+dịu dàng != thô lỗ: 
 duyên dáng != vô duyên: 
 hay lý luận, thích tranh cãi hoặc gây gổ != dễ chịu, hòa nhã, thích hòa giải: 
 đúng giờ != hay đến muộn, không đúng giờ: 
-tardiness:
+sự chậm trễ, sự trễ nãi: 
 giúp ích, hữu ích != không hữu ích: 
 bất lực, không được ai giúp đỡ: 
 ốm, gầy gò: 

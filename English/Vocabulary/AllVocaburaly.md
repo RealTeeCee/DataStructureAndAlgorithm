@@ -1652,7 +1652,7 @@ Tender != rude /ˈtɛndər != ruːd/ : dịu dàng != thô lỗ
 Graceful != graceless/ˈɡreɪsfl != ˈɡreɪs.ləs/: duyên dáng != vô duyên
 Argumentative != agreeable /ˌɑrɡyəˈmɛntət̮ɪv != əˈɡriː.ə.bəl/: hay lý luận, thích tranh cãi hoặc gây gổ != dễ chịu, hòa nhã, thích hòa giải
 Punctual != tardy /ˈpʌŋktʃuəl != ˈtɑːr.di/: đúng giờ != hay đến muộn, không đúng giờ
-tardiness:
+tardiness /ˈtɑːr.di.nəs/: sự chậm trễ, sự trễ nãi
 Helpful != unhelpful /ˈhɛlpfl != unˈhɛlpfl/: giúp ích, hữu ích != không hữu ích
 helpless /ˈhelp.ləs/: bất lực, không được ai giúp đỡ
 Skinny /ˈskɪni/: ốm, gầy gò
