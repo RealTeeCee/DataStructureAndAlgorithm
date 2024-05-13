@@ -1602,7 +1602,7 @@ get hyper off of //: thoát khỏi cơn cuồng nhiệt ...
 * entire /ɪnˈtaɪr/: toàn bộ, hoàn toàn, tất cả. thường được sử dụng để nhấn mạnh tính bao phủ hoặc toàn diện của cái gì đó. Nó thường được sử dụng trong các ngữ cảnh trang trọng hoặc hình thức văn viết hơn "whole". Ex: The entire city was affected by the blackout (Toàn bộ thành phố bị ảnh hưởng bởi cúp điện)
 virtual reality (V.R) /ˈvərtʃuəl riˈælət̮i/: thực tế ảo
 recent advancement technology /ˈrisnt ədˈvænsmən tɛkˈnɑlədʒi/: công nghệ tiến bộ gần đây
-escape /ɪˈskeɪp/: trốn, trốn khỏi, vượt ngục
+escape /ɪˈskeɪp/: thoát, trốn khỏi, vượt ngục
 imaginary /ɪˈmædʒəˌnɛri/: tưởng tượng
 negative effect /ˈnɛɡət̮ɪv ɪˈfɛkt/: ảnh hưởng xấu
 interact /ˌɪntərˈækt/: tương tác
