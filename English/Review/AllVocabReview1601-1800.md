@@ -114,7 +114,8 @@ lớn hơn (tuổi):
 người cao tuổi: 
 tuổi già: 
 sự ốm yếu bệnh tật: 
-lạ, đẹp và ấn tượng: 
+(n) sự kinh ngạc, điều kỳ diệu (v) tự hỏi, thắc mắc: 
+tuyệt vời, đẹp một cách ấn tượng (cảm giác ngạc nhiên hoặc thích thú về cái đẹp): 
 ngắm chim: 
 hương vị: 
 huấn luyện viên karate: 

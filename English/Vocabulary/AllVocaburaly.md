@@ -1714,7 +1714,8 @@ elder /ˈɛldər/: lớn hơn (tuổi)
 elderly people //: người cao tuổi
 aging /eɪdʒɪŋ/: tuổi già
 illnesses /ˈɪlnəs/: sự ốm yếu bệnh tật
-wondrous /ˈwʌndrəs/: lạ, đẹp và ấn tượng
+wonder /ˈwəndər/: (n) sự kinh ngạc, điều kỳ diệu (v) tự hỏi, thắc mắc. Ex: I wonder why .. (Tự hỏi tại sao..)
+wondrous /ˈwʌndrəs/: tuyệt vời, đẹp một cách ấn tượng (cảm giác ngạc nhiên hoặc thích thú về cái đẹp) 
 birdwatching // : ngắm chim
 flavour /ˈfleɪvər/: hương vị
 karate instructor /kəˈrɑt̮i ɪnˈstrʌktər/: huấn luyện viên karate
