@@ -18,7 +18,9 @@ sự thật:
 côn trùng: 
 gần với các cạnh ,sát mép, gần rìa: 
 ban nhạc chơi nhạc trên những chiếc trống được làm từ những thùng chứa dầu bằng kim loại rỗng.: 
-Ra khỏi ...: 
+* từ đồ dùng đóng hộp, thực phẩm làm từ lon ...: 
+* sẵn sàng sử dụng hoặc sẵn sàng để hoạt động ngay lập tức. thường ám chỉ đến tính linh hoạt hoặc khả năng làm việc ngay sau khi được mua hoặc nhận: 
+* tư duy đột phá, suy nghĩ khác biệt, nghĩ rộng ra ngoài chiếc hộp. ám chỉ đến việc tìm ra các giải pháp mới, khác biệt và đột phá bằng cách tiếp cận vấn đề từ góc độ không truyền thống: 
 1. ra khỏi; 2. công khai, tiết lộ; 3. ra mắt trong xã hội hoặc trên sân khấu: 
 rộng rãi, hào phóng, quảng đại; rộng lượng, khoan hồng : 
 keo kiệt, bủn xỉn: 
@@ -169,7 +171,7 @@ thân hình cường tráng, tráng kiện:
 vóc dáng, vóc người: 
 vóc dáng cao lớn: 
 vô giá: 
-ón quà vô giá: 
+món quà vô giá: 
 sự kỷ luật: 
 nghệ nhân, thợ thủ công; người lành nghề, người khéo léo, người có kỹ xảo, người điêu luyện: 
 nghệ nhân bậc thầy: 

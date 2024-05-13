@@ -1618,7 +1618,9 @@ facts /fækt/: sự thật
 insect /ˈɪnsɛkt/: côn trùng
 close to the edge of /ɛdʒ/: gần với các cạnh ,sát mép, gần rìa
 steel band //: ban nhạc chơi nhạc trên những chiếc trống được làm từ những thùng chứa dầu bằng kim loại rỗng.
-out of a can //: Ra khỏi ...
+* out of a can //: từ đồ dùng đóng hộp, thực phẩm làm từ lon ... Ex:  I usually eat baked beans out of a can when I'm camping (Thường tôi ăn đậu nành nướng từ lon khi đi cắm trại). She prefers to drink soda out of a can rather than from a bottle (Cô ấy thích uống nước ngọt từ lon hơn là từ chai).
+* out of the box //: sẵn sàng sử dụng hoặc sẵn sàng để hoạt động ngay lập tức. thường ám chỉ đến tính linh hoạt hoặc khả năng làm việc ngay sau khi được mua hoặc nhận. Ex: The new software comes with many useful features right out of the box (Phần mềm mới đi kèm với nhiều tính năng hữu ích sẵn sàng để hoạt động ngay lập tức). Our new printer was easy to set up and use right out of the box (Máy in mới của chúng tôi rất dễ cài đặt và sẵn sàng sử dụng ngay).
+* out side the box //: tư duy đột phá, suy nghĩ khác biệt, nghĩ rộng ra ngoài chiếc hộp. ám chỉ đến việc tìm ra các giải pháp mới, khác biệt và đột phá bằng cách tiếp cận vấn đề từ góc độ không truyền thống. Ex: We need to think outside the box if we want to come up with innovative solutions to this problem (Chúng ta cần phải suy nghĩ sáng tạo nếu muốn đưa ra các giải pháp đổi mới cho vấn đề này). His outside-the-box approach to marketing really helped the company stand out from the competition (Cách tiếp cận ngoài ý thức của anh ấy trong lĩnh vực tiếp thị thực sự giúp công ty nổi bật so với đối thủ)
 come out //: 1. ra khỏi; 2. công khai, tiết lộ; 3. ra mắt trong xã hội hoặc trên sân khấu
 generous != stingy /'dʤenərəs/: rộng rãi, hào phóng, quảng đại; rộng lượng, khoan hồng 
 stingy /'stindʤi/: keo kiệt, bủn xỉn
@@ -1769,7 +1771,7 @@ robust physique /rə'bʌst fi'zi:k/: thân hình cường tráng, tráng kiê�
 stature /'stætʃə/: vóc dáng, vóc người
 tall stature /tɔ:l 'stætʃə/: vóc dáng cao lớn
 invaluable /in'væljuəbl/: vô giá
-invaluable gift /in'væljuəbl gift/:món quà vô giá
+invaluable gift /in'væljuəbl gift/: món quà vô giá
 discipline /ˈdisəplən/: sự kỷ luật
 craftsman /'krɑ:ftsmən/: nghệ nhân, thợ thủ công; người lành nghề, người khéo léo, người có kỹ xảo, người điêu luyện
 master craftsman /'mɑ:stə 'krɑ:ftsmən/: nghệ nhân bậc thầy
