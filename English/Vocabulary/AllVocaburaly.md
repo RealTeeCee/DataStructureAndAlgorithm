@@ -1730,9 +1730,9 @@ recognised /ˈrɛkəɡˌnaɪz/: được công nhận
 adopt /ə'dɔpt/: nhận làm con nuôi; nhận làm bố mẹ nuôi; chấp nhận và thực hiện
 adopt into //: áp dụng vào
 budget /ˈbəjət/: ngân sách
-budgeting book //: sổ theo dõi dự toán
-leftover /ˈleftˌōvər/: (n) phần thừa lại; phần còn lại; (a) thừa lại; còn thừa; còn lại
-leftovers /ˈleftˌōvərs/: (số nhiều) thức ăn thừa
+budgeting book /ˈbʌdʒɪtɪŋ bʊk/: sổ theo dõi dự toán
+* leftover /ˈleftˌōvər/: (n) phần thừa lại; phần còn lại; (a) thừa lại; còn thừa; còn lại. phần còn lại hoặc một món đồ cụ thể sau khi một phần của nó đã được sử dụng hoặc tiêu thụ. Ex: After the garage sale, there were a lot of leftover items (Sau buổi giảm giá hàng trong nhà, có rất nhiều hàng hóa còn thừa lại)
+* leftovers /ˈleftˌōvərs/: (số nhiều) thức ăn thừa. Ex: We always have leftovers after Thanksgiving dinner (Chúng tôi luôn có thức ăn còn thừa lại sau bữa tối lễ Tạ Ơn).
 mankind /mæn'kaind/: loài người, nhân loại
 fantasy /'fæntəsi/: (n) khả năng tưởng tượng; hình ảnh tưởng tượng; sự huyền ảo
 warrior /'wɔriə/: chiến binh; chiến sĩ, quân nhân

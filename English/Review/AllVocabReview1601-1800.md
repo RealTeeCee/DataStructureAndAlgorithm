@@ -131,8 +131,8 @@ nhận làm con nuôi; nhận làm bố mẹ nuôi; chấp nhận và thực hi�
 áp dụng vào: 
 ngân sách: 
 sổ theo dõi dự toán: 
-(n) phần thừa lại; phần còn lại; (a) thừa lại; còn thừa; còn lại: 
-(số nhiều) thức ăn thừa: 
+* (n) phần thừa lại; phần còn lại; (a) thừa lại; còn thừa; còn lại. phần còn lại hoặc một món đồ cụ thể sau khi một phần của nó đã được sử dụng hoặc tiêu thụ: 
+* (số nhiều) thức ăn thừa: 
 loài người, nhân loại: 
 (n) khả năng tưởng tượng; hình ảnh tưởng tượng; sự huyền ảo: 
 chiến binh; chiến sĩ, quân nhân: 
@@ -198,4 +198,3 @@ người làm việc/nghề tự do:
 nước mặt thoáng; ngoài khơi: 
 người giữ kỷ lục: 
 sự can đảm, sự dũng cảm, dũng khí: 
-biểu diễn kĩ xảo: 
