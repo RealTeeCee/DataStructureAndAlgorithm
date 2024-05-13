@@ -27,7 +27,7 @@ keo kiệt, bủn xỉn:
 giàu kinh nghiệm, từng trải, lão luyện != thiếu kinh nghiệm: 
 quyền lực; hùng mạnh != bất lực; không có sức mạnh: 
 có học thức; tài trí; (thuộc) trí óc != không có trí tuệ: 
-ngẫm nghĩ, hay trầm tư, suy tư; sâu sắc, thâm trầm: 
+ngẫm nghĩ, hay trầm tư, suy tư; sâu sắc, thâm trầm != không suy nghĩ, thiếu suy nghĩ: 
 linh động, linh hoạt; dẻo, mềm dẻo, dễ uốn nắn != không linh hoạt: 
 kiên nhẫn, kiên trì != không kiên trì, thiếu kiên nhẫn: 
 nhanh nhẹn, mau: 

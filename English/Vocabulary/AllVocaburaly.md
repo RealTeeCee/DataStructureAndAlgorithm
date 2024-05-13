@@ -1627,7 +1627,7 @@ stingy /'stindʤi/: keo kiệt, bủn xỉn
 experienced != inexperienced /iks'piəriənst/: giàu kinh nghiệm, từng trải, lão luyện != thiếu kinh nghiệm
 powerful != powerless /'pauəful/: quyền lực; hùng mạnh != bất lực; không có sức mạnh
 intellectual != unintellectual /,intə'lektjuəl/: có học thức; tài trí; (thuộc) trí óc != không có trí tuệ
-thoughtful != thoughtless /'θɔ:tful/: ngẫm nghĩ, hay trầm tư, suy tư; sâu sắc, thâm trầm
+thoughtful != thoughtless /'θɔ:tful/: ngẫm nghĩ, hay trầm tư, suy tư; sâu sắc, thâm trầm != không suy nghĩ, thiếu suy nghĩ
 flexible != inflexible /flexible/: linh động, linh hoạt; dẻo, mềm dẻo, dễ uốn nắn != không linh hoạt
 patient != impatient: kiên nhẫn, kiên trì != không kiên trì, thiếu kiên nhẫn
 swift != sluggish / slow /swift/: nhanh nhẹn, mau
