@@ -120,7 +120,7 @@ ngắm chim:
 hương vị: 
 huấn luyện viên karate: 
 bài học đấm bốc (một dạng đấm bốc có thể đá): 
-hàng đầu: 
+chất lượng hàng đầu, hiệu suất tốt nhất: 
 xa hơn: 
 bắt nạt: 
 mỡ thừa: 

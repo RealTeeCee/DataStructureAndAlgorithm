@@ -1720,7 +1720,7 @@ birdwatching // : ngắm chim
 flavour /ˈfleɪvər/: hương vị
 karate instructor /kəˈrɑt̮i ɪnˈstrʌktər/: huấn luyện viên karate
 kickboxing lesson: bài học đấm bốc (một dạng đấm bốc có thể đá)
-top-of-the-line //: hàng đầu
+top-of-the-line /ˌtɒp.əv.ðəˈlaɪn/: chất lượng hàng đầu, hiệu suất tốt nhất. Ex: This car is top-of-the-line in terms of performance and luxury (Chiếc xe này là hàng đầu về hiệu suất và sang trọng)
 further than //: xa hơn
 bully  /ˈbʊli/: bắt nạt
 excess fat /ɪkˈsɛs fæt/: mỡ thừa
