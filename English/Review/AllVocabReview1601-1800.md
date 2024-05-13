@@ -108,7 +108,7 @@ nhà tâm lý học:
 (+ in) tham dự, tham gia vào = take part in: 
 người tham gia: 
 tính không chắc chắn: 
-ác công ty tên tuổi: 
+các công ty tên tuổi: 
 rối loạn căng thẳng: 
 lớn hơn (tuổi): 
 người cao tuổi: 
