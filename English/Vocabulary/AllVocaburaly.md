@@ -1705,7 +1705,7 @@ damaged /'dæmidʤ/: tóc hư tổn
 grow /ɡroʊ/: phát triển, lớn lên, nẩy mầm, mọc lên
 virtual headset //: tai nghe ảo
 psychologist /saɪˈkɑlədʒɪst/: nhà tâm lý học
-participate /pɑrˈtɪsəˌpeɪt/: (+ in) tham dự, tham gia vào
+participate /pɑrˈtɪsəˌpeɪt/: (+ in) tham dự, tham gia vào = take part in
 participant /pɑrˈtɪsəpənt/: người tham gia
 uncertainty: tính không chắc chắn
 big-name companies //:các công ty tên tuổi
