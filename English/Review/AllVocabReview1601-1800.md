@@ -6,11 +6,11 @@ thoát, trốn khỏi, vượt ngục:
 tưởng tượng: 
 ảnh hưởng xấu: 
 tương tác: 
-đối mặt: 
+mặt đối mặt: 
 nhận thức, hiểu biết về một sự vật, hành động cụ thể hoặc có kiến thức, kinh nghiệm về một điều gì đó: 
 câu chuyện trước khi đi ngủ: 
 chương: 
-Loạt: 
+Loạt. thường được sử dụng để mô tả một chuỗi các sự kiện hoặc hiện tượng có liên quan hoặc tuần tự:  
 Dãy núi Alps: 
 người Appalachia: 
 câu chuyện cảm động: 

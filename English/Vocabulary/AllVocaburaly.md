@@ -1610,9 +1610,9 @@ face to face //: mặt đối mặt
 be aware of // : nhận thức, hiểu biết về một sự vật, hành động cụ thể hoặc có kiến thức, kinh nghiệm về một điều gì đó.
 bedtime story /ˈbedtaɪm ˈstɔri/: câu chuyện trước khi đi ngủ
 chapter /ˈtʃæptər/: chương
-series of /ˈsɪriz/: Loạt
-Alps / /: Dãy núi Alps
-Appalachians //: người Appalachia
+series of /ˈsɪriz/: Loạt. thường được sử dụng để mô tả một chuỗi các sự kiện hoặc hiện tượng có liên quan hoặc tuần tự. Ex: She watched a series of movies over the weekend (Cô ấy đã xem một loạt các bộ phim vào cuối tuần). The detective uncovered a series of clues leading to the identity of the suspect (Thám tử đã phát hiện ra một loạt các manh mối dẫn đến danh tính của nghi phạm). The company launched a series of new products this year (Công ty đã tung ra một loạt các sản phẩm mới trong năm nay).
+Alps /ælps/: Dãy núi Alps
+Appalachians /ˌæp.əˈleɪ.tʃən/: người Appalachia
 heartwarming story /ˈhɑrtˌwɔrmɪŋ/ : câu chuyện cảm động
 facts /fækt/: sự thật
 insect /ˈɪnsɛkt/: côn trùng
