@@ -1639,7 +1639,7 @@ obese != skinny /ou'bi:s/: béo phì, phệ bụng != ốm yếu
 thorough != careless /ˈTHərō/: am tường; kỹ lưỡng, uyên thâm != cẩu thả
 considerate != inconsiderate /kənˈsɪd.ɚ.ət != ˌɪn.kənˈsɪd.ər.ət/: ân cần, chu đáo; thận trọng; hay quan tâm tới người khác != thiếu ân cần, thiếu chu đáo, thiếu quan tâm
 nervous != calm /ˈnərvəs != kɑːm/: lo lắng; hay sợ != bình tĩnh
-devoted != heartless /di'voutid/: hết lòng, tận tâm, tận tình, tận tuỵ
+devoted != indifferent /di'voutid != ɪnˈdɪf.ɚ.ənt/: hết lòng, tận tâm, tận tình, tận tuỵ != vô tư, thờ ơ
 easygoing != strict /ˌēzēˈɡōiNG/: dễ tính, dễ dãi != nghiêm khắc
 strong != frail / weak /strôNG/: mạnh mẽ
 frail /freil/: yếu đuối, ẻo lả; dễ vỡ; mỏng mảnh (không dùng cho trình độ)
