@@ -39,7 +39,7 @@ béo phì, phệ bụng != ốm yếu:
 am tường; kỹ lưỡng, uyên thâm != cẩu thả: 
 ân cần, chu đáo; thận trọng; hay quan tâm tới người khác != thiếu ân cần, thiếu chu đáo, thiếu quan tâm: 
 lo lắng; hay sợ != bình tĩnh: 
-hết lòng, tận tâm, tận tình, tận tuỵ: 
+hết lòng, tận tâm, tận tình, tận tuỵ != vô tư, thờ ơ: 
 dễ tính, dễ dãi != nghiêm khắc: 
 mạnh mẽ: 
 yếu đuối, ẻo lả; dễ vỡ; mỏng mảnh (không dùng cho trình độ): 
