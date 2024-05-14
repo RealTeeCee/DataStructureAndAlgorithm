@@ -1,68 +1,68 @@
-* toàn bộ, nguyên cái. thường chỉ một cái gì đó không bị chia tách hoặc phân chia thành các phần riêng biệt. ám chỉ đến một thực thể, đối tượng hoặc khía cạnh cụ thể của một cái gì đó: 
-* toàn bộ, hoàn toàn, tất cả. thường được sử dụng để nhấn mạnh tính bao phủ hoặc toàn diện của cái gì đó. Nó thường được sử dụng trong các ngữ cảnh trang trọng hoặc hình thức văn viết hơn: 
-thực tế ảo: 
-công nghệ tiến bộ gần đây: 
-thoát, trốn khỏi, vượt ngục: 
-tưởng tượng: 
-ảnh hưởng xấu: 
-tương tác: 
-mặt đối mặt: 
-nhận thức, hiểu biết về một sự vật, hành động cụ thể hoặc có kiến thức, kinh nghiệm về một điều gì đó: 
-câu chuyện trước khi đi ngủ: 
-chương: 
-Loạt. thường được sử dụng để mô tả một chuỗi các sự kiện hoặc hiện tượng có liên quan hoặc tuần tự:  
-Dãy núi Alps: 
-người Appalachia: 
-câu chuyện cảm động: 
-sự thật: 
-côn trùng: 
-gần với các cạnh ,sát mép, gần rìa: 
-ban nhạc chơi nhạc trên những chiếc trống được làm từ những thùng chứa dầu bằng kim loại rỗng: 
-* từ đồ dùng đóng hộp, thực phẩm làm từ lon ...: 
-* sẵn sàng sử dụng hoặc sẵn sàng để hoạt động ngay lập tức. thường ám chỉ đến tính linh hoạt hoặc khả năng làm việc ngay sau khi được mua hoặc nhận: 
-* tư duy đột phá, suy nghĩ khác biệt, nghĩ rộng ra ngoài chiếc hộp. ám chỉ đến việc tìm ra các giải pháp mới, khác biệt và đột phá bằng cách tiếp cận vấn đề từ góc độ không truyền thống: 
-1. ra khỏi; 2. công khai, tiết lộ; 3. ra mắt trong xã hội hoặc trên sân khấu: 
-rộng rãi, hào phóng, quảng đại; rộng lượng, khoan hồng: 
-keo kiệt, bủn xỉn: 
-giàu kinh nghiệm, từng trải, lão luyện != thiếu kinh nghiệm: 
-quyền lực; hùng mạnh != bất lực; không có sức mạnh: 
-có học thức; tài trí; (thuộc) trí óc != không có trí tuệ: 
-ngẫm nghĩ, hay trầm tư, suy tư; sâu sắc, thâm trầm != không suy nghĩ, thiếu suy nghĩ: 
-linh động, linh hoạt; dẻo, mềm dẻo, dễ uốn nắn != không linh hoạt: 
-kiên nhẫn, kiên trì != không kiên trì, thiếu kiên nhẫn: 
-nhanh nhẹn, mau: 
-chậm chạp; uể oải, lờ đờ, lờ phờ: 
-ăn nói rõ ràng, nhanh nhẹn != ăn nói ú ớ, nói chuyện không rõ ràng: 
-chuyên nghiệp != nghiệp dư, không chuyên nghiệp: 
-có kĩ năng, khéo tay; tài giỏi != không khéo léo, thiếu kĩ năng: 
-béo phì, phệ bụng != ốm yếu: 
-am tường; kỹ lưỡng, uyên thâm != cẩu thả: 
-ân cần, chu đáo; thận trọng; hay quan tâm tới người khác != thiếu ân cần, thiếu chu đáo, thiếu quan tâm: 
-lo lắng; hay sợ != bình tĩnh: 
-hết lòng, tận tâm, tận tình, tận tuỵ != vô tư, thờ ơ: 
-dễ tính, dễ dãi != nghiêm khắc: 
-mạnh mẽ: 
-yếu đuối, ẻo lả; dễ vỡ; mỏng mảnh (không dùng cho trình độ): 
-yếu ớt; non kém; thiếu nghị lực, mềm yếu, nhu nhược; học lực yếu: 
-nói nhiều: 
-ít nói: 
-tự do: 
-bảo thủ != cấp tiến, tiến tới, người theo chủ nghĩa tiến bộ: 
-dịu dàng != thô lỗ: 
-duyên dáng != vô duyên: 
-hay lý luận, thích tranh cãi hoặc gây gổ != dễ chịu, hòa nhã, thích hòa giải: 
-đúng giờ != hay đến muộn, không đúng giờ: 
-sự chậm trễ, sự trễ nãi: 
-giúp ích, hữu ích != không hữu ích: 
-bất lực, không được ai giúp đỡ: 
-ốm, gầy gò: 
-chín chắn: 
-ngây ngô, con nít: 
-chu đáo: 
-tốt bụng != không thông cảm, thương xót: 
-am hiểu, mau hiểu, thông cảm != không thông cảm, thương xót: 
-lôi cuốn, hấp dẫn != kém hấp dẫn: 
-hòa nhã, thanh tao, nhã nhặn != thô lỗ: 
+* toàn bộ, nguyên cái. thường chỉ một cái gì đó không bị chia tách hoặc phân chia thành các phần riêng biệt. ám chỉ đến một thực thể, đối tượng hoặc khía cạnh cụ thể của một cái gì đó: whole
+* toàn bộ, hoàn toàn, tất cả. thường được sử dụng để nhấn mạnh tính bao phủ hoặc toàn diện của cái gì đó. Nó thường được sử dụng trong các ngữ cảnh trang trọng hoặc hình thức văn viết hơn: entire
+thực tế ảo: virtual reality
+công nghệ tiến bộ gần đây: recent advancement technology
+thoát, trốn khỏi, vượt ngục: escape
+tưởng tượng: imaginary
+ảnh hưởng xấu: negative effect
+tương tác: interact
+mặt đối mặt: face to face
+nhận thức, hiểu biết về một sự vật, hành động cụ thể hoặc có kiến thức, kinh nghiệm về một điều gì đó: be aware of
+câu chuyện trước khi đi ngủ: bedtime story
+chương: chapter
+Loạt. thường được sử dụng để mô tả một chuỗi các sự kiện hoặc hiện tượng có liên quan hoặc tuần tự:  series of
+Dãy núi Alps: Alps
+người Appalachia: Appalachian
+câu chuyện cảm động: heartwarming story
+sự thật: fact
+côn trùng: insect
+gần với các cạnh ,sát mép, gần rìa: close to the edge of
+ban nhạc chơi nhạc trên những chiếc trống được làm từ những thùng chứa dầu bằng kim loại rỗng: steel band
+* từ đồ dùng đóng hộp, thực phẩm làm từ lon ...: out of a can
+* sẵn sàng sử dụng hoặc sẵn sàng để hoạt động ngay lập tức. thường ám chỉ đến tính linh hoạt hoặc khả năng làm việc ngay sau khi được mua hoặc nhận: out of a box
+* tư duy đột phá, suy nghĩ khác biệt, nghĩ rộng ra ngoài chiếc hộp. ám chỉ đến việc tìm ra các giải pháp mới, khác biệt và đột phá bằng cách tiếp cận vấn đề từ góc độ không truyền thống: outside the box
+1. ra khỏi; 2. công khai, tiết lộ; 3. ra mắt trong xã hội hoặc trên sân khấu: come out
+rộng rãi, hào phóng, quảng đại; rộng lượng, khoan hồng: generous
+keo kiệt, bủn xỉn: stingy
+giàu kinh nghiệm, từng trải, lão luyện != thiếu kinh nghiệm: experienced != inexperienced
+quyền lực; hùng mạnh != bất lực; không có sức mạnh: powerful != powerless
+có học thức; tài trí; (thuộc) trí óc != không có trí tuệ: intellectual != unintellectual
+ngẫm nghĩ, hay trầm tư, suy tư; sâu sắc, thâm trầm != không suy nghĩ, thiếu suy nghĩ: thoughtful != thoughtless
+linh động, linh hoạt; dẻo, mềm dẻo, dễ uốn nắn != không linh hoạt: flexible != inflexible
+kiên nhẫn, kiên trì != không kiên trì, thiếu kiên nhẫn: patient != impatient
+nhanh nhẹn, mau: swift
+chậm chạp; uể oải, lờ đờ, lờ phờ: sluggish
+ăn nói rõ ràng, nhanh nhẹn != ăn nói ú ớ, nói chuyện không rõ ràng: articulate
+chuyên nghiệp != nghiệp dư, không chuyên nghiệp: professional != unprofessional
+có kĩ năng, khéo tay; tài giỏi != không khéo léo, thiếu kĩ năng: skillful != unskillful
+béo phì, phệ bụng != ốm yếu: obese != skinny
+am tường; kỹ lưỡng, uyên thâm != cẩu thả: thorough != careless
+ân cần, chu đáo; thận trọng; hay quan tâm tới người khác != thiếu ân cần, thiếu chu đáo, thiếu quan tâm: considerate != inconsiderate
+lo lắng; hay sợ != bình tĩnh: nervous != calm
+hết lòng, tận tâm, tận tình, tận tuỵ != vô tư, thờ ơ: devoted != indifferent
+dễ tính, dễ dãi != nghiêm khắc: easygoing != strict
+mạnh mẽ: strong
+yếu đuối, ẻo lả; dễ vỡ; mỏng mảnh (không dùng cho trình độ): frail
+yếu ớt; non kém; thiếu nghị lực, mềm yếu, nhu nhược; học lực yếu: weak
+nói nhiều: talkative
+ít nói: quiet
+tự do: liberal
+bảo thủ != cấp tiến, tiến tới, người theo chủ nghĩa tiến bộ: conservative != progressive
+dịu dàng != thô lỗ: tender != rude
+duyên dáng != vô duyên: graceful != graceless
+hay lý luận, thích tranh cãi hoặc gây gổ != dễ chịu, hòa nhã, thích hòa giải: argumentative != agreeable
+đúng giờ != hay đến muộn, không đúng giờ: punctual != tardy
+sự chậm trễ, sự trễ nãi: tardiness
+giúp ích, hữu ích != không hữu ích: helpful != unhelpful
+bất lực, không được ai giúp đỡ: helpless
+ốm, gầy gò: skinny
+chín chắn: mature
+ngây ngô, con nít: immature
+chu đáo: caring
+tốt bụng != không thông cảm, thương xót: kind-hearted != unsympathetic = unkind
+am hiểu, mau hiểu, thông cảm != không thông cảm, thương xót: understanding != unsympathetic
+lôi cuốn, hấp dẫn != kém hấp dẫn: attractive != unattractive
+hòa nhã, thanh tao, nhã nhặn != thô lỗ: gracious != rude
 thân thiện != ko thân thiện: 
 tình cảm != vô tâm: 
 nổi tiếng != không được biết đến: 
@@ -194,7 +194,7 @@ trưng bày:
 (a) tính nhất quán, kiên định, trước sau như một; tính rắn chắc; đặc (ruột): 
 Phù hợp với, nhất quán với. thường được dùng trong các ngữ cảnh chuyên nghiệp, học thuật hoặc kỹ thuật để chỉ ra rằng các yếu tố hoặc dữ liệu không mâu thuẫn và khớp với nhau: 
 (thuộc) bắt đầu, khởi đầu: 
-ở xa, ở phía bên kia; cao, xa hơn nữa: 
+vượt ra khỏi, ở xa, ở phía bên kia; cao, xa hơn nữa: 
 luôn nỗ lực hết mình: 
 sự cam kết; lời giao kết; sự bảo chứng: 
 (n) sự trông cậy (a) reliable: thuộc tin cậy: 

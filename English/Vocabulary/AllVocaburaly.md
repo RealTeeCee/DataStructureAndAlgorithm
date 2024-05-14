@@ -1620,7 +1620,7 @@ close to the edge of /ɛdʒ/: gần với các cạnh ,sát mép, gần rìa
 steel band //: ban nhạc chơi nhạc trên những chiếc trống được làm từ những thùng chứa dầu bằng kim loại rỗng.
 * out of a can //: từ đồ dùng đóng hộp, thực phẩm làm từ lon ... Ex:  I usually eat baked beans out of a can when I'm camping (Thường tôi ăn đậu nành nướng từ lon khi đi cắm trại). She prefers to drink soda out of a can rather than from a bottle (Cô ấy thích uống nước ngọt từ lon hơn là từ chai).
 * out of the box //: sẵn sàng sử dụng hoặc sẵn sàng để hoạt động ngay lập tức. thường ám chỉ đến tính linh hoạt hoặc khả năng làm việc ngay sau khi được mua hoặc nhận. Ex: The new software comes with many useful features right out of the box (Phần mềm mới đi kèm với nhiều tính năng hữu ích sẵn sàng để hoạt động ngay lập tức). Our new printer was easy to set up and use right out of the box (Máy in mới của chúng tôi rất dễ cài đặt và sẵn sàng sử dụng ngay).
-* out side the box //: tư duy đột phá, suy nghĩ khác biệt, nghĩ rộng ra ngoài chiếc hộp. ám chỉ đến việc tìm ra các giải pháp mới, khác biệt và đột phá bằng cách tiếp cận vấn đề từ góc độ không truyền thống. Ex: We need to think outside the box if we want to come up with innovative solutions to this problem (Chúng ta cần phải suy nghĩ sáng tạo nếu muốn đưa ra các giải pháp đổi mới cho vấn đề này). His outside-the-box approach to marketing really helped the company stand out from the competition (Cách tiếp cận ngoài ý thức của anh ấy trong lĩnh vực tiếp thị thực sự giúp công ty nổi bật so với đối thủ)
+* outside the box //: tư duy đột phá, suy nghĩ khác biệt, nghĩ rộng ra ngoài chiếc hộp. ám chỉ đến việc tìm ra các giải pháp mới, khác biệt và đột phá bằng cách tiếp cận vấn đề từ góc độ không truyền thống. Ex: We need to think outside the box if we want to come up with innovative solutions to this problem (Chúng ta cần phải suy nghĩ sáng tạo nếu muốn đưa ra các giải pháp đổi mới cho vấn đề này). His outside-the-box approach to marketing really helped the company stand out from the competition (Cách tiếp cận ngoài ý thức của anh ấy trong lĩnh vực tiếp thị thực sự giúp công ty nổi bật so với đối thủ)
 come out //: 1. ra khỏi; 2. công khai, tiết lộ; 3. ra mắt trong xã hội hoặc trên sân khấu
 generous != stingy /'dʤenərəs/: rộng rãi, hào phóng, quảng đại; rộng lượng, khoan hồng 
 stingy /'stindʤi/: keo kiệt, bủn xỉn
@@ -1794,7 +1794,7 @@ showcase /ˈʃoʊ.keɪs/: trưng bày
 consistent /kənˈsistənt/: (a) tính nhất quán, kiên định, trước sau như một; tính rắn chắc; đặc (ruột)
 consistent with /kənˈsɪstənt wɪθ/: Phù hợp với, nhất quán với. thường được dùng trong các ngữ cảnh chuyên nghiệp, học thuật hoặc kỹ thuật để chỉ ra rằng các yếu tố hoặc dữ liệu không mâu thuẫn và khớp với nhau. Ex: His actions are consistent with his promises (Hành động của anh ấy nhất quán với những gì anh ấy đã hứa). The company's practices are consistent with industry standards (Các hoạt động của công ty phù hợp với các tiêu chuẩn của ngành).
 initiative /i'niʃiətiv/: (thuộc) bắt đầu, khởi đầu
-beyond /bi'jɔnd/: ở xa, ở phía bên kia; cao, xa hơn nữa
+beyond /bi'jɔnd/: vượt ra khỏi, ở xa, ở phía bên kia; cao, xa hơn nữa
 go above and beyond //: luôn nỗ lực hết mình
 commitment /kə'mitmənt/: sự cam kết; lời giao kết; sự bảo chứng
 reliance /rəˈlīəns/: (n) sự trông cậy (a) reliable: thuộc tin cậy
