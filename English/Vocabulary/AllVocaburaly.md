@@ -1783,7 +1783,10 @@ master craftsman /'mɑ:stə 'krɑ:ftsmən/: nghệ nhân bậc thầy
 strive /strīv/: phấn đấu, nỗ lục, rán sức
 strive for excellence /strīv for ˈeksələns/: phấn đấu để đạt thành thông, đạt được sự xuất sắc.
 tend /tend/: có xu hướng
-rely on /rəˈlī on/: dựa vào
+* rely on /rəˈlī on/: dựa vào. Dựa vào ai đó hoặc điều gì đó để có được sự hỗ trợ hoặc giúp đỡ. Ex: You can always rely on me for help (Bạn luôn có thể dựa vào tôi để được giúp đỡ)
+* depend on /dɪˈpɛnd ɒn/: phụ thuộc vào, dựa vào. phụ thuộc vào hoặc điều gì đó để có được sự hỗ trợ hoặc đáp ứng nhu cầu. Ex: Children depend on their parents for food and shelter (Trẻ em phụ thuộc vào cha mẹ để có thức ăn và nơi ở)
+* count on /kaʊnt ɒn/: đặt niềm tin vào, dựa vào. Tin tưởng vào ai đó hoặc điều gì đó để có được sự hỗ trợ hoặc kết quả mong muốn. Ex: I can count on my friends in times of need (Tôi có thể dựa vào bạn bè của mình khi cần thiết)
+* base on /beɪs ɒn/: dựa trên cơ sở, dựa vào. Dựa trên một cơ sở hoặc lý do cụ thể. Ex: The story is based on true events (Câu chuyện dựa trên các sự kiện có thật)
 with ease /wiθ ēz/: một cách dễ dàng
 mere /mir/: đơn thuần; chỉ là
 as if it were a mere toy //: như thể nó chỉ là một món đồ chơi

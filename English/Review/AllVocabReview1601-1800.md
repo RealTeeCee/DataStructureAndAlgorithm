@@ -183,7 +183,10 @@ nghệ nhân bậc thầy:
 phấn đấu, nỗ lục, rán sức: 
 phấn đấu để đạt thành thông, đạt được sự xuất sắc.: 
 có xu hướng: 
-dựa vào: 
+* dựa vào. Dựa vào ai đó hoặc điều gì đó để có được sự hỗ trợ hoặc giúp đỡ: 
+* phụ thuộc vào, dựa vào. phụ thuộc vào hoặc điều gì đó để có được sự hỗ trợ hoặc đáp ứng nhu cầu: 
+* đặt niềm tin vào, dựa vào. Tin tưởng vào ai đó hoặc điều gì đó để có được sự hỗ trợ hoặc kết quả mong muốn: 
+* dựa trên cơ sở, dựa vào. Dựa trên một cơ sở hoặc lý do cụ thể: 
 một cách dễ dàng: 
 đơn thuần; chỉ là: 
 như thể nó chỉ là một món đồ chơi: 
