@@ -1792,7 +1792,7 @@ mere /mir/: đơn thuần; chỉ là
 as if it were a mere toy //: như thể nó chỉ là một món đồ chơi
 showcase /ˈʃoʊ.keɪs/: trưng bày
 consistent /kənˈsistənt/: (a) tính nhất quán, kiên định, trước sau như một; tính rắn chắc; đặc (ruột)
-consistent with /kənˈsɪstənt wɪθ/: Phù hợp với, nhất quán với. thường được dùng trong các ngữ cảnh chuyên nghiệp, học thuật hoặc kỹ thuật để chỉ ra rằng các yếu tố hoặc dữ liệu không mâu thuẫn và khớp với nhau.
+consistent with /kənˈsɪstənt wɪθ/: Phù hợp với, nhất quán với. thường được dùng trong các ngữ cảnh chuyên nghiệp, học thuật hoặc kỹ thuật để chỉ ra rằng các yếu tố hoặc dữ liệu không mâu thuẫn và khớp với nhau. Ex: His actions are consistent with his promises (Hành động của anh ấy nhất quán với những gì anh ấy đã hứa). The company's practices are consistent with industry standards (Các hoạt động của công ty phù hợp với các tiêu chuẩn của ngành).
 initiative /i'niʃiətiv/: (thuộc) bắt đầu, khởi đầu
 beyond /bi'jɔnd/: ở xa, ở phía bên kia; cao, xa hơn nữa
 go above and beyond //: luôn nỗ lực hết mình

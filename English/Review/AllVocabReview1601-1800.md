@@ -192,12 +192,9 @@ một cách dễ dàng:
 như thể nó chỉ là một món đồ chơi: 
 trưng bày: 
 (a) tính nhất quán, kiên định, trước sau như một; tính rắn chắc; đặc (ruột): 
-phù hợp, thích hợp: 
+Phù hợp với, nhất quán với. thường được dùng trong các ngữ cảnh chuyên nghiệp, học thuật hoặc kỹ thuật để chỉ ra rằng các yếu tố hoặc dữ liệu không mâu thuẫn và khớp với nhau: 
 (thuộc) bắt đầu, khởi đầu: 
 ở xa, ở phía bên kia; cao, xa hơn nữa: 
 luôn nỗ lực hết mình: 
 sự cam kết; lời giao kết; sự bảo chứng: 
 (n) sự trông cậy (a) reliable: thuộc tin cậy: 
-người làm việc/nghề tự do: 
-nước mặt thoáng; ngoài khơi: 
-người giữ kỷ lục: 
