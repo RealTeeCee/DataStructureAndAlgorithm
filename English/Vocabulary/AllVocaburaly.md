@@ -1791,8 +1791,8 @@ with ease /wiθ ēz/: một cách dễ dàng
 mere /mir/: đơn thuần; chỉ là
 as if it were a mere toy //: như thể nó chỉ là một món đồ chơi
 showcase /ˈʃoʊ.keɪs/: trưng bày
-consistent /kənˈsistənt/: tính nhất quán, kiên định, trước sau như một; tính rắn chắc; đặc (ruột)
-consistent with //: phù hợp, thích hợp
+consistent /kənˈsistənt/: (a) tính nhất quán, kiên định, trước sau như một; tính rắn chắc; đặc (ruột)
+consistent with /kənˈsɪstənt wɪθ/: Phù hợp với, nhất quán với. thường được dùng trong các ngữ cảnh chuyên nghiệp, học thuật hoặc kỹ thuật để chỉ ra rằng các yếu tố hoặc dữ liệu không mâu thuẫn và khớp với nhau.
 initiative /i'niʃiətiv/: (thuộc) bắt đầu, khởi đầu
 beyond /bi'jɔnd/: ở xa, ở phía bên kia; cao, xa hơn nữa
 go above and beyond //: luôn nỗ lực hết mình

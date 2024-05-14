@@ -191,7 +191,7 @@ một cách dễ dàng:
 đơn thuần; chỉ là: 
 như thể nó chỉ là một món đồ chơi: 
 trưng bày: 
-tính nhất quán, kiên định, trước sau như một; tính rắn chắc; đặc (ruột): 
+(a) tính nhất quán, kiên định, trước sau như một; tính rắn chắc; đặc (ruột): 
 phù hợp, thích hợp: 
 (thuộc) bắt đầu, khởi đầu: 
 ở xa, ở phía bên kia; cao, xa hơn nữa: 
