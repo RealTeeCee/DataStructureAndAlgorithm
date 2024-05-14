@@ -118,7 +118,8 @@ sự ốm yếu bệnh tật:
 tuyệt vời, đẹp một cách ấn tượng (cảm giác ngạc nhiên hoặc thích thú về cái đẹp): 
 ngắm chim: 
 hương vị: 
-huấn luyện viên karate: 
+* người dạy, huấn luyện viên karate. giảng dạy và hướng dẫn kỹ thuật, phù hợp với mọi cấp độ và thường xuyên hơn: 
+* huấn luyện viên karate. thường tập trung vào việc huấn luyện học sinh cho các cuộc thi và cải thiện hiệu suất thi đấu. chú trọng đến việc nâng cao khả năng thi đấu, chiến thuật và tâm lý trong bối cảnh thi đấu: 
 bài học đấm bốc (một dạng đấm bốc có thể đá): 
 chất lượng hàng đầu, hiệu suất tốt nhất: 
 xa hơn: 
@@ -197,4 +198,3 @@ sự cam kết; lời giao kết; sự bảo chứng:
 người làm việc/nghề tự do: 
 nước mặt thoáng; ngoài khơi: 
 người giữ kỷ lục: 
-sự can đảm, sự dũng cảm, dũng khí: 

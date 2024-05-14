@@ -1718,8 +1718,9 @@ wonder /ˈwəndər/: (n) sự kinh ngạc, điều kỳ diệu (v) tự hỏ
 wondrous /ˈwʌndrəs/: tuyệt vời, đẹp một cách ấn tượng (cảm giác ngạc nhiên hoặc thích thú về cái đẹp) 
 birdwatching // : ngắm chim
 flavour /ˈfleɪvər/: hương vị
-karate instructor /kəˈrɑt̮i ɪnˈstrʌktər/: huấn luyện viên karate
-kickboxing lesson: bài học đấm bốc (một dạng đấm bốc có thể đá)
+* karate instructor /kəˈrɑt̮i ɪnˈstrʌktər/: người dạy, huấn luyện viên karate. giảng dạy và hướng dẫn kỹ thuật, phù hợp với mọi cấp độ và thường xuyên hơn. Ex: My karate instructor teaches us new techniques every week (Huấn luyện viên karate của tôi dạy chúng tôi các kỹ thuật mới mỗi tuần).
+* karate coach /kəˈrɑːti koʊtʃ/: huấn luyện viên karate. thường tập trung vào việc huấn luyện học sinh cho các cuộc thi và cải thiện hiệu suất thi đấu. chú trọng đến việc nâng cao khả năng thi đấu, chiến thuật và tâm lý trong bối cảnh thi đấu. Ex: My karate coach helps me prepare for competitions (Huấn luyện viên karate của tôi giúp tôi chuẩn bị cho các cuộc thi).
+kickboxing lesson //: bài học đấm bốc (một dạng đấm bốc có thể đá)
 top-of-the-line /ˌtɒp.əv.ðəˈlaɪn/: chất lượng hàng đầu, hiệu suất tốt nhất. Ex: This car is top-of-the-line in terms of performance and luxury (Chiếc xe này là hàng đầu về hiệu suất và sang trọng)
 further than //: xa hơn
 bully  /ˈbʊli/: bắt nạt
