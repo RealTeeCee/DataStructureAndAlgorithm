@@ -1770,7 +1770,7 @@ culinary skill //: kỹ năng nấu nướng
 testament /'testəmənt/: minh chứng; di chúc; kinh thánh
 Every meal at our family table is a testament to her exceptional cooking //: Mỗi bữa ăn trên bàn ăn của gia đình chúng tôi là minh chứng cho tài nấu nướng điêu luyện của cô.
 imposing /im'pouziɳ/: gây ấn tượng mạnh mẽ; oai nghiêm, hùng vĩ, đường bệ, bệ vệ
-imposing with /im'pouziɳ wiθ/: áp đặt với
+imposing with /im'pouziɳ wiθ/: Ấn tượng bởi, cảm thấy ấn tượng hoặc áp lực bởi một điều gì đó. thường là do kích thước, hình dáng hoặc sự hiện diện mạnh mẽ. Ex: The castle is imposing with its enormous size (Lâu đài gây ấn tượng bởi kích thước khổng lồ của nó)
 robust /rə'bʌst/: tráng kiện, khoẻ mạnh, cường tráng
 robust physique /rə'bʌst fi'zi:k/: thân hình cường tráng, tráng kiện
 stature /'stætʃə/: vóc dáng, vóc người
