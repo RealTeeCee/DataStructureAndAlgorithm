@@ -170,7 +170,7 @@ kỹ năng nấu nướng:
 minh chứng; di chúc; kinh thánh: 
 Mỗi bữa ăn trên bàn ăn của gia đình chúng tôi là minh chứng cho tài nấu nướng điêu luyện của cô: 
 gây ấn tượng mạnh mẽ; oai nghiêm, hùng vĩ, đường bệ, bệ vệ: 
-áp đặt với: 
+Ấn tượng bởi, cảm thấy ấn tượng hoặc áp lực bởi một điều gì đó. thường là do kích thước, hình dáng hoặc sự hiện diện mạnh mẽ: 
 tráng kiện, khoẻ mạnh, cường tráng: 
 thân hình cường tráng, tráng kiện: 
 vóc dáng, vóc người: 
