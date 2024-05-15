@@ -1801,7 +1801,10 @@ reliance /rəˈlīəns/: (n) sự trông cậy (a) reliable: thuộc tin câ�
 freelancer //: người làm việc/nghề tự do
 open water //: nước mặt thoáng; ngoài khơi
 record holder /ˈrekərd ˌhōldər/: người giữ kỷ lục
-courage /'kʌridʤ/: sự can đảm, sự dũng cảm, dũng khí
+* courage /'kʌridʤ/: sự can đảm, sự dũng cảm, dũng khí. thường liên quan đến sức mạnh tinh thần và quyết tâm đối mặt với nỗi sợ hãi, nguy hiểm, hoặc đau khổ bằng sự quyết tâm. Ex: It takes a lot of courage to admit your mistakes (Cần rất nhiều sự can đảm để thừa nhận sai lầm của mình)
+* bravery /ˈbreɪvəri/: sự dũng cảm, gan dạ. Thường nhấn mạnh vào hành động thực tế của sự dũng cảm, đặc biệt là trong các tình huống nguy hiểm hoặc thử thách. The firefighter's bravery saved many lives during the fire (Sự dũng cảm của người lính cứu hỏa đã cứu nhiều mạng sống trong trận hỏa hoạn)
+courageous /kəˈreɪ.dʒəs/: (a) can đảm
+brave /ˈbreɪv/: (a) dũng cảm, gan dạ
 performing tricks /pə'fɔ:miɳ trik/: biểu diễn kĩ xảo
 trickshot /'trikʃɔt/: Một cú sút/đánh bóng xuất chúng độc đáo để thể hiện bản thân hoặc ném một quả bóng không thể thực hiện được 
 transfer /'trænsfə:/: (n) sự di chuyển, sự dời chỗ; sự truyền; sự chuyển cho; (v) dời, chuyển, dọn; (+ to) chuyển tới
@@ -1831,8 +1834,8 @@ charge /tʃɑ:dʤ/: (n) tiền phải trả, tiền công, tiền thù lao; vậ
 charge (for something) //: Tiền phí cho ...
 in charge of //: chịu trách nhiệm ...
 theme /θim/: chủ đề
-theme park: công viên giải trí (trong đó các trò vui chỉ dựa trên một tư tưởng hoặc nhóm tư tưởng)
-the city's famous squares: quảng trường nổi tiếng của thành phố
+theme park //: công viên giải trí (trong đó các trò vui chỉ dựa trên một tư tưởng hoặc nhóm tư tưởng)
+the city's famous squares //: quảng trường nổi tiếng của thành phố
 sensible /ˈsɛnsəbl/: hợp lý, sáng suốt, nhạy cảm ( dựa trên lý trí hơn là cảm xúc)
 generally /ˈdʒɛnrəli/: Nói chung là, Đại khái là
 frequently /ˈfrikwəntli/: Thường xuyên
@@ -1857,27 +1860,30 @@ to go fly a kite //: đi chơi chỗ khác, tránh chỗ khác
 to kick the bucket //: chết ngủm Die = pass away (qua đời - nên dùng hơn)
 to be in the hole //: nợ nần
 to face the music //: nhận hậu quả; chịu trách nhiệm về một cái gì đó bạn đã làm
-to blow it //: Làm hỏng, xử lý sai hoặc không tận dụng được cơ hội từ việc gì đó; mắc phạm sai lầm dẫn đến vụt mất cơ hội.
-Ex:
-- You had your chance and you blew it.
-- Bob was being considered for the promotion, but he blew it when he came in late to work each day this week.
+to blow it //: Làm hỏng, xử lý sai hoặc không tận dụng được cơ hội từ việc gì đó; mắc phạm sai lầm dẫn đến vụt mất cơ hội. Ex: You had your chance and you blew it. Bob was being considered for the promotion, but he blew it when he came in late to work each day this week.
 to be hot under the collar //: xấu hổ, hờn dỗi
 to be dressed to kill //: ăn mặc quần áo rất lạ mắt hoặc hấp dẫn
 to lose one's shirt //: làm mất nhiều tiền; mất phần lớn tài sản hoặc giá trị của một người trong một khoản đầu tư
 flee /flee/: chạy trốn, bỏ chạy; lẩn trốn; trốn tránh, lẩn tránh
 dye /dai/: (v) nhuộm (n) thuốc nhuộm
 hoot /hu:t/: (v) la hét phản đối; huýt sáo chế giễu; (cú) kêu lên 1 tiếng (n) tiếng la hét (phản đối, chế giễu...); tiếng cú kêu; 
-heal /hi:l/: chữa khỏi (bệnh...), làm lành, lành lại (vết thương...),
+* heal /hi:l/: (v) Hồi phục, làm lành (vết thương, bệnh tật, hoặc cảm xúc); lành lại. thường là quá trình phục hồi tự nhiên hoặc giúp phục hồi (có thể là vết thương thể chất, bệnh tật, hoặc đau khổ tinh thần). không nhất thiết phải là loại bỏ hoàn toàn bệnh tật mà là sự cải thiện hoặc lành lặn dần dần. Ex: The wound will heal in a few weeks (Vết thương sẽ lành trong vài tuần). Time can help heal emotional pain (Thời gian có thể giúp làm lành nỗi đau tình cảm).
+* cure /kjʊər/: (n) phương pháp, cách thức, liều thuốc điều trị bệnh tật. (v) chữa, điều trị triệt để bệnh tật.  thường tập trung vào việc loại bỏ hoàn toàn bệnh tật hoặc tình trạng không khỏe và thường có nghĩa là bệnh tật đã được loại bỏ hoàn toàn thông qua một phương pháp điều trị. Ex: The new treatment can cure many types of cancer (Phương pháp điều trị mới có thể chữa khỏi nhiều loại ung thư). The doctors were able to cure him of his infection (Các bác sĩ đã chữa khỏi nhiễm trùng cho anh ấy)
 excel /ik'sel/: hơn, trội hơn (người khác về mặt nào...); trội về, xuất sắc về (môn gì...)
 traffic /træfik/: (v) buôn bán; giao dịch (n) giao thông
 mimic /'mimik/: (v) nhại, bắt chước (ai đó); giống hệt (vật gì) ;(a) bắt chước
-panic /'pænik/: (v) làm hoảng sợ, làm hoang mang sợ hãi (a) hoảng sợ, hoang mang sợ hãi
+* scare /skeər/: (v) dọa, gây sợ hãi; (n) tình huống, sự sợ hãi. The ghost story scared the kids (Câu chuyện ma làm bọn trẻ sợ (v)). He had a bad scare last night (Anh ấy đã trải qua một phen sợ hãi (n) tối qua)
+* panic /'pænik/: (v) làm hoang mang sợ hãi (n) sự hoang mang, hoảng loạn. thường cảm giác sợ hãi cực độ và đột ngột, thường dẫn đến hành động vội vàng hoặc thiếu kiểm soát. Don't panic, stay calm and think (Đừng hoảng sợ (v), hãy bình tĩnh và suy nghĩ). There was a panic when the fire alarm went off (Có một sự hoảng loạn (n) khi chuông báo cháy kêu lên)
+* frighten /'fraitn/: (v) làm hoảng sợ; làm lo lắng. ám chỉ sự sợ hãi gây ra bởi một điều gì đó nghiêm trọng hoặc nguy hiểm hơn. Miêu tả sự sợ hãi sâu sắc và kéo dài hơn so với "scare". Ex: he sudden appearance of the bear frightened the hikers (Sự xuất hiện đột ngột của con gấu làm những người đi bộ sợ hãi)
+scary /ˈsker.i/ (a) sợ hãi, hoảng sợ
+panicky /ˈpænɪki/ (a) hoang mang, hoảng loạn. Cảm thấy hoặc biểu hiện sự sợ hãi đột ngột và cực độ; dễ hoảng sợ.
+frightening /ˈfraɪ.tən.ɪŋ/ (a) hoảng sợ, sợ sệt
 own /oun/: (v) sở hữu, là chủ của; thú nhận (a) của chính mình
 owe /ou/: nợ
 belong to /bi'lɔɳ/: thuộc về
-consist /kən'sist/: (+ of ) gồm, bao gồm; ( + in ) ở chổ, cốt là ở, cốt tại; (+ with) phù hợp
-include /in'klu:d/: bao gồm, bao hàm
-contain /kən'tein/: chứa, bao gồm, bao hàm
+* consist /kən'sist/: (+ of ) gồm, bao gồm. được sử dụng để liệt kê các thành phần chính của một tổng thể. Ex: Water consists of hydrogen and oxygen (Nước gồm có hydro và oxy). The team consists of five players (Đội gồm có năm cầu thủ)
+* include /in'klu:d/: bao gồm, bao hàm. được sử dụng để nói rằng một cái gì đó là một phần của một tổng thể lớn hơn, mà không liệt kê toàn bộ các phần. The price includes tax (Giá đã bao gồm thuế). The tour includes visits to several historic sites (Chuyến tham quan bao gồm các chuyến thăm đến một số di tích lịch sử)
+* contain /kən'tein/: chứa đựng ,bao gồm; có bên trong. được sử dụng để chỉ ra rằng một vật hay một tập hợp có cái gì đó bên trong nó. This box contains old photos (Cái hộp này chứa những bức ảnh cũ). The bottle contains water (Chai này chứa nước)
 emotion /i'mouʃn/: cảm xúc, sự cảm động, sự xúc động, sự xúc cảm
 desire /di'zaiə/: (v) thèm muốn; mong muốn, ao ước; đề nghị (n) sự thèm muốn; sự mong muốn, khát khao; lòng thèm muốn; lời đề nghị
 adore /ə'dɔ:/: kính yêu, quý mến; mê, thíêt tha
@@ -1948,10 +1954,10 @@ trigger /ˈtrɪɡər/: cò súng, kích hoạt
 excitement /ɪkˈsaɪtmənt/: sự phấn khích
 capsaicin: thành phần trong ớt
 component /kəmˈpoʊnənt/: thành phần, cấu tạo
-chilli /ˈtʃɪli/:
-pepper /ˈpɛpər/: loại bột làm từ quả mọng khô ( hạt tiêu) dùng tạo vị cay cho thực phẩm
-chilli pepper: bột ớt.
-hot pepper //:
+chilli /ˈtʃɪli/: ớt
+pepper /ˈpɛpər/: hạt tiêu
+* chilli pepper /ˈtʃɪli ˈpɛpər/: thuật ngữ tổng quát chỉ bất kỳ loại ớt nào có thể được sử dụng để làm gia vị. Tùy thuộc vào vùng địa lý có thể bao gồm một loạt các loại ớt từ nhẹ đến cực kỳ cay. thường có hình dạng dài và mảnh, như ớt jalapeno, ớt cayenne, hoặc ớt serrano. Ex: This recipe calls for two red chilli peppers to add some heat to the dish(Công thức này yêu cầu hai quả ớt cay màu đỏ để tăng hương vị cay cho món ăn). Green chilli peppers are often used in Mexican cuisine for their vibrant color and spicy flavor (Ớt xanh thường được sử dụng trong ẩm thực Mexico với màu sắc tươi sáng và hương vị cay nồng)
+* hot pepper /hɒt ˈpɛpər/: thuật ngữ tổng quát thường được sử dụng để chỉ các loại ớt cay, thường là những loại ớt có độ cay mạnh. thuật ngữ rộng hơn không chỉ giới hạn ở các loại ớt có hình dạng dài. thường được sử dụng để mô tả các loại ớt cay như ớt habanero, ớt ghost, hoặc ớt Scotch bonnet. Ex: Be careful when handling hot peppers like habaneros, as they can cause skin irritation (Hãy cẩn thận khi xử lý các loại ớt cay như habanero, vì chúng có thể gây kích ứng da). The chef added some finely chopped hot peppers to give the sauce an extra kick (Đầu bếp đã thêm một ít ớt cay nhỏ xíu để làm cho nước sốt thêm cay)
 itching /ɪtʃing/: ngứa
 burning /'bə:niɳ/: (n) sự đốt, sự cháy (a) nóng cháy, nóng rát; mãnh liệt, kịch liệt
 burning sensation /'bə:niɳ sen'seiʃn/: cảm giác nóng rát
@@ -1971,7 +1977,8 @@ thrilling rush /ˈθrɪlɪŋ rʌʃ/: cảm giác hồi hội dồn dập
 boost of energy: tiếp thêm năng lượng
 researcher /rɪˈsərtʃer/: nhà nghiên cứu
 claim /kleɪm/: khẳng định
-tough /tʌf/: khó
+* tough /tʌf/: khó
+* hard //: 
 attracting /əˈtrækting/: thu hút
 arcade /ɑrˈkeɪd/: nơi giải trí, chơi game trên máy (trả bằng đồng xu)
 vegetable crops /ˈvɛdʒtəbl krɑp/: vườn rau
