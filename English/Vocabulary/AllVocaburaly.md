@@ -1823,7 +1823,7 @@ lash out /læʃ aʊt/: đả kích, đáp trả; tấn công. hành động
 cruise ship /kru:z ʃip/: tàu khách biển khơi, tàu du lịch
 overcrowding /ōvərˈkroudiNG/: chật kín, đông nghẹt, tình trạng có quá nhiều người tại một nơi
 treatment /ˈtrētmənt/: sự đối đãi; sự đãi ngộ; (y học) sự điều trị; phép trị bệnh
-city official /citi ə'fiʃəl/: quan chức thành phố
+city official /ˈsɪti əˈfɪʃəl/: quan chức thành phố
 historical center /his'tɔrikəl 'sentə/: trung tâm lịch sử
 environmentalist /inˌvīrənˈmentələst/ : nhà môi trường học
 biota /bīˈōdə/: hệ sinh vật
