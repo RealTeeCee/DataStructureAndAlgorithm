@@ -38,7 +38,7 @@ công viên giải trí (trong đó các trò vui chỉ dựa trên một tư t�
 quảng trường nổi tiếng của thành phố: 
 hợp lý, sáng suốt, nhạy cảm ( dựa trên lý trí hơn là cảm xúc): 
 Nói chung là, Đại khái là: 
-Thường xuyên: 
+Thường xuyên, một cách thường xuyên: 
 Hồ sơ: 
 nền tảng truyền thông xã hội: 
 Bưu kiện, gói hàng: 

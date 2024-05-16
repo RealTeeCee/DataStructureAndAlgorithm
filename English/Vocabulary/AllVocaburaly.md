@@ -1838,7 +1838,7 @@ theme park //: công viên giải trí (trong đó các trò vui chỉ dựa tr�
 the city's famous squares //: quảng trường nổi tiếng của thành phố
 sensible /ˈsɛnsəbl/: hợp lý, sáng suốt, nhạy cảm ( dựa trên lý trí hơn là cảm xúc)
 generally /ˈdʒɛnrəli/: Nói chung là, Đại khái là
-frequently /ˈfrikwəntli/: Thường xuyên
+frequently /ˈfrikwəntli/: Thường xuyên, một cách thường xuyên
 profile /ˈproʊfaɪl/: Hồ sơ
 social media platform /ˈsoʊʃl ˈmidiə ˈplætfɔrm/: nền tảng truyền thông xã hội
 parcel /ˈpɑrsl/: Bưu kiện, gói hàng
@@ -1879,7 +1879,7 @@ panicky /ˈpænɪki/: (a) hoang mang, hoảng loạn. Cảm thấy hoặc biểu
 frightening /ˈfraɪ.tən.ɪŋ/: (a) hoảng sợ, sợ sệt
 own /oun/: (v) sở hữu, là chủ của; thú nhận (a) của chính mình
 owe /ou/: nợ
-belong to /bi'lɔɳ/: thuộc về
+belong to /bi'lɔɳ tu/: thuộc về
 * consist /kən'sist/: (+ of ) gồm, bao gồm. được sử dụng để liệt kê các thành phần chính của một tổng thể. Ex: Water consists of hydrogen and oxygen (Nước gồm có hydro và oxy). The team consists of five players (Đội gồm có năm cầu thủ)
 * include /in'klu:d/: bao gồm, bao hàm. được sử dụng để nói rằng một cái gì đó là một phần của một tổng thể lớn hơn, mà không liệt kê toàn bộ các phần. Ex: The price includes tax (Giá đã bao gồm thuế). The tour includes visits to several historic sites (Chuyến tham quan bao gồm các chuyến thăm đến một số di tích lịch sử)
 * contain /kən'tein/: chứa đựng ,bao gồm; có bên trong. được sử dụng để chỉ ra rằng một vật hay một tập hợp có cái gì đó bên trong nó. Ex: This box contains old photos (Cái hộp này chứa những bức ảnh cũ). The bottle contains water (Chai này chứa nước)
