@@ -1819,7 +1819,7 @@ scoring record //: kỷ lục ghi bàn
 shock /shock/: (n) sự sốc, sự khích động, sự đột xuất; (v) gây sốc, gây kích động, làm chướng tai gai mắt; gây giật điện
 wages /weidʤ/: tiền lương, tiền công
 pay wages //: trả lương
-lash out /læʃ aʊt/: Đội nhiên trở nên bạo lực, Phản ứng dữ dội, giận dữ, Chi tiêu nhiều tiền cho đồ xa xỉ
+lash out /læʃ aʊt/: đả kích, đáp trả; tấn công. hành động tấn công hoặc phản ứng không kiểm soát được, cho thấy mức độ tức giận hoặc thất vọng cao. Ex: He lashed out at his friend during the argument (Anh ta đã nổi giận và tấn công người bạn của mình trong cuộc cãi vã). She lashed out at the reporter with harsh words (Cô ấy đã đáp trả phóng viên bằng những lời lẽ gay gắt). The child lashed out in frustration (Đứa trẻ phản ứng bằng hành động bạo lực do thất vọng).
 cruise ship /kru:z ʃip/: tàu khách biển khơi, tàu du lịch
 overcrowding /ōvərˈkroudiNG/: chật kín, đông nghẹt, tình trạng có quá nhiều người tại một nơi
 treatment /ˈtrētmənt/: sự đối đãi; sự đãi ngộ; (y học) sự điều trị; phép trị bệnh

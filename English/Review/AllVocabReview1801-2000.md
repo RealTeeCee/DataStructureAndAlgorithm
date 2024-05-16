@@ -19,7 +19,7 @@ kỷ lục ghi bàn:
 (n) sự sốc, sự khích động, sự đột xuất; (v) gây sốc, gây kích động, làm chướng tai gai mắt; gây giật điện: 
 tiền lương, tiền công: 
 trả lương: 
-Đội nhiên trở nên bạo lực, Phản ứng dữ dội, giận dữ, Chi tiêu nhiều tiền cho đồ xa xỉ: 
+đả kích, đáp trả; tấn công. hành động tấn công hoặc phản ứng không kiểm soát được, cho thấy mức độ tức giận hoặc thất vọng cao: 
 tàu khách biển khơi, tàu du lịch: 
 chật kín, đông nghẹt, tình trạng có quá nhiều người tại một nơi: 
 sự đối đãi; sự đãi ngộ; (y học) sự điều trị; phép trị bệnh: 
