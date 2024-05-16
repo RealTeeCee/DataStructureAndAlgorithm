@@ -5,7 +5,7 @@ người giữ kỷ lục:
 * sự dũng cảm, gan dạ. Thường nhấn mạnh vào hành động thực tế của sự dũng cảm, đặc biệt là trong các tình huống nguy hiểm hoặc thử thách: 
 (a) can đảm: 
 (a) dũng cảm, gan dạ: 
-biểu diễn kĩ xảo: 
+chiêu trò; biểu diễn kĩ xảo: 
 Một cú sút/đánh bóng xuất chúng độc đáo để thể hiện bản thân hoặc ném một quả bóng không thể thực hiện được: 
 (n) sự di chuyển, sự dời chỗ; sự truyền; sự chuyển cho; (v) dời, chuyển, dọn; (+ to) chuyển tới: 
 đám đông; the crowd: quần chúng; bọn, tụi, lũ, nhóm: 

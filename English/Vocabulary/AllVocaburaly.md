@@ -1805,7 +1805,7 @@ record holder /ˈrekərd ˌhōldər/: người giữ kỷ lục
 * bravery /ˈbreɪvəri/: sự dũng cảm, gan dạ. Thường nhấn mạnh vào hành động thực tế của sự dũng cảm, đặc biệt là trong các tình huống nguy hiểm hoặc thử thách. Ex: The firefighter's bravery saved many lives during the fire (Sự dũng cảm của người lính cứu hỏa đã cứu nhiều mạng sống trong trận hỏa hoạn)
 courageous /kəˈreɪ.dʒəs/: (a) can đảm
 brave /ˈbreɪv/: (a) dũng cảm, gan dạ
-performing tricks /pə'fɔ:miɳ trik/: biểu diễn kĩ xảo
+performing tricks /pə'fɔ:miɳ trik/: chiêu trò; biểu diễn kĩ xảo
 trickshot /'trikʃɔt/: Một cú sút/đánh bóng xuất chúng độc đáo để thể hiện bản thân hoặc ném một quả bóng không thể thực hiện được 
 transfer /'trænsfə:/: (n) sự di chuyển, sự dời chỗ; sự truyền; sự chuyển cho; (v) dời, chuyển, dọn; (+ to) chuyển tới
 crowd /kraud/: đám đông; the crowd: quần chúng; bọn, tụi, lũ, nhóm
