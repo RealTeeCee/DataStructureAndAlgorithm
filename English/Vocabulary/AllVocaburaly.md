@@ -1802,7 +1802,7 @@ freelancer //: người làm việc/nghề tự do
 open water //: nước mặt thoáng; ngoài khơi
 record holder /ˈrekərd ˌhōldər/: người giữ kỷ lục
 * courage /'kʌridʤ/: sự can đảm, sự dũng cảm, dũng khí. thường liên quan đến sức mạnh tinh thần và quyết tâm đối mặt với nỗi sợ hãi, nguy hiểm, hoặc đau khổ bằng sự quyết tâm. Ex: It takes a lot of courage to admit your mistakes (Cần rất nhiều sự can đảm để thừa nhận sai lầm của mình)
-* bravery /ˈbreɪvəri/: sự dũng cảm, gan dạ. Thường nhấn mạnh vào hành động thực tế của sự dũng cảm, đặc biệt là trong các tình huống nguy hiểm hoặc thử thách. The firefighter's bravery saved many lives during the fire (Sự dũng cảm của người lính cứu hỏa đã cứu nhiều mạng sống trong trận hỏa hoạn)
+* bravery /ˈbreɪvəri/: sự dũng cảm, gan dạ. Thường nhấn mạnh vào hành động thực tế của sự dũng cảm, đặc biệt là trong các tình huống nguy hiểm hoặc thử thách. Ex: The firefighter's bravery saved many lives during the fire (Sự dũng cảm của người lính cứu hỏa đã cứu nhiều mạng sống trong trận hỏa hoạn)
 courageous /kəˈreɪ.dʒəs/: (a) can đảm
 brave /ˈbreɪv/: (a) dũng cảm, gan dạ
 performing tricks /pə'fɔ:miɳ trik/: biểu diễn kĩ xảo
@@ -1847,13 +1847,12 @@ to smell a rat //: cảm thấy bất ổn; hoài nghi nghi ngờ ai
 to get in s.o's hair //: làm phiền ai đó
 to pull s.o's leg //: lừa ai
 to play it by ear //: làm điều gì đó mà không có sự chuẩn bị đặc biệt, làm trước tính sau
-to stick out one's neck //: liều lĩnh, đánh liều nói hoặc làm điều gì đó mà người khác có thể không thích ([one] phải cùng 1 người)
-Ex: He decided to stick his neck out and buy a new sports car, even though he hadn't asked his wife
+to stick out one's neck //: liều lĩnh, đánh liều nói hoặc làm điều gì đó mà người khác có thể không thích ([one] phải cùng 1 người) Ex: He decided to stick his neck out and buy a new sports car, even though he hadn't asked his wife
 to get off s.o's back //: tránh làm phiền ai
 to sell s.o down the river //: phản bội ai
-to spill the beans: tiết lộ bí mật
-to shoot the breeze: tán gẫu
-to bend over backwards: cố gắng rất nhiều
+to spill the beans //: tiết lộ bí mật
+to shoot the breeze //: tán gẫu
+to bend over backwards //: cố gắng rất nhiều
 to hit the hay //: đi ngủ
 to hit the ceiling //: cực kỳ tức giận
 to go fly a kite //: đi chơi chỗ khác, tránh chỗ khác
@@ -1872,18 +1871,18 @@ hoot /hu:t/: (v) la hét phản đối; huýt sáo chế giễu; (cú) kêu lê
 excel /ik'sel/: hơn, trội hơn (người khác về mặt nào...); trội về, xuất sắc về (môn gì...)
 traffic /træfik/: (v) buôn bán; giao dịch (n) giao thông
 mimic /'mimik/: (v) nhại, bắt chước (ai đó); giống hệt (vật gì) ;(a) bắt chước
-* scare /skeər/: (v) dọa, gây sợ hãi; (n) tình huống, sự sợ hãi. The ghost story scared the kids (Câu chuyện ma làm bọn trẻ sợ (v)). He had a bad scare last night (Anh ấy đã trải qua một phen sợ hãi (n) tối qua)
-* panic /'pænik/: (v) làm hoang mang sợ hãi (n) sự hoang mang, hoảng loạn. thường cảm giác sợ hãi cực độ và đột ngột, thường dẫn đến hành động vội vàng hoặc thiếu kiểm soát. Don't panic, stay calm and think (Đừng hoảng sợ (v), hãy bình tĩnh và suy nghĩ). There was a panic when the fire alarm went off (Có một sự hoảng loạn (n) khi chuông báo cháy kêu lên)
+* scare /skeər/: (v) dọa, gây sợ hãi; (n) tình huống, sự sợ hãi. Ex: The ghost story scared the kids (Câu chuyện ma làm bọn trẻ sợ (v)). He had a bad scare last night (Anh ấy đã trải qua một phen sợ hãi (n) tối qua)
+* panic /'pænik/: (v) làm hoang mang sợ hãi (n) sự hoang mang, hoảng loạn. thường cảm giác sợ hãi cực độ và đột ngột, thường dẫn đến hành động vội vàng hoặc thiếu kiểm soát. Ex: Don't panic, stay calm and think (Đừng hoảng sợ (v), hãy bình tĩnh và suy nghĩ). There was a panic when the fire alarm went off (Có một sự hoảng loạn (n) khi chuông báo cháy kêu lên)
 * frighten /'fraitn/: (v) làm hoảng sợ; làm lo lắng. ám chỉ sự sợ hãi gây ra bởi một điều gì đó nghiêm trọng hoặc nguy hiểm hơn. Miêu tả sự sợ hãi sâu sắc và kéo dài hơn so với "scare". Ex: he sudden appearance of the bear frightened the hikers (Sự xuất hiện đột ngột của con gấu làm những người đi bộ sợ hãi)
-scary /ˈsker.i/ (a) sợ hãi, hoảng sợ
-panicky /ˈpænɪki/ (a) hoang mang, hoảng loạn. Cảm thấy hoặc biểu hiện sự sợ hãi đột ngột và cực độ; dễ hoảng sợ.
-frightening /ˈfraɪ.tən.ɪŋ/ (a) hoảng sợ, sợ sệt
+scary /ˈsker.i/: (a) sợ hãi, hoảng sợ
+panicky /ˈpænɪki/: (a) hoang mang, hoảng loạn. Cảm thấy hoặc biểu hiện sự sợ hãi đột ngột và cực độ; dễ hoảng sợ.
+frightening /ˈfraɪ.tən.ɪŋ/: (a) hoảng sợ, sợ sệt
 own /oun/: (v) sở hữu, là chủ của; thú nhận (a) của chính mình
 owe /ou/: nợ
 belong to /bi'lɔɳ/: thuộc về
 * consist /kən'sist/: (+ of ) gồm, bao gồm. được sử dụng để liệt kê các thành phần chính của một tổng thể. Ex: Water consists of hydrogen and oxygen (Nước gồm có hydro và oxy). The team consists of five players (Đội gồm có năm cầu thủ)
-* include /in'klu:d/: bao gồm, bao hàm. được sử dụng để nói rằng một cái gì đó là một phần của một tổng thể lớn hơn, mà không liệt kê toàn bộ các phần. The price includes tax (Giá đã bao gồm thuế). The tour includes visits to several historic sites (Chuyến tham quan bao gồm các chuyến thăm đến một số di tích lịch sử)
-* contain /kən'tein/: chứa đựng ,bao gồm; có bên trong. được sử dụng để chỉ ra rằng một vật hay một tập hợp có cái gì đó bên trong nó. This box contains old photos (Cái hộp này chứa những bức ảnh cũ). The bottle contains water (Chai này chứa nước)
+* include /in'klu:d/: bao gồm, bao hàm. được sử dụng để nói rằng một cái gì đó là một phần của một tổng thể lớn hơn, mà không liệt kê toàn bộ các phần. Ex: The price includes tax (Giá đã bao gồm thuế). The tour includes visits to several historic sites (Chuyến tham quan bao gồm các chuyến thăm đến một số di tích lịch sử)
+* contain /kən'tein/: chứa đựng ,bao gồm; có bên trong. được sử dụng để chỉ ra rằng một vật hay một tập hợp có cái gì đó bên trong nó. Ex: This box contains old photos (Cái hộp này chứa những bức ảnh cũ). The bottle contains water (Chai này chứa nước)
 emotion /i'mouʃn/: cảm xúc, sự cảm động, sự xúc động, sự xúc cảm
 desire /di'zaiə/: (v) thèm muốn; mong muốn, ao ước; đề nghị (n) sự thèm muốn; sự mong muốn, khát khao; lòng thèm muốn; lời đề nghị
 adore /ə'dɔ:/: kính yêu, quý mến; mê, thíêt tha
@@ -1902,19 +1901,18 @@ matter /'mætə/: (v) có ý nghĩa, có tính chất quan trọng (n) chất, v
 weigh /wei/: (v) cân đo (n) sự cân nặng, cái cân
 signify /'signifai/: tuyên bố, báo cho biết; biểu thị, biểu hiện; báo hiệu
 hold /hould/: (v) cầm, nắm, giữ (n) sự cầm, sự nắm giữ
-stand: (v) chịu đựng; giữ vững ;(+ for ...) là viết tắt của ...;(+ by) đứng cạnh, đứng bên cạnh
+stand //: (v) chịu đựng; giữ vững ;(+ for ...) là viết tắt của ...;(+ by) đứng cạnh, đứng bên cạnh
 symbolize /'simbəlaiz/: tượng trưng hoá; ký hiệu hóa
-to spread oneself too thin //: dính líu đến quá nhiều thứ - be involved in too many activities
-Ex: How can you work at two jobs and go to school at the same time; you're _SPREAD YOURSELF TOO THIN_.
-duck soup //: quá dễ - too easy
-Ex: This homework is _DUCK SOUP_ to me.
-substition drill: /ˌsʌbstəˈtuʃn drɪl/
+to spread oneself too thin //: dính líu đến quá nhiều thứ - be involved in too many activities. Ex: How can you work at two jobs and go to school at the same time; you're spread your self too thin.
+duck soup //: quá dễ - too easy. Ex: This homework is duck soup to me.
+* substition drill /ˌsʌbstəˈtuʃn drɪl/: Phương pháp luyện tập thay thế. một phương pháp học ngoại ngữ, đặc biệt phổ biến trong dạy tiếng Anh, nhằm giúp người học thực hành cấu trúc câu và từ vựng thông qua việc thay thế một phần của câu bằng các từ hoặc cụm từ khác nhau.
+Ex: Thay thế "a book" bằng các từ khác: She is reading a magazine. She is reading a newspaper. She is reading a novel. Thay thế "apples" bằng các từ khác: I like to eat oranges. I like to eat bananas. I like to eat grapes. Thay thế "a teacher" bằng các từ khác: He is a doctor. He is a lawyer. He is a student.
 intonation /ˌɪntoʊˈneɪʃn/: âm điệu
 artistic swimming /ɑrˈtɪstɪk ˈswɪmɪŋ/: Bơi nghệ thuật
 choir club /ˈkwaɪər klʌb/: câu lạc bộ hợp xướng
 gymnastics /dʒɪmˈnæstɪks/: thể dục
 ballet /bæˈleɪ/: vở ballet
-uniquely talented: /yuˈnik ˈtæləntəd/
+uniquely talented /yuˈnik ˈtæləntəd/: tài năng độc đáo, tài năng độc nhất
 put my mind to //: đặt tâm trí vào
 got on well with //: hòa hợp với, thân với
 passion /ˈpæʃn/: Đam mê
@@ -1930,7 +1928,7 @@ solo performance /ˈsoʊloʊ pərˈfɔrməns/ : biểu diễn solo
 fade /feɪd/: phai, tan
 looking back at //: nhìn lại điều gì đó ..
 behaviour /bɪˈheɪvyər/: hành vi
-appeal: /əˈpil/: hấp dẫn, bắt mắt , gọi, lời kêu gọi,
+appeal /əˈpil/: hấp dẫn, bắt mắt , gọi, lời kêu gọi
 appealing description //: mô tả hấp dẫn
 enthusiasm /ɪnˈθuziˌæzəm/: sự nhiệt ình, hăng hái, nhiệt tâm
 space camps //: Trại không gian (một trại giáo dục ở Huntsville, Alabama, trong khuôn viên của bảo tàng Trung tâm Tên lửa & Vũ trụ Hoa Kỳ gần Trung tâm Bay Không gian Marshall của NASA.)
@@ -1952,7 +1950,7 @@ scientifically /ˌsaɪənˈtɪfɪkli/: một cách khoa học
 neuron /ˈnʊrɑn/: tế bào thần kinh
 trigger /ˈtrɪɡər/: cò súng, kích hoạt
 excitement /ɪkˈsaɪtmənt/: sự phấn khích
-capsaicin: thành phần trong ớt
+capsaicin /kæpˈseɪɪsɪn/: C₁₈H₂₇NO₃ hợp chất hóa học làm cho ớt có vị cay.
 component /kəmˈpoʊnənt/: thành phần, cấu tạo
 chilli /ˈtʃɪli/: ớt
 pepper /ˈpɛpər/: hạt tiêu
@@ -1964,7 +1962,7 @@ burning sensation /'bə:niɳ sen'seiʃn/: cảm giác nóng rát
 defence /dɪˈfɛns/: Phòng thủ
 defence mechanism /dɪˈfɛns ˈmɛkəˌnɪzəm/: Cơ chế bảo vệ
 spicy: /ˈspaɪsi/: cay
-spiciness: vị cay
+spiciness //: vị cay
 menthol /ˈmɛnθɔl/: tinh dầu bạc hà
 minty /ˈmɪnti/: bạc hà
 cool-minty food //: món ăn mát lạnh
@@ -1974,19 +1972,19 @@ cold receptor //: thụ thể lạnh
 roller coaster /ˈroʊlər ˈkoʊstər/: tàu lượn siêu tốc
 rush /rʌʃ/: dồn dập, vội vã
 thrilling rush /ˈθrɪlɪŋ rʌʃ/: cảm giác hồi hội dồn dập
-boost of energy: tiếp thêm năng lượng
+boost of energy //: tiếp thêm năng lượng
 researcher /rɪˈsərtʃer/: nhà nghiên cứu
 claim /kleɪm/: khẳng định
-* tough /tʌf/: khó
-* hard //: 
+* tough /tʌf/: cứng rắn; Bền bỉ, kiên cường; khó khăn. Thường ám chỉ tính bền bỉ, khả năng chịu đựng, hoặc kiên cường của con người hoặc vật. cũng có thể ám chỉ tính chất khó khăn của một tình huống hoặc công việc. The steak is very tough (Miếng bít tết rất dai). He went through a tough time after losing his job (Anh ấy đã trải qua một thời gian khó khăn sau khi mất việc). She is a tough competitor" (Cô ấy là một đối thủ cạnh tranh kiên cường)
+* hard //: cứng, chắc; khó khăn; chăm chỉ khắc nghiệt. Thường ám chỉ tính chất vật lý cứng rắn hoặc độ khó của một nhiệm vụ. cũng có thể ám chỉ sự nghiêm khắc hoặc đòi hỏi nhiều nỗ lực. Ex: The metal is very hard (Kim loại rất cứng). This math problem is too hard for me (Bài toán này quá khó đối với tôi). He worked hard all day (Anh ấy đã làm việc chăm chỉ cả ngày).
 attracting /əˈtrækting/: thu hút
 arcade /ɑrˈkeɪd/: nơi giải trí, chơi game trên máy (trả bằng đồng xu)
 vegetable crops /ˈvɛdʒtəbl krɑp/: vườn rau
 barn /bɑrn/: chuồng ngựa, kho thóc
-as we pulled up the house: Khi chúng tôi đến gần ngôi nhà
+as we pulled up the house //: Khi chúng tôi dừng xe trước ngôi nhà.
 energetic /ˌɛnərˈdʒɛt̮ɪk/: Mãnh liệt
 corn /kɔrn/: bắp
-locked away //: nhốt ( động vật)
+locked away //: bị nhốt lại, bị giam giữ; bị cất giấu; hoặc bị giam giữ. Ex: He was locked away in prison for ten years (Anh ta bị giam giữ trong tù suốt mười năm). The jewels were locked away in a safe (Những viên ngọc được cất giấu trong một két sắt). She kept her feelings locked away" (Cô ấy giữ cảm xúc của mình kín đáo)
 geography /dʒiˈɑɡrəfi/: địa lý
 charity /ˈtʃærət̮i/: tổ chức từ thiện
 donate /ˈdoʊneɪt/: quyên tặng ,cho
@@ -1999,7 +1997,7 @@ embrace /ɪmˈbreɪs/ : ôm, bao quanh
 tribal dances /ˈtraɪbl dances/: điệu múa dân tộc(bộ lạc)
 soon-to-be-released //: sắp được phát hành
 follow-up //: theo sát
-recognised proof of dance //: huân chương được công nhận về khiêu vũ
+recognized proof of dancing //: huân chương được công nhận về khiêu vũ
 dating back to //: đã tồn tại từ một thời điểm cụ thể. Ex: The custom dates back hundreds of years: Phong tục có từ hàng trăm năm trước.
 tribesmen /ˈtraɪbzmən/: người trong bô lạc
 teaser /ˈtizər/: vấn đề rắc rối, lời trêu ghẹo, đoạn giới thiệu
