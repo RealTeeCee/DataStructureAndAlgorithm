@@ -1904,7 +1904,8 @@ desire /di'zaiə/: (v) thèm muốn; mong muốn, ao ước; đề nghị (n) s
 appreciate /ə'pri:ʃieit/: (v) cảm kích; đánh giá cao; nâng giá, tăng giá trị (của cái gì)
 possession /pə'zeʃn/: sự sở hữu, quyền sở hữu; sự chiếm hữu; vật sở hữu; tài sản, của cải
 perception /pə'sepʃn/: sự nhận thức; (triết học) tri giác; (pháp lý) sự thu (thuế...)
-trust /trəst/: (v) tin cậy, tín nhiệm (n) lòng tin
+* trust /trəst/: (v) tin cậy, tín nhiệm (n) lòng tin. mang ý nghĩa tin tưởng ai đó hoặc vật gì đó. thường đi kèm với sự cam kết hoặc trách nhiệm. Ex: I trust my sister to keep her promise (Tôi tin cậy vào việc em gái tôi giữ lời hứa của mình)
+* believe /bɪˈliːv/: (v) tin. tin tưởng vào một ý tưởng, một giá trị hoặc một điều gì đó mà không cần chứng cứ cụ thể. Ex: She believes in the importance of education (Cô ấy tin vào sự quan trọng của giáo dục)
 notice /'noutis/: (v) chú ý, để ý, nhận biết (n) lời báo, sự báo; thông tri, yết thị, thông cáo
 * remember /rɪˈmɛmbər/: (v) Nhớ, ghi nhớ. Thể hiện khả năng khôi phục thông tin từ trí nhớ. Ex: I remember his name (Tôi nhớ tên anh ấy).
 * recall /rɪˈkɔːl/: (v) Hồi tưởng, gợi nhớ. Thể hiện khả năng tái tạo lại hoặc gợi lại ký ức từ trí nhớ. Ex: I can't recall his face (Tôi không thể nhớ được khuôn mặt của anh ấy)

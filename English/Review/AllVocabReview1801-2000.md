@@ -104,7 +104,8 @@ cảm xúc, sự cảm động, sự xúc động, sự xúc cảm:
 (v) cảm kích; đánh giá cao; nâng giá, tăng giá trị (của cái gì): 
 sự sở hữu, quyền sở hữu; sự chiếm hữu; vật sở hữu; tài sản, của cải: 
 sự nhận thức; (triết học) tri giác; (pháp lý) sự thu (thuế...): 
-(v) tin cậy, tín nhiệm (n) lòng tin: 
+* (v) tin cậy, tín nhiệm (n) lòng tin. mang ý nghĩa tin tưởng ai đó hoặc vật gì đó. thường đi kèm với sự cam kết hoặc trách nhiệm: 
+* (v) tin. tin tưởng vào một ý tưởng, một giá trị hoặc một điều gì đó mà không cần chứng cứ cụ thể: 
 (v) chú ý, để ý, nhận biết (n) lời báo, sự báo; thông tri, yết thị, thông cáo: 
 * (v) Nhớ, ghi nhớ. Thể hiện khả năng khôi phục thông tin từ trí nhớ: 
 * (v) Hồi tưởng, gợi nhớ. Thể hiện khả năng tái tạo lại hoặc gợi lại ký ức từ trí nhớ: 
@@ -197,4 +198,3 @@ khẳng định:
 thu hút: 
 nơi giải trí, chơi game trên máy (trả bằng đồng xu): 
 vườn rau: 
-chuồng ngựa, kho thóc: 
