@@ -1809,7 +1809,10 @@ performing tricks /pə'fɔ:miɳ trik/: chiêu trò; biểu diễn kĩ xảo
 trickshot /'trikʃɔt/: Một cú sút/đánh bóng xuất chúng độc đáo để thể hiện bản thân hoặc ném một quả bóng không thể thực hiện được 
 transfer /'trænsfə:/: (n) sự di chuyển, sự dời chỗ; sự truyền; sự chuyển cho; (v) dời, chuyển, dọn; (+ to) chuyển tới
 crowd /kraud/: đám đông; the crowd: quần chúng; bọn, tụi, lũ, nhóm
-medic /'medik/: (n) y sĩ; bác sĩ; người cứu thương
+* physician /fəˈzɪʃən/: Bác sĩ chuyên khoa. thường là bác sĩ nội khoa (bác sĩ nội tiết, bác sĩ tim mạch, bác sĩ nhi khoa, v.v), người chuyên chẩn đoán và điều trị bệnh không phẫu thuật. thường được sử dụng ở Hoa Kỳ. Ex: The physician prescribed medication for the patient's condition (Bác sĩ chuyên khoa đã kê đơn thuốc cho tình trạng của bệnh nhân)
+* surgeon /'sə:dʤən/: bác sĩ phẫu thuật. là bác sĩ chuyên về phẫu thuật, thực hiện các thủ thuật can thiệp y khoa để điều trị bệnh hoặc chấn thương. Ex: The surgeon performed a complex heart operation (Bác sĩ phẫu thuật đã thực hiện một ca mổ tim phức tạp).
+* doctor /ˈdɒktər/: bác sĩ; (ngành khác) tiến sĩ. là thuật ngữ rộng, bao gồm tất cả các loại bác sĩ (bao gồm cả physicians và surgeons). Cũng có thể chỉ những người có bằng tiến sĩ (Ph.D.) trong các lĩnh vực khác, nhưng trong ngữ cảnh y tế, nó ám chỉ các bác sĩ y khoa. She is a doctor at the local hospital (Cô ấy là bác sĩ tại bệnh viện địa phương).Ex: The doctor performed surgery on the patient" (Bác sĩ đã thực hiện phẫu thuật cho bệnh nhân)
+* medic /'medik/: (n) y sĩ; nhân viên y tế; người cứu thương. thường ám chỉ những người có nhiệm vụ sơ cứu và chăm sóc y tế ban đầu, chẳng hạn như nhân viên y tế quân đội hoặc nhân viên cấp cứu. Không nhất thiết phải là bác sĩ đã qua đào tạo đầy đủ, có thể là y sĩ hoặc nhân viên cấp cứu. Ex: The medic treated the soldiers on the battlefield (Nhân viên y tế đã chăm sóc các binh sĩ trên chiến trường). Medics arrived quickly at the scene of the accident (Nhân viên y tế đã nhanh chóng có mặt tại hiện trường vụ tai nạn).
 medical /'medikəl/: (a) (thuộc) y học 
 medical condition //: tình trạng sức khỏe
 homesick /'houmsik/: nhớ nhà, nhớ quê hương
@@ -1817,7 +1820,9 @@ senior /'si:njə/: người nhiều kinh nghiệm hơn; người lớn tuổ
 senior team //: đội cấp cao
 scoring record //: kỷ lục ghi bàn
 shock /shock/: (n) sự sốc, sự khích động, sự đột xuất; (v) gây sốc, gây kích động, làm chướng tai gai mắt; gây giật điện
-wages /weidʤ/: tiền lương, tiền công
+* salary /ˈsæl.ɚ.i/: lương cố định. thường được trả cho nhân viên chuyên môn hoặc quản lý. lương cố định hàng tháng hoặc hàng năm và thường không thay đổi dựa trên số giờ làm việc. Ex: The job offers an annual salary of $50,000 (Công việc này có mức lương hàng năm là 50,000 đô la)
+* allowance /əˈlaʊ.əns/: phụ cấp; trợ cấp; tiền tiêu vặt. thường là khoản tiền được cấp thêm bên cạnh lương hoặc tiền công cho các chi phí cụ thể (như đi lại, ăn uống) hoặc tiền tiêu vặt cho trẻ em. Ex: She receives a monthly travel allowance (Cô ấy nhận trợ cấp đi lại hàng tháng). His parents give him a weekly allowance (Cha mẹ cậu ấy cho cậu ấy tiền tiêu vặt hàng tuần)
+* wages /weɪdʒɪz/: tiền lương, tiền công. thường được trả cho lao động phổ thông hoặc công việc tính theo giờ, ngày, hoặc tuần. thường biến động tùy theo số giờ làm việc hoặc số ngày làm việc. Ex: He earns his wages by working at the factory (Anh ta kiếm tiền công bằng cách làm việc ở nhà máy). The wages for this job are paid weekly (Tiền công cho công việc này được trả hàng tuần)
 pay wages //: trả lương
 lash out /læʃ aʊt/: đả kích, đáp trả; tấn công. hành động tấn công hoặc phản ứng không kiểm soát được, cho thấy mức độ tức giận hoặc thất vọng cao. Ex: He lashed out at his friend during the argument (Anh ta đã nổi giận và tấn công người bạn của mình trong cuộc cãi vã). She lashed out at the reporter with harsh words (Cô ấy đã đáp trả phóng viên bằng những lời lẽ gay gắt). The child lashed out in frustration (Đứa trẻ phản ứng bằng hành động bạo lực do thất vọng).
 cruise ship /kru:z ʃip/: tàu khách biển khơi, tàu du lịch
@@ -1854,13 +1859,15 @@ to spill the beans //: tiết lộ bí mật
 to shoot the breeze //: tán gẫu
 to bend over backwards //: cố gắng rất nhiều
 to hit the hay //: đi ngủ
-to hit the ceiling //: cực kỳ tức giận
+* to hit the ceiling //: nổi giận đùng đùng, tức giận tột độ. Chỉ sự tức giận bùng phát mạnh mẽ, rõ ràng và thể hiện ra bên ngoài. Ex: He hit the ceiling when he discovered the mistake (Anh ấy nổi giận đùng đùng khi phát hiện ra sai lầm)
+* to be hot under the collar //: cảm thấy tức giận hoặc bực bội. Chỉ trạng thái tức giận hoặc bực bội, có thể là nội tâm hoặc bên ngoài, nhưng không nhất thiết phải bùng phát mạnh mẽ có thể chỉ là căng thẳng hoặc khó chịu. Ex: She was hot under the collar after the argument (Cô ấy cảm thấy rất tức giận sau cuộc tranh cãi)
+* to blow a fuse //: tức giận, nổi giận đùng đùng. Thành ngữ này cũng diễn tả sự tức giận bùng nổ, thường đột ngột và mạnh mẽ, giống như một cầu chì bị cháy. Ex: She blew a fuse when she found out they had lied to her (Cô ấy nổi giận đùng đùng khi phát hiện ra họ đã nói dối cô ấy)
+* to lose one's temper //: Mất bình tĩnh, nổi nóng. Thành ngữ này dùng để diễn tả việc ai đó trở nên tức giận và không thể kiểm soát được cảm xúc của mình. Ex: She lost her temper when the kids made a mess (Cô ấy mất bình tĩnh khi lũ trẻ làm bừa bộn)
 to go fly a kite //: đi chơi chỗ khác, tránh chỗ khác
 to kick the bucket //: chết ngủm Die = pass away (qua đời - nên dùng hơn)
 to be in the hole //: nợ nần
 to face the music //: nhận hậu quả; chịu trách nhiệm về một cái gì đó bạn đã làm
 to blow it //: Làm hỏng, xử lý sai hoặc không tận dụng được cơ hội từ việc gì đó; mắc phạm sai lầm dẫn đến vụt mất cơ hội. Ex: You had your chance and you blew it. Bob was being considered for the promotion, but he blew it when he came in late to work each day this week.
-to be hot under the collar //: xấu hổ, hờn dỗi
 to be dressed to kill //: ăn mặc quần áo rất lạ mắt hoặc hấp dẫn
 to lose one's shirt //: làm mất nhiều tiền; mất phần lớn tài sản hoặc giá trị của một người trong một khoản đầu tư
 flee /flee/: chạy trốn, bỏ chạy; lẩn trốn; trốn tránh, lẩn tránh
@@ -1885,16 +1892,24 @@ belong to /bi'lɔɳ tu/: thuộc về
 * contain /kən'tein/: chứa đựng ,bao gồm; có bên trong. được sử dụng để chỉ ra rằng một vật hay một tập hợp có cái gì đó bên trong nó. Ex: This box contains old photos (Cái hộp này chứa những bức ảnh cũ). The bottle contains water (Chai này chứa nước)
 emotion /i'mouʃn/: cảm xúc, sự cảm động, sự xúc động, sự xúc cảm
 desire /di'zaiə/: (v) thèm muốn; mong muốn, ao ước; đề nghị (n) sự thèm muốn; sự mong muốn, khát khao; lòng thèm muốn; lời đề nghị
-adore /ə'dɔ:/: kính yêu, quý mến; mê, thíêt tha
-detest /di'test/: (v) ghét, ghét cay ghét đắng; ghê tởm
+* adore /ə'dɔ:/: yêu mến, ngưỡng mộ. thể hiện sự yêu mến sâu sắc, thường dùng cho người thân, người yêu, hoặc sở thích. Ex: She adores her pet cat (Cô ấy yêu quý con mèo của mình)
+* love /lʌv/: (v) Yêu; (n) tình yêu. thể hiện tình yêu chung chung, có thể mạnh mẽ hoặc nhẹ nhàng tùy ngữ cảnh. Ex: I love chocolate (Tôi thích sô-cô-la)
+* admire /ədˈmaɪər/: (v) ngưỡng mộ; kính trọng. thể hiện sự ngưỡng mộ, kính trọng, không nhất thiết phải có tình cảm yêu mến. Ex: I admire his honesty (Tôi ngưỡng mộ sự trung thực của anh ấy)
+* esteem /ɪˈstiːm/: (v) kính trọng; (n) sự kính trọng. thể hiện sự tôn trọng, kính trọng về phẩm chất hoặc thành tựu. Ex: She is held in high esteem by her peers (Cô ấy được đồng nghiệp rất kính trọng)
+* dear /dɪr/: (a) thân yêu, quý mến. thể hiện sự thân yêu, quý mến, thể hiện sự thân thiết và quý trọng. He is a dear friend (Anh ấy là một người bạn thân)
+* dislike /dɪsˈlaɪk/: (v) Không thích; (n) sự không thích. Thường dùng khi muốn nói về sự không thích một cách nhẹ nhàng, ít cảm xúc tiêu cực. Ex: He dislikes broccoli (Anh ấy không thích bông cải xanh)
+* hate /heɪt/: (v) Ghét, căm ghét. Thường dùng thể hiện sự ghét bỏ mạnh mẽ hơn.  Ex: He hates waking up early (Anh ấy ghét dậy sớm).
+* detest /di'test/: (v) ghét, ghét cay ghét đắng; ghê tởm. Thường dùng để thể hiện sự ghét bỏ rất mạnh mẽ, cảm xúc cực đoan. Ex: She detests dishonesty (Cô ấy căm ghét sự không trung thực)
 appreciate /ə'pri:ʃieit/: (v) cảm kích; đánh giá cao; nâng giá, tăng giá trị (của cái gì)
 possession /pə'zeʃn/: sự sở hữu, quyền sở hữu; sự chiếm hữu; vật sở hữu; tài sản, của cải
 perception /pə'sepʃn/: sự nhận thức; (triết học) tri giác; (pháp lý) sự thu (thuế...)
-recall /ri'kɔ:l/: (v) nhớ lại; gọi về, triệu về, triệu hồi (n) sự nhắc nhở, sự triệu hồi (một đại sứ...); sự gọi về
 trust /trəst/: (v) tin cậy, tín nhiệm (n) lòng tin
 notice /'noutis/: (v) chú ý, để ý, nhận biết (n) lời báo, sự báo; thông tri, yết thị, thông cáo
-mind /maind/: (v) để ý, lưu tâm(n) tâm trí, tinh thần
-recollect /,rekə'lekt/: nhớ lại, hồi tưởng lại
+* remember /rɪˈmɛmbər/: (v) Nhớ, ghi nhớ. Thể hiện khả năng khôi phục thông tin từ trí nhớ. Ex: I remember his name (Tôi nhớ tên anh ấy).
+* recall /rɪˈkɔːl/: (v) Hồi tưởng, gợi nhớ. Thể hiện khả năng tái tạo lại hoặc gợi lại ký ức từ trí nhớ. Ex: I can't recall his face (Tôi không thể nhớ được khuôn mặt của anh ấy)
+* mind /maind/: (v) để ý, lưu tâm (n) tâm trí, tinh thần. Thể hiện hành động quan tâm hoặc lưu ý đến một vấn đề nào đó. Ex: Mind your step! (Lưu ý bước chân của bạn!)
+* remind /rɪˈmaɪnd/: (v) Nhắc nhở, gợi nhớ. Thể hiện hành động nhắc nhở hoặc gợi lại thông tin cho người khác. Can you remind me to buy milk? (Bạn có thể nhắc nhở tôi mua sữa không?)
+* recollect /,rekə'lekt/: nhớ lại, hồi tưởng lại. Thể hiện hành động nhớ lại hoặc hồi tưởng ký ức từ trí nhớ. She couldn't recollect where she left her phone (Cô ấy không thể nhớ nơi cô ấy để điện thoại)
 perceive /pə'si:v/: nhận thấy; hiểu, nhận thức, lĩnh hội
 suppose /sə'pouz/: giả sử, giả thiết, giả định; đề nghị
 matter /'mætə/: (v) có ý nghĩa, có tính chất quan trọng (n) chất, vật chất

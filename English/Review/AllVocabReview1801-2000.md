@@ -9,7 +9,10 @@ chiêu trò; biểu diễn kĩ xảo:
 Một cú sút/đánh bóng xuất chúng độc đáo để thể hiện bản thân hoặc ném một quả bóng không thể thực hiện được: 
 (n) sự di chuyển, sự dời chỗ; sự truyền; sự chuyển cho; (v) dời, chuyển, dọn; (+ to) chuyển tới: 
 đám đông; the crowd: quần chúng; bọn, tụi, lũ, nhóm: 
-(n) y sĩ; bác sĩ; người cứu thương: 
+* Bác sĩ chuyên khoa. thường là bác sĩ nội khoa (bác sĩ nội tiết, bác sĩ tim mạch, bác sĩ nhi khoa, v.v), người chuyên chẩn đoán và điều trị bệnh không phẫu thuật. thường được sử dụng ở Hoa Kỳ: 
+* bác sĩ phẫu thuật. là bác sĩ chuyên về phẫu thuật, thực hiện các thủ thuật can thiệp y khoa để điều trị bệnh hoặc chấn thương: 
+* bác sĩ; (ngành khác) tiến sĩ. là thuật ngữ rộng, bao gồm tất cả các loại bác sĩ (bao gồm cả physicians và surgeons). Cũng có thể chỉ những người có bằng tiến sĩ (Ph.D.) trong các lĩnh vực khác, nhưng trong ngữ cảnh y tế, nó ám chỉ các bác sĩ y khoa: 
+* (n) y sĩ; nhân viên y tế; người cứu thương. thường ám chỉ những người có nhiệm vụ sơ cứu và chăm sóc y tế ban đầu, chẳng hạn như nhân viên y tế quân đội hoặc nhân viên cấp cứu. Không nhất thiết phải là bác sĩ đã qua đào tạo đầy đủ, có thể là y sĩ hoặc nhân viên cấp cứu: 
 (a) (thuộc) y học : 
 tình trạng sức khỏe: 
 nhớ nhà, nhớ quê hương: 
@@ -17,7 +20,9 @@ người nhiều kinh nghiệm hơn; người lớn tuổi; người giữ 
 đội cấp cao: 
 kỷ lục ghi bàn: 
 (n) sự sốc, sự khích động, sự đột xuất; (v) gây sốc, gây kích động, làm chướng tai gai mắt; gây giật điện: 
-tiền lương, tiền công: 
+* lương cố định. thường được trả cho nhân viên chuyên môn hoặc quản lý. lương cố định hàng tháng hoặc hàng năm và thường không thay đổi dựa trên số giờ làm việc: 
+* phụ cấp; trợ cấp; tiền tiêu vặt. thường là khoản tiền được cấp thêm bên cạnh lương hoặc tiền công cho các chi phí cụ thể (như đi lại, ăn uống) hoặc tiền tiêu vặt cho trẻ em: 
+* tiền lương, tiền công. thường được trả cho lao động phổ thông hoặc công việc tính theo giờ, ngày, hoặc tuần. thường biến động tùy theo số giờ làm việc hoặc số ngày làm việc: 
 trả lương: 
 đả kích, đáp trả; tấn công. hành động tấn công hoặc phản ứng không kiểm soát được, cho thấy mức độ tức giận hoặc thất vọng cao: 
 tàu khách biển khơi, tàu du lịch: 
@@ -54,13 +59,15 @@ tiết lộ bí mật:
 tán gẫu: 
 cố gắng rất nhiều: 
 đi ngủ: 
-cực kỳ tức giận: 
+* nổi giận đùng đùng, tức giận tột độ. Chỉ sự tức giận bùng phát mạnh mẽ, rõ ràng và thể hiện ra bên ngoài: 
+* cảm thấy tức giận hoặc bực bội. Chỉ trạng thái tức giận hoặc bực bội, có thể là nội tâm hoặc bên ngoài, nhưng không nhất thiết phải bùng phát mạnh mẽ có thể chỉ là căng thẳng hoặc khó chịu: 
+* tức giận, nổi giận đùng đùng. Thành ngữ này cũng diễn tả sự tức giận bùng nổ, thường đột ngột và mạnh mẽ, giống như một cầu chì bị cháy: 
+* Mất bình tĩnh, nổi nóng. Thành ngữ này dùng để diễn tả việc ai đó trở nên tức giận và không thể kiểm soát được cảm xúc của mình: 
 đi chơi chỗ khác, tránh chỗ khác: 
 chết ngủm Die = pass away (qua đời - nên dùng hơn): 
 nợ nần: 
 nhận hậu quả; chịu trách nhiệm về một cái gì đó bạn đã làm: 
 Làm hỏng, xử lý sai hoặc không tận dụng được cơ hội từ việc gì đó; mắc phạm sai lầm dẫn đến vụt mất cơ hội: 
-xấu hổ, hờn dỗi: 
 ăn mặc quần áo rất lạ mắt hoặc hấp dẫn: 
 làm mất nhiều tiền; mất phần lớn tài sản hoặc giá trị của một người trong một khoản đầu tư: 
 chạy trốn, bỏ chạy; lẩn trốn; trốn tránh, lẩn tránh: 
@@ -71,9 +78,9 @@ chạy trốn, bỏ chạy; lẩn trốn; trốn tránh, lẩn tránh:
 hơn, trội hơn (người khác về mặt nào...); trội về, xuất sắc về (môn gì...): 
 (v) buôn bán; giao dịch (n) giao thông: 
 (v) nhại, bắt chước (ai đó); giống hệt (vật gì) ;(a) bắt chước: 
-(v) dọa, gây sợ hãi; (n) tình huống, sự sợ hãi: 
-(v) làm hoang mang sợ hãi (n) sự hoang mang, hoảng loạn. thường cảm giác sợ hãi cực độ và đột ngột, thường dẫn đến : hành động vội vàng hoặc thiếu kiểm soát: 
-(v) làm hoảng sợ; làm lo lắng. ám chỉ sự sợ hãi gây ra bởi một điều gì đó nghiêm trọng hoặc nguy hiểm hơn. Miêu tả sự sợ : hãi sâu sắc và kéo dài hơn so với "scare": 
+* (v) dọa, gây sợ hãi; (n) tình huống, sự sợ hãi: 
+* (v) làm hoang mang sợ hãi (n) sự hoang mang, hoảng loạn. thường cảm giác sợ hãi cực độ và đột ngột, thường dẫn đến hành động vội vàng hoặc thiếu kiểm soát: 
+* (v) làm hoảng sợ; làm lo lắng. ám chỉ sự sợ hãi gây ra bởi một điều gì đó nghiêm trọng hoặc nguy hiểm hơn. Miêu tả sự sợ hãi sâu sắc và kéo dài hơn so với "scare": 
 (a) sợ hãi, hoảng sợ: 
 (a) hoang mang, hoảng loạn. Cảm thấy hoặc biểu hiện sự sợ hãi đột ngột và cực độ; dễ hoảng sợ.: 
 (a) hoảng sợ, sợ sệt: 
@@ -84,17 +91,25 @@ thuộc về:
 * bao gồm, bao hàm. được sử dụng để nói rằng một cái gì đó là một phần của một tổng thể lớn hơn, mà không liệt kê toàn bộ các phần: 
 * chứa đựng ,bao gồm; có bên trong. được sử dụng để chỉ ra rằng một vật hay một tập hợp có cái gì đó bên trong nó: 
 cảm xúc, sự cảm động, sự xúc động, sự xúc cảm: 
-(v) thèm muốn; mong muốn, ao ước; đề nghị (n) sự thèm muốn; sự mong muốn, khát khao; lòng thèm muốn; lời đề nghị
-kính yêu, quý mến; mê, thíêt tha: 
-(v) ghét, ghét cay ghét đắng; ghê tởm: 
+(v) thèm muốn; mong muốn, ao ước; đề nghị (n) sự thèm muốn; sự mong muốn, khát khao; lòng thèm muốn; lời đề nghị: 
+* yêu mến, ngưỡng mộ. thể hiện sự yêu mến sâu sắc, thường dùng cho người thân, người yêu, hoặc sở thích: 
+* (v) Yêu; (n) tình yêu. thể hiện tình yêu chung chung, có thể mạnh mẽ hoặc nhẹ nhàng tùy ngữ cảnh: 
+* (v) ngưỡng mộ; kính trọng. thể hiện sự ngưỡng mộ, kính trọng, không nhất thiết phải có tình cảm yêu mến: 
+* (v) kính trọng; (n) sự kính trọng. thể hiện sự tôn trọng, kính trọng về phẩm chất hoặc thành tựu: 
+* (a) thân yêu, quý mến. thể hiện sự thân yêu, quý mến, thể hiện sự thân thiết và quý trọng: 
+* (v) Không thích; (n) sự không thích. Thường dùng khi muốn nói về sự không thích một cách nhẹ nhàng, ít cảm xúc tiêu cực: 
+* (v) Ghét, căm ghét. Thường dùng thể hiện sự ghét bỏ mạnh mẽ hơn: 
+* (v) ghét, ghét cay ghét đắng; ghê tởm. Thường dùng để thể hiện sự ghét bỏ rất mạnh mẽ, cảm xúc cực đoan: 
 (v) cảm kích; đánh giá cao; nâng giá, tăng giá trị (của cái gì): 
 sự sở hữu, quyền sở hữu; sự chiếm hữu; vật sở hữu; tài sản, của cải: 
 sự nhận thức; (triết học) tri giác; (pháp lý) sự thu (thuế...): 
-(v) nhớ lại; gọi về, triệu về, triệu hồi (n) sự nhắc nhở, sự triệu hồi (một đại sứ...); sự gọi về: 
 (v) tin cậy, tín nhiệm (n) lòng tin: 
 (v) chú ý, để ý, nhận biết (n) lời báo, sự báo; thông tri, yết thị, thông cáo: 
-(v) để ý, lưu tâm(n) tâm trí, tinh thần: 
-nhớ lại, hồi tưởng lại: 
+(v) Nhớ, ghi nhớ. Thể hiện khả năng khôi phục thông tin từ trí nhớ: 
+(v) Hồi tưởng, gợi nhớ. Thể hiện khả năng tái tạo lại hoặc gợi lại ký ức từ trí nhớ: 
+(v) để ý, lưu tâm (n) tâm trí, tinh thần. Thể hiện hành động quan tâm hoặc lưu ý đến một vấn đề nào đó: 
+(v) Nhắc nhở, gợi nhớ. Thể hiện hành động nhắc nhở hoặc gợi lại thông tin cho người khác: 
+nhớ lại, hồi tưởng lại. Thể hiện hành động nhớ lại hoặc hồi tưởng ký ức từ trí nhớ: 
 nhận thấy; hiểu, nhận thức, lĩnh hội: 
 giả sử, giả thiết, giả định; đề nghị: 
 (v) có ý nghĩa, có tính chất quan trọng (n) chất, vật chất: 
