@@ -1993,7 +1993,7 @@ rush /rʌʃ/: dồn dập, vội vã
 thrilling rush /ˈθrɪlɪŋ rʌʃ/: cảm giác hồi hội dồn dập
 boost of energy //: tiếp thêm năng lượng
 researcher /rɪˈsərtʃer/: nhà nghiên cứu
-claim /kleɪm/: khẳng định
+claim /kleɪm/: khẳng định, tuyên bố; yêu cầu, nài
 * tough /tʌf/: cứng rắn; Bền bỉ, kiên cường; khó khăn. Thường ám chỉ tính bền bỉ, khả năng chịu đựng, hoặc kiên cường của con người hoặc vật. cũng có thể ám chỉ tính chất khó khăn của một tình huống hoặc công việc. The steak is very tough (Miếng bít tết rất dai). He went through a tough time after losing his job (Anh ấy đã trải qua một thời gian khó khăn sau khi mất việc). She is a tough competitor" (Cô ấy là một đối thủ cạnh tranh kiên cường)
 * hard //: cứng, chắc; khó khăn; chăm chỉ khắc nghiệt. Thường ám chỉ tính chất vật lý cứng rắn hoặc độ khó của một nhiệm vụ. cũng có thể ám chỉ sự nghiêm khắc hoặc đòi hỏi nhiều nỗ lực. Ex: The metal is very hard (Kim loại rất cứng). This math problem is too hard for me (Bài toán này quá khó đối với tôi). He worked hard all day (Anh ấy đã làm việc chăm chỉ cả ngày).
 attracting /əˈtrækting/: thu hút

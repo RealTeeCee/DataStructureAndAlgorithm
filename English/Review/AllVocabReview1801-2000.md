@@ -193,7 +193,7 @@ dồn dập, vội vã:
 cảm giác hồi hội dồn dập: 
 tiếp thêm năng lượng: 
 nhà nghiên cứu: 
-khẳng định: 
+khẳng định, tuyên bố; yêu cầu, nài: 
 * cứng rắn; Bền bỉ, kiên cường; khó khăn. Thường ám chỉ tính bền bỉ, khả năng chịu đựng, hoặc kiên cường của con người : hoặc vật. cũng có thể ám chỉ tính chất khó khăn của một tình huống hoặc công việc. The steak is very tough (Miếng bít tết rất dai): 
 * cứng, chắc; khó khăn; chăm chỉ khắc nghiệt. Thường ám chỉ tính chất vật lý cứng rắn hoặc độ khó của một nhiệm vụ. cũng có thể ám chỉ sự nghiêm khắc hoặc đòi hỏi nhiều nỗ lực: 
 thu hút: 
