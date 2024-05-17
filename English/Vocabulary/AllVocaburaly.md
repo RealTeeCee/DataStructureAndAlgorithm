@@ -1928,8 +1928,8 @@ choir club /ˈkwaɪər klʌb/: câu lạc bộ hợp xướng
 gymnastics /dʒɪmˈnæstɪks/: thể dục
 ballet /bæˈleɪ/: vở ballet
 uniquely talented /yuˈnik ˈtæləntəd/: tài năng độc đáo, tài năng độc nhất
-put my mind to //: đặt tâm trí vào
-got on well with //: hòa hợp với, thân với
+put my mind to /pʊt maɪ maɪnd tu/: Dồn tâm trí vào, đặt tâm trí vào. Ex: I can achieve anything if I put my mind to it (Tôi có thể đạt được bất cứ điều gì nếu tôi dồn tâm trí vào đó). He put his mind to finishing the project on time (Anh ấy dồn tâm trí vào việc hoàn thành dự án đúng hạn).
+got on well with  /ɡɛt ɒn wɛl wɪð/: hòa hợp với, thân với. Ex: She gets on well with her coworkers (Cô ấy hòa thuận với các đồng nghiệp của mình). He gets on well with his neighbors (Anh ấy có mối quan hệ tốt với hàng xóm). They get on well with each other (Họ hòa thuận với nhau).
 passion /ˈpæʃn/: Đam mê
 race /reɪs/: chạy đua, chủng tộc, loài
 synchronise /ˈsɪŋkrəˌnaɪz/: Đồng bộ
@@ -1940,19 +1940,20 @@ governing body /ˈɡʌvərnɪŋ ˈbɑdi/: cơ quan chủ quản
 archery /ˈɑrtʃəri/: Bắn cung
 archery range  /ɑrtʃəri reɪndʒ/: Trường bắn cung
 solo performance /ˈsoʊloʊ pərˈfɔrməns/ : biểu diễn solo
-fade /feɪd/: phai, tan
+fade /feɪd/: (v) phai nhạt, mờ dần. Ex: The colors of the painting have faded (Màu sắc của bức tranh đã phai nhạt). The sound of the music faded away (Âm thanh của bản nhạc mờ dần).
 looking back at //: nhìn lại điều gì đó ..
 behaviour /bɪˈheɪvyər/: hành vi
-appeal /əˈpil/: hấp dẫn, bắt mắt , gọi, lời kêu gọi
-appealing description //: mô tả hấp dẫn
-enthusiasm /ɪnˈθuziˌæzəm/: sự nhiệt ình, hăng hái, nhiệt tâm
+appeal /əˈpil/:  (n) lời kêu gọi, sự hấp dẫn; (v) kêu gọi, thu hút. Ex: The charity made an appeal for donations (Tổ chức từ thiện đã kêu gọi quyên góp). The movie's appeal lies in its storyline (Sự hấp dẫn của bộ phim nằm ở cốt truyện). They appealed for calm after the accident (Họ kêu gọi bình tĩnh sau tai nạn). This advertisement appeals to young people (Quảng cáo này thu hút giới trẻ).
+appealing /əˈpiːlɪŋ/: (a) Hấp dẫn, thu hút
+appealing description //: mô tả hấp dẫn, thu hút
+enthusiasm /ɪnˈθuziˌæzəm/: sự nhiệt tình, hăng hái, nhiệt tâm
 space camps //: Trại không gian (một trại giáo dục ở Huntsville, Alabama, trong khuôn viên của bảo tàng Trung tâm Tên lửa & Vũ trụ Hoa Kỳ gần Trung tâm Bay Không gian Marshall của NASA.)
 remain /rɪˈmeɪn/: duy trì, còn lại
 NASA passport programme //: Chương trình hộ chiếu của NASA
 panel /ˈpænl/: bảng điều khiển
-ground-breaking //: Đột phá
+ground-breaking /ˈɡraʊndˌbreɪkɪŋ/: (a) mang tính đột phá, mang tính tiên phong. Ex: The research team achieved ground-breaking results in the field of medicine (Nhóm nghiên cứu đã đạt được kết quả đột phá trong lĩnh vực y học). The ground-breaking technology revolutionized the way we communicate (Công nghệ đột phá đã cách mạng hóa cách chúng ta giao tiếp).
 survival /sərˈvaɪvl/: sự sống còn, sự tồn tại
-water survival //: tình huống sinh tử dưới nước
+water survival //: tình huống sinh tử dưới nước. Ex: Water survival training is essential for sailors and navy personnel (Huấn luyện sống sót trong nước là rất quan trọng đối với thủy thủ và nhân viên hải quân).
 G-force training //: huấn luyện lực g, chương trình huấn luyện của phi công. ( g la lực hấp dẫn hoặc gia tốc)
 physiology /ˌfɪziˈɑlədʒi/: sinh lý học
 astrobiology /ˌæstrəʊbaɪˈɒlədʒi/ : sinh vật học vũ trụ
@@ -1960,7 +1961,7 @@ focus on /ˈfoʊkəs ɔn/: Tập trung vào
 childhood /ˈtʃaɪldhʊd/: thời thơ ấu
 goal /ɡoʊl/: mục tiêu, bàn thắng, cửa goal
 flaming /ˈfleɪmɪŋ/: rực lửa ,sáng rực
-flaming hot //: nóng rực
+flaming hot //: cay nồng, nóng rang, rực lửa. thường được sử dụng để mô tả một cái gì đó rất nóng hoặc đầy cảm xúc mạnh mẽ, thường là trong ngữ cảnh của hương vị hoặc cảm xúc. Ex: The noodles were flaming hot, I had to blow on them before eating (Mì cay nồng, tôi phải thổi vào trước khi ăn). The sun beat down with flaming hot intensity (Mặt trời chiếu xuống với cường độ nóng bức).
 scientifically /ˌsaɪənˈtɪfɪkli/: một cách khoa học
 neuron /ˈnʊrɑn/: tế bào thần kinh
 trigger /ˈtrɪɡər/: cò súng, kích hoạt

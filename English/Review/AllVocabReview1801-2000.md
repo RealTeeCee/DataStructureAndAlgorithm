@@ -13,10 +13,10 @@ Một cú sút/đánh bóng xuất chúng độc đáo để thể hiện 
 * bác sĩ phẫu thuật. là bác sĩ chuyên về phẫu thuật, thực hiện các thủ thuật can thiệp y khoa để điều trị bệnh hoặc chấn thương: 
 * bác sĩ; (ngành khác) tiến sĩ. là thuật ngữ rộng, bao gồm tất cả các loại bác sĩ (bao gồm cả physicians và surgeons). Cũng có thể chỉ những người có bằng tiến sĩ (Ph.D.) trong các lĩnh vực khác, nhưng trong ngữ cảnh y tế, nó ám chỉ các bác sĩ y khoa: 
 * (n) y sĩ; nhân viên y tế; người cứu thương. thường ám chỉ những người có nhiệm vụ sơ cứu và chăm sóc y tế ban đầu, chẳng hạn như nhân viên y tế quân đội hoặc nhân viên cấp cứu. Không nhất thiết phải là bác sĩ đã qua đào tạo đầy đủ, có thể là y sĩ hoặc nhân viên cấp cứu: 
-(a) (thuộc) y học : 
+(a) (thuộc) y học: 
 tình trạng sức khỏe: 
 nhớ nhà, nhớ quê hương: 
-người nhiều kinh nghiệm hơn; người lớn tuổi; người giữ chức vụ cao và có thẩm quyền.: 
+người nhiều kinh nghiệm hơn; người lớn tuổi; người giữ chức vụ cao và có thẩm quyền: 
 đội cấp cao: 
 kỷ lục ghi bàn: 
 (n) sự sốc, sự khích động, sự đột xuất; (v) gây sốc, gây kích động, làm chướng tai gai mắt; gây giật điện: 
@@ -35,7 +35,7 @@ hệ sinh vật:
 cuộc sống ngoài biển: 
 hệ sinh vật biển: 
 (n) tiền phải trả, tiền công, tiền thù lao; vật mang, vật chở; gánh nặng; nhiệm vụ, bổn phận, trách nhiệm; sự nạp đạn, sự nạp điện; sự bảo chứng: 
-                 (v) bắt chi trả, bắt nộp, ghi sổ (nợ); giao nhiệm vụ; nạp đạn, điện
+            (v) bắt chi trả, bắt nộp, ghi sổ (nợ); giao nhiệm vụ; nạp đạn, điện
 Tiền phí cho ...: 
 chịu trách nhiệm ...: 
 chủ đề: 
@@ -73,7 +73,7 @@ làm mất nhiều tiền; mất phần lớn tài sản hoặc giá trị c
 chạy trốn, bỏ chạy; lẩn trốn; trốn tránh, lẩn tránh: 
 (v) nhuộm (n) thuốc nhuộm: 
 (v) la hét phản đối; huýt sáo chế giễu; (cú) kêu lên 1 tiếng (n) tiếng la hét (phản đối, chế giễu...); tiếng cú : kêu; 
-* (v) Hồi phục, làm lành (vết thương, bệnh tật, hoặc cảm xúc); lành lại. thường là quá trình phục hồi tự nhiên hoặc : giúp phục hồi (có thể là vết thương thể chất, bệnh tật, hoặc đau khổ tinh thần). không nhất thiết phải là loại bỏ hoàn toàn bệnh tật mà là sự cải thiện hoặc lành lặn dần dần: 
+* (v) Hồi phục, làm lành (vết thương, bệnh tật, hoặc cảm xúc); lành lại. thường là quá trình phục hồi tự nhiên hoặc giúp phục hồi (có thể là vết thương thể chất, bệnh tật, hoặc đau khổ tinh thần). không nhất thiết phải là loại bỏ hoàn toàn bệnh tật mà là sự cải thiện hoặc lành lặn dần dần: 
 * (n) phương pháp, cách thức, liều thuốc điều trị bệnh tật. (v) chữa, điều trị triệt để bệnh tật.  thường tập trung vào việc loại bỏ hoàn toàn bệnh tật hoặc tình trạng không khỏe và thường có nghĩa là bệnh tật đã được loại bỏ hoàn toàn thông qua một phương pháp điều trị: 
 hơn, trội hơn (người khác về mặt nào...); trội về, xuất sắc về (môn gì...): 
 (v) buôn bán; giao dịch (n) giao thông: 
@@ -82,7 +82,7 @@ hơn, trội hơn (người khác về mặt nào...); trội về, xuất sắc
 * (v) làm hoang mang sợ hãi (n) sự hoang mang, hoảng loạn. thường cảm giác sợ hãi cực độ và đột ngột, thường dẫn đến hành động vội vàng hoặc thiếu kiểm soát: 
 * (v) làm hoảng sợ; làm lo lắng. ám chỉ sự sợ hãi gây ra bởi một điều gì đó nghiêm trọng hoặc nguy hiểm hơn. Miêu tả sự sợ hãi sâu sắc và kéo dài hơn so với "scare": 
 (a) sợ hãi, hoảng sợ: 
-(a) hoang mang, hoảng loạn. Cảm thấy hoặc biểu hiện sự sợ hãi đột ngột và cực độ; dễ hoảng sợ.: 
+(a) hoang mang, hoảng loạn. Cảm thấy hoặc biểu hiện sự sợ hãi đột ngột và cực độ; dễ hoảng sợ: 
 (a) hoảng sợ, sợ sệt: 
 (v) sở hữu, là chủ của; thú nhận (a) của chính mình: 
 nợ: 
@@ -128,7 +128,7 @@ câu lạc bộ hợp xướng:
 thể dục: 
 vở ballet: 
 tài năng độc đáo, tài năng độc nhất: 
-đặt tâm trí vào: 
+dồn tâm trí vào, đặt tâm trí vào: 
 hòa hợp với, thân với: 
 Đam mê: 
 chạy đua, chủng tộc, loài: 
@@ -140,17 +140,18 @@ cơ quan chủ quản:
 Bắn cung: 
 Trường bắn cung: 
 biểu diễn solo: 
-phai, tan: 
+(v) phai nhạt, mờ dần: 
 nhìn lại điều gì đó ..: 
 hành vi: 
-hấp dẫn, bắt mắt , gọi, lời kêu gọi: 
-mô tả hấp dẫn: 
-sự nhiệt ình, hăng hái, nhiệt tâm: 
+(n) lời kêu gọi, sự hấp dẫn; (v) kêu gọi, thu hút: 
+(a) hấp dẫn, thu hút: 
+mô tả hấp dẫn, thu hút: 
+sự nhiệt tình, hăng hái, nhiệt tâm: 
 Trại không gian (một trại giáo dục ở Huntsville, Alabama, trong khuôn viên của bảo tàng Trung tâm Tên lửa & Vũ trụ Hoa Kỳ gần Trung tâm Bay Không gian Marshall của NASA.): 
 duy trì, còn lại: 
 Chương trình hộ chiếu của NASA: 
 bảng điều khiển: 
-Đột phá: 
+(a) mang tính đột phá, mang tính tiên phong: 
 sự sống còn, sự tồn tại: 
 tình huống sinh tử dưới nước: 
 huấn luyện lực g, chương trình huấn luyện của phi công. ( g la lực hấp dẫn hoặc gia tốc): 
@@ -160,12 +161,12 @@ Tập trung vào:
 thời thơ ấu: 
 mục tiêu, bàn thắng, cửa goal: 
 rực lửa ,sáng rực: 
-nóng rực: 
+cay nồng, nóng rang, rực lửa. thường được sử dụng để mô tả một cái gì đó rất nóng hoặc đầy cảm xúc mạnh mẽ, thường là trong ngữ cảnh của hương vị hoặc cảm xúc: 
 một cách khoa học: 
 tế bào thần kinh: 
 cò súng, kích hoạt: 
 sự phấn khích: 
-C₁₈H₂₇NO₃ hợp chất hóa học làm cho ớt có vị cay.: 
+C₁₈H₂₇NO₃ hợp chất hóa học làm cho ớt có vị cay: 
 thành phần, cấu tạo: 
 ớt: 
 hạt tiêu: 
@@ -196,20 +197,4 @@ thu hút:
 nơi giải trí, chơi game trên máy (trả bằng đồng xu): 
 vườn rau: 
 chuồng ngựa, kho thóc: 
-Khi chúng tôi dừng xe trước ngôi nhà.: 
-Mãnh liệt: 
-bắp: 
-bị nhốt lại, bị giam giữ; bị cất giấu; hoặc bị giam giữ: 
-địa lý: 
-tổ chức từ thiện: 
-quyên tặng ,cho: 
-quyên góp từ thiện: 
-tình trạng thể chất đỉnh cao: 
-sáng suốt, minh mẫn: 
-điếc: 
-tắt tiếng, người câm: 
-ôm, bao quanh: 
-điệu múa dân tộc(bộ lạc): 
-sắp được phát hành: 
-theo sát: 
-huân chương được công nhận về khiêu vũ: 
+Khi chúng tôi dừng xe trước ngôi nhà: 
