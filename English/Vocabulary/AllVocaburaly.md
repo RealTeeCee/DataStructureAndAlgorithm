@@ -1995,7 +1995,8 @@ boost of energy //: tiếp thêm năng lượng
 researcher /rɪˈsərtʃer/: nhà nghiên cứu
 claim /kleɪm/: khẳng định, tuyên bố; yêu cầu, nài
 * tough /tʌf/: cứng rắn; Bền bỉ, kiên cường; khó khăn. Thường ám chỉ tính bền bỉ, khả năng chịu đựng, hoặc kiên cường của con người hoặc vật. cũng có thể ám chỉ tính chất khó khăn của một tình huống hoặc công việc. The steak is very tough (Miếng bít tết rất dai). He went through a tough time after losing his job (Anh ấy đã trải qua một thời gian khó khăn sau khi mất việc). She is a tough competitor" (Cô ấy là một đối thủ cạnh tranh kiên cường)
-* hard //: cứng, chắc; khó khăn; chăm chỉ khắc nghiệt. Thường ám chỉ tính chất vật lý cứng rắn hoặc độ khó của một nhiệm vụ. cũng có thể ám chỉ sự nghiêm khắc hoặc đòi hỏi nhiều nỗ lực. Ex: The metal is very hard (Kim loại rất cứng). This math problem is too hard for me (Bài toán này quá khó đối với tôi). He worked hard all day (Anh ấy đã làm việc chăm chỉ cả ngày).
+* hard /hɑːrd/: cứng, chắc; khó khăn; chăm chỉ khắc nghiệt. Thường ám chỉ tính chất vật lý cứng rắn hoặc độ khó của một nhiệm vụ. cũng có thể ám chỉ sự nghiêm khắc hoặc đòi hỏi nhiều nỗ lực. Ex: The metal is very hard (Kim loại rất cứng). This math problem is too hard for me (Bài toán này quá khó đối với tôi). He worked hard all day (Anh ấy đã làm việc chăm chỉ cả ngày).
+* stiff /stɪf/: cứng, cứng nhắc. thường được sử dụng để mô tả vật không linh hoạt hoặc khó di chuyển.Cũng có thể ám chỉ tính cách cứng nhắc, không linh hoạt. Ex: The door was stiff and hard to open (cửa cứng và khó mở). His muscles were stiff after the intense workout (Các cơ bắp của anh ấy cứng sau buổi tập luyện cường độ)
 arcade /ɑrˈkeɪd/: nơi giải trí, chơi game trên máy (trả bằng đồng xu)
 vegetable crops /ˈvɛdʒtəbl krɑp/: vườn rau
 barn /bɑrn/: chuồng ngựa, kho thóc
