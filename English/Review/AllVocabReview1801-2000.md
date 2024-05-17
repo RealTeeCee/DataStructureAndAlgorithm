@@ -123,7 +123,7 @@ tuyên bố, báo cho biết; biểu thị, biểu hiện; báo hiệu:
 tượng trưng hoá; ký hiệu hóa: 
 cố gắng làm quá nhiều việc cùng một lúc, dẫn đến việc không thể hoàn thành chúng một cách hiệu quả: 
 quá dễ - too easy: 
-* Phương pháp luyện tập thay thế. một phương pháp học ngoại ngữ, đặc biệt phổ biến trong dạy tiếng Anh, nhằm giúp người học thực hành cấu trúc câu và từ vựng thông qua việc thay thế một phần của câu bằng các từ hoặc cụm từ khác nhau.
+* Phương pháp luyện tập thay thế. một phương pháp học ngoại ngữ, đặc biệt phổ biến trong dạy tiếng Anh, nhằm giúp người học thực hành cấu trúc câu và từ vựng thông qua việc thay thế một phần của câu bằng các từ hoặc cụm từ khác nhau: 
 Ex: Thay thế "a book" bằng các từ khác: She is reading a magazine. She is reading a newspaper. She is reading a novel. Thay thế "apples" bằng các từ khác: I like to eat oranges. I like to eat bananas. I like to eat grapes. Thay thế "a teacher" bằng các từ khác: He is a doctor. He is a lawyer. He is a student.
 âm điệu: 
 Bơi nghệ thuật: 
