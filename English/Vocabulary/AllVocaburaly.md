@@ -1913,7 +1913,8 @@ notice /'noutis/: (v) chú ý, để ý, nhận biết (n) lời báo, sự ba�
 * remind /rɪˈmaɪnd/: (v) Nhắc nhở, gợi nhớ. Thể hiện hành động nhắc nhở hoặc gợi lại thông tin cho người khác. Can you remind me to buy milk? (Bạn có thể nhắc nhở tôi mua sữa không?)
 * recollect /,rekə'lekt/: (v) nhớ lại, hồi tưởng lại. Thể hiện hành động nhớ lại hoặc hồi tưởng ký ức từ trí nhớ. She couldn't recollect where she left her phone (Cô ấy không thể nhớ nơi cô ấy để điện thoại)
 perceive /pə'si:v/: nhận thấy; hiểu, nhận thức, lĩnh hội
-suppose /sə'pouz/: giả sử, giả thiết, giả định; đề nghị
+* suppose /sə'pouz/: giả sử, giả thiết, giả định; đề nghị. thường mang ý nghĩa của việc đưa ra một giả định không có thật với mục đích thử nghiệm ý kiến hoặc tình huống. Ex: Let's assume that he will arrive at 8 o'clock (Hãy giả định rằng anh ấy sẽ đến lúc 8 giờ)
+* assume /əˈsjuːm/: (v) giả định, cho rằng. Thường được sử dụng khi người nói hoặc người viết nhận định một điều gì đó là đúng mà không có bằng chứng cụ thể. Ex: Suppose it rains tomorrow, what will we do? (Giả sử ngày mai mưa, chúng ta sẽ làm gì?)
 matter /'mætə/: (v) có ý nghĩa, có tính chất quan trọng (n) chất, vật chất
 weigh /wei/: (v) cân đo (n) sự cân nặng, cái cân
 signify /'signifai/: tuyên bố, báo cho biết; biểu thị, biểu hiện; báo hiệu

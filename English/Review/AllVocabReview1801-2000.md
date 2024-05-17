@@ -113,7 +113,8 @@ sự nhận thức; (triết học) tri giác; (pháp lý) sự thu (thuế...):
 * (v) Nhắc nhở, gợi nhớ. Thể hiện hành động nhắc nhở hoặc gợi lại thông tin cho người khác: 
 * (v) nhớ lại, hồi tưởng lại. Thể hiện hành động nhớ lại hoặc hồi tưởng ký ức từ trí nhớ: 
 nhận thấy; hiểu, nhận thức, lĩnh hội: 
-giả sử, giả thiết, giả định; đề nghị: 
+* giả sử, giả thiết, giả định; đề nghị. thường mang ý nghĩa của việc đưa ra một giả định không có thật với mục đích thử nghiệm ý kiến hoặc tình huống: 
+* (v) giả định, cho rằng. Thường được sử dụng khi người nói hoặc người viết nhận định một điều gì đó là đúng mà không có bằng chứng cụ thể: 
 (v) có ý nghĩa, có tính chất quan trọng (n) chất, vật chất: 
 (v) cân đo (n) sự cân nặng, cái cân: 
 tuyên bố, báo cho biết; biểu thị, biểu hiện; báo hiệu: 
