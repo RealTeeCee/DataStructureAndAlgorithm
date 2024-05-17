@@ -1921,7 +1921,7 @@ signify /'signifai/: tuyên bố, báo cho biết; biểu thị, biểu hiện; 
 hold /hould/: (v) cầm, nắm, giữ (n) sự cầm, sự nắm giữ
 stand //: (v) chịu đựng; giữ vững ;(+ for ...) là viết tắt của ...;(+ by) đứng cạnh, đứng bên cạnh
 symbolize /'simbəlaiz/: tượng trưng hoá; ký hiệu hóa
-to spread oneself too thin //: dính líu đến quá nhiều thứ - be involved in too many activities. Ex: How can you work at two jobs and go to school at the same time; you're spread your self too thin.
+To spread oneself too thin /tuː sprɛd wʌnˈsɛlf tuː θɪn/: cố gắng làm quá nhiều việc cùng một lúc, dẫn đến việc không thể hoàn thành chúng một cách hiệu quả. Ex: She's been spreading herself too thin lately, trying to juggle a full-time job, volunteer work, and taking care of her family (Cô ấy đã chia sẻ bản thân quá mỏng gần đây, cố gắng cân đối công việc toàn thời gian, công việc tình nguyện và việc chăm sóc gia đình của mình)
 duck soup //: quá dễ - too easy. Ex: This homework is duck soup to me.
 * substition drill /ˌsʌbstəˈtuʃn drɪl/: Phương pháp luyện tập thay thế. một phương pháp học ngoại ngữ, đặc biệt phổ biến trong dạy tiếng Anh, nhằm giúp người học thực hành cấu trúc câu và từ vựng thông qua việc thay thế một phần của câu bằng các từ hoặc cụm từ khác nhau.
 Ex: Thay thế "a book" bằng các từ khác: She is reading a magazine. She is reading a newspaper. She is reading a novel. Thay thế "apples" bằng các từ khác: I like to eat oranges. I like to eat bananas. I like to eat grapes. Thay thế "a teacher" bằng các từ khác: He is a doctor. He is a lawyer. He is a student.
