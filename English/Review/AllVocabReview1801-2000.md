@@ -77,7 +77,8 @@ chạy trốn, bỏ chạy; lẩn trốn; trốn tránh, lẩn tránh:
 * (n) phương pháp, cách thức, liều thuốc điều trị bệnh tật. (v) chữa, điều trị triệt để bệnh tật.  thường tập trung vào việc loại bỏ hoàn toàn bệnh tật hoặc tình trạng không khỏe và thường có nghĩa là bệnh tật đã được loại bỏ hoàn toàn thông qua một phương pháp điều trị: 
 hơn, trội hơn (người khác về mặt nào...); trội về, xuất sắc về (môn gì...): 
 (v) buôn bán; giao dịch (n) giao thông: 
-(v) nhại, bắt chước (ai đó); giống hệt (vật gì) ;(a) bắt chước: 
+* (v) nhại, bắt chước (ai đó); giống hệt (vật gì);(a) tính bắt chước. ám chỉ hành động sao chép hoặc bắt chước, nhưng thường ám chỉ hành động hoặc sự giả dối một cách nhân hóa hơn. đề cập đến việc bắt chước âm thanh, hành động hoặc cảm xúc của người khác một cách đồng dạng hoặc mỉa mai: 
+* (v) bắt chước, sao chép hành động. ám chỉ hành động sao chép một hành động, một phong cách hoặc một ngôn ngữ cụ thể của người khác. thường có ý nghĩa tích cực hơn và được thực hiện để học hỏi hoặc hỗ trợ việc học tập và phát triển: 
 * (v) dọa, gây sợ hãi; (n) tình huống, sự sợ hãi: 
 * (v) làm hoang mang sợ hãi (n) sự hoang mang, hoảng loạn. thường cảm giác sợ hãi cực độ và đột ngột, thường dẫn đến hành động vội vàng hoặc thiếu kiểm soát: 
 * (v) làm hoảng sợ; làm lo lắng. ám chỉ sự sợ hãi gây ra bởi một điều gì đó nghiêm trọng hoặc nguy hiểm hơn. Miêu tả sự sợ hãi sâu sắc và kéo dài hơn so với "scare": 
@@ -197,4 +198,3 @@ thu hút:
 nơi giải trí, chơi game trên máy (trả bằng đồng xu): 
 vườn rau: 
 chuồng ngựa, kho thóc: 
-Khi chúng tôi dừng xe trước ngôi nhà: 
