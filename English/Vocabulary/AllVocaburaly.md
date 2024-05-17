@@ -2075,7 +2075,6 @@ wealth of knowledge //: sự giàu kiến thức
 insight /'insait/: sự sáng suốt, minh mẩn; có cái nhìn thấu suốt
 coupled with //: kết hợp với, liên kết với
 genuine /'dʤenjuin/: thành thật, chân thật
-desire /di'zaiə/: sự khao khát, thèm muốn
 thrive /θraiv/: phát triển thịnh vượng, phát đạt; lớn lên
 steadfast /'stedfəst/: kiên định, vững chắc
 unparalleled /unparalleled/: vô song; không bì được, ko so sánh được
