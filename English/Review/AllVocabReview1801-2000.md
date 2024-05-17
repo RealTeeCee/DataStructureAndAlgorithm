@@ -105,11 +105,11 @@ sự sở hữu, quyền sở hữu; sự chiếm hữu; vật sở hữu; t�
 sự nhận thức; (triết học) tri giác; (pháp lý) sự thu (thuế...): 
 (v) tin cậy, tín nhiệm (n) lòng tin: 
 (v) chú ý, để ý, nhận biết (n) lời báo, sự báo; thông tri, yết thị, thông cáo: 
-(v) Nhớ, ghi nhớ. Thể hiện khả năng khôi phục thông tin từ trí nhớ: 
-(v) Hồi tưởng, gợi nhớ. Thể hiện khả năng tái tạo lại hoặc gợi lại ký ức từ trí nhớ: 
-(v) để ý, lưu tâm (n) tâm trí, tinh thần. Thể hiện hành động quan tâm hoặc lưu ý đến một vấn đề nào đó: 
-(v) Nhắc nhở, gợi nhớ. Thể hiện hành động nhắc nhở hoặc gợi lại thông tin cho người khác: 
-nhớ lại, hồi tưởng lại. Thể hiện hành động nhớ lại hoặc hồi tưởng ký ức từ trí nhớ: 
+* (v) Nhớ, ghi nhớ. Thể hiện khả năng khôi phục thông tin từ trí nhớ: 
+* (v) Hồi tưởng, gợi nhớ. Thể hiện khả năng tái tạo lại hoặc gợi lại ký ức từ trí nhớ: 
+* (v) để ý, lưu tâm (n) tâm trí, tinh thần. Thể hiện hành động quan tâm hoặc lưu ý đến một vấn đề nào đó: 
+* (v) Nhắc nhở, gợi nhớ. Thể hiện hành động nhắc nhở hoặc gợi lại thông tin cho người khác: 
+* (v) nhớ lại, hồi tưởng lại. Thể hiện hành động nhớ lại hoặc hồi tưởng ký ức từ trí nhớ: 
 nhận thấy; hiểu, nhận thức, lĩnh hội: 
 giả sử, giả thiết, giả định; đề nghị: 
 (v) có ý nghĩa, có tính chất quan trọng (n) chất, vật chất: 

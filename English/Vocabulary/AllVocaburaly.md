@@ -1909,7 +1909,7 @@ notice /'noutis/: (v) chú ý, để ý, nhận biết (n) lời báo, sự ba�
 * recall /rɪˈkɔːl/: (v) Hồi tưởng, gợi nhớ. Thể hiện khả năng tái tạo lại hoặc gợi lại ký ức từ trí nhớ. Ex: I can't recall his face (Tôi không thể nhớ được khuôn mặt của anh ấy)
 * mind /maind/: (v) để ý, lưu tâm (n) tâm trí, tinh thần. Thể hiện hành động quan tâm hoặc lưu ý đến một vấn đề nào đó. Ex: Mind your step! (Lưu ý bước chân của bạn!)
 * remind /rɪˈmaɪnd/: (v) Nhắc nhở, gợi nhớ. Thể hiện hành động nhắc nhở hoặc gợi lại thông tin cho người khác. Can you remind me to buy milk? (Bạn có thể nhắc nhở tôi mua sữa không?)
-* recollect /,rekə'lekt/: nhớ lại, hồi tưởng lại. Thể hiện hành động nhớ lại hoặc hồi tưởng ký ức từ trí nhớ. She couldn't recollect where she left her phone (Cô ấy không thể nhớ nơi cô ấy để điện thoại)
+* recollect /,rekə'lekt/: (v) nhớ lại, hồi tưởng lại. Thể hiện hành động nhớ lại hoặc hồi tưởng ký ức từ trí nhớ. She couldn't recollect where she left her phone (Cô ấy không thể nhớ nơi cô ấy để điện thoại)
 perceive /pə'si:v/: nhận thấy; hiểu, nhận thức, lĩnh hội
 suppose /sə'pouz/: giả sử, giả thiết, giả định; đề nghị
 matter /'mætə/: (v) có ý nghĩa, có tính chất quan trọng (n) chất, vật chất
