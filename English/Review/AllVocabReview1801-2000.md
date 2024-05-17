@@ -198,4 +198,3 @@ khẳng định:
 * cứng, chắc; khó khăn; chăm chỉ khắc nghiệt. Thường ám chỉ tính chất vật lý cứng rắn hoặc độ khó của một nhiệm vụ. cũng có thể ám chỉ sự nghiêm khắc hoặc đòi hỏi nhiều nỗ lực: 
 thu hút: 
 nơi giải trí, chơi game trên máy (trả bằng đồng xu): 
-vườn rau: 
