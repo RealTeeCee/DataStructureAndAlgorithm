@@ -1930,7 +1930,7 @@ artistic swimming /ɑrˈtɪstɪk ˈswɪmɪŋ/: Bơi nghệ thuật
 choir club /ˈkwaɪər klʌb/: câu lạc bộ hợp xướng
 gymnastics /dʒɪmˈnæstɪks/: thể dục
 ballet /bæˈleɪ/: vở ballet
-uniquely talented /yuˈnik ˈtæləntəd/: tài năng độc đáo, tài năng độc nhất
+uniquely talented /yuˈnikli ˈtæləntəd/: tài năng độc đáo, tài năng độc nhất
 put my mind to /pʊt maɪ maɪnd tu/: Dồn tâm trí vào, đặt tâm trí vào. Ex: I can achieve anything if I put my mind to it (Tôi có thể đạt được bất cứ điều gì nếu tôi dồn tâm trí vào đó). He put his mind to finishing the project on time (Anh ấy dồn tâm trí vào việc hoàn thành dự án đúng hạn).
 got on well with  /ɡɛt ɒn wɛl wɪð/: hòa hợp với, thân với. Ex: She gets on well with her coworkers (Cô ấy hòa thuận với các đồng nghiệp của mình). He gets on well with his neighbors (Anh ấy có mối quan hệ tốt với hàng xóm). They get on well with each other (Họ hòa thuận với nhau).
 passion /ˈpæʃn/: Đam mê
