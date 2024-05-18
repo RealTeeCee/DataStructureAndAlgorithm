@@ -1239,7 +1239,7 @@ aromatic herb //: cây cỏ thơm
 specialized /ˈspeSHəˌlīzd/: chuyên dụng; thích ứng, thiết kế cho một mục đích riêng
 storytelling /ˈstôrēˌteliNG/: kể chuyện
 aspire /əs'paiə/: (+ to, after, at) thiết tha, mong mỏi, khao khát
-aspiring /əs'pəriNG/: (adj) mong mỏi, khao khát
+aspiring /əs'pəriNG/: (a) mong mỏi, khao khát
 aspirin /əs'pərən/: (n) thuốc cãm, thuốc chống viêm
 filmmaker /ˈfilmˌmākər/: nhà làm phim
 cinematic /ˌsinəˈmadik/: (a) (thuộc) điện ảnh, giống như trong phim điện ảnh; 
@@ -1266,10 +1266,10 @@ experience /ɪkˈspɪriəns/: (v) Trải qua, học hỏi ..., (n) Kinh nghiệm
 antidote  /ˈæntɪˌdoʊt/: Thuốc giải độc
 boredom /ˈbɔrdəm/: Sự buồn chán
 assignment /əˈsaɪnmənt/: Sự phân công
-compulsory /kəmˈpʌlsəri/: Bắt buộc (adj)
+compulsory /kəmˈpʌlsəri/: Bắt buộc (a)
 writing pad = notepad //: tập giấy ghi
 splash-proof coating: Lớp phủ chống bắn tung tóe
-sturdy /ˈstərdi/: Mãnh liệt, mạnh mẽ (adj)
+sturdy /ˈstərdi/: Mãnh liệt, mạnh mẽ (a)
 sturdy lockable //: Có thể khóa chắc chắn.
 compartment /kəmˈpɑrtmənt/: Gian nhà, căn phòng trên tàu, căn phòng trên xe lửa
 fit into //: Phù hợp với; thích nghi với, hòa nhập vào
@@ -2001,7 +2001,9 @@ arcade /ɑrˈkeɪd/: nơi giải trí, chơi game trên máy (trả bằng đồ
 vegetable crops /ˈvɛdʒtəbl krɑp/: vườn rau
 barn /bɑrn/: chuồng ngựa, kho thóc
 as we pulled up the house //: Khi chúng tôi dừng xe trước ngôi nhà.
-energetic /ˌɛnərˈdʒɛt̮ɪk/: Mãnh liệt
+energy /ˈɛnərdʒi/: (n) năng lượng, sinh lực.
+energetic /ˌɛnərˈdʒɛtɪk/: (a) tràn đầy năng lượng, nhiệt huyết, hoạt bát.
+energetically /ˌɛnərˈdʒɛtɪkli/: (adv) một cách năng động, nhiệt huyết.
 corn /kɔrn/: bắp
 locked away //: bị nhốt lại, bị giam giữ; bị cất giấu; hoặc bị giam giữ. Ex: He was locked away in prison for ten years (Anh ta bị giam giữ trong tù suốt mười năm). The jewels were locked away in a safe (Những viên ngọc được cất giấu trong một két sắt). She kept her feelings locked away" (Cô ấy giữ cảm xúc của mình kín đáo)
 geography /dʒiˈɑɡrəfi/: địa lý
@@ -2013,16 +2015,24 @@ insight /ˈɪnsaɪt/: sáng suốt, minh mẫn
 deaf /dɛf/: điếc
 mute /myut/: tắt tiếng, người câm
 embrace /ɪmˈbreɪs/ : ôm, bao quanh
-tribal dances /ˈtraɪbl dances/: điệu múa dân tộc(bộ lạc)
+tribal dances /ˈtraɪbl dances/: điệu múa dân tộc (bộ lạc)
 soon-to-be-released //: sắp được phát hành
 follow-up //: theo sát
 recognized proof of dancing //: huân chương được công nhận về khiêu vũ
-dating back to //: đã tồn tại từ một thời điểm cụ thể. Ex: The custom dates back hundreds of years: Phong tục có từ hàng trăm năm trước.
-tribesmen /ˈtraɪbzmən/: người trong bô lạc
-teaser /ˈtizər/: vấn đề rắc rối, lời trêu ghẹo, đoạn giới thiệu
-strand /strænd/ bím tóc, sợi chỉ, mắc cạn
-deserted /dɪˈzərt̮əd/: hoang vu, hẻo lánh, không có người ở
-autograph /ˈɔt̮əˌɡræf/: chữ ký tay của người nổi tiếng, thủ bút
+date back to /ˈdeɪt bæk tu/: nghĩa là có từ, bắt nguồn từ, xuất hiện từ (thời gian nào đó trong quá khứ). Ex: The castle dates back to the 12th century (Lâu đài này có từ thế kỷ 12)
+chief /tʃiːf/: (n) trưởng, người đứng đầu
+tribal /ˈtraɪbəl/: (a) thuộc về bộ lạc
+tribal chief /ˈtraɪbəl tʃiːf/: (n) trưởng bộ lạc
+tribespeople /ˈtraɪbzˌpiːpəl/: (n) các thành viên của bộ lạc
+tribesman /ˈtraɪbzmən/: (n) người đàn ông trong bộ lạc, thành viên nam của bộ lạc.
+tribeswoman /ˈtraɪbzˌwʊmən/: (n) nữ thành viên của bộ lạc.
+teaser /ˈtizər/: (n) đoạn quảng cáo ngắn, đoạn giới thiệu ngắn; người hay trêu chọc; lời trêu ghẹo. Ex: The movie studio released a teaser to generate excitement for the upcoming film (Hãng phim đã phát hành một đoạn giới thiệu ngắn để tạo sự hứng thú cho bộ phim sắp tới). He's such a teaser, always joking and making fun of his friends (Anh ấy là một người hay trêu chọc, luôn đùa giỡn và chọc ghẹo bạn bè của mình)
+strand /strænd/: (n) sợi, dải (dây, tóc, sợi chỉ, v.v); thành phần hay khía cạnh của một vấn đề, kế hoạch, câu chuyện; (v): mắc cạn, bỏ rơi (thường dùng trong ngữ cảnh bị mắc kẹt ở đâu đó mà không thể di chuyển hoặc không có sự giúp đỡ). Ex: She picked a strand of hair off her shoulder (Cô ấy gỡ một sợi tóc ra khỏi vai). The ship was stranded on the deserted island (Con tàu bị mắc cạn trên đảo hoang). The novel weaves together several strands of the protagonist's life (Cuốn tiểu thuyết kết hợp nhiều khía cạnh khác nhau trong cuộc sống của nhân vật chính)
+* desert /dɪˈzɜːrt/: (v) bỏ rơi, rời bỏ. Rời bỏ hoặc bỏ mặc ai đó hoặc cái gì đó trong tình huống khó khăn. Ex: He deserted his family during the war (Anh ấy đã bỏ rơi gia đình trong thời chiến)
+* desert /ˈdezərt/: (n) sa mạc. Ex: The Sahara is the largest hot desert in the world (Sahara là sa mạc nóng lớn nhất thế giới)
+deserted /dɪˈzərt̮əd/: (a) hoang vu, hẻo lánh, không có người ở
+* autograph /ˈɔt̮əˌɡræf/: (n) chữ ký tay của người nổi tiếng, thủ bút; (v) ký tặng. Nghĩa: chữ ký được yêu cầu từ những người nổi tiếng, chẳng hạn như diễn viên, nhạc sĩ, vận động viên, v.v. Ex: I got an autograph from my favorite actor at the movie premiere (Tôi đã xin được chữ ký từ diễn viên yêu thích của mình tại buổi ra mắt phim). The author autographed copies of his new book (Tác giả đã ký tặng lên những bản sao của cuốn sách mới của ông)
+* signature /ˈsɪɡnətʃər/: (n) chữ ký (dùng trong các tài liệu chính thức, giao dịch, hợp đồng, v.v.). Nghĩa: Chữ ký chính thức của một người, được sử dụng để xác nhận danh tính hoặc sự đồng ý trên các văn bản, tài liệu pháp lý. Ex: Please provide your signature at the bottom of the form (Vui lòng ký tên của bạn ở dưới cùng của biểu mẫu)
 cartoonists /kɑrˈtunɪst/: họa sĩ truyện tranh
 blossom /'blɔsəm/: hoa (của cây ăn quả)
 in blossom //: đang ra hoa
@@ -2031,7 +2041,11 @@ brandy /'brændi/: rượu branđi, rượu mạnh
 apricot brandy /'eiprikɔt 'brændi/: rượu mơ
 apricot blossom: /'eiprikɔt 'blɔsəm/: hoa mai
 peach blossom /pi:tʃ 'blɔsəm/: hòa đào
-scold /skould/: chửi, rầy la, trách mắng, mắng mỏ; gắt gỏng
+* confront /kənˈfrʌnt/: (v) đối diện, đối mặt. Nghĩa: Đối mặt với một tình huống khó khăn hoặc tranh luận với ai đó về một vấn đề gì đó. Ex: She confronted her boss about the unfair treatment (Cô ấy đối mặt với sếp của mình về sự đối xử bất công)
+* discuss /dɪˈskʌs/: (v) thảo luận, bàn bạc. Nghĩa: Thảo luận về một chủ đề cụ thể để trao đổi ý kiến hoặc tìm hiểu thêm thông tin. Ex: Let's discuss the details of the project (Hãy thảo luận về các chi tiết của dự án)
+* debate /dɪˈbeɪt/: (v, n) tranh luận, cuộc tranh luận. Nghĩa: Tham gia vào một cuộc tranh luận có cấu trúc hoặc chủ đề cụ thể, thường là để thảo luận về các quan điểm đối lập hoặc giải quyết một vấn đề. Ex: There was a heated debate about the new policy (Có một cuộc tranh luận gay gắt về chính sách mới)
+* argue /ˈɑːrɡjuː/: (v) tranh luận, cãi nhau. Nghĩa: Tham gia vào một cuộc trao đổi ý kiến hoặc tranh luận với mục tiêu thể hiện quan điểm hoặc tìm ra giải pháp cho một vấn đề. Ex: They argued about which movie to watch (Họ cãi nhau về bộ phim nào để xem)
+* scold /skould/: (v) chửi, rầy la, trách mắng, mắng mỏ, quở trách. Nghĩa: Phê phán hoặc chỉ trích ai đó vì hành động sai lầm hoặc không đúng. Ex: The teacher scolded the students for being late to class (Giáo viên mắng học sinh vì đến lớp muộn)
 collar /'kɔlə/: cổ áo
 essence /ˈɛsns/: bản chất, tinh chất, chiết xuất, nước hoa
 capture /'kæptʃə/: (v) bắt giữ, nắm bắt; giành được, đoạt được, chiếm được (n) sự đoạt được, sự giành được; sự bắt giữ, sự bị bắt
@@ -2089,15 +2103,17 @@ reliability /ri,laiə'biliti/: sự đáng tin cậy
 invaluable /in'væljuəbl/: vô giá
 mentor /'mentɔ:/: người hướng dẫn, cố vấn; người thầy
 role model /ˈrōl ˌmäd(ə)l/: hình mẫu
-extend far beyond //: vượt xa hơn
+extend far beyond //: mở rộng xa hơn, vượt ra ngoài cái gì đó. Thường được sử dụng để chỉ sự ảnh hưởng hoặc phạm vi của một cái gì đó trải rộng ra ngoài mức độ thông thường hoặc dự kiến. Ex: His influence extends far beyond his immediate circle of friends (Tác động của anh ấy mở rộng ra xa hơn ngoài vòng bạn bè ngay lân cận của mình). The consequences of climate change extend far beyond environmental degradation (Hậu quả của biến đổi khí hậu lan rộng ra ngoài sự suy thoái môi trường)
 tenure /'tenjuə/: nhiệm kỳ; sự chiếm hữu, sự hưởng dụng; sự tại chức
 tenure for life //: quyền sở hữu trọn đời
 versatile /'və:sətail/: uyên bác; có nhiều tài năng khác nhau
 cater to /'keitə/: phục vụ cho, cung cấp cho
 diverse /dai'və:s/: (a) phong phú, đa dạng
 boredom /ˈbôrdəm/: sự buồn chán, sự nhàm chán
-meticulous /mi'tikjuləs/: tỉ mỉ; kỹ càng chi tiết
-strive /straiv/: (v) cố gắng, phấn đấu, dấu tranh
+meticulous /mi'tikjuləs/: (a) tỉ mỉ; kỹ càng chi tiết
+meticulously /məˈtɪkjʊləsli/: (adv) một cách cẩn thận và chi tiết. Ex: She meticulously planned every aspect of the event (Cô ấy lên kế hoạch mọi khía cạnh của sự kiện một cách cẩn thận và chi tiết)
+meticulousness /məˈtɪkjʊləsnəs/: (n) tính cẩn thận và chi tiết. Ex: The success of the project was due to the team's meticulousness (Sự thành công của dự án là nhờ vào tính cẩn thận và chi tiết của nhóm)
+meticulism /məˈtɪkjʊlɪzəm/: (n) sự cẩn thận và chú ý đến những chi tiết nhỏ. Ex: Her meticulism is evident in the precision of her writing (Sự cẩn thận của cô ấy được thể hiện rõ trong sự chính xác của cách viết của cô ấy)
 hallmark /'hɔ:lmɑ:k/: dấu ấn; dấu xác nhận tiêu chuẩn
 ethos /ˈēˌTHäs/: tập quán, đặc tính
 academically /ˌakəˈdemək(ə)lē/: một cách học thuật
@@ -2108,15 +2124,27 @@ reservoir /ˈrɛzərˌvwɑr/: Hồ chứa (Tự nhiên hoặc  nhân tạo)
 simplicity /sɪmˈplɪsət̮i/: sự đơn giản
 sophistication /səˌfɪstəˈkeɪʃn/: sự phức tạp, khoa trương.
 warmth /wɔrmθ/: sự ấm áp
-humility /hyuˈmɪlət̮i/: (n) khiêm tốn
-decades-long /ˈdɛkeɪd lɔŋ / : kéo dài hàng chục năm
+humiliate /hjuːˈmɪlieɪt/: (v) làm nhục, làm bẽ mặt. Ex: She refused to humiliate her opponent, preferring to win with grace and dignity (Cô ấy từ chối làm nhục đối thủ của mình, ưa thích chiến thắng với sự duyên dáng và phẩm giá)
+humiliation /hjuːˌmɪliˈeɪʃən/: (n) sự làm nhục, sự khiếm nhã. Ex: He felt a deep sense of humiliation after making a mistake in front of his colleagues (Anh ấy cảm thấy một cảm giác sâu sắc của sự khiếm nhã sau khi mắc lỗi trước đồng nghiệp của mình)
+humble /ˈhʌmbəl/: (a) khiêm tốn. Ex: Despite his success, he remained humble and down-to-earth (Mặc dù thành công, anh ấy vẫn khiêm tốn và gần gũi)
+humbleness /ˈhʌmblnəs/: (n) tính khiêm tốn. Ex: His humbleness endeared him to everyone he met (Tính khiêm tốn của anh ấy làm cho mọi người yêu mến anh ấy)
+humbly (/ˈhʌmbli/): (adv) một cách khiêm tốn. Ex: She accepted the award humbly, thanking her team for their support (Cô ấy nhận giải một cách khiêm tốn, cảm ơn đội ngũ của mình vì sự ủng hộ của họ)
+humility /hyuˈmɪlət̮i/: (n) tính cách khiêm tốn hoặc tư cách khiêm nhường
+long /lɔŋ/: (a) dài.
+longevity /lɒnˈdʒɛvɪti/: (n) tuổi thọ, sự kéo dài. Ex: After a decades-long career in public service, he retired with a legacy of achievements (Trải qua một sự nghiệp dài hàng thập kỷ trong lĩnh vực phục vụ cộng đồng, anh ấy nghỉ hưu với một di sản các thành tựu)
+decades-long /ˈdɛkeɪd lɔŋ /: kéo dài hàng chục năm. 
+decades-old /ˈdɛkeɪdz oʊld/: (a) cách đây vài thập kỷ. Ex: They discovered a decades-old treasure hidden in the attic (Họ đã phát hiện ra một kho báu cách đây vài thập kỷ được giấu trong gác mái)
 accumulate /əˈkyumyəˌleɪt/: tích lũy
 finesse /fɪˈnɛs/: Sự khéo léo
 adaptable /əˈdæptəbl/: có thể thích nghi
-knows no bounds //: không có giới hạn
+knows no bound //: không có giới hạn. nghĩa là không có giới hạn, không bị hạn chế, thường ám chỉ sự mạnh mẽ hoặc to lớn của một cái gì đó. Ex: Her love for her children knows no bounds (Tình yêu của cô ấy dành cho con cái không có giới hạn). The potential of human creativity knows no bounds (Tiềm năng của sự sáng tạo của con người không có giới hạn)
 invests /ɪnˈvɛst/: đầu tư
 personalized /ˈpərsənəˌlaɪz/: cá nhân hóa
 tireless /ˈtaɪərləs/: không mệt mỏi
 punctuality /ˌpʌŋktʃuˈælət̮i/: sự đúng giờ
 exemplary /ɪɡˈzɛmpləri/: mẫu mực, gương mẩu
+exemplify /ɪɡˈzɛmplɪˌfaɪ/: (v) làm mẫu, làm ví dụ. Ex: Her dedication to her work exemplifies professionalism (Sự tận tụy của cô ấy đối với công việc làm mẫu về chuyên nghiệp)
+exemplification /ɪɡˌzɛmplɪfɪˈkeɪʃən/: (n) sự minh hoạ, sự làm mẫu. Ex: His success is an exemplification of hard work and determination (Sự thành công của anh ấy là một ví dụ về sự làm việc chăm chỉ và quyết tâm)
+exemplarily /ɪɡˈzɛmplərəli/: (adv) một cách đáng ngưỡng mộ, một cách rất tốt. Ex: She handled the situation exemplarily, demonstrating leadership and grace under pressure (Cô ấy đã xử lý tình huống một cách đáng ngưỡng mộ, thể hiện sự lãnh đạo và duyên dáng dưới áp lực)
+exemplar /ɪɡˈzɛmplər/: (n) mẫu, ví dụ điển hình. Ex: The ancient philosopher is often regarded as an exemplar of wisdom and virtue (Nhà triết học cổ đại thường được coi là một ví dụ về sự thông thái và đức hạnh)
 shine - shone - shone /ʃaɪn/: soi sáng, sự chiếu sáng
