@@ -18,7 +18,7 @@ tắt tiếng, người câm:
 sắp được phát hành: 
 theo sát: 
 huân chương được công nhận về khiêu vũ: 
-nghĩa là có từ, bắt nguồn từ, xuất hiện từ (thời gian nào đó trong quá khứ): 
+có từ, bắt nguồn từ, xuất hiện từ (thời gian nào đó trong quá khứ): 
 (n) trưởng, người đứng đầu: 
 (a) thuộc về bộ lạc: 
 (n) điệu múa dân tộc (bộ lạc): 
