@@ -2061,7 +2061,7 @@ soup /su:p/: súp, canh; cháo
 soup powder /su:p 'paudə/: bột canh
 seabass /ˈsē ˌbas/: (chung) cá thuộc họ seabass (cá mú, cá vược, cá trắm biển); cá chẽm, cá vược
 sauce /sɔ:s/: nước xốt
-flair /fler/: tư cách, sự tinh tế; tài nhận thấy ngay
+flair /fler/: tư cách, sự tinh tế; tài nhận thấy ngay. Ex: Her cooking has a flair for creativity and experimentation (Phong cách nấu nướng của cô ấy có sự sáng tạo và thử nghiệm). His paintings are known for their bold colors and artistic flair (Các bức tranh của anh ấy nổi tiếng với sự mạnh mẽ của màu sắc và phong cách nghệ thuật độc đáo)
 professionalism /professionalism/: tính chuyên nghiệp
 elegance /'eligəns/: (n) tính thanh lịch, sang trọng tao nhã
 elegant /'eligənt/: (a) thanh lịch, tao nhã
