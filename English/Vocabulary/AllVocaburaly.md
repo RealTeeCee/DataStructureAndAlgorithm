@@ -2082,7 +2082,7 @@ authenticity /,ɔ:θen'tisiti/: tính đúng thật, tính xác thực
 unwavering /ˌənˈwāv(ə)riNG/: không lay chuyển; vững vàng
 well-being /'wel'bi:iNG/: sự thịnh vượng; hạnh phúc; phúc lợi
 beneath /bi'ni:θ/: ở dưới thấp, ở dưới
-unassuming /'ʌbə'sju:miɳ/: Khiêm tốn, khiêm nhường
+unassuming /'ʌnə'sju:miɳ/: Khiêm tốn, khiêm nhường
 demeanor /dəˈmēnər/: cách xử xự; thái độ
 wealth /welθ/: sự giàu có, sự giàu sang; sự phong phú
 wealth of knowledge //: sự giàu kiến thức
