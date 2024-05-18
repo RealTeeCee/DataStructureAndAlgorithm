@@ -28,11 +28,11 @@ có từ, bắt nguồn từ, xuất hiện từ (thời gian nào đó trong qu
 (n) nữ thành viên của bộ lạc: 
 (n) đoạn quảng cáo ngắn, đoạn giới thiệu ngắn; người hay trêu chọc; lời trêu ghẹo: 
 (n) sợi, dải (dây, tóc, sợi chỉ, v.v); thành phần hay khía cạnh của một vấn đề, kế hoạch, câu chuyện; (v): mắc cạn, bỏ rơi (thường dùng trong ngữ cảnh bị mắc kẹt ở đâu đó mà không thể di chuyển hoặc không có sự giúp đỡ): 
-(v) bỏ rơi, rời bỏ. Rời bỏ hoặc bỏ mặc ai đó hoặc cái gì đó trong tình huống khó khăn: 
-(n) sa mạc. Ex: The Sahara is the largest hot desert in the world (Sahara là sa mạc nóng lớn nhất thế giới): 
+* (v) bỏ rơi, rời bỏ. Rời bỏ hoặc bỏ mặc ai đó hoặc cái gì đó trong tình huống khó khăn: 
+* (n) sa mạc: 
 (a) hoang vu, hẻo lánh, không có người ở: 
-(n) chữ ký tay của người nổi tiếng, thủ bút; (v) ký tặng. Nghĩa: chữ ký được yêu cầu từ những người nổi tiếng, chẳng hạn như diễn viên, nhạc sĩ, vận động viên, v.v: 
-(n) chữ ký (dùng trong các tài liệu chính thức, giao dịch, hợp đồng, v.v). Nghĩa: Chữ ký chính thức của một người, được sử dụng để xác nhận danh tính hoặc sự đồng ý trên các văn bản, tài liệu pháp lý: 
+* (n) chữ ký tay của người nổi tiếng, thủ bút; (v) ký tặng. Nghĩa: chữ ký được yêu cầu từ những người nổi tiếng, chẳng hạn như diễn viên, nhạc sĩ, vận động viên, v.v: 
+* (n) chữ ký (dùng trong các tài liệu chính thức, giao dịch, hợp đồng, v.v). Nghĩa: Chữ ký chính thức của một người, được sử dụng để xác nhận danh tính hoặc sự đồng ý trên các văn bản, tài liệu pháp lý: 
 họa sĩ truyện tranh: 
 hoa (của cây ăn quả): 
 đang ra hoa: 
@@ -41,11 +41,11 @@ rượu branđi, rượu mạnh:
 rượu mơ: 
 hoa mai: 
 hòa đào: 
-(v) đối diện, đối mặt. Nghĩa: Đối mặt với một tình huống khó khăn hoặc tranh luận với ai đó về một vấn đề gì đó: 
-(v) thảo luận, bàn bạc. Nghĩa: Thảo luận về một chủ đề cụ thể để trao đổi ý kiến hoặc tìm hiểu thêm thông tin: 
-(v, n) tranh luận, cuộc tranh luận. Nghĩa: Tham gia vào một cuộc tranh luận có cấu trúc hoặc chủ đề cụ thể, thường là để thảo luận về các quan : điểm đối lập hoặc giải quyết một vấn đề: 
-(v) tranh luận, cãi nhau. Nghĩa: Tham gia vào một cuộc trao đổi ý kiến hoặc tranh luận với mục tiêu thể hiện quan điểm hoặc tìm ra giải pháp cho : một vấn đề: 
-(v) chửi, rầy la, trách mắng, mắng mỏ, quở trách. Nghĩa: Phê phán hoặc chỉ trích ai đó vì hành động sai lầm hoặc không đúng: 
+* (v) đối diện, đối mặt. Nghĩa: Đối mặt với một tình huống khó khăn hoặc tranh luận với ai đó về một vấn đề gì đó: 
+* (v) thảo luận, bàn bạc. Nghĩa: Thảo luận về một chủ đề cụ thể để trao đổi ý kiến hoặc tìm hiểu thêm thông tin: 
+* (v, n) tranh luận, cuộc tranh luận. Nghĩa: Tham gia vào một cuộc tranh luận có cấu trúc hoặc chủ đề cụ thể, thường là để thảo luận về các quan : điểm đối lập hoặc giải quyết một vấn đề: 
+* (v) tranh luận, cãi nhau. Nghĩa: Tham gia vào một cuộc trao đổi ý kiến hoặc tranh luận với mục tiêu thể hiện quan điểm hoặc tìm ra giải pháp cho : một vấn đề: 
+* (v) chửi, rầy la, trách mắng, mắng mỏ, quở trách. Nghĩa: Phê phán hoặc chỉ trích ai đó vì hành động sai lầm hoặc không đúng: 
 cổ áo: 
 bản chất, tinh chất, chiết xuất, nước hoa: 
 (v) bắt giữ, nắm bắt; giành được, đoạt được, chiếm được (n) sự đoạt được, sự giành được; sự bắt giữ, sự bị bắt: 
