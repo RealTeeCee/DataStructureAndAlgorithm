@@ -2015,13 +2015,13 @@ insight /ˈɪnsaɪt/: sáng suốt, minh mẫn
 deaf /dɛf/: điếc
 mute /myut/: tắt tiếng, người câm
 embrace /ɪmˈbreɪs/ : ôm, bao quanh
-tribal dances /ˈtraɪbl dances/: điệu múa dân tộc (bộ lạc)
 soon-to-be-released //: sắp được phát hành
 follow-up //: theo sát
 recognized proof of dancing //: huân chương được công nhận về khiêu vũ
 date back to /ˈdeɪt bæk tu/: nghĩa là có từ, bắt nguồn từ, xuất hiện từ (thời gian nào đó trong quá khứ). Ex: The castle dates back to the 12th century (Lâu đài này có từ thế kỷ 12)
 chief /tʃiːf/: (n) trưởng, người đứng đầu
 tribal /ˈtraɪbəl/: (a) thuộc về bộ lạc
+tribal dances /ˈtraɪbl dances/: (n) điệu múa dân tộc (bộ lạc)
 tribal chief /ˈtraɪbəl tʃiːf/: (n) trưởng bộ lạc
 tribespeople /ˈtraɪbzˌpiːpəl/: (n) các thành viên của bộ lạc
 tribesman /ˈtraɪbzmən/: (n) người đàn ông trong bộ lạc, thành viên nam của bộ lạc.

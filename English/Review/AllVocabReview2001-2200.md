@@ -15,13 +15,13 @@ sáng suốt, minh mẫn:
 điếc: 
 tắt tiếng, người câm: 
 ôm, bao quanh: 
-điệu múa dân tộc(bộ lạc): 
 sắp được phát hành: 
 theo sát: 
 huân chương được công nhận về khiêu vũ: 
 nghĩa là có từ, bắt nguồn từ, xuất hiện từ (thời gian nào đó trong quá khứ): 
 (n) trưởng, người đứng đầu: 
 (a) thuộc về bộ lạc: 
+(n) điệu múa dân tộc (bộ lạc): 
 (n) trưởng bộ lạc: 
 (n) các thành viên của bộ lạc: 
 (n) người đàn ông trong bộ lạc, thành viên nam của bộ lạc: 
