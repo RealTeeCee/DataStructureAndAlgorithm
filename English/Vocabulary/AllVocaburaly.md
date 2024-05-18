@@ -2078,7 +2078,7 @@ influential /,influ'enʃəl/: có sức ảnh hưởng, có tác dụng; có uy
 profound /prəˈfaʊnd/: sâu, thăm thẳm; sâu sắc, uyên thâm
 distinguish /dis'tiɳgwiʃ/: phân biệt
 exudes /ig'zju:d/: rò rỉ, ứa; thấm rỉ
-authenticity /,ɔ:θen'tisiti/: tính đúng thật, tính xác thực
+authenticity /,ɔ:θen'tisidi/: tính đúng thật, tính xác thực
 unwavering /ˌənˈwāv(ə)riNG/: không lay chuyển; vững vàng
 well-being /'wel'bi:iNG/: sự thịnh vượng; hạnh phúc; phúc lợi
 beneath /bi'ni:θ/: ở dưới thấp, ở dưới
