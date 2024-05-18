@@ -2080,7 +2080,7 @@ distinguish /dis'tiɳgwiʃ/: phân biệt
 exudes /ig'zju:d/: rò rỉ, ứa; thấm rỉ
 authenticity /,ɔ:θen'tisidi/: tính đúng thật, tính xác thực
 unwavering /ˌənˈwāv(ə)riNG/: không lay chuyển; vững vàng
-well-being /'wel'bi:iNG/: sự thịnh vượng; hạnh phúc; phúc lợi
+well-being /wel'bi:iNG/: sự thịnh vượng; hạnh phúc; phúc lợi
 beneath /bi'ni:θ/: ở dưới thấp, ở dưới
 unassuming /'ʌnə'sju:miɳ/: Khiêm tốn, khiêm nhường
 demeanor /dəˈmēnər/: cách xử xự; thái độ
