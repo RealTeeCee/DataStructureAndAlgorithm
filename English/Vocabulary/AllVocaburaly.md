@@ -2075,7 +2075,7 @@ deadline /deadline/: thời hạn, hạn chót
 grading /grading/: sự chấm điểm; sự phân loại, sự tuyển chọn 
 numerous /'nju:mərəs/:(a) nhiều; đông, đông đảo
 influential /,influ'enʃəl/: có sức ảnh hưởng, có tác dụng; có uy thế, có thế lực 
-profound /profound/: sâu, thăm thẳm; sâu sắc, uyên thâm
+profound /prəˈfaʊnd/: sâu, thăm thẳm; sâu sắc, uyên thâm
 distinguish /dis'tiɳgwiʃ/: phân biệt
 exudes /ig'zju:d/: rò rỉ, ứa; thấm rỉ
 authenticity /,ɔ:θen'tisiti/: tính đúng thật, tính xác thực
