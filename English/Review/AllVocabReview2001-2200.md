@@ -43,8 +43,8 @@ hoa mai:
 hòa đào: 
 * (v) đối diện, đối mặt. Nghĩa: Đối mặt với một tình huống khó khăn hoặc tranh luận với ai đó về một vấn đề gì đó: 
 * (v) thảo luận, bàn bạc. Nghĩa: Thảo luận về một chủ đề cụ thể để trao đổi ý kiến hoặc tìm hiểu thêm thông tin: 
-* (v, n) tranh luận, cuộc tranh luận. Nghĩa: Tham gia vào một cuộc tranh luận có cấu trúc hoặc chủ đề cụ thể, thường là để thảo luận về các quan : điểm đối lập hoặc giải quyết một vấn đề: 
-* (v) tranh luận, cãi nhau. Nghĩa: Tham gia vào một cuộc trao đổi ý kiến hoặc tranh luận với mục tiêu thể hiện quan điểm hoặc tìm ra giải pháp cho : một vấn đề: 
+* (v, n) tranh luận, cuộc tranh luận. Nghĩa: Tham gia vào một cuộc tranh luận có cấu trúc hoặc chủ đề cụ thể, thường là để thảo luận về các quan điểm đối lập hoặc giải quyết một vấn đề: 
+* (v) tranh luận, cãi nhau. Nghĩa: Tham gia vào một cuộc trao đổi ý kiến hoặc tranh luận với mục tiêu thể hiện quan điểm hoặc tìm ra giải pháp cho một vấn đề: 
 * (v) chửi, rầy la, trách mắng, mắng mỏ, quở trách. Nghĩa: Phê phán hoặc chỉ trích ai đó vì hành động sai lầm hoặc không đúng: 
 cổ áo: 
 bản chất, tinh chất, chiết xuất, nước hoa: 
