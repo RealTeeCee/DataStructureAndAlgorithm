@@ -2148,3 +2148,53 @@ exemplification /ɪɡˌzɛmplɪfɪˈkeɪʃən/: (n) sự minh hoạ, sự làm m
 exemplarily /ɪɡˈzɛmplərəli/: (adv) một cách đáng ngưỡng mộ, một cách rất tốt. Ex: She handled the situation exemplarily, demonstrating leadership and grace under pressure (Cô ấy đã xử lý tình huống một cách đáng ngưỡng mộ, thể hiện sự lãnh đạo và duyên dáng dưới áp lực)
 exemplar /ɪɡˈzɛmplər/: (n) mẫu, ví dụ điển hình. Ex: The ancient philosopher is often regarded as an exemplar of wisdom and virtue (Nhà triết học cổ đại thường được coi là một ví dụ về sự thông thái và đức hạnh)
 shine - shone - shone /ʃaɪn/: soi sáng, sự chiếu sáng
+* Annuity /əˈnjuːɪti/: Tiền trợ cấp thường niên, một loại hợp đồng bảo hiểm mà người mua bảo hiểm trả một số tiền cho hãng bảo hiểm và sau đó nhận được thanh toán định kỳ trong tương lai
+* Actuary /ˈæktʃuəri/: Nhà bảo hiểm toán, chuyên gia về các phương pháp thống kê và toán học trong việc đánh giá và quản lý rủi ro bảo hiểm
+* Adjuster /əˈdʒʌstər/: Người điều chỉnh bồi thường, người làm việc cho hãng bảo hiểm để định giá và điều chỉnh các yêu cầu bồi thường
+* Aggregate Limit /ˈæɡrɪɡət ˈlɪmɪt/: Giới hạn tổng cộng, số tiền tối đa mà một hãng bảo hiểm sẽ trả cho tất cả các yêu cầu bồi thường trong một thời kỳ nhất định
+* Aggregate Deductible /ˈæɡrɪɡət dɪˈdʌktəbəl/: Số tiền trừ tổng cộng, một số tiền tối đa mà một chính sách bảo hiểm yêu cầu người mua bảo hiểm phải trả trước khi hãng bảo hiểm bắt đầu chi trả
+* Actual Cash Value /ˈæktʃuəl kæʃ ˈvæljuː/: Giá trị thực tế, giá trị của một tài sản khi tính cả khấu hao và tổn thất
+* Accidental Death and Dismemberment (AD&D) /ˌæksɪˈdɛntəl dɛθ ænd dɪsˈmɛmbərmənt/: Chết hoặc bị phân chia, một loại bảo hiểm bổ sung thanh toán tiền đối với sự kiện tử vong hoặc bị thương vô tình
+* Act of God /ækt ʌv ɡɒd/: Hành động của Chúa, sự kiện tự nhiên hoặc không thể kiểm soát được bởi con người
+* Beneficiary /ˌbɛnɪˈfɪʃəri/: Người hưởng lợi, người được nhận thanh toán từ hợp đồng bảo hiểm khi một sự kiện được bảo hiểm xảy ra
+* Broker /ˈbroʊkər/: Môi giới, người đại diện cho người mua bảo hiểm khi mua và quản lý các hợp đồng bảo hiểm
+* Claim /kleɪm/: Yêu cầu bồi thường, khi người bảo hiểm yêu cầu thanh toán từ hãng bảo hiểm sau một sự cố
+* Coverage /ˈkʌvərɪdʒ/: Phạm vi bảo hiểm, các loại rủi ro được bảo hiểm trong một hợp đồng bảo hiểm
+* Catastrophe /kəˈtæstrəfi/: Thảm họa, một sự kiện không mong muốn và có hậu quả nghiêm trọng, thường gây ra thiệt hại lớn
+* Co-payment /ˈkoʊˌpeɪmənt/: Tiền tự trả, một phần của chi phí y tế mà người tham gia bảo hiểm phải trả trước khi hãng bảo hiểm chi trả phần còn lại
+* Deductible /dɪˈdʌktəbəl/: Số tiền mà người mua bảo hiểm phải trả trước khi hãng bảo hiểm chi trả bồi thường
+* Excess /ˈɛksɛs/: Phần thừa, số tiền mà người mua bảo hiểm phải tự trả khi có yêu cầu bồi thường
+* Endorsement /ɪnˈdɔːsmənt/: Phụ lục, một sửa đổi hoặc điều chỉnh được thêm vào hợp đồng bảo hiểm để thay đổi hoặc bổ sung các điều khoản và điều kiện
+* Expiry /ɪkˈspaɪəri/: Hết hạn, ngày cuối cùng của một thời gian định kỳ hoặc một hợp đồng bảo hiểm
+* Exclusion /ɪkˈskluːʒən/: Loại trừ, điều khoản trong hợp đồng bảo hiểm mà không được bảo hiểm bồi thường
+* Insurer /ɪnˈʃʊərə/: Hãng bảo hiểm, tổ chức cung cấp bảo hiểm cho người mua bảo hiểm
+* Indemnity /ɪnˈdɛmnɪti/: Bảo hiểm, sự bồi thường thiệt hại hoặc tổn thất
+* Insurable Interest /ɪnˈʃʊrəbl ˈɪntrəst/: Quan tâm có thể bảo hiểm, mối quan tâm hợp lệ của một người đối với một tài sản hoặc người khác mà việc mất mát có thể gây ra tổn thất
+* Loss Ratio /lɒs ˈreɪʃioʊ/: Tỷ lệ thiệt hại, tỷ lệ giữa tổng số tiền bồi thường đã trả và tổng số tiền phí thu được
+* Liability /ˌlaɪəˈbɪləti/: Trách nhiệm pháp lý, trách nhiệm phải chi trả bồi thường cho thiệt hại hoặc tổn thất gây ra cho người khác
+* Loss Adjuster /lɒs əˈdʒʌstər/: Người điều chỉnh thiệt hại, chuyên viên đánh giá thiệt hại và điều chỉnh yêu cầu bồi thường
+* Loss Prevention /lɒs prɪˈvɛnʃən/: Phòng ngừa thiệt hại, các biện pháp được thực hiện để giảm thiểu rủi ro và ngăn chặn sự cố xảy ra
+* Loss Reserve /lɒs rɪˈzɜːv/: Dự trữ thiệt hại, một số tiền mà một hãng bảo hiểm dành để chi trả các yêu cầu bồi thường trong tương lai
+* Moral Hazard /ˈmɔrəl ˈhæzərd/: Nguy cơ đạo đức, tình trạng khi một người có bảo hiểm có thể không đảm bảo cẩn thận hoặc an toàn vì họ biết họ được bảo hiểm
+* No-claims Bonus /nəʊ kleɪmz ˈbəʊnəs/: Thưởng không đòi bồi thường, một ưu đãi được cung cấp cho người mua bảo hiểm nếu họ không có yêu cầu bồi thường trong một khoảng thời gian nhất định
+* Policy /ˈpɒlɪsi/: Hợp đồng bảo hiểm, tài liệu chứng nhận các điều khoản và điều kiện của bảo hiểm
+* Policyholder /ˈpɒlɪsɪˌhəʊldə/: Người sở hữu hợp đồng bảo hiểm, người mua bảo hiểm
+* Premium /ˈpriːmiəm/: Tiền phí, số tiền mà người mua bảo hiểm phải trả định kỳ cho bảo hiểm của họ
+* Peril /ˈpɛrəl/: Nguy cơ, sự nguy hiểm tiềm ẩn trong một tình huống hoặc sự kiện
+* Premium Rate /ˈpriːmiəm reɪt/: Tỷ lệ phí bảo hiểm, số tiền mà người mua bảo hiểm phải trả cho mỗi đơn vị bảo hiểm
+* Risk Management /rɪsk ˈmænɪdʒmənt/: Quản lý rủi ro, quá trình đánh giá, kiểm soát và giảm thiểu rủi ro trong một tổ chức hoặc hoạt động kinh doanh
+* Reinsurance /ˌriːɪnˈʃʊərəns/: Bảo hiểm tái bảo hiểm, quá trình mà một hãng bảo hiểm chuyển một phần hoặc toàn bộ rủi ro mà nó đã chấp nhận sang một hãng bảo hiểm khác để chia sẻ rủi ro
+* Risk Pooling /rɪsk puːlɪŋ/: Tích hợp rủi ro, quá trình chia sẻ rủi ro giữa nhiều bên để giảm thiểu rủi ro cá nhân
+* Risk Assessment /rɪsk əˈsɛsmənt/: Đánh giá rủi ro, quá trình định lượng và định tính các rủi ro tiềm ẩn trong một tình huống hoặc hoạt động
+* Renewal /rɪˈnjuːəl/: Gia hạn, hành động làm mới một hợp đồng bảo hiểm sau khi nó đã hết hiệu lực
+* Risk Pool /rɪsk puːl/: Hồ bơi rủi ro, một nhóm các bên chia sẻ rủi ro bằng cách đóng góp vào một quỹ chung
+* Reinstatement /ˌriːɪnˈsteɪtmənt/: Khôi phục, hành động làm mới hoặc khôi phục lại một hợp đồng bảo hiểm sau khi nó đã bị hủy bỏ hoặc hết hiệu lực
+* Subrogation /ˌsʌbrəˈɡeɪʃən/: Quyền thay thế, quyền của một hãng bảo hiểm khi họ chi trả bồi thường cho một người và sau đó yêu cầu bồi thường từ bên gây ra thiệt hại
+* Total Loss /ˈtoʊtl lɒs/: Thiệt hại toàn bộ, tình trạng khi một tài sản không thể được sửa chữa hoặc khôi phục
+* Third-party Liability /θɜrd pɑrti laɪəˈbɪlɪti/: Trách nhiệm bên thứ ba, trách nhiệm pháp lý của một bên đối với thiệt hại hoặc tổn thất gây ra cho một bên thứ ba
+* Underinsurance /ˌʌndərɪnˈʃʊərəns/: Thiếu bảo hiểm, tình trạng không đủ bảo hiểm để bồi thường đầy đủ cho thiệt hại
+* Underwriting Guidelines /ˈʌndəˌraɪtɪŋ ˈɡaɪdlaɪnz/: Hướng dẫn đánh giá rủi ro, các quy định và tiêu chuẩn mà một hãng bảo hiểm sử dụng để xác định rủi ro và đặt giá cho các hợp đồng bảo hiểm
+* Underinsured /ˌʌndərˈɪnʃʊrd/: Thiếu bảo hiểm, mức bảo hiểm không đủ để đối phó với một sự kiện cụ thể
+* Underwriting Profit /ˈʌndəˌraɪtɪŋ ˈprɒfɪt/: Lợi nhuận từ việc đánh giá rủi ro, số tiền mà một hãng bảo hiểm kiếm được từ việc đánh giá và chấp nhận rủi ro
+* Underwriter /ˈʌndəˌraɪtə/: Nhà bảo hiểm, tổ chức hoặc cá nhân chịu trách nhiệm chấp nhận hoặc từ chối rủi ro và thiết lập mức phí bảo hiểm
+* Workers' Compensation /ˈwɜːrkərz ˌkɒmpənˈseɪʃən/: Bảo hiểm tai nạn lao động, một loại bảo hiểm bồi thường cho nhân viên bị thương hoặc mắc bệnh trong quá trình làm việc
