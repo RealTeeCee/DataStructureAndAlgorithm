@@ -1,88 +1,30 @@
-essence /ˈɛsns/: bản chất, tinh chất, chiết xuất, nước hoa
-capture /'kæptʃə/: (v) bắt giữ, nắm bắt; giành được, đoạt được, chiếm được (n) sự đoạt được, sự giành được; sự bắt giữ, sự bị bắt
-authentic /ɔ:'θentik/: đích thật, chính hiệu, chính tông; xác thực; đáng tin
-architectural /,ɑ:ki'tektʃərəl/: (a) (thuộc) kiến trúc (n) architecture: (khoa) kiến trúc; cấu trúc
-flavor = flavour /'fleivə/: (n) vị ngon, mùi thơm; mùi vị
-flavorful /ˈflāvərfəl/: đầy hương vị, mùi vị;có vị ngon, có mùi thơm.
-burst /bə:st/: (n) sự bùng nổ, sự nổ tung; tiếng nổ (bom) (v) bùng nổ; nổ, nổ tung
-bursting /bursting/: (a) (with) bùng nổ, ngập tràn; (to) thiết tha vô cùng
-attentive /ə'tentiv/: ân cần, chu đáo; niềm nở
-must-try signature //: món ăn đặc trưng nhất định phải thử
-soup /su:p/: súp, canh; cháo
-soup powder /su:p 'paudə/: bột canh
-seabass /ˈsē ˌbas/: (chung) cá thuộc họ seabass (cá mú, cá vược, cá trắm biển); cá chẽm, cá vược
-sauce /sɔ:s/: nước xốt
-flair /fler/: tư cách, sự tinh tế; tài nhận thấy ngay
-professionalism /professionalism/: tính chuyên nghiệp
-elegance /'eligəns/: (n) tính thanh lịch, sang trọng tao nhã
-elegant /'eligənt/: (a) thanh lịch, tao nhã
-maximize /'mæksimaiz/: làm phóng đại, tối đa hóa
-minimize /'minimaiz/: giảm thiểu, tối thiểu hóa
-instructional /in'strʌkʃənl/: (a) (thuộc) sự dạy; có tính chất chỉ thị, mang tính chất hướng dẫn
-disruption /dis'rʌpʃn/: sự đập gãy, sự đập vỗ, sự phá vỡ; sự gẫy vỡ
-tardiness /'tɑ:dinis/: sự chậm trễ, trễ nãi
-adhere /əd'hiə/: (v) tuân thủ; bám dính, dính chặt vào, bám chặt vào
-deadline /deadline/: thời hạn, hạn chót
-grading /grading/: sự chấm điểm; sự phân loại, sự tuyển chọn 
-numerous /'nju:mərəs/:(a) nhiều; đông, đông đảo
-influential /,influ'enʃəl/: có sức ảnh hưởng, có tác dụng; có uy thế, có thế lực 
-profound /profound/: sâu, thăm thẳm; sâu sắc, uyên thâm
-distinguish /dis'tiɳgwiʃ/: phân biệt
-exudes /ig'zju:d/: rò rỉ, ứa; thấm rỉ
-authenticity /,ɔ:θen'tisiti/: tính đúng thật, tính xác thực
-unwavering /ˌənˈwāv(ə)riNG/: không lay chuyển; vững vàng
-well-being /'wel'bi:iNG/: sự thịnh vượng; hạnh phúc; phúc lợi
-beneath /bi'ni:θ/: ở dưới thấp, ở dưới
-unassuming /'ʌbə'sju:miɳ/: Khiêm tốn, khiêm nhường
-demeanor /dəˈmēnər/: cách xử xự; thái độ
-wealth /welθ/: sự giàu có, sự giàu sang; sự phong phú
-wealth of knowledge //: sự giàu kiến thức
-insight /'insait/: sự sáng suốt, minh mẩn; có cái nhìn thấu suốt
-coupled with //: kết hợp với, liên kết với
-genuine /'dʤenjuin/: thành thật, chân thật
-desire /di'zaiə/: sự khao khát, thèm muốn
-thrive /θraiv/: phát triển thịnh vượng, phát đạt; lớn lên
-steadfast /'stedfəst/: kiên định, vững chắc
-unparalleled /unparalleled/: vô song; không bì được, ko so sánh được
-consistently /kənˈsistən(t)lē/: nhất quán
-be counted on to //: được tính vào
-empathy /'empəθi/: (tâm lý học) sự thấu cảm, sự đồng cảm
-compassion /kəm'pæʃn/: lòng thương, lòng trắc ẩn
-empower /im'pauə/: làm cho có thể; trao quyền
-embody /im'bɔdi/: là hiện thân của; là biểu hiện của
-nurture /'nə:tʃə/: sự nuôi dưỡng, dưỡng dục
-reliability /ri,laiə'biliti/: sự đáng tin cậy
-invaluable /in'væljuəbl/: vô giá
-mentor /'mentɔ:/: người hướng dẫn, cố vấn; người thầy
-role model /ˈrōl ˌmäd(ə)l/: hình mẫu
-extend far beyond //: vượt xa hơn
-tenure /'tenjuə/: nhiệm kỳ; sự chiếm hữu, sự hưởng dụng; sự tại chức
-tenure for life //: quyền sở hữu trọn đời
-versatile /'və:sətail/: uyên bác; có nhiều tài năng khác nhau
-cater to /'keitə/: phục vụ cho, cung cấp cho
-diverse /dai'və:s/: (a) phong phú, đa dạng
-boredom /ˈbôrdəm/: sự buồn chán, sự nhàm chán
-meticulous /mi'tikjuləs/: tỉ mỉ; kỹ càng chi tiết
-strive /straiv/: (v) cố gắng, phấn đấu, dấu tranh
-hallmark /'hɔ:lmɑ:k/: dấu ấn; dấu xác nhận tiêu chuẩn
-ethos /ˈēˌTHäs/: tập quán, đặc tính
-academically /ˌakəˈdemək(ə)lē/: một cách học thuật
-indelible /in'delibl/: không thể xóa nhòa; không thể tẩy sạch, còn vết mãi
-devotion /dɪˈvoʊʃn/: sự tận tâm
-reverence /ˈrɛvərəns/: sự tôn kính, sự sùng kính
-reservoir /ˈrɛzərˌvwɑr/: Hồ chứa (Tự nhiên hoặc  nhân tạo)
-simplicity /sɪmˈplɪsət̮i/: sự đơn giản
-sophistication /səˌfɪstəˈkeɪʃn/: sự phức tạp, khoa trương.
-warmth /wɔrmθ/: sự ấm áp
-humility /hyuˈmɪlət̮i/: (n) khiêm tốn
-decades-long /ˈdɛkeɪd lɔŋ / : kéo dài hàng chục năm
-accumulate /əˈkyumyəˌleɪt/: tích lũy
-finesse /fɪˈnɛs/: Sự khéo léo
-adaptable /əˈdæptəbl/: có thể thích nghi
-knows no bounds //: không có giới hạn
-invests /ɪnˈvɛst/: đầu tư
-personalized /ˈpərsənəˌlaɪz/: cá nhân hóa
-tireless /ˈtaɪərləs/: không mệt mỏi
-punctuality /ˌpʌŋktʃuˈælət̮i/: sự đúng giờ
-exemplary /ɪɡˈzɛmpləri/: mẫu mực, gương mẩu
-shine - shone - shone /ʃaɪn/: soi sáng, sự chiếu sáng
+* [I] Loss Adjuster /lɒs əˈdʒʌstər/: Người điều chỉnh tổn thất. chuyên gia đánh giá tổn thất và quyết định số tiền bồi thường. Ex: The loss adjuster assessed the damage to the property. (Người điều chỉnh tổn thất đã đánh giá thiệt hại đối với tài sản.)
+* [I] Loss Prevention /lɒs prɪˈvɛnʃən/: Phòng ngừa tổn thất. các biện pháp nhằm giảm thiểu nguy cơ và mức độ tổn thất. Ex: The company has a loss prevention program to reduce theft. (Công ty có chương trình phòng ngừa tổn thất để giảm thiểu trộm cắp.)
+* [I] Loss Reserve /lɒs rɪˈzɜːrv/: Dự trữ tổn thất. số tiền dự phòng để chi trả các yêu cầu bồi thường trong tương lai. Ex: The insurer increased its loss reserve due to rising claims. (Hãng bảo hiểm đã tăng dự trữ tổn thất do các yêu cầu bồi thường tăng lên.)
+* [I] Moral Hazard /ˈmɔːrəl ˈhæzərd/: Rủi ro đạo đức. rủi ro xảy ra khi người được bảo hiểm hành động thiếu trách nhiệm do biết rằng mình được bảo hiểm. Ex: Moral hazard can lead to higher insurance premiums. (Rủi ro đạo đức có thể dẫn đến phí bảo hiểm cao hơn.)
+* [I] No-claims Bonus /noʊ kleɪmz ˈboʊnəs/: Thưởng không yêu cầu bồi thường. khoản giảm giá cho người mua bảo hiểm không có yêu cầu bồi thường trong một khoảng thời gian nhất định. Ex: He received a no-claims bonus after five years without any claims. (Anh ấy nhận được thưởng không yêu cầu bồi thường sau năm năm không có yêu cầu bồi thường nào.)
+* [I] Policy /ˈpɒlɪsi/: Hợp đồng bảo hiểm. văn bản chi tiết các điều khoản và điều kiện bảo hiểm. Ex: The policy outlines the coverage and exclusions. (Hợp đồng bảo hiểm nêu rõ phạm vi bảo hiểm và các điều khoản loại trừ.)
+* [I] Policyholder /ˈpɒlɪsiˌhoʊldər/: Chủ hợp đồng bảo hiểm. người mua bảo hiểm. Ex: The policyholder is responsible for paying the premium. (Chủ hợp đồng bảo hiểm có trách nhiệm trả phí bảo hiểm.)
+* [I] Premium /ˈpriːmiəm/: Phí bảo hiểm. số tiền mà người mua bảo hiểm phải trả định kỳ cho bảo hiểm của họ. Ex: The monthly premium for this policy is $100. (Phí bảo hiểm hàng tháng cho hợp đồng này là 100 đô la.)
+* [I] Peril /ˈpɛrəl/: Mối nguy hiểm. nguy cơ gây ra tổn thất hoặc thiệt hại mà bảo hiểm bảo vệ. Ex: The policy covers perils such as fire and theft. (Hợp đồng bảo hiểm bảo vệ các mối nguy hiểm như hỏa hoạn và trộm cắp.)
+* [I] Premium Rate /ˈpriːmiəm reɪt/: Tỷ lệ phí bảo hiểm. số tiền mà người mua bảo hiểm phải trả cho mỗi đơn vị bảo hiểm. Ex: The premium rate varies depending on the level of coverage. (Tỷ lệ phí bảo hiểm thay đổi tùy thuộc vào mức độ bảo hiểm.)
+* [I] Risk Management /rɪsk ˈmænɪdʒmənt/: Quản lý rủi ro. quá trình nhận diện, đánh giá và ưu tiên các rủi ro để giảm thiểu và kiểm soát tác động của chúng. Ex: Effective risk management can prevent significant financial losses. (Quản lý rủi ro hiệu quả có thể ngăn chặn tổn thất tài chính đáng kể.)
+* [I] Reinsurance /ˌriːɪnˈʃʊərəns/: Tái bảo hiểm. khi một hãng bảo hiểm mua bảo hiểm từ một hãng bảo hiểm khác để giảm rủi ro của mình. Ex: The company used reinsurance to protect itself from large claims. (Công ty sử dụng tái bảo hiểm để bảo vệ mình khỏi các yêu cầu bồi thường lớn.)
+* [I] Risk Pooling /rɪsk ˈpuːlɪŋ/: Chia sẻ rủi ro. việc kết hợp rủi ro của nhiều người hoặc tổ chức để giảm thiểu tác động tài chính của rủi ro cá nhân. Ex: Risk pooling helps to stabilize insurance premiums. (Chia sẻ rủi ro giúp ổn định phí bảo hiểm.)
+* [I] Risk Assessment /rɪsk əˈsɛsmənt/: Đánh giá rủi ro. quá trình xác định và phân tích các rủi ro có thể xảy ra. Ex: The company conducted a risk assessment to identify potential threats. (Công ty đã thực hiện đánh giá rủi ro để xác định các mối đe dọa tiềm ẩn.)
+* [I] Renewal /rɪˈnjuːəl/: Gia hạn. việc tiếp tục hợp đồng bảo hiểm sau khi nó đã hết hạn. Ex: The policy renewal date is approaching. (Ngày gia hạn hợp đồng bảo hiểm đang đến gần.)
+* [I] Risk Pool /rɪsk puːl/: Quỹ rủi ro. một nhóm người hoặc tổ chức kết hợp các nguồn lực để chia sẻ rủi ro tài chính. Ex: The risk pool helps spread the cost of claims among members. (Quỹ rủi ro giúp phân chia chi phí bồi thường giữa các thành viên.)
+* [I] Reinstatement /ˌriːɪnˈsteɪtmənt/: Khôi phục. hành động làm mới hoặc khôi phục lại một hợp đồng bảo hiểm sau khi nó đã bị hủy bỏ hoặc hết hiệu lực. Ex: The policy was reinstated after the missed payment was made. (Hợp đồng bảo hiểm đã được khôi phục sau khi thanh toán bị bỏ lỡ được thực hiện.)
+* [I] Subrogation /ˌsʌbroʊˈɡeɪʃən/: Quyền thay thế. quyền của hãng bảo hiểm đòi bồi thường từ bên thứ ba khi đã thanh toán cho người được bảo hiểm. Ex: The insurer exercised its right of subrogation after paying the claim. (Hãng bảo hiểm đã thực hiện quyền thay thế sau khi thanh toán yêu cầu bồi thường.)
+* [I] Total Loss /ˈtoʊtəl lɔs/: Tổn thất toàn bộ. khi tài sản bị hư hỏng hoàn toàn và không thể sửa chữa được hoặc chi phí sửa chữa vượt quá giá trị của nó. Ex: The car was declared a total loss after the accident. (Chiếc xe bị tuyên bố là tổn thất toàn bộ sau vụ tai nạn.)
+* [I] Third-party Liability /ˈθɜːrd pɑːrti laɪəˈbɪləti/: Trách nhiệm pháp lý đối với bên thứ ba. bảo hiểm cho các yêu cầu bồi thường từ người khác do tổn thất hoặc thiệt hại gây ra bởi người được bảo hiểm. Ex: Third-party liability insurance covers damages to other people's property. (Bảo hiểm trách nhiệm pháp lý đối với bên thứ ba bảo hiểm thiệt hại đối với tài sản của người khác.)
+* [I] Underinsurance /ˌʌndərɪnˈʃʊərəns/: Thiếu bảo hiểm. khi giá trị bảo hiểm thấp hơn giá trị thực tế của tài sản được bảo hiểm. Ex: Underinsurance can lead to significant out-of-pocket expenses. (Thiếu bảo hiểm có thể dẫn đến chi phí tự trả đáng kể.)
+* [I] Underwriting Guidelines /ˈʌndərˌraɪtɪŋ ˈɡaɪdlaɪnz/: Hướng dẫn đánh giá rủi ro. các quy tắc và tiêu chuẩn mà hãng bảo hiểm sử dụng để đánh giá và chấp nhận rủi ro. Ex: The underwriting guidelines help determine the premium rates. (Hướng dẫn đánh giá rủi ro giúp xác định tỷ lệ phí bảo hiểm.)
+* [I] Underinsured /ˌʌndərɪnˈʃʊrd/: Bảo hiểm không đủ. khi bảo hiểm không đủ để bồi thường cho tất cả các tổn thất hoặc thiệt hại có thể xảy ra.
+* [I] Underwriting Profit /ˈʌndərˌraɪtɪŋ ˈprɒfɪt/: Lợi nhuận từ đánh giá rủi ro. lợi nhuận mà hãng bảo hiểm kiếm được từ việc thu phí bảo hiểm sau khi trừ đi các khoản chi phí bồi thường. Ex: The company's underwriting profit increased due to fewer claims. (Lợi nhuận từ đánh giá rủi ro của công ty tăng lên do ít yêu cầu bồi thường hơn.)
+* [I] Underwriter /ˈʌndərˌraɪtər/: Người đánh giá rủi ro. người chịu trách nhiệm đánh giá và quyết định mức độ bảo hiểm và phí bảo hiểm cho các hợp đồng bảo hiểm. Ex: The underwriter assessed the application and set the premium. (Người đánh giá rủi ro đã xem xét đơn và đặt mức phí bảo hiểm.)
+* [I] Workers' Compensation /ˈwɜːrkərz ˌkɒmpənˈseɪʃən/: Bồi thường lao động. bảo hiểm chi trả cho người lao động bị thương hoặc bệnh tật liên quan đến công việc. Ex: Workers' compensation covers medical expenses and lost wages. (Bồi thường lao động bao gồm chi phí y tế và tiền lương bị mất.)
+
+
+(.*).(\(.*).(\))
+$1$2$3
