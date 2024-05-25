@@ -44,3 +44,5 @@ bouncy
 bouncing
 * finesse /fɪˈnɛs/: sự khéo léo
 * clever
+unsalted
+decor
