@@ -1,30 +1,46 @@
-* [I] Loss Adjuster /lɒs əˈdʒʌstər/: Người điều chỉnh tổn thất. chuyên gia đánh giá tổn thất và quyết định số tiền bồi thường. Ex: The loss adjuster assessed the damage to the property. (Người điều chỉnh tổn thất đã đánh giá thiệt hại đối với tài sản.)
-* [I] Loss Prevention /lɒs prɪˈvɛnʃən/: Phòng ngừa tổn thất. các biện pháp nhằm giảm thiểu nguy cơ và mức độ tổn thất. Ex: The company has a loss prevention program to reduce theft. (Công ty có chương trình phòng ngừa tổn thất để giảm thiểu trộm cắp.)
-* [I] Loss Reserve /lɒs rɪˈzɜːrv/: Dự trữ tổn thất. số tiền dự phòng để chi trả các yêu cầu bồi thường trong tương lai. Ex: The insurer increased its loss reserve due to rising claims. (Hãng bảo hiểm đã tăng dự trữ tổn thất do các yêu cầu bồi thường tăng lên.)
-* [I] Moral Hazard /ˈmɔːrəl ˈhæzərd/: Rủi ro đạo đức. rủi ro xảy ra khi người được bảo hiểm hành động thiếu trách nhiệm do biết rằng mình được bảo hiểm. Ex: Moral hazard can lead to higher insurance premiums. (Rủi ro đạo đức có thể dẫn đến phí bảo hiểm cao hơn.)
-* [I] No-claims Bonus /noʊ kleɪmz ˈboʊnəs/: Thưởng không yêu cầu bồi thường. khoản giảm giá cho người mua bảo hiểm không có yêu cầu bồi thường trong một khoảng thời gian nhất định. Ex: He received a no-claims bonus after five years without any claims. (Anh ấy nhận được thưởng không yêu cầu bồi thường sau năm năm không có yêu cầu bồi thường nào.)
-* [I] Policy /ˈpɒlɪsi/: Hợp đồng bảo hiểm. văn bản chi tiết các điều khoản và điều kiện bảo hiểm. Ex: The policy outlines the coverage and exclusions. (Hợp đồng bảo hiểm nêu rõ phạm vi bảo hiểm và các điều khoản loại trừ.)
-* [I] Policyholder /ˈpɒlɪsiˌhoʊldər/: Chủ hợp đồng bảo hiểm. người mua bảo hiểm. Ex: The policyholder is responsible for paying the premium. (Chủ hợp đồng bảo hiểm có trách nhiệm trả phí bảo hiểm.)
-* [I] Premium /ˈpriːmiəm/: Phí bảo hiểm. số tiền mà người mua bảo hiểm phải trả định kỳ cho bảo hiểm của họ. Ex: The monthly premium for this policy is $100. (Phí bảo hiểm hàng tháng cho hợp đồng này là 100 đô la.)
-* [I] Peril /ˈpɛrəl/: Mối nguy hiểm. nguy cơ gây ra tổn thất hoặc thiệt hại mà bảo hiểm bảo vệ. Ex: The policy covers perils such as fire and theft. (Hợp đồng bảo hiểm bảo vệ các mối nguy hiểm như hỏa hoạn và trộm cắp.)
-* [I] Premium Rate /ˈpriːmiəm reɪt/: Tỷ lệ phí bảo hiểm. số tiền mà người mua bảo hiểm phải trả cho mỗi đơn vị bảo hiểm. Ex: The premium rate varies depending on the level of coverage. (Tỷ lệ phí bảo hiểm thay đổi tùy thuộc vào mức độ bảo hiểm.)
-* [I] Risk Management /rɪsk ˈmænɪdʒmənt/: Quản lý rủi ro. quá trình nhận diện, đánh giá và ưu tiên các rủi ro để giảm thiểu và kiểm soát tác động của chúng. Ex: Effective risk management can prevent significant financial losses. (Quản lý rủi ro hiệu quả có thể ngăn chặn tổn thất tài chính đáng kể.)
-* [I] Reinsurance /ˌriːɪnˈʃʊərəns/: Tái bảo hiểm. khi một hãng bảo hiểm mua bảo hiểm từ một hãng bảo hiểm khác để giảm rủi ro của mình. Ex: The company used reinsurance to protect itself from large claims. (Công ty sử dụng tái bảo hiểm để bảo vệ mình khỏi các yêu cầu bồi thường lớn.)
-* [I] Risk Pooling /rɪsk ˈpuːlɪŋ/: Chia sẻ rủi ro. việc kết hợp rủi ro của nhiều người hoặc tổ chức để giảm thiểu tác động tài chính của rủi ro cá nhân. Ex: Risk pooling helps to stabilize insurance premiums. (Chia sẻ rủi ro giúp ổn định phí bảo hiểm.)
-* [I] Risk Assessment /rɪsk əˈsɛsmənt/: Đánh giá rủi ro. quá trình xác định và phân tích các rủi ro có thể xảy ra. Ex: The company conducted a risk assessment to identify potential threats. (Công ty đã thực hiện đánh giá rủi ro để xác định các mối đe dọa tiềm ẩn.)
-* [I] Renewal /rɪˈnjuːəl/: Gia hạn. việc tiếp tục hợp đồng bảo hiểm sau khi nó đã hết hạn. Ex: The policy renewal date is approaching. (Ngày gia hạn hợp đồng bảo hiểm đang đến gần.)
-* [I] Risk Pool /rɪsk puːl/: Quỹ rủi ro. một nhóm người hoặc tổ chức kết hợp các nguồn lực để chia sẻ rủi ro tài chính. Ex: The risk pool helps spread the cost of claims among members. (Quỹ rủi ro giúp phân chia chi phí bồi thường giữa các thành viên.)
-* [I] Reinstatement /ˌriːɪnˈsteɪtmənt/: Khôi phục. hành động làm mới hoặc khôi phục lại một hợp đồng bảo hiểm sau khi nó đã bị hủy bỏ hoặc hết hiệu lực. Ex: The policy was reinstated after the missed payment was made. (Hợp đồng bảo hiểm đã được khôi phục sau khi thanh toán bị bỏ lỡ được thực hiện.)
-* [I] Subrogation /ˌsʌbroʊˈɡeɪʃən/: Quyền thay thế. quyền của hãng bảo hiểm đòi bồi thường từ bên thứ ba khi đã thanh toán cho người được bảo hiểm. Ex: The insurer exercised its right of subrogation after paying the claim. (Hãng bảo hiểm đã thực hiện quyền thay thế sau khi thanh toán yêu cầu bồi thường.)
-* [I] Total Loss /ˈtoʊtəl lɔs/: Tổn thất toàn bộ. khi tài sản bị hư hỏng hoàn toàn và không thể sửa chữa được hoặc chi phí sửa chữa vượt quá giá trị của nó. Ex: The car was declared a total loss after the accident. (Chiếc xe bị tuyên bố là tổn thất toàn bộ sau vụ tai nạn.)
-* [I] Third-party Liability /ˈθɜːrd pɑːrti laɪəˈbɪləti/: Trách nhiệm pháp lý đối với bên thứ ba. bảo hiểm cho các yêu cầu bồi thường từ người khác do tổn thất hoặc thiệt hại gây ra bởi người được bảo hiểm. Ex: Third-party liability insurance covers damages to other people's property. (Bảo hiểm trách nhiệm pháp lý đối với bên thứ ba bảo hiểm thiệt hại đối với tài sản của người khác.)
-* [I] Underinsurance /ˌʌndərɪnˈʃʊərəns/: Thiếu bảo hiểm. khi giá trị bảo hiểm thấp hơn giá trị thực tế của tài sản được bảo hiểm. Ex: Underinsurance can lead to significant out-of-pocket expenses. (Thiếu bảo hiểm có thể dẫn đến chi phí tự trả đáng kể.)
-* [I] Underwriting Guidelines /ˈʌndərˌraɪtɪŋ ˈɡaɪdlaɪnz/: Hướng dẫn đánh giá rủi ro. các quy tắc và tiêu chuẩn mà hãng bảo hiểm sử dụng để đánh giá và chấp nhận rủi ro. Ex: The underwriting guidelines help determine the premium rates. (Hướng dẫn đánh giá rủi ro giúp xác định tỷ lệ phí bảo hiểm.)
-* [I] Underinsured /ˌʌndərɪnˈʃʊrd/: Bảo hiểm không đủ. khi bảo hiểm không đủ để bồi thường cho tất cả các tổn thất hoặc thiệt hại có thể xảy ra.
-* [I] Underwriting Profit /ˈʌndərˌraɪtɪŋ ˈprɒfɪt/: Lợi nhuận từ đánh giá rủi ro. lợi nhuận mà hãng bảo hiểm kiếm được từ việc thu phí bảo hiểm sau khi trừ đi các khoản chi phí bồi thường. Ex: The company's underwriting profit increased due to fewer claims. (Lợi nhuận từ đánh giá rủi ro của công ty tăng lên do ít yêu cầu bồi thường hơn.)
-* [I] Underwriter /ˈʌndərˌraɪtər/: Người đánh giá rủi ro. người chịu trách nhiệm đánh giá và quyết định mức độ bảo hiểm và phí bảo hiểm cho các hợp đồng bảo hiểm. Ex: The underwriter assessed the application and set the premium. (Người đánh giá rủi ro đã xem xét đơn và đặt mức phí bảo hiểm.)
-* [I] Workers' Compensation /ˈwɜːrkərz ˌkɒmpənˈseɪʃən/: Bồi thường lao động. bảo hiểm chi trả cho người lao động bị thương hoặc bệnh tật liên quan đến công việc. Ex: Workers' compensation covers medical expenses and lost wages. (Bồi thường lao động bao gồm chi phí y tế và tiền lương bị mất.)
-
-
-(.*).(\(.*).(\))
-$1$2$3
+acclaim
+cope with
+expell
+reconsider
+sitcom
+bargain
+stare
+* hop
+* jump
+* skip
+* leap
+fool
+foolish
+foolishly
+splash
+rent
+rental
+dampener
+sound dampener
+cover one's ear
+disruptive
+lookalike
+highlight
+confident
+sportmen
+sportwomen
+stadium
+cheer on
+judo
+rowing
+wheelchair
+wheelchair tennis
+fastest man alive
+reveal
+oprerate
+oprerated
+raise
+annual raise
+annual cost of living raise
+rubber
+rubbery
+bounce
+bouncy
+bouncing
+* finesse /fɪˈnɛs/: sự khéo léo
+* clever

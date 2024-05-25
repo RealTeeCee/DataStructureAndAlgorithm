@@ -135,7 +135,6 @@ sự ấm áp:
 kéo dài hàng chục năm: 
 (a) cách đây vài thập kỷ: 
 tích lũy: 
-Sự khéo léo: 
 có thể thích nghi: 
 không có giới hạn. nghĩa là không có giới hạn, không bị hạn chế, thường ám chỉ sự mạnh mẽ hoặc to lớn của một cái gì đó: 
 đầu tư: 

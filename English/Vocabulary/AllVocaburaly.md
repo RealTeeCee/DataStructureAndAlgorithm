@@ -2135,7 +2135,6 @@ longevity /lɒnˈdʒɛvɪti/: (n) tuổi thọ, sự kéo dài. Ex: After a deca
 decades-long /ˈdɛkeɪd lɔŋ /: kéo dài hàng chục năm. 
 decades-old /ˈdɛkeɪdz oʊld/: (a) cách đây vài thập kỷ. Ex: They discovered a decades-old treasure hidden in the attic (Họ đã phát hiện ra một kho báu cách đây vài thập kỷ được giấu trong gác mái)
 accumulate /əˈkyumyəˌleɪt/: tích lũy
-finesse /fɪˈnɛs/: Sự khéo léo
 adaptable /əˈdæptəbl/: có thể thích nghi
 knows no bound //: không có giới hạn. nghĩa là không có giới hạn, không bị hạn chế, thường ám chỉ sự mạnh mẽ hoặc to lớn của một cái gì đó. Ex: Her love for her children knows no bounds (Tình yêu của cô ấy dành cho con cái không có giới hạn). The potential of human creativity knows no bounds (Tiềm năng của sự sáng tạo của con người không có giới hạn)
 invests /ɪnˈvɛst/: đầu tư
