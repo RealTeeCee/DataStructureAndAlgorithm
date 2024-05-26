@@ -30,3 +30,50 @@ First, It's extremely big. It has 7 floors and 2 basements with an area of over 
 Second, It's modern. It has many escalators, air conditioners installed everywhere, fireproofing equipment, interactive devices, augmented reality & virtual reality devices, and many robots. We can make our choice everything we want and buy anything we need. My friend has bought a new dress although she just bought a dress 2 days ago. She has been shopping here for over 8 years lately.
 In conclusion, Gigamall is the best Shopping Center in Ho Chi Minh City. Although everything is a little expensive the quality always suits the price. If you have never been there, you should come and experience it.
 
+# Tri
+
+    
+1.	My company.
+
+My company is innovative.
+My company operates in a competitive market, offering innovative products and services to its customers. Employees work diligently to meet deadlines and exceed client expectations. Management fosters a culture of collaboration and creativity.
+At this moment, my company is undergoing a rebranding effort to better reflect its values and vision. Marketing teams are designing new logos and promotional materials, while executives are strategizing ways to enhance brand recognition. Meanwhile, sales teams are actively pursuing new leads and forging partnerships.
+Over the years, my company has achieved significant milestones. It has expanded its market share, acquired new subsidiaries, and diversified its product offerings. Employees have undergone extensive training and development programs to stay ahead in a rapidly evolving industry.
+The research and development department has been working tirelessly on product innovation for the past year. They have been conducting market research, gathering customer feedback, and refining prototypes. Their efforts have resulted in groundbreaking advancements that position My company as a leader in its field.
+Last quarter, my company experienced a downturn in profits due to economic uncertainties. However, management swiftly implemented cost-cutting measures and restructuring initiatives to mitigate losses. Despite the challenges, my company emerged stronger and more resilient.
+Looking ahead, my company aims to expand its global presence through strategic partnerships and market expansion initiatives. It plans to invest in cutting-edge technologies to maintain its competitive edge and drive growth. With a clear vision and proactive approach, my company is poised for continued success in the future.
+2.	Your bank
+
+Techcombank serves as a leading financial institution in the region, offering a wide range of banking and financial services. Customers access their accounts through online banking platforms, visit branches for transactions, and utilize mobile applications for convenience. The bank maintains a strong presence in the market, attracting both individual and corporate clients.
+Techcombank is currently undergoing a digital transformation. The bank is revamping its online banking platform to offer more user-friendly features and enhanced security measures. 
+Over the years, Techcombank has established itself as a trusted partner for financial solutions. It has expanded its product offerings, introduced innovative digital banking features, and achieved consistent growth in market share. Customers have benefited from the bank's commitment to excellence and technological advancement.
+The bank has been investing heavily in upgrading its IT infrastructure to enhance operational efficiency and customer experience. IT specialists have been developing new software applications, conducting system upgrades, and implementing cybersecurity protocols to safeguard against cyber threats.
+Last year, Techcombank launched a new mobile banking application to provide customers with a seamless banking experience on their smartphones. The app received positive feedback from users and contributed to an increase in digital transactions. Additionally, the bank opened several new branches in strategic locations to expand its reach.
+In the future, Techcombank plans to continue innovating and adapting to meet the evolving needs of customers. It will introduce new financial products and services tailored to specific market segments and invest in technologies such as blockchain and artificial intelligence to drive digital transformation. With a forward-thinking approach, the bank is poised to remain a leader in the financial industry for years to come.
+
+3.	Your hospital
+
+Hoan My Saigon Hospital was established in 1999 in Ho Chi Minh CityHoan My Saigon Hospital was established in 1999 in Ho Chi Minh City
+Hoan My Sai Gon Hospital serves as a leading healthcare institution in the region, providing comprehensive medical services to patients. Patients receive personalized care and attention in a state-of-the-art facility.
+The hospital is continuously striving to improve patient care by investing in advanced medical equipment and implementing the latest treatment protocols.
+Over the years, Hoan My Sai Gon Hospital has established itself as a trusted provider of healthcare services. It has expanded its range of specialties, invested in advanced medical technology, and recruited top talent in the field. 
+Hoan My Sai Gon Hospital has been investing heavily in upgrading its facilities and equipment to meet the growing demands of the community. This ongoing effort ensures that patients receive the highest quality care possible.
+Hoan My Sai Gon Hospital plans to expand its services and facilities to better serve the needs of the community. It will continue to invest in cutting-edge technology and recruit top medical talent to provide the best possible care to patients.
+
+4.	The coffee shop
+
+Highland Coffee offers a wide selection of drinks in a cozy space. Customers enjoy their favorite drinks while chatting with friends or working on their laptops. The cafe provides a relaxing atmosphere for customer to unwind.
+Highland Coffee is evolving to provide an even more enjoyable experience for its customers. 
+Highland Coffee has been a popular destination for coffee lovers for many years. It has consistently served high-quality drinks and provided excellent customer service. Many customers have become regulars, drawn by the delicious drinks and friendly atmosphere.
+The cafe has been expanding its menu to offer a wider variety of drinks to cater to different tastes.
+After 23 years of formation and development, Highlands Coffee recently announced a new brand orientation by changing the logo and launching the message "Highlands Coffee® Is Ours" based on the value of four elements "Passion - Love - Appreciation - Support".
+Highland Coffee will introduce new menu items and expand its range of offerings. The cafe aims to continue providing a welcoming environment where customers can enjoy delicious drinks and good company.
+
+5.	Shoping mall
+
+Crescent Mall is a popular shopping destination in the Ho Chi Minh city. With over 200 shops at 6 levels, Crescent Mall offers a vast array of international and leading local brands, food outlets, supermarket, department store and cinemas plus a multitude of entertaining activities for an ultimate shopping and leisure experience.
+At crescent mall, the 13th Phu My Hung Children's Festival 2024 is taking place: Summer Festival "Play and Learn". Phu My Hung Children’s Day is an annual activity organized by Phu My Hung to create an interesting and useful playground for children to have fun and exercise, as well as to connect with family members.
+New shops have opened, and additional amenities have been added to enhance the shopping experience. The mall has become a favorite spot for both locals and tourists alike.
+The mall has been expanding its offerings to cater to the diverse needs of its customers. New brands have been introduced, and events have been organized to attract visitors. 
+It is proud to be one of the first shopping mall in Vietnam which offered luxurious and international standard malling experience. In 2016, Crescent Mall again became a market pioneer when it launched the first ever mobile-based retail membership program in the country.
+Crescent Mall plans to continue evolving to meet the changing needs of its customers. With its commitment to excellence, Crescent Mall is poised to remain a beloved shopping destination for years to come.
