@@ -1,6 +1,6 @@
 acclaim
 cope with
-expell
+expel
 reconsider
 sitcom
 bargain
@@ -22,8 +22,8 @@ disruptive
 lookalike
 highlight
 confident
-sportmen
-sportwomen
+sportsmen
+sportswomen
 stadium
 cheer on
 judo
@@ -32,8 +32,8 @@ wheelchair
 wheelchair tennis
 fastest man alive
 reveal
-oprerate
-oprerated
+operate
+operated
 raise
 annual raise
 annual cost of living raise
@@ -46,3 +46,20 @@ bouncing
 * clever
 unsalted
 decor
+basilica
+* stamp
+* Collection
+telegram
+telegraph
+wire service
+long distance call
+mail letter
+gooey
+expand
+escalator
+fireproofing
+fireproofing equipment
+interact
+interactive device
+augmented
+augmented reality (AR) & virtual reality (VR) devices
