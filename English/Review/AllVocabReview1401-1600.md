@@ -117,7 +117,7 @@ có đủ trình độ, thông thạo; (pháp lý) có thẩm quyền:
 * người xem, khán giả. thường ám chỉ những người xem một sự kiện cụ thể, như một trận đấu thể thao, một buổi biểu diễn nghệ thuật hoặc một sự kiện trên sân khấu, không tham gia trực tiếp vào sự kiện và thường là người xem từ xa: 
 * độc giả, khán giả. thường ám chỉ những người xem một sự kiện hoặc biểu diễn trực tiếp. thường không chỉ đơn thuần là người xem mà còn có thể bao gồm những người tham gia một cách trực tiếp trong sự kiện đó, nhưng vẫn tiếp tục đóng vai trò là người quan sát: 
 * người quan sát. một thuật ngữ rộng hơn, ám chỉ đến bất kỳ ai đang quan sát hoặc theo dõi một sự kiện.  có thể là một nhà nghiên cứu, một nhà quan sát xã hội hoặc bất kỳ ai đang thực hiện việc quan sát để thu thập thông tin hoặc hiểu biết: 
-(n) thánh ca (v) cầu kinh; tụng kinh: 
+
 đam mê, say mê; hăng hái, nhiệt tình: 
 ghen tị; ghen tuông; đố kỵ: 
 * cơ thể vóc người, vóc dáng người. thường ám chỉ đến hình dáng hoặc cấu trúc cơ thể của một người, đặc biệt là về mặt cơ bắp và thể chất. thường mô tả các đặc điểm về cơ thể, như sức mạnh, thể trạng, hoặc hình dáng tổng thể: 
