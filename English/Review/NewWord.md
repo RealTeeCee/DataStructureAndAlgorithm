@@ -79,3 +79,8 @@ augmented
 augmented reality (AR) & virtual reality (VR) devices
 contest
 threat
+to file /tu faɪl/: (v) nộp, đệ trình, sắp xếp, lưu trữ. Ex: She filed a complaint with the company's HR department (Cô ấy đã nộp đơn khiếu nại tới bộ phận nhân sự của công ty). The secretary filed all the reports in the cabinet (Thư ký đã sắp xếp tất cả các báo cáo vào tủ hồ sơ)
+file /faɪl/: (n) hồ sơ, tài liệu
+filer /ˈfaɪlər/: (n) người nộp đơn, người sắp xếp hồ sơ
+filing /ˈfaɪlɪŋ/: (n) sự nộp đơn, sự sắp xếp hồ sơ
+recover
