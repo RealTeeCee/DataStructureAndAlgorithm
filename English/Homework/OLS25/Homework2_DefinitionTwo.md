@@ -17,7 +17,7 @@
 
 9. Don't make her cry. She is just a little innocent girl. she will have to go to school tomorrow alone without her father. She didn't steal anything from that fat rich old man. Don't ever say she's a thief, she knew nothing about it. 
 
-10. My boss has me study computers for a B degree in information technology. Even though I graduated from the best school in technology, I have never been good at Microsoft Excel and Microsoft Word. One reason is that I want to do the harder work which uses grey matter not just typing and sorting rows and columns. I want to be a great Software Engineer, not a type-machined clerk.
+10. My boss has me study computers for a B degree in information technology. Even though I graduated from the best school in technology, I have never been good at Microsoft Excel and Microsoft Word. One reason is that I want to do the harder work which uses grey matter not just typing and sorting rows and columns. I want to be a great Software Engineer, not a boring typist.
 
 
 # Tri
