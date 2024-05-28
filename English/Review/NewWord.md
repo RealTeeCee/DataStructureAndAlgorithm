@@ -19,18 +19,24 @@ sitcom /ˈsɪtkɒm/: (n) phim hài tình huống. Ex: "Friends" is one of the mo
 bargain /ˈbɑːrɡɪn/: (n) sự mặc cả, món hời; (v) mặc cả, thương lượng. Ex: (n) I found a great bargain at the flea market (Tôi đã tìm thấy một món hời tuyệt vời ở chợ trời). (v) She bargained with the vendor to get a better price (Cô ấy mặc cả với người bán để có được giá tốt hơn)
 bargainer /ˈbɑːrɡənər/: (n) người mặc cả
 stare
-* hop
-* jump
-* skip
-* leap
-fool
-foolish
-foolishly
-splash
-rent
-rental
-dampener
-sound dampener
+* hop /hɒp/: (v) Nhảy một chân (n) Một cú nhảy một chân
+* jump /dʒʌmp/: (v) Nhảy (n) Một cú nhảy
+* skip /skɪp/: (v) Bước nhảy, nhảy xa (n) Một bước nhảy
+* leap(v) /liːp/: (v) Nhảy xa (n) Một cú nhảy xa
+fool /fuːl/: (n) Kẻ ngu ngốc, kẻ dại dột (v) Lừa dối, đánh lừa. Ex: (n) Don't be a fool and take unnecessary risks (Đừng làm kẻ ngu ngốc và mạo hiểm không cần thiết). (v) He fooled his friends into thinking he had won the lottery (Anh ấy đã lừa bạn bè của mình tin rằng anh ấy đã trúng xổ số)
+foolish /ˈfuːlɪʃ/: (a) Ngu ngốc, dại dột
+foolery /ˈfuːləri/: (n) Sự ngu ngốc, hành động ngốc nghếch
+splash /splæʃ/: (n) Sự vỗ nước, sự tung nước (v) Tung nước, vỗ nước.
+splashy /ˈsplæʃi/: (a) Ấn tượng, hấp dẫn.
+splashproof /ˈsplæʃpruːf/: (a) Chống nước.
+splashguard /ˈsplæʃɡɑːrd/: (n) Vật chắn nước.
+rent /rɛnt/: (n) Tiền thuê nhà hoặc phòng trọ (v) Thuê, mướn. Ex: (n) The rent for this apartment is due on the first of each month (Tiền thuê căn hộ này phải đóng vào ngày đầu tiên của mỗi tháng). (v) We decided to rent a car for our vacation (Chúng tôi quyết định thuê một chiếc xe hơi cho kỳ nghỉ của chúng tôi)
+renter /ˈrɛntər/: (n) Người thuê, người mướn
+rental /ˈrɛntəl/: (n) Sự thuê, mướn
+rentable /ˈrɛntəbl/: (adj) Có thể thuê được
+dampener /ˈdæmpənər/: (n) Một vật hoặc một phần tử được sử dụng để làm giảm hoặc làm dịu một hiện tượng cụ thể. Nghĩa chính: Cái làm giảm âm thanh hoặc rung động, Cái làm giảm hoặc làm dịu cảm xúc hoặc tình trạng. Ex: The dampener on the piano helped reduce the noise (Cái giảm rung động trên piano giúp giảm tiếng ồn). A walk in the park can be a dampener for stress (Một cuộc đi dạo trong công viên có thể làm giảm căng thẳng)
+shock dampener /ʃɒk ˈdæmpənər/: (n) Bộ giảm chấn
+sound dampener /ʃɒk ˈdæmpənər/: (n) Bộ giảm tiếng ồn
 cover one's ear
 disruptive
 lookalike
@@ -84,3 +90,5 @@ file /faɪl/: (n) hồ sơ, tài liệu
 filer /ˈfaɪlər/: (n) người nộp đơn, người sắp xếp hồ sơ
 filing /ˈfaɪlɪŋ/: (n) sự nộp đơn, sự sắp xếp hồ sơ
 recover
+immigrant
+ambition

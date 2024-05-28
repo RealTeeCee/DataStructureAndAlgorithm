@@ -1268,7 +1268,7 @@ boredom /ˈbɔrdəm/: Sự buồn chán
 assignment /əˈsaɪnmənt/: Sự phân công
 compulsory /kəmˈpʌlsəri/: Bắt buộc (a)
 writing pad = notepad //: tập giấy ghi
-splash-proof coating: Lớp phủ chống bắn tung tóe
+splash-proof coating //: Lớp phủ chống bắn tung tóe
 sturdy /ˈstərdi/: Mãnh liệt, mạnh mẽ (a)
 sturdy lockable //: Có thể khóa chắc chắn.
 compartment /kəmˈpɑrtmənt/: Gian nhà, căn phòng trên tàu, căn phòng trên xe lửa
