@@ -18,7 +18,6 @@ reconsidered /ˌriːkənˈsɪdərd/: (adj) được cân nhắc lại
 sitcom /ˈsɪtkɒm/: (n) phim hài tình huống. Ex: "Friends" is one of the most popular sitcoms of all time ("Friends" là một trong những bộ phim hài tình huống nổi tiếng nhất mọi thời đại)
 bargain /ˈbɑːrɡɪn/: (n) sự mặc cả, món hời; (v) mặc cả, thương lượng. Ex: (n) I found a great bargain at the flea market (Tôi đã tìm thấy một món hời tuyệt vời ở chợ trời). (v) She bargained with the vendor to get a better price (Cô ấy mặc cả với người bán để có được giá tốt hơn)
 bargainer /ˈbɑːrɡənər/: (n) người mặc cả
-stare
 * hop /hɒp/: (v) Nhảy một chân (n) Một cú nhảy một chân
 * jump /dʒʌmp/: (v) Nhảy (n) Một cú nhảy
 * skip /skɪp/: (v) Bước nhảy, nhảy xa (n) Một bước nhảy
@@ -37,15 +36,39 @@ rentable /ˈrɛntəbl/: (adj) Có thể thuê được
 dampener /ˈdæmpənər/: (n) Một vật hoặc một phần tử được sử dụng để làm giảm hoặc làm dịu một hiện tượng cụ thể. Nghĩa chính: Cái làm giảm âm thanh hoặc rung động, Cái làm giảm hoặc làm dịu cảm xúc hoặc tình trạng. Ex: The dampener on the piano helped reduce the noise (Cái giảm rung động trên piano giúp giảm tiếng ồn). A walk in the park can be a dampener for stress (Một cuộc đi dạo trong công viên có thể làm giảm căng thẳng)
 shock dampener /ʃɒk ˈdæmpənər/: (n) Bộ giảm chấn
 sound dampener /ʃɒk ˈdæmpənər/: (n) Bộ giảm tiếng ồn
-cover one's ear
-disruptive
-lookalike
-highlight
-confident
-sportsmen
-sportswomen
-stadium
-cheer on
+cover one's ear //: bịt tai lại bằng 2 bàn tay
+disrupt /dɪsˈrʌpt/: (v) Gây gián đoạn, phá vỡ.
+disruption /dɪsˈrʌpʃən/: (n) Sự gián đoạn, sự phá vỡ
+disruptive /dɪsˈrʌptɪv/: (a) Gây rối, gây gián đoạn
+non-disruptive /nɒn-dɪsˈrʌptɪv/: (adj) Không gây gián đoạn. Ex: The new technology was introduced in a non-disruptive manner, allowing business operations to continue smoothly (Công nghệ mới được giới thiệu theo cách không gây gián đoạn, cho phép các hoạt động kinh doanh tiếp tục trôi chảy)
+* lookalike /ˈlʊkəˌlaɪk/: (n) Người hoặc vật giống hệt, người hoặc vật trông giống. Ex: She is a lookalike of her famous sister (Cô ấy là người trông giống hệt chị gái nổi tiếng của mình)
+* Doppelgänger /ˈdɒpəlˌɡæŋər/: (n) Bản sao, người giống hệt. Ex: Many people believe everyone has a doppelgänger somewhere in the world (Nhiều người tin rằng ai cũng có một bản sao ở đâu đó trên thế giới)
+* clone /kloʊn/: (n) Bản sao, người hoặc vật giống hệt. Ex: The sheep Dolly was the first mammal to be cloned from an adult cell (Con cừu Dolly là động vật có vú đầu tiên được nhân bản từ một tế bào trưởng thành)
+* replica /ˈrɛplɪkə/: (n) Bản sao, mô hình. Ex: The museum has a replica of the ancient artifact (Bảo tàng có một bản sao của cổ vật)
+* twin /twɪn/: (n) Sinh đôi, song sinh; người hoặc vật giống nhau. Ex: The twin brothers look so much alike that it's hard to tell them apart (Hai anh em sinh đôi trông giống nhau đến mức khó có thể phân biệt được họ)
+highlight /ˈhaɪˌlaɪt/: (v) Làm nổi bật, nhấn mạnh (n) Điểm nhấn, điểm nổi bật. Ex: The teacher highlighted the most important points of the lesson (Giáo viên đã nhấn mạnh những điểm quan trọng nhất của bài học)
+highlighter /ˈhaɪˌlaɪtər/: (n) Bút đánh dấu, bút dạ quang
+spotlight /ˈspɒtˌlaɪt/: (n) Đèn chiếu, sự chú ý đặc biệt
+confident /ˈkɒnfɪdənt/: (a) Tự tin
+confidence /ˈkɒnfɪdəns/: (n) Sự tự tin
+confidential /ˌkɒnfɪˈdenʃəl/: (a) Bí mật, bảo mật. Ex: The information is strictly confidential and should not be shared with anyone (Thông tin này hoàn toàn bí mật và không được chia sẻ với ai khác)
+confide /kənˈfaɪd/: (v) Tâm sự, giãi bày. Ex: She decided to confide in her mother about her concerns (Cô ấy quyết định tâm sự với mẹ về những lo lắng của mình)
+sportsmen /ˈspɔːrtsmɛn/: (n) Những người chơi thể thao, vận động viên nam
+sportsman /ˈspɔːrtsmən/: (n) Người chơi thể thao, vận động viên nam
+sportswoman /ˈspɔːrtsˌwʊmən/: (n) Người chơi thể thao, vận động viên nữ
+sportsmanship /ˈspɔːrtsmənʃɪp/: (n) Tinh thần thể thao
+sportsperson /ˈspɔːrtspɜːrsən/: (n) Người chơi thể thao (bao gồm cả nam và nữ)
+* stadium /ˈsteɪdiəm/: (n) Sân vận động. Ex: The new stadium can hold up to 50,000 spectators (Sân vận động mới có thể chứa tới 50,000 khán giả)
+stadium Seating /ˈsteɪdiəm ˈsiːtɪŋ/: (n) Hệ thống chỗ ngồi trong sân vận động
+* arena /əˈriːnə/: (n) Đấu trường, nhà thi đấu. Ex: The basketball game will be held in the arena downtown (Trận đấu bóng rổ sẽ được tổ chức tại nhà thi đấu ở trung tâm thành phố)
+* field /fiːld/: (n) Sân, bãi. Ex: The soccer field was in excellent condition for the match (Sân bóng đá ở trong tình trạng tuyệt vời cho trận đấu)
+* track /træk/: (n) Đường đua, sân chạy. Ex: She ran five laps around the track (Cô ấy đã chạy năm vòng quanh sân chạy)
+* grandstand /ˈɡrændstænd/: (n) Khán đài chính. Ex: The fans filled the grandstand to watch the final match (Người hâm mộ lấp đầy khán đài chính để xem trận chung kết)
+cheer on /tʃɪər ɒn/: (Phrasal Verb) Cổ vũ, khích lệ. Nghĩa: Động viên, khuyến khích ai đó bằng cách hò reo, vỗ tay hoặc nói những lời động viên trong khi họ đang tham gia vào một hoạt động nào đó, đặc biệt là trong thể thao. Ex: The fans gathered to cheer on their team during the final match (Người hâm mộ tập trung để cổ vũ cho đội của họ trong trận chung kết)
+stare
+recover
+immigrant
+ambition
 judo
 rowing
 wheelchair
@@ -89,6 +112,3 @@ to file /tu faɪl/: (v) nộp, đệ trình, sắp xếp, lưu trữ. Ex: She fi
 file /faɪl/: (n) hồ sơ, tài liệu
 filer /ˈfaɪlər/: (n) người nộp đơn, người sắp xếp hồ sơ
 filing /ˈfaɪlɪŋ/: (n) sự nộp đơn, sự sắp xếp hồ sơ
-recover
-immigrant
-ambition
