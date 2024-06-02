@@ -65,9 +65,24 @@ stadium Seating /ˈsteɪdiəm ˈsiːtɪŋ/: (n) Hệ thống chỗ ngồi trong 
 * track /træk/: (n) Đường đua, sân chạy. Ex: She ran five laps around the track (Cô ấy đã chạy năm vòng quanh sân chạy)
 * grandstand /ˈɡrændstænd/: (n) Khán đài chính. Ex: The fans filled the grandstand to watch the final match (Người hâm mộ lấp đầy khán đài chính để xem trận chung kết)
 cheer on /tʃɪər ɒn/: (Phrasal Verb) Cổ vũ, khích lệ. Nghĩa: Động viên, khuyến khích ai đó bằng cách hò reo, vỗ tay hoặc nói những lời động viên trong khi họ đang tham gia vào một hoạt động nào đó, đặc biệt là trong thể thao. Ex: The fans gathered to cheer on their team during the final match (Người hâm mộ tập trung để cổ vũ cho đội của họ trong trận chung kết)
-stare
-recover
-immigrant
+* stare /stɛər/: (v) Nhìn chằm chằm. Ex: He couldn't help but stare at the beautiful painting (Anh ấy không thể không nhìn chằm chằm vào bức tranh tuyệt đẹp)
+* stare down /stɛər daʊn/: (phrasal verb) nhìn chằm chằm cho đến khi đối phương quay đi. Ex: The two competitors stared each other down before the match (Hai đối thủ nhìn chằm chằm vào nhau trước trận đấu)
+staring /ˈstɛərɪŋ/: (a) (thuộc) nhìn chằm chằm, rõ ràng
+* gaze /ɡeɪz/: (v) Nhìn chằm chằm một cách chăm chú, nhưng thường với sự ngưỡng mộ hoặc suy nghĩ. Ex: She gazed out of the window, lost in thought (Cô ấy nhìn chằm chằm ra ngoài cửa sổ, lạc trong suy nghĩ)
+* glance /ɡlæns/: (v) Liếc nhìn, nhìn thoáng qua. Ex: He glanced at his watch to check the time (Anh ấy liếc nhìn đồng hồ để xem giờ)
+* glare /ɡlɛər/: (v) Nhìn trừng trừng, nhìn giận dữ. Ex: She glared at him when he interrupted her (Cô ấy nhìn trừng trừng vào anh khi anh làm gián đoạn cô)
+recover /rɪˈkʌvər/: (v) Hồi phục, khôi phục. Nghĩa: Trở lại trạng thái bình thường hoặc tốt hơn sau khi bị thương, bệnh tật, hoặc trải qua khó khăn. Ex: After a long illness, he finally recovered his health (Sau một thời gian dài ốm đau, cuối cùng anh ấy đã hồi phục sức khỏe)
+recovery /rɪˈkʌvəri/: (n) Sự hồi phục, sự khôi phục
+recoverable /rɪˈkʌvərəbl/: (adj) Có thể hồi phục, có thể lấy lại
+recuperate /rɪˈkuːpəˌreɪt/: (v) Hồi phục sức khỏe, lấy lại sức lực
+regain /rɪˈɡeɪn/: (v) Lấy lại, giành lại. Nghĩa: Lấy lại một cái gì đó đã mất hoặc đã bị tước đoạt. Ex: She worked hard to regain her confidence after the setback (Cô ấy đã làm việc chăm chỉ để lấy lại sự tự tin sau thất bại)
+revive /rɪˈvaɪv/: (v) Hồi sinh, làm sống lại. Nghĩa: Làm cho cái gì đó trở lại trạng thái sống động hoặc năng động sau khi đã bị lãng quên hoặc suy yếu. Ex: The new management team managed to revive the company's fortunes (Đội ngũ quản lý mới đã thành công trong việc hồi sinh vận may của công ty)
+immigrant /ˈɪmɪɡrənt/: (n) Người nhập cư. Ex: The city has a large population of immigrants from different countries (Thành phố có một lượng lớn người nhập cư từ các quốc gia khác nhau)
+immigration /ˌɪmɪˈɡreɪʃən/: (n) Sự nhập cư
+immigrate /ˈɪmɪˌɡreɪt/: (v) Nhập cư
+emigrant /ˈɛmɪɡrənt/: (n) Người di cư (rời khỏi quốc gia của mình để đến quốc gia khác)
+emigration /ˌɛmɪˈɡreɪʃən/: (n) Sự di cư
+migrant /ˈmaɪɡrənt/: (n) Người di cư, người di trú.
 ambition
 judo
 rowing
@@ -112,3 +127,5 @@ to file /tu faɪl/: (v) nộp, đệ trình, sắp xếp, lưu trữ. Ex: She fi
 file /faɪl/: (n) hồ sơ, tài liệu
 filer /ˈfaɪlər/: (n) người nộp đơn, người sắp xếp hồ sơ
 filing /ˈfaɪlɪŋ/: (n) sự nộp đơn, sự sắp xếp hồ sơ
+wrap up meeting
+obvious
