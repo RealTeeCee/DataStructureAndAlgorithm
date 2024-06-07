@@ -105,18 +105,29 @@ Paralympics /ˌpærəˈlɪmpɪks/: (n) Thế vận hội Paralympic. Ex: Wheelch
 adapted Sport /əˈdæptɪd spɔːrt/: (n) Thể thao thích nghi. Ex: Wheelchair tennis is an example of an adapted sport that allows disabled athletes to compete (Quần vợt xe lăn là một ví dụ về thể thao thích nghi cho phép các vận động viên khuyết tật thi đấu)
 accessible /əkˈsɛsɪbəl/: (a) Có thể tiếp cận, dễ tiếp cận.
 accessibility /əkˌsɛsɪˈbɪlɪti/: (n) Khả năng tiếp cận.
-fastest man alive
-reveal
-operate
-operated
-raise
-annual raise
-annual cost of living raise
-rubber
-rubbery
-bounce
-bouncy
-bouncing
+fastest man alive /ˈfæstɪst mæn əˈlaɪv/: (n) Người đàn ông nhanh nhất thế giới.
+* run /rʌn/: (v) Chạy (n) Chuyến chạy. Nghĩa: Di chuyển nhanh hơn so với đi bộ, thường với cả hai chân rời khỏi mặt đất trong từng bước chân.
+* jog /dʒɒɡ/: (v) Chạy bộ nhẹ nhàng (n) Chuyến chạy bộ nhẹ nhàng. Nghĩa: Hoạt động hoặc quá trình chạy bộ với tốc độ chậm. Ex: He went for a jog after dinner (Anh ấy đã đi chạy bộ sau bữa tối)
+* sprint /sprɪnt/: (v) Chạy nước rút (n) Cuộc chạy nước rút. Nghĩa: Cuộc đua hoặc hành động chạy với tốc độ tối đa trong một khoảng cách ngắn. Ex: The 100-meter sprint is an exciting event (Cuộc đua 100 mét là một sự kiện thú vị)
+
+* reveal /rɪˈviːl/: (v) Tiết lộ, phơi bày (n) Sự tiết lộ, sự phơi bày. Nghĩa: Cho thấy, làm sáng tỏ điều gì đó trước đây được giấu kín hoặc không được biết đến. Ex: The reveal of the new product generated a lot of excitement (Sự tiết lộ về sản phẩm mới đã tạo ra rất nhiều sự hào hứng)
+revelation /ˌrevəˈleɪʃən/: (n) Sự tiết lộ, sự phát hiện.
+* unveil /ʌnˈveɪl/: (v) Tiết lộ, công bố. Nghĩa: Làm cho điều gì đó trở nên rõ ràng hoặc biết được, thường là một sản phẩm hoặc kế hoạch mới. Ex: The company will unveil its latest product next week (Công ty sẽ tiết lộ sản phẩm mới nhất của mình vào tuần tới)
+* disclosure /dɪˈskloʊʒər/: (n) Sự tiết lộ, sự phơi bày. Nghĩa: Hành động hoặc quá trình tiết lộ thông tin hay sự thật mà trước đây không được biết đến hoặc được giữ kín. Ex: The disclosure of financial records is required by law (Sự tiết lộ các hồ sơ tài chính là bắt buộc theo luật pháp)
+* uncover /ʌnˈkʌvər/: (v) Phơi bày, lộ ra. Nghĩa: Làm cho điều gì đó trở nên rõ ràng hoặc biết được, thường là một sự thật hoặc thông tin mà trước đó được giấu kín. Ex: The investigation helped uncover the truth about the incident (Cuộc điều tra đã giúp phơi bày sự thật về sự cố)
+* expose /ɪkˈspoʊz/: (v) Tiết lộ, phơi bày. Nghĩa: Làm cho điều gì đó trở nên rõ ràng hoặc biết được, thường là một điều gì đó không mong muốn hoặc bí mật. Ex: The journalist's article exposed corruption within the government (Bài báo của nhà báo đã tiết lộ sự tham nhũng trong chính phủ)
+operate /ˈɒpəreɪt/: (v) Vận hành, điều hành.
+operation /ˌɒpəˈreɪʃən/: (n) Hoạt động, sự vận hành.
+operator /ˈɒpəreɪtə(r)/: (n) Người vận hành, người điều khiển.
+operating /ˈɒpəreɪtɪŋ/: (a) Hoạt động, vận hành.
+raise /reɪz/: (n) Sự tăng lương, sự tăng thu nhập. Nghĩa: Một sự tăng lương hoặc tăng thu nhập được cung cấp cho một nhân viên hoặc một nhóm nhân viên trong một khoảng thời gian nhất định, thường là như một phần của việc đánh giá hiệu suất hoặc như một phần của sự điều chỉnh định kỳ.
+annual raise /ˈænjuəl reɪz/: (n) Sự tăng lương hàng năm.
+annual cost of living raise /ˈænjuəl kɒst ɒv ˈlɪvɪŋ reɪz/: (n) Sự tăng lương hàng năm theo chỉ số chi phí sinh hoạt.
+rubber /ˈrʌbər/: (n) Cao su.
+rubbery /ˈrʌbəri/: (a) Có tính chất của cao su, mềm dẻo như cao su.
+bounce /baʊns/: (v) Nảy, bật lại (n) Sự nảy, sự bật lại.
+bouncy /ˈbaʊnsi/: (a) Mềm và đàn hồi, có tính chất của sự nảy. Nghĩa: Mềm mại và có khả năng nảy lại nhanh chóng khi chịu áp lực. Ex: The mattress was so bouncy that it was hard to stay still on it (Chiếc nệm quá mềm và đàn hồi, khó để giữ yên trên nó)
+bouncing /ˈbaʊnsɪŋ/: (a) Đang nảy, đang bật lại. Nghĩa: Trạng thái của việc di chuyển lên và xuống hoặc lùi về phía trước và phía sau một cách nhanh chóng và nhẹ nhàng. Ex: The bouncing ball rolled down the hill (Quả bóng đang nảy lên và xuống trên đồi)
 * finesse /fɪˈnɛs/: (n) sự khéo léo (v) Xử lý khéo léo. Nghĩa: thường liên quan đến sự khéo léo trong cách xử lý tình huống và công việc, với một mức độ tinh tế và tài tình. Ex: He managed to finesse his way out of the difficult situation (Anh ấy đã xử lý khéo léo để thoát khỏi tình huống khó khăn)
 * clever /ˈklɛvər/: (a) Thông minh, khéo léo. Nghĩa: ám chỉ sự thông minh và khả năng giải quyết vấn đề một cách nhanh nhẹn và sáng tạo. Ex: She came up with a clever solution to the problem (Cô ấy đã nghĩ ra một giải pháp thông minh cho vấn đề này). Her clever idea saved the company a lot of money (Ý tưởng thông minh của cô ấy đã tiết kiệm cho công ty rất nhiều tiền)
 * skillful /ˈskɪlfəl/: (a) Khéo tay, tài giỏi. Nghĩa: Có kỹ năng và khả năng làm việc gì đó rất tốt, thường là do được huấn luyện hoặc thực hành nhiều, biểu thị sự thành thạo và tài năng vượt trội. Ex: Police officers have to be skilful drivers (CSGT phải là người lái xe khéo léo)
@@ -140,28 +151,74 @@ Chapel /ˈʧæpəl/: (n) Nhà nguyện. Nghĩa: Một tòa nhà nhỏ hoặc m�
 Monastery /ˈmɒnəstəri/: (n) Tu viện. Nghĩa: Nơi sống và làm việc của các tu sĩ hoặc nữ tu. Ex: The monks live in a monastery in the mountains (Các tu sĩ sống trong một tu viện trên núi)
 Sanctuary /ˈsæŋktʃuəri/: (n) Thánh địa, nơi tôn nghiêm. Nghĩa: Nơi thiêng liêng trong một nhà thờ, hoặc nơi trú ẩn an toàn. Ex: The sanctuary is a quiet place for reflection and prayer (Thánh địa là một nơi yên tĩnh để suy ngẫm và cầu nguyện)
 stamp /stæmp/: (n) Tem, con tem.
-Collection /kəˈlɛkʃən/: (n) Bộ sưu tập.
+collection /kəˈlɛkʃən/: (n) Bộ sưu tập.
 telegram /ˈtɛlɪɡræm/: (n) Điện báo, bức điện tín. Nghĩa: Một thông điệp được gửi bằng tín hiệu điện tử qua đường dây điện hoặc sóng vô tuyến, sau đó được chuyển thành văn bản và giao đến người nhận.
 telegraph /ˈtɛlɪɡræf/: (n) Máy điện báo. Nghĩa: Thiết bị được sử dụng để gửi các thông điệp bằng cách sử dụng mã Morse qua dây điện.
 dispatch /dɪˈspæʧ/: (n) Sự gửi đi, phái đi. Nghĩa: Hành động gửi đi một thông điệp hoặc hàng hóa đến một nơi khác.
 wire service. Ex: The dispatch of troops to the region was ordered by the government (Việc phái quân đến khu vực đã được chính phủ ra lệnh)
 Courier /ˈkʊriər/: (n) Người đưa thư, chuyển phát nhanh. Nghĩa: Người hoặc công ty chuyên gửi và nhận các gói hàng, tài liệu. Ex: The courier delivered the package on time (Người đưa thư đã giao gói hàng đúng giờ)
-long distance call
-mail letter
-gooey
-expand
-escalator
-fireproofing
-fireproofing equipment
-interact
-interactive device
-augmented
-augmented reality (AR) & virtual reality (VR) devices
-contest
+long distance call /lɔːŋ ˈdɪstəns kɔːl/: (n) Cuộc gọi đường dài. Nghĩa: Một cuộc điện thoại được thực hiện giữa hai địa điểm cách xa nhau, thường là giữa các thành phố, tiểu bang hoặc quốc gia khác nhau. Ex: She made a long distance call to her friend in another country (Cô ấy đã thực hiện một cuộc gọi đường dài cho bạn mình ở một quốc gia khác)
+international call /ˌɪntəˈnæʃənəl kɔːl/: (n) Cuộc gọi quốc tế. Nghĩa: Một cuộc gọi được thực hiện từ một quốc gia này đến một quốc gia khác. 
+domestic call /dəˈmɛstɪk kɔːl/: (n) Cuộc gọi nội địa. Nghĩa: Một cuộc gọi được thực hiện trong cùng một quốc gia, không phải là cuộc gọi đường dài.
+roaming /ˈroʊmɪŋ/: (n) Chuyển vùng, cuộc gọi chuyển vùng. Nghĩa: Dịch vụ cho phép điện thoại di động sử dụng mạng khác khi ở ngoài khu vực phủ sóng của nhà cung cấp dịch vụ ban đầu. Ex: She activated roaming services to use her phone while traveling abroad (Cô ấy đã kích hoạt dịch vụ chuyển vùng để sử dụng điện thoại khi đi du lịch nước ngoài)
+calling card /ˈkɔːlɪŋ kɑːrd/: (n) Thẻ gọi điện. Nghĩa: Một thẻ trả trước cho phép thực hiện các cuộc gọi, thường được sử dụng cho các cuộc gọi đường dài hoặc quốc tế. Ex: He bought a calling card to save money on long distance calls (Anh ấy đã mua một thẻ gọi điện để tiết kiệm tiền cho các cuộc gọi đường dài)
+Area Code /ˈɛəriə koʊd/: (n) Mã vùng. Nghĩa: Một mã số gồm ba chữ số được sử dụng để chỉ định một khu vực địa lý cụ thể trong hệ thống điện thoại. Ex: You need to dial the area code before making a long distance call (Bạn cần quay số mã vùng trước khi thực hiện cuộc gọi đường dài)
+mail a letter /meɪl ə ˈlɛtər/: (v) Gửi thư. Nghĩa: Hành động gửi một lá thư qua dịch vụ bưu điện. Ex: She needs to mail a letter to her friend in another city (Cô ấy cần gửi một lá thư cho bạn mình ở một thành phố khác)
+postage /ˈpoʊstɪdʒ/: (n) Bưu phí. Nghĩa: Chi phí để gửi thư hoặc bưu kiện qua dịch vụ bưu điện. Ex: The postage for this letter is $0.55 (Bưu phí cho lá thư này là $0.55)
+envelope /ˈɛnvəˌloʊp/: (n) Phong bì.Nghĩa: Vật dụng để chứa thư hoặc tài liệu trước khi gửi qua bưu điện. Ex: Don't forget to put a stamp on the envelope before you mail it (Đừng quên dán tem lên phong bì trước khi gửi thư)
+return address /rɪˈtɜrn əˈdrɛs/: (n) Địa chỉ người gửi. Nghĩa: Địa chỉ của người gửi được ghi trên phong bì hoặc bưu kiện để người nhận biết được nơi gửi lại nếu không chuyển phát được. Ex: Make sure to include your return address on the envelope (Hãy chắc chắn ghi địa chỉ người gửi lên phong bì)
+mail Carrier /meɪl ˈkæriər/: (n) Người đưa thư. Nghĩa: Nhân viên bưu điện chịu trách nhiệm giao thư và bưu kiện đến địa chỉ nhận. Ex: The mail carrier comes by our house every morning (Người đưa thư đến nhà chúng tôi mỗi buổi sáng)
+* gooey /ˈɡuːi/: (a) Dính, nhão. Nghĩa: Miêu tả một chất có tính chất dính, nhớt, thường là mềm và ẩm. Ex: The chocolate cake was gooey in the center (Chiếc bánh sô cô la có phần giữa dính và nhão)
+* sticky /ˈstɪki/: (a) Dính. Nghĩa: Có tính chất bám dính, gây cảm giác bám dính khi chạm vào. Ex: The sticky syrup was hard to clean off the table. (Siro dính khó làm sạch khỏi bàn.)
+* viscous /ˈvɪskəs/: (a) Nhớt, sền sệt. Nghĩa: Có độ nhớt cao, chảy chậm và dày. Ex: The viscous oil took a long time to pour out of the bottle (Dầu nhớt mất nhiều thời gian để đổ ra khỏi chai)
+* mushy /ˈmʌʃi/: (a) Mềm nhũn. Nghĩa: Có kết cấu mềm, nhão và dễ bị nghiền nát. Ex: The overcooked vegetables were mushy and unappetizing (Rau bị nấu quá chín trở nên mềm nhũn và không ngon miệng)
+* tacky /ˈtæki/: (a) Hơi dính, dính nhẹ. Nghĩa: Có cảm giác hơi dính khi chạm vào, chưa khô hoàn toàn. Ex: The paint is still tacky; give it another hour to dry (Sơn vẫn còn hơi dính; hãy để thêm một giờ nữa cho khô)
+* glutinous /ˈɡluːtɪnəs/: (a) Dẻo, nếp. Nghĩa: Có đặc tính giống như chất keo, thường được sử dụng để miêu tả thực phẩm. Ex: Glutinous rice is a staple in many Asian cuisines (Gạo nếp là một thực phẩm chính trong nhiều nền ẩm thực châu Á)
+
+* expand /ɪkˈspænd/: (v) Mở rộng. Nghĩa: Làm cho lớn hơn về kích thước, số lượng hoặc phạm vi; trải rộng ra hoặc tăng trưởng. Ex: The company plans to expand its operations overseas (Công ty có kế hoạch mở rộng hoạt động ra nước ngoài)
+expansion /ɪkˈspænʃən/: (n) Sự mở rộng. Nghĩa: Quá trình hoặc hành động mở rộng về kích thước, số lượng hoặc phạm vi. Ex: The expansion of the highway will reduce traffic congestion (Việc mở rộng đường cao tốc sẽ giảm tình trạng ùn tắc giao thông)
+* extend /ɪkˈstɛnd/: (v) Kéo dài, mở rộng. Nghĩa: Làm cho cái gì đó dài hơn hoặc lớn hơn; tiếp tục trong một khoảng thời gian dài hơn. Ex: They decided to extend their vacation by another week (Họ quyết định kéo dài kỳ nghỉ của mình thêm một tuần nữa)
+* broaden /ˈbrɔːdən/: (v) Mở rộng. Nghĩa: Làm cho rộng hơn về nghĩa đen hoặc nghĩa bóng. Ex: Traveling can broaden your horizons (Du lịch có thể mở rộng tầm nhìn của bạn)
+* enlarge /ɪnˈlɑrdʒ/: (v) Phóng to, mở rộng. Nghĩa: Làm cho cái gì đó lớn hơn về kích thước hoặc số lượng. Ex: They plan to enlarge the kitchen by adding more counter space (Họ dự định mở rộng nhà bếp bằng cách thêm nhiều không gian quầy hơn)
+* inflate /ɪnˈfleɪt/: (v) Thổi phồng, mở rộng. Nghĩa: Làm cho cái gì đó đầy hoặc lớn hơn bằng cách thêm khí hoặc chất lỏng. Ex: He inflated the balloon for the party (Anh ấy thổi phồng bóng bay cho bữa tiệc)
+
+* escalator /ˈɛskəˌleɪtər/: (n) Thang cuốn. Ex: The shopping mall has several escalators to help customers move between floors (Trung tâm mua sắm có nhiều thang cuốn để giúp khách hàng di chuyển giữa các tầng)
+* elevator /ˈɛləˌveɪtər/: (n) Thang máy. Ex: Take the elevator to the 10th floor (Đi thang máy lên tầng 10)
+* staircase /ˈstɛərˌkeɪs/: (n) Cầu thang bộ. Ex: There is a grand staircase in the hotel lobby (Có một cầu thang lớn trong sảnh khách sạn)
+* moving walkway /ˈmuːvɪŋ ˈwɔːkweɪ/: (n) Lối đi chuyển động. Nghĩa: Một băng chuyền phẳng di chuyển người đi bộ dọc theo một khoảng cách dài, thường thấy ở sân bay. Ex: The moving walkway makes it easier to navigate the long corridors of the airport (Lối đi chuyển động giúp dễ dàng di chuyển qua các hành lang dài của sân bay)
+* handrail /ˈhændˌreɪl/: (n) Tay vịn. Nghĩa: Một thanh nắm dài được gắn vào thang cuốn, cầu thang hoặc lối đi để hỗ trợ người sử dụng. Ex: Hold onto the handrail when using the escalator (Nắm tay vịn khi sử dụng thang cuốn)
+* step /stɛp/: bậc thang; bước đi. Nghĩa: Một bề mặt phẳng nằm ngang trên thang cuốn hoặc cầu thang, nơi bạn đặt chân để đi lên hoặc xuống. Ex: Watch your step when getting on and off the escalator (Chú ý bước chân khi lên và xuống thang cuốn)
+fireproof /ˈfaɪərˌpruːf/: (a) Chống cháy.
+fire-resistant /ˈfaɪər rɪˈzɪstənt/: (a) Chịu nhiệt, kháng lửa.
+fireproofing /ˈfaɪərˌpruːfɪŋ/: (n) Chống cháy. Nghĩa: Quá trình làm cho một vật liệu hoặc cấu trúc không dễ bắt lửa và có khả năng chịu được nhiệt độ cao. Ex: The new regulations require fireproofing of all structural steel in the building (Quy định mới yêu cầu chống cháy cho tất cả các kết cấu thép trong tòa nhà)
+flame retardant /fleɪm rɪˈtɑːrdənt/: (n) Chất làm chậm cháy; (a) có tính chậm cháy. Nghĩa: Một chất hoặc vật liệu được sử dụng để làm chậm sự phát triển của ngọn lửa. Ex: The sofa was treated with a flame retardant to reduce fire risk. (Ghế sofa được xử lý bằng chất làm chậm cháy để giảm nguy cơ cháy.)
+insulation /ˌɪnsəˈleɪʃən/: (n) Vật liệu cách nhiệt, cách âm. Nghĩa: Vật liệu được sử dụng để ngăn chặn sự truyền nhiệt hoặc âm thanh. Ex: Proper insulation is important for energy efficiency and fire safety (Cách nhiệt đúng cách rất quan trọng để hiệu quả năng lượng và an toàn cháy nổ)
+non-combustible /ˌnɒn kəmˈbʌstɪbəl/: (a) Không cháy được. Nghĩa: Không thể cháy hoặc không dễ bị cháy. Ex: The building materials must be non-combustible to meet safety standards (Vật liệu xây dựng phải là không cháy để đáp ứng các tiêu chuẩn an toàn)
+interact /ˌɪntərˈækt/: (v) Tương tác. 
+interaction /ˌɪntərˈækʃən/: (n) Sự tương tác.
+interactive /ˌɪntərˈæktɪv/: (a) Tương tác.
+interactive device /ˌɪntərˈæktɪv dɪˈvaɪs/: (n) Thiết bị tương tác. Nghĩa: Thiết bị cho phép người dùng giao tiếp và điều khiển thông qua các hoạt động đầu vào, thường có phản hồi trực tiếp hoặc hai chiều. Ex: The interactive device in the museum allows visitors to learn about history through touch screens and multimedia displays (Thiết bị tương tác trong bảo tàng cho phép du khách tìm hiểu về lịch sử thông qua màn hình cảm ứng và các màn hình đa phương tiện)
+engage /ɪnˈɡeɪdʒ/: (v) Tham gia, tương tác. Nghĩa: Tham gia vào một hoạt động hoặc bắt đầu một cuộc giao tiếp. Ex: The speaker engaged the audience with interesting stories (Diễn giả đã thu hút khán giả bằng những câu chuyện thú vị)
+communicate /kəˌmjuːnɪˈkeɪʃən/: (v) Giao tiếp. Nghĩa: Hành động trao đổi thông tin, ý tưởng hoặc cảm xúc giữa người hoặc nhóm. Ex: Effective communication is key to successful teamwork (Giao tiếp hiệu quả là chìa khóa để làm việc nhóm thành công)
+Sensor /ˈsɛnsər/: (n) Cảm biến. Nghĩa: Thiết bị phát hiện hoặc đo lường một trạng thái hoặc điều kiện vật lý và chuyển đổi nó thành tín hiệu. Ex: The interactive exhibit uses sensors to detect movement and respond accordingly (Triển lãm tương tác sử dụng cảm biến để phát hiện chuyển động và phản hồi tương ứng)
+Augmented Reality (AR) /ɔːɡˈmɛntɪd riˈæləti/: (n) Thực tế tăng cường. Nghĩa: Công nghệ phủ lên thế giới thực với các thông tin hoặc hình ảnh kỹ thuật số. Ex: The interactive device uses augmented reality to overlay digital information onto the real world (Thiết bị tương tác sử dụng thực tế tăng cường để phủ lên thông tin kỹ thuật số lên thế giới thực)
+Virtual Reality (VR) /ˈvɜːrtʃuəl riˈæləti/: (n) Thực tế ảo. Nghĩa: Công nghệ tạo ra một môi trường giả lập mà người dùng có thể tương tác và trải nghiệm như thật. Ex: Virtual reality headsets are popular interactive devices for gaming and simulations (Tai nghe thực tế ảo là các thiết bị tương tác phổ biến cho trò chơi và mô phỏng)
+touch screen /tʌtʃ skriːn/: (n) Màn hình cảm ứng. Nghĩa: Màn hình cho phép người dùng điều khiển thiết bị bằng cách chạm vào nó. Ex: Smartphones are equipped with touch screens for easier navigation (Điện thoại thông minh được trang bị màn hình cảm ứng để dễ dàng điều hướng)
+interactive whiteboard /ˌɪntərˈæktɪv ˈwaɪtbɔːrd/: (n) Bảng trắng tương tác. Nghĩa: Một bảng kỹ thuật số cho phép người dùng viết, vẽ và tương tác với nội dung kỹ thuật số. Ex: Interactive whiteboards are commonly used in classrooms to engage students in learning (Bảng trắng tương tác thường được sử dụng trong các lớp học để thu hút học sinh vào việc học)
+* contest (n) Cuộc thi, tranh đấu. Nghĩa: Một sự kiện hoặc hoạt động mà ở đó mọi người cạnh tranh để giành chiến thắng hoặc đạt được một mục tiêu cụ thể. Ex: She won first place in the cooking contest (Cô ấy đã giành giải nhất trong cuộc thi nấu ăn)
+contender /kənˈtɛndər/: (n) Đối thủ cạnh tranh, người tranh cử. Nghĩa: Người tham gia vào một cuộc thi hoặc một cuộc đấu tranh để giành chiến thắng hoặc đạt được điều gì đó. Ex: He is a strong contender for the championship (Anh ấy là một đối thủ cạnh tranh mạnh mẽ cho chức vô địch)
+contestant /kənˈtɛstənt/: (n) Thí sinh, người dự thi. Nghĩa: Người tham gia vào một cuộc thi. Ex: There were ten contestants in the beauty pageant (Có mười thí sinh trong cuộc thi hoa hậu)
+contestation /ˌkɒntɛˈsteɪʃən/: (n) Sự tranh cãi, sự tranh đấu. Nghĩa: Hành động tranh cãi hoặc đấu tranh để đạt được sự thừa nhận hoặc quyền lợi. Ex: The policy led to significant contestation among the public (Chính sách này dẫn đến sự tranh cãi đáng kể trong công chúng)
+* compete /kəmˈpiːt/: (v) Thi đấu, cạnh tranh. Nghĩa: Tham gia vào một cuộc thi hoặc cuộc đấu tranh để giành chiến thắng. Ex: Athletes from around the world compete in the Olympics (Các vận động viên từ khắp nơi trên thế giới thi đấu tại Thế vận hội)
+competition /ˌkɒmpɪˈtɪʃən/: (n) Cuộc thi, sự cạnh tranh.
 threat
 to file /tu faɪl/: (v) nộp, đệ trình, sắp xếp, lưu trữ. Ex: She filed a complaint with the company's HR department (Cô ấy đã nộp đơn khiếu nại tới bộ phận nhân sự của công ty). The secretary filed all the reports in the cabinet (Thư ký đã sắp xếp tất cả các báo cáo vào tủ hồ sơ)
 file /faɪl/: (n) hồ sơ, tài liệu
 filer /ˈfaɪlər/: (n) người nộp đơn, người sắp xếp hồ sơ
 filing /ˈfaɪlɪŋ/: (n) sự nộp đơn, sự sắp xếp hồ sơ
-wrap up meeting
-obvious
+wrap up meeting /ræp ʌp ˈmiːtɪŋ/: (v) Kết thúc cuộc họp. Nghĩa: Hoàn thành hoặc kết thúc một cuộc họp bằng cách tóm tắt các điểm chính, đưa ra kết luận hoặc quyết định, và xác định các bước tiếp theo. Ex: Let's wrap up the meeting by summarizing our action items (Chúng ta hãy kết thúc cuộc họp bằng cách tóm tắt các công việc cần làm)
+action items /ˈækʃən ˈaɪtəms/: (n) Các công việc cần làm. Nghĩa: Các nhiệm vụ hoặc công việc cụ thể được xác định trong cuộc họp để thực hiện sau đó. Ex: We need to assign the action items before ending the meeting (Chúng ta cần phân công các công việc cần làm trước khi kết thúc cuộc họp)
+minutes /ˈmɪnɪts/: (n) Biên bản cuộc họp. Nghĩa: Ghi chép chính thức các nội dung đã thảo luận và các quyết định đã đưa ra trong cuộc họp. Ex: The minutes of the meeting will be distributed to all participants (Biên bản cuộc họp sẽ được phân phát cho tất cả các thành viên tham dự)
+obvious /ˈɒbviəs/: (a) Rõ ràng, hiển nhiên. Nghĩa: Dễ hiểu, không có sự nghi ngờ, hoặc có thể thấy hoặc nhận ra ngay lập tức. Ex: It was obvious that she was upset (Rõ ràng là cô ấy đang buồn)
+obviously /ˈɒbvɪəsli/: (adv) Rõ ràng là, một cách hiển nhiên. Nghĩa: Cách thức diễn đạt rằng điều gì đó là dễ hiểu hoặc không cần giải thích thêm. Ex: Obviously, we need to address this issue immediately (Rõ ràng là chúng ta cần giải quyết vấn đề này ngay lập tức)
+obviousness /ˈɒbviəsnəs/: (n) Sự rõ ràng, sự hiển nhiên.
