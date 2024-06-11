@@ -1,3 +1,4 @@
+# Lesson 2
 # Nguyen
 1. We bought a new car yesterday. I drove around Ho Chi Minh City yesterday evening and people looked admiringly at me. Everybody likes it a lot because it looks very luxurious and expensive. From now on, I won't have to catch a bus to go to work anymore. I also can travel to any place I want.
 
