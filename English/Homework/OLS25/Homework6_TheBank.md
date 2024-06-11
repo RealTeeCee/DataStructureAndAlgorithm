@@ -1,2 +1,14 @@
 # Lesson 6
 # Nguyen
+
+VietcomBank is a famous bank in my area. It's famous for its low-interest loan program and it pays good interest on saving accounts. Its personnel are well-trained; they are very courteous and helpful; they treat the customers nicely, they work fast and efficiently and they use the most modern computers. The director of this branch is very experienced and kind-hearted; he always smiles to the customers, he pays attention to each individual in the bank and he usually takes good care of his employees.
+
+I usually do my business here. I have two savings accounts and one checking account; I opened them last year; my brother also has a savings account at this branch. The loan department opens from 8 AM to 3 PM every day. They offer different kinds of loans; they accept applications for personal loans, car loans, motorcycle loans, house or mortgage loans, construction loans, and even student loans.
+
+VietcomBank caters to your needs; if you want to buy a car or a motorcycle, you can apply for a car loan or a motorcycle loan; if you want to purchase a house, you can apply for a house or mortgage loan. And in case you are a real estate developer, you can apply for construction loans. Whenever the students have no money to go to school, they will give out student loans.
+
+People in my area like this bank very much. It is very convenient despite the fact that it's small. A lot of people open their savings accounts at this branch inasmuch as they always pay good interest. They often pay 10% interest per year and they pay it in advance when you make the deposit. If you look at the rates in the area, theirs is very competitive.
+
+You can go to this branch at any time to open a savings account or a checking account. In order that it could serve the community efficiently, it generally opens early and it always closes late. The local customers usually come here to open their savings accounts to earn interest.
+
+Look! This is the lobby; the security man is standing by the door to keep the order. Many customers are waiting in line to be served; some children are playing on the sofas as they are waiting for their parents; the clock is running; everybody is working. There are a lot of customers; some are making deposits; some are cashing checks; others are withdrawing money; and still others are asking the tellers for the balance of their accounts. About twelve tellers are serving the customers. One teller is selling a money order to an old man; another is accepting a lot of money for a deposit from a rich businessman; and another is talking to an angry customer about the service.
