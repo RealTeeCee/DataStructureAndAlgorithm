@@ -1,4 +1,5 @@
 lime /laɪm/: quả chanh; vôi
+sinister /ˈsɪn.ə.stɚ/: nham hiểm
 acclaim /əˈkleɪm/: (v) ca ngợi, hoan nghênh; (n) sự ca ngợi, sự hoan nghênh. Ex: (n) The actor received great acclaim for his performance (Nam diễn viên nhận được sự ca ngợi lớn cho màn trình diễn của mình). (v) The author's new novel was acclaimed by critics (Cuốn tiểu thuyết mới của tác giả đã được các nhà phê bình ca ngợi)
 acclaimed /əˈkleɪmd/: (a) được ca ngợi
 acclaimer /əˈkleɪmər/: (n) người ca ngợi
