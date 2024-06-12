@@ -1584,7 +1584,7 @@ lunchbox /ˈlʌntʃbɑks/: hộp cơm trưa
 stomach /ˈstʌmək/: dạ dày
 tasty reminder /ˈteɪsti rɪˈmaɪndər/: Lời nhắc nhở thú vị
 vegetable-based /ˈvɛdʒtəbl beɪst/: làm từ thực vật
-filling /ˈfɪlɪŋ/: chất liệu trám răng, chất liệu mềm dùng để lót đệm, gối…,thức ăn được đặt bên trong bánh sandwich, bánh ngọt, bánh ngọt
+filling /ˈfɪlɪŋ/: (n) chất liệu trám răng, chất liệu mềm dùng để lót đệm, gối…,thức ăn được đặt bên trong bánh sandwich, bánh ngọt, bánh ngọt; (a) đầy đủ, đầy ấp
 tofu /ˈtoʊfu/: đậu hũ
 bean /bin/: hạt đậu
 mushroom /ˈmʌʃrum/: nấm

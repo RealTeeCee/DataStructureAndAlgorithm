@@ -184,7 +184,7 @@ hộp cơm trưa:
 dạ dày: 
 Lời nhắc nhở thú vị: 
 làm từ thực vật: 
-chất liệu trám răng, chất liệu mềm dùng để lót đệm, gối…,thức ăn được đặt bên trong bánh sandwich, bánh ngọt, bánh ngọt: 
+(n) chất liệu trám răng, chất liệu mềm dùng để lót đệm, gối…,thức ăn được đặt bên trong bánh sandwich, bánh ngọt, bánh ngọt; (a) đầy đủ, đầy ấp: 
 đậu hũ: 
 hạt đậu: 
 nấm: 
