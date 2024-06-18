@@ -7,3 +7,6 @@ I had never been much of a runner, but that morning I felt particularly motivate
 
 It has been a while, I still kept running day by day. Now, I can run 10 km without feeling tired at all. My friend said that he would begin running just like me one day.
 
+# Tri
+
+On my first day at work, I arrived early and met my new colleagues. I attended orientation sessions and learned about company policies. I started to feel excited about my new role. When I arrived, everyone was busy preparing for the day. I was meeting new people and trying to remember everyone's names. The HR manager was explaining company benefits while I was setting up my workstation. By the time I had finished orientation, I had already met most of my team members. I had received my access badge before the meeting started. I had been eagerly anticipating my first day at work for weeks. By the time I arrived, I had been researching the company and preparing for the role for months. I knew that on my first day at work, I would meet a lot of new people and learn a great deal about the company. I was sure I would feel nervous and excited at the same time.
