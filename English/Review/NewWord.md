@@ -224,3 +224,4 @@ minutes /ˈmɪnɪts/: (n) Biên bản cuộc họp. Nghĩa: Ghi chép chính th�
 obvious /ˈɒbviəs/: (a) Rõ ràng, hiển nhiên. Nghĩa: Dễ hiểu, không có sự nghi ngờ, hoặc có thể thấy hoặc nhận ra ngay lập tức. Ex: It was obvious that she was upset (Rõ ràng là cô ấy đang buồn)
 obviously /ˈɒbvɪəsli/: (adv) Rõ ràng là, một cách hiển nhiên. Nghĩa: Cách thức diễn đạt rằng điều gì đó là dễ hiểu hoặc không cần giải thích thêm. Ex: Obviously, we need to address this issue immediately (Rõ ràng là chúng ta cần giải quyết vấn đề này ngay lập tức)
 obviousness /ˈɒbviəsnəs/: (n) Sự rõ ràng, sự hiển nhiên.
+play truant: cúp học
