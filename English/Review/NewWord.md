@@ -225,3 +225,4 @@ obvious /ˈɒbviəs/: (a) Rõ ràng, hiển nhiên. Nghĩa: Dễ hiểu, không 
 obviously /ˈɒbvɪəsli/: (adv) Rõ ràng là, một cách hiển nhiên. Nghĩa: Cách thức diễn đạt rằng điều gì đó là dễ hiểu hoặc không cần giải thích thêm. Ex: Obviously, we need to address this issue immediately (Rõ ràng là chúng ta cần giải quyết vấn đề này ngay lập tức)
 obviousness /ˈɒbviəsnəs/: (n) Sự rõ ràng, sự hiển nhiên.
 occasionally /əˈkeɪ.ʒən.əl.i/: thỉnh thoảng, đôi khi
+play truant: cúp học

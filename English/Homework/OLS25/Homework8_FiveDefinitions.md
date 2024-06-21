@@ -9,3 +9,15 @@ He's a student even though he doesn't go to school. He can learn by himself beca
 I'm a student. I' studying programming at FPT University in Ho Chi Minh City. I will get my BA in Software Engineer next year. I've been learning Japanese for 3 months. When I was living in Ca Mau, I met a Japanese engineer; he was very nice; he told me that he would come back to Vietnam to set up a company; he said he would hire me to work for his company. He has gone back to Japan but he'll return here in December next year. By the time he comes back, I will have been able to speak Japanese.
 
 My brother Tin is a Business analyst. He can share his experience about his business. He can use a lot of terms in the Banking System to describe a solution to a developer. He is able to communicate with the business user or the client that uses the application. He can't speak French but his English is marvelous. He can speak English fluently. He's allowed by his wife to go drinking with customers. Because his wife is also a Business Analyst, and she knows that this job needs to have a strong relationship with colleagues and customers. However, he is not allowed to go drinking past 11.59 PM.
+
+
+# Tri
+I like to talk about my dream project manager.
+First, she is organized. As a project manager, she meticulously plans project timelines, schedules meetings effectively, coordinates team efforts, and manages resources efficiently.
+Second, she is detail-oriented. She carefully scrutinizes project details, verifies the accuracy of reports, monitors progress closely, and inspects deliverables for quality assurance.
+Finally, she is adaptable. In her role, she adjusts plans as needed, responds quickly to changes, accommodates new requirements, and integrates feedback from stakeholders seamlessly.
+I first encountered her at our company's annual strategy retreat last year. She had been assigned as the project manager for online payment aimed at enhancing our customers' experience. During the kickoff meeting, she presented a comprehensive plan outlining objectives, timelines, and key deliverables with confidence and clarity. Her organized approach immediately impressed the team, setting a positive tone for the project.
+Our initial meeting and subsequent collaboration highlighted her exceptional project management skills and dedication to achieving results. Her contribution not only enhanced our operational effectiveness but also earned her admiration and respect across the team.
+Here are some qualities I admire about her. She leads with confidence and clarity, delegates tasks effectively so that everyone can contribute. Her ability to motivate the team ensures goals are achieved. In spite of challenges, she empowers others to excel.
+She communicates openly, listens actively so that she should clarify any misunderstandings. Her collaborative approach resolves conflicts effectively. Since she ensures clear communication, the team stays informed.
+She supports her team, encourages them to grow and may facilitate their professional development. In case they need assistance, she nurtures their talents and respects their contributions.
