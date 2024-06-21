@@ -31,7 +31,7 @@ hiên nhà:
 khăn giấy: 
 bìa cứng: 
 các tông: 
-hoa giấy: 
+hoa giấy, giấy màu vụn: 
 phân hủy sinh học: 
 bền vững: 
 dòng suối: 

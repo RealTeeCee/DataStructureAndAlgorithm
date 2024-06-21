@@ -31,7 +31,7 @@ pasture /ˈpɑːstʃə(r)/: đồng cỏ
 tissue /ˈtɪʃuː/: khăn giấy
 card stocks /kɑːd stɒks/: bìa cứng
 cardboard /ˈkɑːdbɔːd/: các tông
-confetti /kənˈfeti/: hoa giấy
+confetti /kənˈfeti/: hoa giấy, giấy màu vụn
 biodegradable /ˌbaɪəʊdɪˈɡreɪdəbl/: phân hủy sinh học
 sustainable /səˈsteɪnəbl/: bền vững
 brook /brʊk/: dòng suối
