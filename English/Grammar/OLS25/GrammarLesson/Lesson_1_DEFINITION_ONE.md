@@ -1,6 +1,6 @@
 # Definition 1
-An adjective + 2 - verb
-
+  An adjective + 2 - verb
+  Usage: Use adjective to describe object, and use verb to demonstrate for adjective
 
 
 # What about ?                    How                     What?
