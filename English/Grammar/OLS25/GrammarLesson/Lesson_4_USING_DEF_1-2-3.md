@@ -51,4 +51,15 @@ Ex:
 - Don't you think that ...?               // : bạn không nghĩ là ... sao?  
 - What's your opinion about ...?          // : ý của bạn về ... là gì?
 
+# Review Definition 1, 2, 3
+1. Definition 1 
+* An adjective + 2 - 4 Verbs
+- Use an adjective; then use some verbs to describe that adjective.
+
+2. Definition 2 
+* A statement + Answer to self-asked questions
+- Give an answer or make any statement, then add information by answering the questions before they asked
+
+3. Definitition 3
+* A statement + 8 Groups of conjunctions
 

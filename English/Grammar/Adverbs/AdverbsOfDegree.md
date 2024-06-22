@@ -1,13 +1,28 @@
 # Adverbs of degrees (trạng từ chỉ cấp độ) đứng trước adjective hoặc advergb, bổ nghĩa cho adjective hoặc adverb đó
-# Very      Rather          Fairly          Quite       Too     Enough    Highly  
-  Rất    Thà; hơn là        Tương đối      Khá là      Quá       Đủ       Rất    
-# Really    Extremely     So ... that        Such ... that      Unbelievably 
-  Thực sự    Cực kì     quá ... đến mức     quá ... đến mức     Không thể tin được
-
+Very //: Rất   
+Rather //: Thà; hơn là       
+Fairly //: Tương đối        
+Quite //: Khá là      
+Too //: Quá     
+Enough //: Đủ    
+Highly //: Rất
+Really //: Thực sự   
+Extremely //: Cực kì    
+So ... that //: quá ... đến mức        
+Such ... that //: quá ... đến mức      
+Unbelievably //: Không thể tin được
 # Dịch là một cách ...
-# Incredibly      Remarkably    Exceedingly   Absolutely    Utterly     Terribly
-  Đáng kinh ngạc  Đáng chú ý    Vô cùng       Tuyệt đối     Hoàn toàn   Kinh khủng
-# Intensely     Insanely      Perfectly         Entirely              Truly     
-  Mạnh mẽ       Điên cuồng     Hoàn hảo     Hoàn toàn, Triệt để     Thật sự
-# Exceptionally     Profoundly    
-  Đặc biệt          Sâu sắc
+Incredibly //: Đáng kinh ngạc      
+Remarkably //: Đáng chú ý    
+Exceedingly //: Vô cùng    
+Absolutely //: Tuyệt đối    
+Utterly //: Hoàn toàn    
+Terribly //: Kinh khủng
+Intensely //: Mạnh mẽ     
+Insanely //: Điên cuồng      
+Perfectly //: Hoàn hảo         
+Entirely //: Hoàn toàn, Triệt để              
+Truly //: Thật sự    
+Exceptionally //: Đặc biệt     
+Profoundly //: Sâu sắc 
+            
