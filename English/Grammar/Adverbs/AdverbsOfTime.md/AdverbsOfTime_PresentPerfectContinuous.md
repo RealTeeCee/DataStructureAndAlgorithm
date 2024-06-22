@@ -1,4 +1,7 @@
-# ADVERB OF TIME (PRESENT PERFECT TENSE)
+# ADVERB OF TIME (PRESENT PERFECT CONTINUOUS TENSE)
+
+# Một số từ và cụm từ dùng cho thì hiện tại hoàn thành (present perfect) cũng có thể được sử dụng cho thì hiện tại hoàn thành tiếp diễn (present perfect continuous) khi muốn nhấn mạnh sự liên tục của hành động. Tuy nhiên, ngữ cảnh và ý nghĩa cụ thể của câu sẽ quyết định sự phù hợp của việc sử dụng các từ này. Dưới đây là một số ví dụ:
+
 All day / All week / All month, etc: Cả ngày / Cả tuần / Cả tháng, v.v. I have been working all day 
 For //: Trong khoảng (thời gian). Ex: She has been studying for three hours.
 Since //: Kể từ khi. Ex: They have been playing soccer since 2 PM

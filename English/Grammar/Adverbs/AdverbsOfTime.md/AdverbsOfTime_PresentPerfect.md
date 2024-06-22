@@ -1,5 +1,7 @@
 # ADVERB OF TIME (PRESENT PERFECT TENSE)
 
+# Thì hiện tại hoàn thành (present perfect) thường được nhận biết qua các từ hoặc cụm từ sau:
+
 Just //: Vừa mới. Ex: My father has just left for work   
 Ever //: Đã từng. Ex: Have you ever been to Paris?        
 Never //: Chưa bao giờ. Ex: I have never seen such a beautiful sunset

@@ -1,4 +1,4 @@
-# ADVERB OF TIME (PRESENT PERFECT TENSE)
+# ADVERB OF TIME (PAST PERFECT CONTINUOUS TENSE)
 
 # Thì quá khứ hoàn thành tiếp diễn (past perfect continuous) thường được nhận biết qua các từ và cụm từ chỉ thời gian hoặc ngữ cảnh cho thấy một hành động đã tiếp tục diễn ra và hoàn thành trước một thời điểm hoặc hành động khác trong quá khứ. Dưới đây là các từ và cụm từ nhận biết thì này:
 

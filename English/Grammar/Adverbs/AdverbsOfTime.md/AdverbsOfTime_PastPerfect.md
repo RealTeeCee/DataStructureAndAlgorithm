@@ -1,4 +1,6 @@
-# ADVERB OF TIME (PRESENT PERFECT TENSE)
+# ADVERB OF TIME (PAST PERFECT TENSE)
+
+# Thì quá khứ hoàn thành (past perfect) thường được nhận biết qua các từ và cụm từ chỉ thời gian hoặc ngữ cảnh cho thấy một hành động đã hoàn thành trước một hành động khác trong quá khứ. Dưới đây là các từ và cụm từ nhận biết thì này:
 
 By the time //: Trước khi. Ex: By the time we arrived, the movie had already started.
 Before //: Trước khi. Ex: She had left before I could talk to her.

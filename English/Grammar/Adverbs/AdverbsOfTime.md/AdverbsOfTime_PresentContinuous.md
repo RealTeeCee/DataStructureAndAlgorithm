@@ -1,4 +1,6 @@
-# ADVERB OF TIME (PRESENT PERFECT TENSE)
+# ADVERB OF TIME (PRESENT CONTINUOUS TENSE)
+
+# Thì hiện tại tiếp diễn (present continuous) thường được nhận biết qua các từ hoặc cụm từ chỉ thời gian hoặc tần suất, thể hiện rằng hành động đang diễn ra vào thời điểm nói hoặc xung quanh thời điểm nói. Dưới đây là các từ và cụm từ thường dùng để nhận biết thì này:
 
 Now //: Bây giờ. Ex: She is studying now.
 Right now //: Ngay bây giờ. Ex: I am working right now.
