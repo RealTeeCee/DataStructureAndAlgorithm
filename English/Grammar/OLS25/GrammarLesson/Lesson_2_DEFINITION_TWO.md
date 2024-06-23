@@ -1,4 +1,4 @@
-# Definition 1
+# Definition 2
   A statement + Anwsers to self-asked questions.
   Usage: To give more information for a statement
 
