@@ -1,3 +1,5 @@
+consecutive /kənˈsɛkjətɪv/: (a) Liên tiếp, liên tiếp nhau, liên tục.
+consecutively /kənˈsɛkjətɪvli/: (adv) Một cách liên tiếp, một cách liên tục.
 permanently /ˈpɝː.mə.nənt.li/: mãi mãi, lâu dài
 divorce /di'vɔ:s/: (v) li dị; (n) sự li dị
 poem /ˈpoʊ.əm/: bài thơ

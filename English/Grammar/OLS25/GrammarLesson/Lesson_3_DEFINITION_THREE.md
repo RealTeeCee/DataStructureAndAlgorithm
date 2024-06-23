@@ -54,7 +54,7 @@
   * I had to teach until 8:30 PM yesterday in spite of the fact that I was sleepy
   
 6. Manner                 As if                               To be: were
-                          As  though
+                          As though
                           As
   * I speak English as if I were a native Canadian
   

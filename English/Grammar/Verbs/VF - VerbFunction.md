@@ -87,3 +87,27 @@ Ex:
 + feel: cảm giác
 + smell: ngửi thấy
 + taste: cảm thấy vị
+
+# VF8   S + V + DO + Adj (or V3/ed - when object doesnt do action) 
+Ex: 
+- He keeps the door white. - Adj
+- He keeps the door locked. - V3
+
+# VF9   S + V + DO + OC (Object Complement)
+# Call, make, appoint, consider, vote, elect, choose, designate, name
+
+Ex: 
+- I call her "Lan"
+- They named him "Lucky Luke"
+
+* You can use "as", "to be" or "for" between DO and OC
+Ex: 
+- I choose her for my leader
+- I consider her as my sister
+- I consider her to be my sister
+
+# VF10a:    S + V + G (Gerund Ving) or Passive Gerund (Being Ving)
+[Verbs Followed By Gerunds (Verb + Ving)](/English/Grammar/Verbs/VerbFollowedByGerund.md) <-- Ctrl + Click
+
+# VF10b:    S + Expressions + G (Gerund Ving) or Passive Gerund (Being Ving)
+[Gerund Form Of A Verb After "To"](/English/Grammar/Verbs/VerbToGerund.md) <-- Ctrl + Click
