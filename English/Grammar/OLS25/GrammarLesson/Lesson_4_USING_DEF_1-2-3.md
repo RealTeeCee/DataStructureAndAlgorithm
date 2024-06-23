@@ -17,39 +17,39 @@
 - You say that the new product will be very popular, but what makes you think so? //: Bạn nói rằng sản phẩm mới sẽ rất phổ biến, nhưng điều gì khiến bạn nghĩ như vậy?
 
 3. Encouragement (Khuyến khích) - Colloquial Expressions for Acknowledgement and Agreement
-- Really?                                 // : thật à?
-- Hm. hm.                           /əm'həm/ : thật hả?
-- I see.                                  // : tôi hiểu
-- I understand.                           // : tôi hiểu
-- Sure, please go ahead.                  // : chắc rồi. Cứ việc tự nhiên
-- Ok. What else?                          // : được rồi. còn gì nữa?
-- Right.                                  // : đúng
-- That's right.                           // : đúng thế   
-- Wonderful.                              // : tuyệt
-- Absolutely.                             // : đồng ý tuyệt đối
-- That's OK                               // : Vậy được rồi; Không sao đâu
-- That's interesting.                     // : hay quá
-- That's a good idea.                     // : đó là một ý kiến hay.
-- That's a good question.                 // : đó là một câu hỏi hay.          
+- Really?                                 //: thật à?
+- Hm. hm.                           /əm'həm/: thật hả?
+- I see.                                  //: tôi hiểu
+- I understand.                           //: tôi hiểu
+- Sure, please go ahead.                  //: chắc rồi. Cứ việc tự nhiên
+- Ok. What else?                          //: được rồi. còn gì nữa?
+- Right.                                  //: đúng
+- That's right.                           //: đúng thế   
+- Wonderful.                              //: tuyệt
+- Absolutely.                             //: đồng ý tuyệt đối
+- That's OK                               //: Vậy được rồi; Không sao đâu
+- That's interesting.                     //: hay quá
+- That's a good idea.                     //: đó là một ý kiến hay.
+- That's a good question.                 //: đó là một câu hỏi hay.          
 
 4. Interrupting (Cắt ngang câu chuyện) - Colloquial Expressions for Interrupting
-- Excuse me for interrupting              // : Xin lỗi vì chen ngang
-- Sorry for interrupting                  // : Xin lỗi vì chen ngang
-- May I interrupt for a moment?           // : Tôi có thể chen ngang đc ko? 
+- Excuse me for interrupting              //: Xin lỗi vì chen ngang
+- Sorry for interrupting                  //: Xin lỗi vì chen ngang
+- May I interrupt for a moment?           //: Tôi có thể chen ngang đc ko? 
 Ex: 
 - Excuse me for interrupting, but I have an important update. (Xin lỗi vì chen ngang, nhưng tôi có một thông tin cập nhật quan trọng.)
 - Sorry for interrupting, but can I ask a quick question? (Xin lỗi vì chen ngang, nhưng tôi có thể hỏi một câu nhanh không?)
 - May I interrupt for a moment? I need some clarification on this point. (Tôi có thể chen ngang được không? Tôi cần làm rõ một số điểm này.)
 
 5. Additional information (Ý thêm)
-- Could you be more specific?             // : chi tiết hơn đc ko?
-- Could you give me an example?           // : Bạn có thể cho ví dụ được không?
-- How about ...?                          // : còn về ... ?
+- Could you be more specific?             //: chi tiết hơn đc ko?
+- Could you give me an example?           //: Bạn có thể cho ví dụ được không?
+- How about ...?                          //: còn về ... ?
 
 6. Opinions (Ý kiến) - Colloquial Expressions for Asking Opinions
-- Do you think that ...?                  // : bạn có nghĩ là ...?        
-- Don't you think that ...?               // : bạn không nghĩ là ... sao?  
-- What's your opinion about ...?          // : ý của bạn về ... là gì?
+- Do you think that ...?                  //: bạn có nghĩ là ...?        
+- Don't you think that ...?               //: bạn không nghĩ là ... sao?  
+- What's your opinion about ...?          //: ý của bạn về ... là gì?
 
 # Review Definition 1, 2, 3
 1. Definition 1 
