@@ -1,5 +1,6 @@
 # Definition 5
 * A statement + MODALs
+- Use for many purposes
 
 # MODAL VERB 
 [MODAL VERBs](/English/Grammar/Verbs/ModalVerb.md) <-- Ctrl + Click

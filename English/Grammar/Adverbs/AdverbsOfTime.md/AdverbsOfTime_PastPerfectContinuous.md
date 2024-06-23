@@ -2,7 +2,7 @@
 
 # Thì quá khứ hoàn thành tiếp diễn (past perfect continuous) thường được nhận biết qua các từ và cụm từ chỉ thời gian hoặc ngữ cảnh cho thấy một hành động đã tiếp tục diễn ra và hoàn thành trước một thời điểm hoặc hành động khác trong quá khứ. Dưới đây là các từ và cụm từ nhận biết thì này:
 
-# Thường sử dụng kết hợp 2 Adverbs
+# Thường sử dụng kết hợp 2 vế thời gian
 When //: Khi. Ex: When I arrived, they had been waiting for me for over an hour
 Before //: Trước khi. Ex: She had been practicing the piano for hours before she performed in front of an audience
 By the time //: Trước khi. Ex: By the time he got home, she had been cooking dinner for two hours

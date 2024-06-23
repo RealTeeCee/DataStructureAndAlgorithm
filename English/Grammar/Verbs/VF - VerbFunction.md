@@ -111,3 +111,4 @@ Ex:
 
 # VF10b:    S + Expressions + G (Gerund Ving) or Passive Gerund (Being Ving)
 [Gerund Form Of A Verb After "To"](/English/Grammar/Verbs/VerbToGerund.md) <-- Ctrl + Click
+[TO GO + VING](/English/Grammar/Verbs/ToGo_V_ING.md) <-- Ctrl + Click

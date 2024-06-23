@@ -12,5 +12,5 @@ All day / all morning / all afternoon, etc. //: Cả ngày / cả buổi sáng /
 At the moment (of a past time) //: Vào thời điểm (một thời điểm trong quá khứ). Ex: At that moment, she was reading a book.
 Throughout //: Suốt (một khoảng thời gian). Ex: Throughout the party, they were dancing.
 In the middle of //: Giữa lúc (một hành động nào đó). Ex: She was in the middle of preparing dinner when the phone rang.
-At that time //: Vào thời điểm đó. Ex: While she was working in the garden, he was painting the fence.
-While + action (emphasizing duration) //: Trong khi + hành động (nhấn mạnh độ dài thời gian). Ex:  At that time, they were living in Paris.
+At that time //: Vào thời điểm đó. Ex: At that time, they were living in Paris.
+While + action (emphasizing duration) //: Trong khi + hành động (nhấn mạnh độ dài thời gian). Ex: While she was working in the garden, he was painting the fence.

@@ -1,5 +1,6 @@
 # Definition 4 
 * A Statement + Some of the 17 tenses
+- Usage: To tell a story with many tenses
 
 # Irregular (*)
 [IRREGULAR LIST](/English/Grammar/Verbs/IrregularVerb.md) <-- Ctrl + Click

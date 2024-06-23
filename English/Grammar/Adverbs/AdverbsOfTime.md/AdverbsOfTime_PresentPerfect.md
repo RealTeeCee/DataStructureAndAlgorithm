@@ -1,6 +1,6 @@
 # ADVERB OF TIME (PRESENT PERFECT TENSE)
 
-# Thì hiện tại hoàn thành (present perfect) thường được nhận biết qua các từ hoặc cụm từ sau:
+# Thì hiện tại hoàn thành thường được sử dụng để biểu thị kinh nghiệm cho đến hiện tại, các hành động gần đây hoặc một thay đổi xảy ra trong một khoảng thời gian. Thì hiện tại hoàn thành thường được nhận biết qua các từ hoặc cụm từ sau:
 
 Just //: Vừa mới. Ex: My father has just left for work   
 Ever //: Đã từng. Ex: Have you ever been to Paris?        
