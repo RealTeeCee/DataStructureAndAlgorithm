@@ -226,3 +226,5 @@ obviously /ˈɒbvɪəsli/: (adv) Rõ ràng là, một cách hiển nhiên. Nghĩ
 obviousness /ˈɒbviəsnəs/: (n) Sự rõ ràng, sự hiển nhiên.
 occasionally /əˈkeɪ.ʒən.əl.i/: thỉnh thoảng, đôi khi
 play truant: cúp học
+traffic circle
+roundabout

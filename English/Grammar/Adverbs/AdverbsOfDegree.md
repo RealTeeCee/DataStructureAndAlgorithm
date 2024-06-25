@@ -25,4 +25,3 @@ Entirely //: Hoàn toàn, Triệt để
 Truly //: Thật sự    
 Exceptionally //: Đặc biệt     
 Profoundly //: Sâu sắc 
-            
