@@ -228,3 +228,5 @@ occasionally /əˈkeɪ.ʒən.əl.i/: thỉnh thoảng, đôi khi
 play truant: cúp học
 traffic circle
 roundabout
+concession
+Manner

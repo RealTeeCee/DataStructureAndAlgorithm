@@ -3,12 +3,17 @@
                           But,                                2 phrases and clauses
                           Both ... and ...
                           Not only ... but also
-                          Or
+                          Or / nor
                           Either ... or ..
                           Neither ... nor ...
                           Yet
+                          Nevertheless: tuy nhiên
+                          Otherwise / or else: nếu không
 
 * I'm a teacher and I'm teaching English at OUTEREF
+* She doesn't smoke nor drink
+* We must be early; otherwise (or else) we can't get in
+* he had no qualifications; nevertheless, he got the job
 
 2. Cause/Effect           Because                             Join 2 clauses
                           Since
@@ -30,8 +35,12 @@
                           As
                           While
                           Since
+                          Next time / Every time
+                          During the time
 
 * I stated teaching when I was 24 years old
+* Next time it rains, you should put on your raincoat
+* He fell into sleep during the time he was doing his homework
   
 4. Condition              If                                  Join 2 clauses
                           Unless
@@ -41,6 +50,8 @@
                           Granted that
                           Supposing (that)
                           Only if
+                          In case / In the event: đề phòng / trong trường hợp
+                          
 
 * If I have time, I will go back to school
   
