@@ -54,6 +54,8 @@
                           
 
 * If I have time, I will go back to school
+* In case it rains, I won't go to the zoo
+* supposing the weather isn't hot, are you going swimming?
   
 5. Concession             Though                              Join 2 clause. No but
                           Although
