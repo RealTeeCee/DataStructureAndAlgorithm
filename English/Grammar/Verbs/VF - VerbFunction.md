@@ -112,3 +112,66 @@ Ex:
 # VF10b:    S + Expressions + G (Gerund Ving) or Passive Gerund (Being Ving)
 [Gerund Form Of A Verb After "To"](/English/Grammar/Verbs/VerbToGerund.md) <-- Ctrl + Click
 [TO GO + VING](/English/Grammar/Verbs/ToGo_V_ING.md) <-- Ctrl + Click
+
+# VF11a:    S   +   V List  +   To  +   VF
+                    LIKE
+                    LOVE
+                    HAVE
+                    HATE
+                    WANT
+                    TRY
+                    NEED
+                    INTEND
+                    EXPECT
+                    PLAN
+                    DECIDE
+                    REMEMBER
+                    CAN'T WAIT
+- I like to dance (VF1)
+- I like to learn English (VF2)
+
+# VF11b:    S   +   V List  +   To Be V3/ed (Only Verb Transitive)
+                    LIKE
+                    LOVE
+                    HAVE
+                    HATE
+                    WANT
+                    TRY
+                    NEED
+                    INTEND
+                    EXPECT
+                    PLAN
+                    DECIDE
+                    REMEMBER
+                    CAN'T WAIT
+- He likes to be rewarded
+- We expected to be respected
+
+# VF11c:    S   +   V List  +   PASSIVE (Gerund Or To Be V3/ed)
+                    Need
+                    Want
+                    Merit (xứng đáng)
+                    Be worth (xứng đáng)
+                    Deserve (xứng đáng)
+- This book is worth reading
+- He deserves rewarding
+
+# VF12a:    S   +   VF  +   Purpose (To, In order to + VF)
+- She stays to learn English (VF1)
+- She make him stay in order to learn English (VF5)
+
+# VF12b:    S   +   VF  ,   And VF (Consecutive actions - hành động nối tiếp nhau)
+- She came, picked up her brother and went home.
+- They learn English in the morning and play soccer in the afternoon.
+
+# VF12c:    S   +   VF  ,   VING (Simultaneous actions - hành động xảy ra cùng lúc)
+- My father sat on the sofa, watching TV
+- The architect stood there, waiting for his colleague
+
+
+# VF13 :    S   +   MODAL  +   VF
+- I can work (VF1)
+- She will buy your house (VF2)
+- They may be busy (VF3)
+- She had better write a letter to her parents (VF4)
+- They have got to let my brother work (VF5)
