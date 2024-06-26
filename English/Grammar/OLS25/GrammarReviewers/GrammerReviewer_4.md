@@ -10,8 +10,9 @@ Xin lỗi:
 (exp) Xin lỗi, bạn có thể nói chậm lại một chút không?: 
 (exp) Bạn có thể lặp lại không? Tôi không theo kịp:
 Bạn nói rằng:
-Bạn nói rằng chúng tôi nên nói chậm hơn:
-Bạn nói rằng sản phẩm mới sẽ rất phổ:
+Bạn nói rằng cuộc họp đã bị hoãn lại đến tuần sau, vậy tôi có nên hủy kế hoạch của mình vào ngày mai không?:
+Bạn nói rằng chúng tôi nên nói chậm hơn vì bạn không hiểu, đúng không?:
+Bạn nói rằng sản phẩm mới sẽ rất phổ biến, nhưng điều gì khiến bạn nghĩ như vậy?:
 thật à?:
 thật hả?:
 tôi hiểu:
