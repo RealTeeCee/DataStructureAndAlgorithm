@@ -3,7 +3,7 @@
 Xin lỗi? Sao cơ?: 
 (exp) Xin lỗi, bạn có thể nói lại không?: 
 (exp) Bạn có thể nói lại không?: 
-(exp) Xin lỗi, tôi không hiểu bạn. Bạn có thể nói: 
+(exp) Xin lỗi, tôi không hiểu bạn. Bạn có thể nói said that again?: 
 Xin lỗi: 
 (exp) Xin lỗi, tôi không nghe rõ bạn: 
 (exp) Làm ơn nói chậm hơn; tôi không hiểu bạn: 
