@@ -1,5 +1,3 @@
-# Định nghĩa Definition 2 dùng để làm gì?
-
 # Dịch các câu thoại giao tiếp sang tiếng anh
 
 Xin lỗi? Sao cơ?: 
