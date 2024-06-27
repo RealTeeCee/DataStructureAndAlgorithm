@@ -50,11 +50,11 @@ Cho đến nay:
 Gần đây: 
 Gần đây: 
 Trước đây: 
-Được 30p rồi:     
-Từ thứ Hai:    
-Từ khi tôi gặp anh anh ấy:                    
-1 lần trước đây:      
-2 lần trước đây:     
+Được 30p rồi: 
+Từ thứ Hai: 
+Từ khi tôi gặp anh anh ấy: 
+1 lần trước đây: 
+2 lần trước đây: 
 Vài lần trước đây:
 
 # Present Perfect Continuous

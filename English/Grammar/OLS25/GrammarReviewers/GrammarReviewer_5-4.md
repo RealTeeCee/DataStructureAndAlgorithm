@@ -2,9 +2,9 @@
 
 # Viết công thức 5 thì Qúa khứ đơn, 4 thì Tương lai
 + The 5 Past Tenses
-1. Past Simple: 
+1. Past Simple
 
-2. Past Continuous:
+2. Past Continuous
 
 3. Past Perfect
 
@@ -13,7 +13,7 @@
 5. Past Future
 
 + The 4 Future Tenses
-1. Future Simple:
+1. Future Simple
 
 2. Future Continuous
 
