@@ -7,7 +7,6 @@ When //: Khi. Ex: When I called her, she was cooking dinner.
 As //: Khi, vào lúc. Ex: He fell asleep as I was reading aloud.
 At (a specific time in the past) //: Vào lúc (một thời điểm cụ thể). Ex: At 10 o'clock last night, they were still working.
 During //: Trong suốt (một khoảng thời gian cụ thể). Ex: During the storm, we were playing board games indoors.
-While + time expression //: Trong khi + biểu thức thời gian. Ex: While I was living in New York, I met many interesting people.
 All day / all morning / all afternoon, etc. //: Cả ngày / cả buổi sáng / cả buổi chiều. Ex: They were playing tennis all afternoon yesterday.
 At the moment (of a past time) //: Vào thời điểm (một thời điểm trong quá khứ). Ex: At that moment, she was reading a book.
 Throughout //: Suốt (một khoảng thời gian). Ex: Throughout the party, they were dancing.
