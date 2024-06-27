@@ -47,7 +47,7 @@ Cho đến bây giờ:
 Cho đến nay: 
 Cho đến nay: 
 Cho đến nay: 
- Gần đây: 
+Gần đây: 
 Gần đây: 
 Trước đây: 
 Được 30p rồi     
