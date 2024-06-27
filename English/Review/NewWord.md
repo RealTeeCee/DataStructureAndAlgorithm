@@ -230,3 +230,5 @@ traffic circle
 roundabout
 concession
 Manner
+loud
+aloud
