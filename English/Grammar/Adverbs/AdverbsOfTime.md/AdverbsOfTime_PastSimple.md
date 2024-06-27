@@ -5,7 +5,7 @@
 Yesterday /ˈjɛstərˌdeɪ/: hôm qua.Ex: She called me yesterday.
 Last /læst/: trước, vừa qua (tuần trước, tháng trước, năm ngoái,...).Ex: I visited Paris last year.
 ... ago /əˈɡoʊ/: cách đây.Ex: He left 30 seconds ago.
-In + year (past) /ɪn/.../: vào năm (trong quá khứ).Ex: They moved here in 2010.
+In [year] (past) /ɪn/.../: vào năm (trong quá khứ).Ex: They moved here in 2010.
 In the past /ɪn ðə pæst/: trong quá khứ.Ex: In the past, people used to travel by horse.
 Once /wʌns/: một lần, trước kia.Ex: I once lived in New York.
 When /wɛn/: khi (dùng trong câu có mệnh đề phụ chỉ thời gian).Ex: When I was a child, I often played in the park.
