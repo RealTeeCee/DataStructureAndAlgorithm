@@ -1,74 +1,39 @@
 # Các từ nhận biết thì TƯƠNG LAI
 # Future Simple
-luôn luôn: 
-thường xuyên: 
-thường: 
-đôi khi: 
-hiếm khi: 
-hiếm khi: 
-không bao giờ: 
-mỗi ngày: 
-mỗi tuần: 
-mỗi tháng: 
-mỗi năm: 
-vào các ngày thứ Hai: 
-vào buổi sáng: 
-vào buổi chiều: 
-vào buổi tối: 
-vào ban đêm: 
+ngày mai: 
+tiếp theo (tuần tới, tháng tới, năm tới, v.v.): 
+trong (thời gian tới): 
+sớm, chẳng bao lâu nữa: 
+trong tương lai: 
+sau đó, sau này: 
+sau này, về sau: 
+từ bây giờ trở đi: 
+(tuần, tháng, năm) này (sắp tới): 
+một ngày nào đó: 
+sớm, trong thời gian ngắn: 
+tối nay: 
 
 # Future Continuous
-Bây giờ: 
-Ngay bây giờ: 
-Lúc này: 
-Hiện tại: 
-Hôm nay: 
-Tuần này / Tháng này / Năm nay, v.v: 
-Dạo này: 
-Nhìn kìa! / Nghe kìa!: 
-Liên tục: 
-Trong thời gian này: 
-Vẫn: 
-Hiện giờ: 
-Vừa mới: 
-Đang làm gì đó: 
-Đang nói chuyện điện thoại: 
-Đang họp: 
-Đang học: 
-Trong suốt (thời gian cụ thể): 
+Vào [thời gian cụ thể]: 
+Vào [thời gian cụ thể]: 
+Ngày mai: 
+Tuần/tháng/năm tới: 
+Ngày mai/tuần/tháng/năm vào đúng thời gian này: 
+Trong [khung thời gian cụ thể]: 
+Cuối tuần, cuối ngày: 
+Trong suốt [sự kiện hoặc hoạt động]: 
 
 # Future Perfect
-Vừa mới: 
-Đã từng: 
-Chưa bao giờ: 
-Đã rồi: 
-Chưa: 
-Cho đến bây giờ: 
-Cho đến nay: 
-Cho đến nay: 
-Cho đến nay: 
-Gần đây: 
-Gần đây: 
-Trước đây: 
-Được 30p rồi     
-Từ thứ Hai       
-Từ khi tôi gặp anh anh ấy                   
-1 lần trước đây        
-2 lần trước đây       
-Vài lần trước đây
+Vào [thời gian/ngày cụ thể]: 
+Vào thời điểm [sự kiện cụ thể xảy ra]: 
+Trong [khung thời gian cụ thể]: 
+Trước [thời gian/ngày/sự kiện cụ thể]: 
+Vào [thời điểm cụ thể trong tương lai]: 
+Vào [giai đoạn tương lai]: 
 
 # Future Perfect Continuous
-Cả ngày / Cả tuần / Cả tháng, v.v: 
-Trong khoảng (thời gian): 
-Kể từ khi: 
-Gần đây: 
-Bao lâu: 
-Cho đến bây giờ / Cho đến hiện tại: 
-Suốt thời gian này: 
-Trong khoảng thời gian [nào đó] vừa qua: 
-Trong suốt [khoảng thời gian] vừa qua: 
-Liên tục: 
-Đã từng: 
-Chưa bao giờ: 
-Gần đây: 
-Gần đây: 
+Trong [thời lượng]: 
+Kể từ [điểm bắt đầu trong quá khứ]: 
+Từ [thời gian/ngày cụ thể]: 
+Trước [sự kiện hoặc thời gian cụ thể]: 
+Trong suốt [khoảng thời gian]: 
