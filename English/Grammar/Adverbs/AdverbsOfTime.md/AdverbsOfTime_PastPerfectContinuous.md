@@ -14,7 +14,7 @@ Just //: Vừa mới. Ex: He had just been finishing his homework when his frien
 Almost //: Gần như. Ex: They had almost been driving for eight hours straight when they reached their destination. Ex:
 During //: Trong suốt (thời gian cụ thể). Ex: During the afternoon, they had been swimming in the lake
 In the middle of //: Giữa lúc. Ex: She had been in the middle of cooking when the power went out
-Prior to //: Trước khi. Ex: Prior to his retirement, he had been working as a teacher for forty years
+Prior to /praɪr/: Trước khi. Ex: Prior to his retirement, he had been working as a teacher for forty years
 
 
             

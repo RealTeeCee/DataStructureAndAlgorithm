@@ -15,7 +15,7 @@ As soon as //: Ngay khi. Ex: As soon as he had finished the exam, he felt reliev
 Once //: Một khi. Ex: Once she had heard the news, she called her friends.
 No sooner ... than //: Vừa mới ... thì. Ex: No sooner had I sat down than the phone rang.
 By the end of //: Trước khi kết thúc. Ex: By the end of the day, they had completed the project.
-Prior to //: Trước khi. Ex: Prior to the meeting, they had reviewed all the documents.
+Prior to /praɪr/: Trước khi. Ex: Prior to the meeting, they had reviewed all the documents.
 Not ... until //: Không ... cho đến khi. Ex: They hadn't realized the mistake until it was too late.
 
             
