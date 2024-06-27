@@ -8,7 +8,7 @@ As //: Khi, vào lúc. Ex: He fell asleep as I was reading aloud.
 At (a specific time in the past) //: Vào lúc (một thời điểm cụ thể). Ex: At 10 o'clock last night, they were still working.
 During //: Trong suốt (một khoảng thời gian cụ thể). Ex: During the storm, we were playing board games indoors.
 All day / all morning / all afternoon, etc. //: Cả ngày / cả buổi sáng / cả buổi chiều. Ex: They were playing tennis all afternoon yesterday.
-At the moment (of a past time) //: Vào thời điểm (một thời điểm trong quá khứ). Ex: At that moment, she was reading a book.
+At that moment (of a past time) //: Vào thời điểm (một thời điểm trong quá khứ). Ex: At that moment, she was reading a book.
 Throughout //: Suốt (một khoảng thời gian). Ex: Throughout the party, they were dancing.
 In the middle of //: Giữa lúc (một hành động nào đó). Ex: She was in the middle of preparing dinner when the phone rang.
 At that time //: Vào thời điểm đó. Ex: At that time, they were living in Paris.
