@@ -17,7 +17,6 @@ Khi:
 Khi, vào lúc: 
 Vào lúc (một thời điểm cụ thể): 
 Trong suốt (một khoảng thời gian cụ thể): 
-Trong khi + biểu thức thời gian: 
 Cả ngày / cả buổi sáng / cả buổi chiều: 
 Vào thời điểm (một thời điểm trong quá khứ): 
 Suốt (một khoảng thời gian): 
