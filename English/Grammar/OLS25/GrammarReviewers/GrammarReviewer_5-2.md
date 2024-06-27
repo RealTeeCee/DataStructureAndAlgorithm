@@ -22,7 +22,6 @@ Vào thời điểm (một thời điểm trong quá khứ):
 Suốt (một khoảng thời gian): 
 Giữa lúc (một hành động nào đó): 
 Vào thời điểm đó: 
-Trong khi + hành động (nhấn mạnh độ dài thời gian): 
 
 # Past Perfect
 Trước khi: 

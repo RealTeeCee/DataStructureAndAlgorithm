@@ -12,4 +12,3 @@ At the moment (of a past time) //: Vào thời điểm (một thời điểm tro
 Throughout //: Suốt (một khoảng thời gian). Ex: Throughout the party, they were dancing.
 In the middle of //: Giữa lúc (một hành động nào đó). Ex: She was in the middle of preparing dinner when the phone rang.
 At that time //: Vào thời điểm đó. Ex: At that time, they were living in Paris.
-While + action (emphasizing duration) //: Trong khi + hành động (nhấn mạnh độ dài thời gian). Ex: While she was working in the garden, he was painting the fence.
