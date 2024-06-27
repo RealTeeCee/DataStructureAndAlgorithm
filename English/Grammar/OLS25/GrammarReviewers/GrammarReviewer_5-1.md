@@ -61,7 +61,6 @@ Vài lần trước đây:
 Cả ngày / Cả tuần / Cả tháng, v.v: 
 Trong khoảng (thời gian): 
 Kể từ khi: 
-Gần đây: 
 Bao lâu: 
 Cho đến bây giờ / Cho đến hiện tại: 
 Suốt thời gian này: 

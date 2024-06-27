@@ -7,7 +7,6 @@
 All day / All week / All month, etc //: Cả ngày / Cả tuần / Cả tháng, v.v. Ex: I have been working all day 
 For //: Trong khoảng (thời gian). Ex: She has been studying for three hours.
 Since //: Kể từ khi. Ex: They have been playing soccer since 2 PM
-Lately / Recently //: Gần đây. Ex: He has been feeling ill lately.
 How long //: Bao lâu. Ex: How long have you been waiting here?
 Up to now / Up to the present //: Cho đến bây giờ / Cho đến hiện tại. Ex: We have been working on this project up to now
 All this time //: Suốt thời gian này. Ex: She has been living here all this time
