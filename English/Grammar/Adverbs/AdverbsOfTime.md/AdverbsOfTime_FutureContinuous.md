@@ -20,8 +20,9 @@
 6. In [specific time frame] //: Trong [khung thời gian cụ thể]
    In an hour, she will be giving her speech.
 
-7. At the weekend/weekdays //: Cuối tuần, cuối ngày
+7. At the weekend / by the end of the day //: Cuối tuần, cuối ngày
    They will be visiting their grandparents at the weekend.
+   They will be visiting their grandparents by the end of the day.
    
 8. During [event or activity] //: Trong suốt [sự kiện hoặc hoạt động]
    During the party, we will be dancing.
