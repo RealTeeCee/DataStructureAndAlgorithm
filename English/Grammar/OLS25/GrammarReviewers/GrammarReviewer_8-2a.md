@@ -3,9 +3,9 @@
 
 # A
 ghê tởm: 
-thừa nhận: 
-thừa nhận: 
-ủng hộ: 
+thừa nhận, thú nhận: 
+thừa nhận sự thật; công nhận: 
+ủng hộ, biện hộ: 
 dự đoán: 
 đánh giá cao: 
 tránh: 
@@ -17,7 +17,7 @@ không thể không:
 không chịu được: 
 kỷ niệm: 
 hoàn thành: 
-bỏ qua: 
+bỏ qua, tha thứ: 
 thú nhận: 
 xem xét: 
 tiếp tục: 
@@ -32,13 +32,13 @@ ghét cay ghét đắng:
 dừng: 
 thảo luận: 
 không thích: 
-tranh cãi: 
+tranh chấp, tranh cãi: 
 sợ hãi: 
 # E
-tán thành: 
+ký kết tán thành; công bố xác nhận: 
 chịu đựng: 
 thích thú: 
-kéo theo: 
+kéo theo, hệ lụy: 
 mường tượng: 
 trốn thoát: 
 tránh né: 

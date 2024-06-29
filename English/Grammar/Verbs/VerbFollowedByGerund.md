@@ -4,9 +4,9 @@
 # List
 # A
 abhor /əbˈhɔːr/: ghê tởm. Ex: She abhors eating junk food
-admit /ədˈmɪt/: thừa nhận. Ex: He admitted stealing the money.
-acknowledge /əkˈnɒlɪdʒ/: thừa nhận. Ex: She acknowledged receiving the gift.
-advocate /ˈædvəkeɪt/: ủng hộ. Ex: He advocates reducing taxes.
+admit /ədˈmɪt/: thừa nhận, thú nhận. Ex: He admitted stealing the money.
+acknowledge /əkˈnɒlɪdʒ/: thừa nhận sự thật; công nhận. Ex: She acknowledged receiving the gift.
+advocate /ˈædvəkeɪt/: ủng hộ, biện hộ, bênh vực. Ex: He advocates reducing taxes.
 anticipate /ænˈtɪsɪpeɪt/: dự đoán. Ex: She anticipated having a great time on vacation.
 appreciate /əˈpriːʃieɪt/: đánh giá cao. Ex: I appreciate your helping me.
 avoid /əˈvɔɪd/: tránh. Ex: He avoided talking to her.
@@ -18,7 +18,7 @@ can't help /kænt hɛlp/: không thể không. Ex: I can't help laughing.
 can't stand /kænt stænd/: không chịu được. Ex: I can't stand waiting in line.
 celebrate /ˈsɛlɪbreɪt/: kỷ niệm. Ex: We celebrated winning the championship.
 complete /kəmˈpliːt/: hoàn thành. Ex: She completed painting the house.
-condone /kənˈdəʊn/: bỏ qua. Ex: She condoned his cheating.
+condone /kənˈdəʊn/: bỏ qua, tha thứ. Ex: She condoned his cheating.
 confess /kənˈfɛs/: thú nhận. Ex: She confessed cheating on the test.
 consider /kənˈsɪdər/: xem xét. Ex: He considered moving to New York.
 continue /kənˈtɪnju/: tiếp tục. Ex: She continued talking.
@@ -33,13 +33,13 @@ detest /dɪˈtɛst/: ghét cay ghét đắng. Ex: She detests waking up early.
 discontinue /ˌdɪskənˈtɪnjuː/: dừng. Ex: They discontinued making the product.
 discuss /dɪˈskʌs/: thảo luận. Ex: We discussed going on vacation.
 dislike /dɪsˈlaɪk/: không thích. Ex: She dislikes cooking.
-dispute /dɪsˈpjuːt/: tranh cãi. Ex: They disputed sharing the profits.
+dispute /dɪsˈpjuːt/: tranh chấp, tranh cãi. Ex: They disputed sharing the profits.
 dread /drɛd/: sợ hãi. Ex: He dreads going to the dentist.
 # E
-endorse /ɪnˈdɔːrs/: tán thành. Ex: He endorsed buying the new equipment.
+endorse /ɪnˈdɔːrs/: ký kết tán thành; công bố xác nhận. Ex: He endorsed buying the new equipment.
 endure /ɪnˈdjʊər/: chịu đựng. Ex: She endured living in difficult conditions.
 enjoy /ɪnˈdʒɔɪ/: thích thú. Ex: I enjoy reading.
-entail /ɪnˈteɪl/: kéo theo. Ex: The job entails traveling.
+entail /ɪnˈteɪl/: kéo theo, hệ lụy. Ex: The job entails considerable risks.
 envision /ɪnˈvɪʒən/: mường tượng. Ex: She envisions running her own business.
 escape /ɪˈskeɪp/: trốn thoát. Ex: He escaped being caught.
 evade /ɪˈveɪd/: tránh né. Ex: They evaded paying taxes.
