@@ -16,7 +16,7 @@ be worth /biː wɜːrθ/: đáng. Ex: The movie is worth watching.
 # C
 can't help /kænt hɛlp/: không thể không. Ex: I can't help laughing.
 can't stand /kænt stænd/: không chịu được. Ex: I can't stand waiting in line.
-celebrate /ˈsɛlɪbreɪt/: kỷ niệm. Ex: We celebrated winning the championship.
+celebrate /ˈsɛlɪbreɪt/: tổ chức, kỷ niệm. Ex: We celebrated winning the championship.
 complete /kəmˈpliːt/: hoàn thành. Ex: She completed painting the house.
 condone /kənˈdəʊn/: bỏ qua, tha thứ. Ex: She condoned his cheating.
 confess /kənˈfɛs/: thú nhận. Ex: She confessed cheating on the test.

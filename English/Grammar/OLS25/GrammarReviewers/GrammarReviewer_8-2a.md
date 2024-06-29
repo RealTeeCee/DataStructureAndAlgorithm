@@ -15,7 +15,7 @@ bắt đầu:
 # C
 không thể không: 
 không chịu được: 
-kỷ niệm: 
+tổ chức, kỷ niệm: 
 hoàn thành: 
 bỏ qua, tha thứ: 
 thú nhận: 
