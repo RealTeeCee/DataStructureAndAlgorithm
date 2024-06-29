@@ -46,7 +46,7 @@ giải thích:
 # F
 thích: 
 sợ: 
-muốn: 
+cảm thấy thích: 
 giả vờ: 
 hoàn thành: 
 tha thứ: 

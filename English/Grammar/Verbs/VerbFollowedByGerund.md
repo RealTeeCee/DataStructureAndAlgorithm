@@ -47,7 +47,7 @@ explain /ɪkˈspleɪn/: giải thích. Ex: She explained teaching methods to the
 # F
 fancy /ˈfænsi/: thích. Ex: Do you fancy going out tonight?
 fear /fɪər/: sợ. Ex: They fear losing the match.
-feel like /fiːl laɪk/: muốn. Ex: I feel like going for a walk.
+feel like /fiːl laɪk/: cảm thấy thích. Ex: I feel like going for a walk.
 feign /feɪn/: giả vờ. Ex: He feigned being sick to avoid going to school.
 finish /ˈfɪnɪʃ/: hoàn thành. Ex: She finished writing the report.
 forgive /fəˈɡɪv/: tha thứ. Ex: She forgave him for lying.
