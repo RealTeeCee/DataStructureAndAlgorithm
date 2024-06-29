@@ -23,10 +23,10 @@ hạn chế bản thân trong:
 (không) tạo điều kiện: 
 tận tụy với: 
 cống hiến cho: 
-dành hết thời gian cho: 
+tận tâm với: 
 cống hiến hết mình cho: 
 dành thời gian cho: 
-dễ dàng: 
+có khuynh hướng: 
 giới hạn ở: 
 hạn chế bản thân trong: 
 mong đợi: 

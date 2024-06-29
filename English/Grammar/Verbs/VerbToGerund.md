@@ -22,10 +22,10 @@ confine oneself to /kənˈfaɪn wʌnˈsɛlf/: hạn chế bản thân trong.Ex: 
 (not) be conducive to /(nɒt) biː kənˈdjuːsɪv/: (không) tạo điều kiện.Ex: Noise is not conducive to studying.
 be dedicated to /biː ˈdɛdɪkeɪtɪd/: tận tụy với.Ex: He is dedicated to helping the poor. 
 dedicate oneself to /ˈdɛdɪkeɪt wʌnˈsɛlf/: cống hiến cho.Ex: He is dedicated hislife to helping the poor. 
-be devoted to /biː dɪˈvəʊtɪd/: dành hết thời gian cho.Ex: He is devoted to helping the poor. 
+be devoted to /biː dɪˈvəʊtɪd/: tận tâm với.Ex: He is devoted to helping the poor. 
 devote oneself to /dɪˈvəʊt wʌnˈsɛlf/: cống hiến hết mình cho.Ex: He devotes himself to helping the poor.
 devote time to /dɪˈvəʊt taɪm/: dành thời gian cho.Ex: He devotes time to helping the poor.
-be given to /biː ˈɡɪvn/: dễ dàng.Ex: He is given to shouting when he is angry.
+be given to /biː ˈɡɪvn/: có khuynh hướng.Ex: He is given to shouting when he is angry.
 be limited to /biː ˈlɪmɪtɪd/: giới hạn ở.Ex: He is limited to learning English.
 limit oneself to /ˈlɪmɪt wʌnˈsɛlf/: hạn chế bản thân trong.Ex: He limits himself to smoking one cigarette a day.
 be looking forward to /biː ˈlʊkɪŋ ˈfɔːwəd/: mong đợi.Ex: He's looking forward to meeting you. 
