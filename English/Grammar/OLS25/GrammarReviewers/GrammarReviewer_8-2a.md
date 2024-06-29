@@ -79,7 +79,7 @@ thích hơn:
 cấm: 
 trì hoãn: 
 # Q
-từ bỏ
+từ bỏ: 
 # R
 nhớ lại: 
 hồi tưởng: 
