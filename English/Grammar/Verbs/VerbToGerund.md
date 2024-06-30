@@ -46,7 +46,7 @@ confess to /kənˈfɛs tuː/: thú nhận.Ex: He confessed to committing the c
 consent to /kənˈsɛnt tuː/: tán thành, bằng lòng.Ex: He consented to paying for the dinner.
 contribute to /kənˈtrɪbjut tuː/: đóng góp.Ex: Loud music contributes to suffering loss of hearing.
 due to /djuː tuː/: do vì.Ex: He got cancer due to smoking too much.
-get round to /ɡɛt raʊnd tuː/: tìm thời gian để làm gì.Ex: I must get round to answering those emails.
+get round to /ɡɛt raʊnd tuː/: Bắt tay vào việc, sắp xếp để làm.Ex: I must get round to answering those emails.
 fall to /fɔːl tuː/: bắt đầu rơi vào tình trạng.Ex: After being fired, he fell to wondering how he would survive.
 feel up to /fiːl ʌp tuː/: cảm thấy đủ sức để làm gì.Ex: I don't feel up to walking there; let's take a taxi.
 go back to /ɡoʊ bæk tuː/: quay trở lại.Ex: When the baby was born, he went back to wetting his bed.

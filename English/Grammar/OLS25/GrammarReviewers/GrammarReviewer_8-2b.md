@@ -47,7 +47,7 @@ thú nhận:
 tán thành, bằng lòng: 
 đóng góp: 
 do vì: 
-tìm thời gian để làm gì: 
+bắt tay vào việc, sắp xếp để làm: 
 bắt đầu rơi vào tình trạng: 
 cảm thấy đủ sức để làm gì: 
 quay trở lại: 
