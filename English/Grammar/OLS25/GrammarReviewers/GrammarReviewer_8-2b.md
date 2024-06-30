@@ -9,8 +9,8 @@ như một phản ứng với:
 gắn tầm trọng đại vào: 
 thái độ đối với: 
 quy cho: 
-làm quen với: 
 quen với: 
+làm quen với: 
 trở nên quen với: 
 đồng ý với: 
 là một trở ngại cho: 

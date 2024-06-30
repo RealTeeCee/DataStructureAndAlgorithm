@@ -8,8 +8,8 @@ as a reaction to /æz ə riˈækʃən/: như một phản ứng với.Ex: He wen
 attach great importance to /əˈtætʃ ɡreɪt ɪmˈpɔːrtns/: gắn tầm trọng đại vào.Ex: Teachers attach great importance to writing tests.
 attitude to /ˈætɪtjuːd/: thái độ đối với.Ex: His attitude to eating is "eat to live, not live to eat".
 attribute to /əˈtrɪbjuːt/: quy cho.Ex: He attributed his success to making good investments.
-accustom oneself to /əˈkʌstəm wʌnˈsɛlf/: làm quen với.Ex: He accustoms himself to new challenges.
 be accustomed to /biː əˈkʌstəmd/: quen với.Ex: She is accustomed to working long hours.
+accustom oneself to /əˈkʌstəm wʌnˈsɛlf/: làm quen với.Ex: He accustoms himself to new challenges.
 become/get accustomed to /bɪˈkʌm|ɡɛt əˈkʌstəmd/: trở nên quen với.Ex: He's accustomed to getting up early.
 be agreeable to /biː əˈɡriːəbl/: đồng ý với.Ex: He's agreeable to meeting on Friday.
 be an obstacle to /biː ən ˈɒbstəkl/: là một trở ngại cho.Ex: Poverty is an obstacle to getting ahead in life.
