@@ -19,7 +19,7 @@ be committed to /biː kəˈmɪtɪd/: cam kết với.Ex: He is committed to doin
 commit oneself to /kəˈmɪt wʌnˈsɛlf/: cam kết với bản thân.Ex: He is commit himself to doing his best. 
 be confined to /biː kənˈfaɪnd/: bị hạn chế ở.Ex: He is confined to smoking one cigarette a day. 
 confine oneself to /kənˈfaɪn wʌnˈsɛlf/: hạn chế bản thân trong.Ex: He confines himself to smoking one cigarette a day. 
-(not) be conducive to /(nɒt) biː kənˈdjuːsɪv/: (không) tạo điều kiện.Ex: Noise is not conducive to studying.
+(not) be conducive to /(nɒt) biː kənˈdjuːsɪv/: (không) thuận lợi, tạo điều kiện cho.Ex: Noise is not conducive to studying.
 be dedicated to /biː ˈdɛdɪkeɪtɪd/: tận tụy với.Ex: He is dedicated to helping the poor. 
 dedicate oneself to /ˈdɛdɪkeɪt wʌnˈsɛlf/: cống hiến cho.Ex: He is dedicated hislife to helping the poor. 
 be devoted to /biː dɪˈvəʊtɪd/: tận tâm với.Ex: He is devoted to helping the poor. 

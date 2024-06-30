@@ -20,7 +20,7 @@ cam kết với:
 cam kết với bản thân: 
 bị hạn chế ở: 
 hạn chế bản thân trong: 
-(không) tạo điều kiện: 
+(không) thuận lợi, tạo điều kiện cho: 
 tận tụy với: 
 cống hiến cho: 
 tận tâm với: 
