@@ -34,7 +34,8 @@ be near to /biː nɪər/: gần với.Ex: The police are near to discovering who
 be opposed to /biː əˈpəʊzd/: phản đối.Ex: He is opposed to bringing back the death penalty.
 be on one's way to /biː ɒn wʌnz weɪ/: trên đường đến.Ex: He's on his way to becoming a star.
 be preferable to /biː ˈprɛfərəbl/: tốt hơn.Ex: Eating home cooked food is preferable to eating out.
-be reconciled to /biː ˈrɛkənˌsaɪld/: hòa giải.Ex: He's reconciled to living alone.
+be reconciled to /biː ˈrɛkənˌsaɪld/: chấp nhận sự thật (dù không thích).Ex: He's reconciled to living alone.
+reconcile oneself to /ˈrɛkənˌsaɪl/: chấp nhận sự thật (dù không thích).Ex: She must reconcile herself to the fact that she must do some work if she wants to pass her exams.
 be resigned to /biː rɪˈzaɪnd/: cam chịu.Ex: He's resigned to accepting his illness.
 be the key to /biː ðə kiː/: là chìa khóa cho.Ex: Hard work is the key to succeeding in life.
 be the secret to /biː ðə ˈsiːkrət/: là bí quyết cho.Ex: Hard work is the secret to succeeding in life.

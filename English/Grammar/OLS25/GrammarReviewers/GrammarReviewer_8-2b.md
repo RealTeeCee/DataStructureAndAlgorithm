@@ -35,7 +35,8 @@ gần với:
 phản đối: 
 trên đường đến: 
 tốt hơn: 
-hòa giải: 
+chấp nhận sự thật (dù không thích): 
+chấp nhận sự thật (dù không thích): 
 cam chịu: 
 là chìa khóa cho: 
 là bí quyết cho: 
