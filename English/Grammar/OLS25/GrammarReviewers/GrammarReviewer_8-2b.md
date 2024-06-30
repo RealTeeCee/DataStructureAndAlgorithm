@@ -42,20 +42,20 @@ là chìa khóa cho:
 là bí quyết cho: 
 trở nên quen với: 
 không thể cam đoan: 
-gần với: 
+suýt chút nữa thì: 
 thú nhận: 
 tán thành, bằng lòng: 
 đóng góp: 
 do vì: 
 tìm thời gian để làm gì: 
-bắt đầu làm gì: 
+bắt đầu rơi vào tình trạng: 
 cảm thấy đủ sức để làm gì: 
 quay trở lại: 
-có nhiều ảnh hưởng đến: 
+có nhiều ảnh hưởng đến, rất có ích cho: 
 có sự chán ghét đối với: 
 ngoài ra: 
 dẫn đến: 
-di chuyển gần hơn với: 
+tiến gần hơn đến: 
 phản đối: 
 mở cánh cửa đến: 
 thừa nhận: 
@@ -71,16 +71,16 @@ tuân thủ:
 làm điều đáng xấu hổ: 
 (không) thích: 
 bắt đầu thích: 
-có nhược điểm là: 
-còn nhiều hơn: 
-không có nhiều: 
+có những nhược điểm: 
+phức tạp hoặc thú vị hơn vẻ ngoài: 
+đơn giản, không có gì to tát: 
 bí quyết để: 
 quay sang, chuyển sang: 
 với mục đích là: 
 liên quan đến: 
 khi nói đến: 
 bạn nghĩ sao về: 
-có khuynh hướng: 
+có khuynh hướng, dễ mắc phải: 
 nghiện: 
 thích nghi: 
 tìm thời gian để làm gì: 
