@@ -19,8 +19,8 @@ expanded Noun Function is an NF with adjectives. "Which hole puncher" is an eNF.
 (DO: Direct Object, IO: Indirect Object, OP: Object Preposition)
 # NF                Subject                             Object                                      Complement 
 The BOY             The BOY plays soccer                DO = I follow the BOY                       That is a BOY
-                                                        I.O = I tell that story to the BOY
-                                                        O.P = I go swimming with the boy
+                                                        IO = I tell that story to the BOY
+                                                        OP = I go swimming with the boy
 
 SHE/HER/HERS        SHE loves music                     DO = I kiss HER                             It's HER
                                                         IO = I give the book to HER
@@ -53,7 +53,7 @@ TALKING, DYING, WORKING                                 BETRAYED
 
 * ACTIVE : ING /PASSIVE: ED
 
-# ACTIVE                                # PASSIVE
+# ACTIVE                                PASSIVE
 interesting                             interested
 amazing                                 amazed
 shocking                                shocked
