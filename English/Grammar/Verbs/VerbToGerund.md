@@ -13,7 +13,7 @@ accustom oneself to /əˈkʌstəm wʌnˈsɛlf/: làm quen với.Ex: He accustoms
 become/get accustomed to /bɪˈkʌm|ɡɛt əˈkʌstəmd/: trở nên quen với.Ex: He's accustomed to getting up early.
 be agreeable to /biː əˈɡriːəbl/: đồng ý với.Ex: He's agreeable to meeting on Friday.
 be an obstacle to /biː ən ˈɒbstəkl/: là một trở ngại cho.Ex: Poverty is an obstacle to getting ahead in life.
-(not) be averse to /(nɒt) biː əˈvɜːrs/: (không) ghét.Ex: He is not averse to telling lies to get what he wants.
+(not) be averse to /(nɒt) biː əˈvɜːrs/: (không) có ác cảm, ghét.Ex: He is not averse to telling lies to get what he wants.
 be close to /biː kləʊs/: gần với.Ex: The police are close to discovering who the thief is.
 be committed to /biː kəˈmɪtɪd/: cam kết với.Ex: He is committed to doing his best. 
 commit oneself to /kəˈmɪt wʌnˈsɛlf/: cam kết với bản thân.Ex: He is commit himself to doing his best. 

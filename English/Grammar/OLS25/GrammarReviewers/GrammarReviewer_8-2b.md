@@ -14,7 +14,7 @@ làm quen với:
 trở nên quen với: 
 đồng ý với: 
 là một trở ngại cho: 
-(không) ghét: 
+(không) có ác cảm, ghét: 
 gần với: 
 cam kết với: 
 cam kết với bản thân: 
