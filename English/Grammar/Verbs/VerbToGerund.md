@@ -79,8 +79,8 @@ with a view to /wɪð ə vjuː tuː/: với mục đích là.Ex: He moved to the
 with regard to /wɪð rɪˈɡɑːd tuː/: liên quan đến.Ex: With regard to watching TV, I believe children should be allowed some freedom.
 when it comes to /wɛn ɪt kʌmz tuː/: khi nói đến.Ex: When it comes to showing affection, women are more demonstrative.
 What do you say to /wɒt duː juː seɪ tuː/: bạn nghĩ sao về.Ex: What do you say to going to the movies?
-to be prone to /tuː biː prəʊn tuː/: có khuynh hướng, dễ mắc phải.Ex: She is prone to accidents.
-to be addicted to /tuː biː əˈdɪktɪd tuː/: nghiện.Ex: He is addicted to video games.
-to adjust to /tuː əˈdʒʌst tuː/: thích nghi.Ex: It took her some time to adjust to the new job.
-to get around to /tuː gɛt əˈraʊnd tuː/: tìm thời gian để làm gì.Ex:I finally got around to fixing the leaky faucet.
-to be inclined to /tuː biː ɪnˈklaɪnd tuː/: có xu hướng.Ex: She is inclined to believe what he says.
+be prone to /tuː biː prəʊn tuː/: có khuynh hướng, dễ mắc phải.Ex: She is prone to accidents.
+be addicted to /tuː biː əˈdɪktɪd tuː/: nghiện.Ex: He is addicted to video games.
+adjust to /tuː əˈdʒʌst tuː/: thích nghi.Ex: It took her some time to adjust to the new job.
+get around to /tuː gɛt əˈraʊnd tuː/: tìm thời gian để làm gì.Ex:I finally got around to fixing the leaky faucet.
+be inclined to /tuː biː ɪnˈklaɪnd tuː/: có xu hướng.Ex: She is inclined to believe what he says.
