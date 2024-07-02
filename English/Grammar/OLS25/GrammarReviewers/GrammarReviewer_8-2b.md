@@ -1,5 +1,5 @@
 ### Verbs + To + Gerunds (V + To + Ving) 
-## GERUND: DANH ĐỘNG TỪ
+## GERUND: 
 
 thừa nhận: 
 ám chỉ: 
@@ -82,6 +82,6 @@ khi nói đến:
 bạn nghĩ sao về: 
 có khuynh hướng, dễ mắc phải: 
 nghiện: 
-thích nghi: 
+thích nghi:
 tìm thời gian để làm gì: 
 có xu hướng: 
