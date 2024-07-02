@@ -232,3 +232,8 @@ concession
 Manner
 loud
 aloud
+benevolent
+tuition
+cover one's school tuition / fee: Trang trải học phí
+draw someone's attention: thu hút sự chú ý của, khiến ai đó chú ý hoặc tập trung vào cái gì
+think twice: suy nghĩ kỹ càng

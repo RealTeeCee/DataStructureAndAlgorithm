@@ -16,7 +16,7 @@ mortgage loan /ˈmɔːrɡɪdʒ loʊn/: (n) Khoản vay thế chấp.
 construction loan /kənˈstrʌkʃən loʊn/: (n) Khoản vay xây dựng.
 motorcycle loan /ˈmoʊtərˌsaɪkl loʊn/: (n) Khoản vay mua xe máy.
 student loan /ˈstuːdənt loʊn/: (n) Khoản vay sinh viên.
-personnel /ˌpɜːrsəˈnel/: (n) Nhân sự, nhân viên
+personnel /ˌpɜːrsəˈnel/: (n) Nhân sự
 real estate developer /rɪəl ɪˈsteɪt dɪˈveləpər/: (n) Nhà phát triển bất động sản.
 local customer /ˈloʊkəl ˈkʌstəmər/: (n) Khách hàng địa phương.
 teller /ˈtelər/: (n) Giao dịch viên ngân hàng.
