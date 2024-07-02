@@ -76,7 +76,7 @@ There is not much to /ðɛər ɪz nɒt mʌtʃ tuː/: đơn giản, không có g
 The trick to /ðə trɪk tuː/: bí quyết để.Ex: The trick to succeeding in life is looking at the glass half full.
 turn to /tɜːn tuː/: quay sang, chuyển sang.Ex: When he was nervous, he would turn to having a drink.
 with a view to /wɪð ə vjuː tuː/: với mục đích là.Ex: He moved to the countryside with a view to living a healthier lifestyle.
-with regard to /wɪð rɪˈɡɑːd tuː/: liên quan đến.Ex: With regard to watching TV, I believe children should be allowed some freedom.
+with regard to /wɪð rɪˈɡɑːd tuː/: nói về, liên quan đến.Ex: With regard to watching TV, I believe children should be allowed some freedom.
 when it comes to /wɛn ɪt kʌmz tuː/: khi nói đến.Ex: When it comes to showing affection, women are more demonstrative.
 What do you say to /wɒt duː juː seɪ tuː/: bạn nghĩ sao về.Ex: What do you say to going to the movies?
 be prone to /tuː biː prəʊn tuː/: có khuynh hướng, dễ mắc phải.Ex: She is prone to accidents.

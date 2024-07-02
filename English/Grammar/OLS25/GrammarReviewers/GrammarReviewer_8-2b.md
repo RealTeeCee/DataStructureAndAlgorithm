@@ -77,7 +77,7 @@ phức tạp hoặc thú vị hơn vẻ ngoài:
 bí quyết để: 
 quay sang, chuyển sang: 
 với mục đích là: 
-liên quan đến: 
+nói về, liên quan đến: 
 khi nói đến: 
 bạn nghĩ sao về: 
 có khuynh hướng, dễ mắc phải: 
