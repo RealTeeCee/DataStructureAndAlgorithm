@@ -1,7 +1,7 @@
 # Nguyen
 
 A: What do you think about the loan department of VietcomBank?
-B: Well, It's modern. The loan officers use modern computers to provide loan devices to customers. Besides, their services are professional. Customers are provided with step-by-step instructions so that they can get familiar with the loan process
+B: Well, It's modern. The loan officers use modern computers to provide loan sevices to customers. Besides, their services are professional. Customers are provided with step-by-step instructions so that they can get familiar with the loan process
 
 A: Have you ever applied for a loan there?
 B: Yes, I have a loan there. It's a personal loan at VCB. The pay-back period is 1 year. I borrowed 100 million with 10% interest a year. I applied for this loan because I needed money to buy some furniture items for my new house. Besides, I chose VC Bank because their services are professional and their interest is competitive.
