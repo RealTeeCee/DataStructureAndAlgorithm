@@ -8,11 +8,11 @@
 đi xe đạp: 
 đi khiêu vũ: 
 đi câu cá: 
-đi leo núi: 
+đi leo núi (đi bộ): 
 đi cưỡi ngựa: 
 đi săn bắn: 
-đi chạy bộ: 
-đi chạy bộ: 
+đi chạy bộ (chạy chậm > pace 6): 
+đi chạy bộ (chạy nhanh <= pace 6): 
 đi thuyền buồm: 
 đi lặn biển: 
 đi mua sắm: 

@@ -11,13 +11,13 @@ to go dancing /ˈdænsɪŋ/: đi khiêu vũ. Ex: They go dancing every Friday ni
 
 to go fishing /ˈfɪʃɪŋ/: đi câu cá. Ex: They often go fishing by the lake.
 
-to go hiking /ˈhaɪkɪŋ/: đi leo núi. Ex: We plan to go hiking in the mountains.
+to go hiking /ˈhaɪkɪŋ/: đi bộ leo núi. Ex: We plan to go hiking in the mountains.
 to go horse riding /ˈhɔːrs raɪdɪŋ/: đi cưỡi ngựa. Ex: He goes horse riding every weekend.
 to go hunting /tuː ɡoʊ ˈhʌntɪŋ/: đi săn bắn. Ex: He enjoys to go hunting in the woods.
 
-to go jogging /ˈdʒɒɡɪŋ/: đi chạy bộ. Ex: I go jogging to stay fit.
+to go jogging /ˈdʒɒɡɪŋ/: đi chạy bộ (chạy chậm > pace 6). Ex: I go jogging to stay fit.
 
-to go running /ˈrʌnɪŋ/: đi chạy bộ. Ex: He goes running every morning.
+to go running /ˈrʌnɪŋ/: đi chạy bộ (chạy nhanh <= pace 6). Ex: He goes running every morning.
 
 to go sailing /ˈseɪlɪŋ/: đi thuyền buồm. Ex: They go sailing every summer.
 to go scuba diving /ˈskuːbə daɪvɪŋ/: đi lặn biển. Ex: She wants to go scuba diving in the Caribbean.
