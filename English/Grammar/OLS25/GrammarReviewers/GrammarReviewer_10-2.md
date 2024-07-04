@@ -2,9 +2,9 @@
 
 - [Birds] Fly (swallow)
 - [Students] at that school learn English well (Mark)
-# Facts + And
+# Facts + Member + Conclusion
 - 
-# Member + therefore
+# Member + Conclusion + Facts
 - 
-# Conclusion + Because
+# Conclusion + Facts + Member
 - 
