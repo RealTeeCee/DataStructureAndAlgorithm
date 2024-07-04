@@ -68,7 +68,7 @@ shocking                                shocked
 - I teach English to THE DIRECTOR OF THIS COMPANY (IO)
 - I never go out with THE DIRECTOR OF THIS COMPANY (OP)
 - My father is THE DIRECTOR OF THIS COMPANY (C)
-- A CHILD WITHOUT A FATHER is like A HOUSE WITH NO ROOF
+- A CHILD WITHOUT A FATHER is like A HOUSE WITH NO ROOF (S & C)
 
 # NF4 - A NOUN PHRASE
 # NF4a - Gerund or Infinitive of VF2 to VF10b

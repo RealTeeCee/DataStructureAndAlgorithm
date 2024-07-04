@@ -40,6 +40,16 @@ Ex: The punished boy
 - OP
 + Complement
 
+# eNF1b
++ Preposition + Object
+- Tự cho 1 Ví dụ
++ Subject
++ Object
+- DO
+- IO
+- OP
++ Complement
+
 # NF2 - PRONOUN -> Sử dụng Noun khi đứng ở các vị trí sau
 Ex: She/her/hers
 + Subject
