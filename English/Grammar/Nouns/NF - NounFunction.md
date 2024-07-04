@@ -18,32 +18,35 @@ expanded Noun Function is an NF with adjectives. "Which hole puncher" is an eNF.
 
 (DO: Direct Object, IO: Indirect Object, OP: Object Preposition)
 # NF                Subject                             Object                                      Complement 
-The BOY             The BOY plays soccer                DO = I follow the BOY                       That is a BOY
-                                                        IO = I tell that story to the BOY
+# NF1
+The BOY             The BOY plays soccer                DO = I follow the BOY                       That IS a BOY
+                                                        IO = I tell that story TO the BOY
                                                         OP = I go swimming with the boy
-
-SHE/HER/HERS        SHE loves music                     DO = I kiss HER                             It's HER
-                                                        IO = I give the book to HER
+# NF2
+SHE/HER/HERS        SHE loves music                     DO = I kiss HER                             It 'S HERS 
+                                                                                                    (Processive Pronoun)
+                                                        IO = I give the book TO HER
                                                         OP = I am proud of HER
-
-WRITING             WRITING make her happy              DO = I enjoy WRITING                        My hobby is WRITING
-                                                        IO = I attribute his success to WRITING
+# NF3
+WRITING             WRITING make her happy              DO = I enjoy WRITING                        My hobby IS WRITING
+                                                        IO = I attribute his success TO WRITING
                                                         OP = He is interested in WRITING
 
-# eNF1a - Noun + Adjectives (or Present Participle & Past Participle)
+# eNF1a - Adjectives (or Present Participle & Past Participle - PASSIVE) + Noun 
+# Ving luôn mang nghĩa chủ động, V3ed luôn mang nghĩa bị động
 
-* Subject: 
-- THE FAT MAN is my brother
-- THE TALKING MA is my teacher
-- THE PUNISHED BOY is my nephew
+# Subject: 
+- the FAT MAN is my brother
+- the TALKING MAN is my teacher
+- the PUNISHED BOY is my nephew
 
-* Object (DO - IO - OP):
-- I sold my big house yesterday (DO)
-- We give food to the dying children (IO)
-- She went out with MY SURPRISED FRIEND (OP)
+# Object (DO - IO - OP):
+- I sold MY BIG HOUSE yesterday (DO)
+- We give food TO the DYING CHILDREN (IO)
+- She went out WITH my SURPRISED FRIEND (OP)
 
-* Complement
-- Tom is A GOOD ARTIST, A WORKING MAN but a BETRAYED HUSBAND
+# Complement
+- Tom IS a GOOD ARTIST, a WORKING MAN but a BETRAYED HUSBAND
 
 # Present Participle (ACTIVE: Ving)                     Past Participle (PASSIVE: VED or V3)
 TALKING, DYING, WORKING                                 BETRAYED
@@ -66,3 +69,13 @@ shocking                                shocked
 - I never go out with THE DIRECTOR OF THIS COMPANY (OP)
 - My father is THE DIRECTOR OF THIS COMPANY (C)
 - A CHILD WITHOUT A FATHER is like A HOUSE WITH NO ROOF
+
+# NF4 - A NOUN PHRASE
+# NF4a - Gerund or Infinitive of VF2 to VF10b
+
+# NF4b - Question Word / Whether to VF
+
+# NF5 - A NOUN CLAUSE
+# NF5a - That + S + VF
+
+# NF5b - Question word / Whether / If + S + VF
