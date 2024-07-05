@@ -109,10 +109,31 @@ Ex:
 - I consider her as my sister
 - I consider her to be my sister
 
-# VF10a:    S + V + G (Gerund Ving) or Passive Gerund (Being Ving)
+# VF10a:    S + V List + G (Gerund Ving) or Passive Gerund (Being Ving)
+                admit
+                anticipate
+                appreciate
+                avoid
+                consider
+                delay
+                deny
+                dislike
+                enjoy
+                finish
+                keep
+                mind
+                miss
+                postpone
+                practice
+                risk
+                suggest
 [Verbs Followed By Gerunds (Verb + Ving)](/English/Grammar/Verbs/VerbFollowedByGerund.md) <-- Ctrl + Click
 
-# VF10b:    S + Expressions + G (Gerund Ving) or Passive Gerund (Being Ving)
+# VF10b:    S + Expressions List + G (Gerund Ving) or Passive Gerund (Being Ving)
+                to be/get used to
+                to be/get accustomed to
+                to object to
+                to be looking/ to look forward to
 [Gerund Form Of A Verb After "To"](/English/Grammar/Verbs/VerbToGerund.md) <-- Ctrl + Click
 [TO GO + VING](/English/Grammar/Verbs/ToGo_V_ING.md) <-- Ctrl + Click
 
