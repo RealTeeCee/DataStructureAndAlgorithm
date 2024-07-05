@@ -148,6 +148,7 @@ Ex:
                     INTEND
                     EXPECT
                     PLAN
+                    REMEMBER
                     DECIDE
                     REMEMBER
                     CAN'T WAIT
@@ -165,6 +166,7 @@ Ex:
                     INTEND
                     EXPECT
                     PLAN
+                    REMEMBER
                     DECIDE
                     REMEMBER
                     CAN'T WAIT
