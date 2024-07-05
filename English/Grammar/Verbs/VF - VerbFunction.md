@@ -93,12 +93,15 @@ Ex:
 - He keeps the door white. - Adj
 - He keeps the door locked. - V3
 
-# VF9   S + V + DO + OC (Object Complement)
+# VF9   S + V + DO + OC (Object Complement) can use "as", "to be", "for" between DO and OC
 # Call, make, appoint, consider, vote, elect, choose, designate, name
 
 Ex: 
 - I call her "Lan"
 - They named him "Lucky Luke"
+- I choose her for my leader
+- I consider her as my sister
+- I consider her to be my sister
 
 * You can use "as", "to be" or "for" between DO and OC
 Ex: 
