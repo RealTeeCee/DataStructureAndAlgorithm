@@ -21,10 +21,10 @@
 [I] to be dressed to kill //: ăn mặc quần áo rất lạ mắt hoặc hấp dẫn
 [I] to lose one's shirt //: làm mất nhiều tiền; mất phần lớn tài sản hoặc giá trị của một người trong một khoản đầu tư
 [I] To spread oneself too thin /tuː sprɛd wʌnˈsɛlf tuː θɪn/: cố gắng làm quá nhiều việc cùng một lúc, dẫn đến việc không thể hoàn thành chúng một cách hiệu quả. Ex: She's been spreading herself too thin lately, trying to juggle a full-time job, volunteer work, and taking care of her family (Cô ấy đã chia sẻ bản thân quá mỏng gần đây, cố gắng cân đối công việc toàn thời gian, công việc tình nguyện và việc chăm sóc gia đình của mình)
-duck soup //: quá dễ - too easy. Ex: This homework is duck soup to me.
-[I] To hang on //:
-[I] To give it one's best shot //:
-[I] Money talks //:
-[I] Shape up or ship out //:
-[I] To be all eyes //:
-[I] To be all set //:
+[I] duck soup //: quá dễ - too easy. Ex: This homework is duck soup to me. Ex: Just hang on a little longer; help is on the way (Hãy cố gắng thêm một chút nữa; sự giúp đỡ đang đến)
+[I] To hang on //: Giữ vững, cố gắng.
+[I] To give it one's best shot //: Cố gắng hết sức. Ex: I know this exam is tough, but just give it your best shot (Tôi biết kỳ thi này khó, nhưng hãy cố gắng hết sức mình)
+[I] Money talks //: Có tiền có sức mạnh, có tiền có tiếng nói. Ex: In politics, money talks and often determines the outcomes (Trong chính trị, tiền bạc có tiếng nói và thường quyết định kết quả)
+[I] Shape up or ship out //: Thay đổi, cải thiện hoặc rời đi (Không làm được thì nghỉ đi). Ex: The boss told the underperforming employees to shape up or ship out (Ông chủ bảo các nhân viên làm việc kém rằng họ phải cải thiện hoặc rời đi)
+[I] To be all eyes //: Chăm chú theo dõi, quan sát kỹ. Ex: The children were all eyes as the magician performed his tricks (Lũ trẻ chăm chú theo dõi khi ảo thuật gia biểu diễn các trò ảo thuật)
+[I] To be all set //: Đã chuẩn bị và sẵn sàng. We are all set for the trip. Let's go! (Chúng ta đã sẵn sàng cho chuyến đi. Hãy đi thôi!)

@@ -225,39 +225,39 @@ obvious /ˈɒbviəs/: (a) Rõ ràng, hiển nhiên. Nghĩa: Dễ hiểu, không 
 obviously /ˈɒbvɪəsli/: (adv) Rõ ràng là, một cách hiển nhiên. Nghĩa: Cách thức diễn đạt rằng điều gì đó là dễ hiểu hoặc không cần giải thích thêm. Ex: Obviously, we need to address this issue immediately (Rõ ràng là chúng ta cần giải quyết vấn đề này ngay lập tức)
 obviousness /ˈɒbviəsnəs/: (n) Sự rõ ràng, sự hiển nhiên.
 occasionally /əˈkeɪ.ʒən.əl.i/: thỉnh thoảng, đôi khi
-play truant: cúp học
-traffic circle
-roundabout
-concession
-Manner
-loud
-aloud
-benevolent
-tuition
-cover one's school tuition / fee: Trang trải học phí
-draw someone's attention: thu hút sự chú ý của, khiến ai đó chú ý hoặc tập trung vào cái gì
-think twice: suy nghĩ kỹ càng
+play truant /pleɪ ˈtruːənt/: cúp học. Ex: He was caught playing truant from school again (Anh ấy lại bị bắt quả tang trốn học)
+traffic circle /ˈtræfɪk ˈsɜːrkəl/: (n) Vòng xuyến, bùng binh. Nghĩa: Một khu vực giao thông nơi các con đường gặp nhau và xe cộ di chuyển theo vòng tròn xung quanh một đảo trung tâm. Ex: There is a traffic circle at the intersection (Có một vòng xuyến ở ngã tư)
+roundabout /ˈraʊndəˌbaʊt/: (n) Vòng xuyến, bùng binh. Nghĩa: Một khu vực giao thông nơi các con đường gặp nhau và xe cộ di chuyển theo vòng tròn xung quanh một đảo trung tâm đây là từ đồng nghĩa với "traffic circle". Ex: Take the second exit at the roundabout (Rẽ vào lối ra thứ hai ở vòng xuyến)
+concession /kənˈsɛʃən/: (n) Sự nhượng bộ. Ex: The company made several concessions to the striking workers (Công ty đã nhượng bộ một số điều cho các công nhân đang đình công)
+Manner /ˈmænər/: (n) Cách thức, cách cư xử. Ex: His manner was polite and respectful (Cách cư xử của anh ấy rất lịch sự và tôn trọng)
+loud /laʊd/: (a) To, lớn (âm thanh).
+aloud /əˈlaʊd/: (adv) To (âm thanh), lớn tiếng. Ex: She read the letter aloud to the class (Cô ấy đọc lá thư to cho cả lớp nghe)
+benevolent /bəˈnɛvələnt/: (a) Nhân từ, từ thiện. Ex: He was known for his benevolent acts towards the poor (Anh ấy được biết đến với những hành động từ thiện đối với người nghèo)
+tuition /tuˈɪʃən/: (n) Học phí. Ex: The tuition fees for this semester are quite high (Học phí cho kỳ học này khá cao)
+cover one's school tuition / fee //: Trang trải học phí
+draw someone's attention //: thu hút sự chú ý của, khiến ai đó chú ý hoặc tập trung vào cái gì
+think twice //: suy nghĩ kỹ càng
 # Describing Adjectives 2
 # Lips - môi
-thick
-thin
-fleshy
-full
+thick /θɪk/: (a) dày
+thin /θɪn/: (a) mỏng
+fleshy /ˈflɛʃi/: (a) Đầy đặn, mọng nước
+full /fʊl/: (a) Đầy đặn
 # Complexion - nước da
-fair
-dark
-tanned
-pale
+fair /fɛr/: (a) Sáng, trắng
+dark /dɑrk/: (a) Tối, đen
+tanned /tænd/: (a) Rám nắng
+pale /peɪl/: (a) Nhợt nhạt, tái xanh
 # Cheeks - má
-rosy
-pale
-high
-pallid
+rosy /ˈroʊzi/: (a) Hồng hào
+pale /peɪl/: (a) Nhợt nhạt, tái xanh
+high /haɪ/: (a) Cao
+pallid /ˈpælɪd/: (a) Nhợt nhạt, xanh xao
 # Chin - cằm
-double chin
-square
-stubbly
-pointed
+double chin /ˈdʌbəl ʧɪn/: (n) Cằm hai ngấn, cằm chẻ
+square /skwɛr/: (a) Vuông
+stubbly /ˈstʌbli/: (a) Lởm chởm (râu ngắn)
+pointed /ˈpɔɪntɪd/: (a) Nhọn
 # Hair
 full /ful/: tóc nhiều
 thin /θin/: tóc mỏng
