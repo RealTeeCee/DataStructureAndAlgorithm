@@ -237,3 +237,37 @@ tuition
 cover one's school tuition / fee: Trang trải học phí
 draw someone's attention: thu hút sự chú ý của, khiến ai đó chú ý hoặc tập trung vào cái gì
 think twice: suy nghĩ kỹ càng
+# Describing Adjectives 2
+# Lips - môi
+thick
+thin
+fleshy
+full
+# Complexion - nước da
+fair
+dark
+tanned
+pale
+# Cheeks - má
+rosy
+pale
+high
+pallid
+# Chin - cằm
+double chin
+square
+stubbly
+pointed
+# Hair
+full /ful/: tóc nhiều
+thin /θin/: tóc mỏng
+light brown  /lait braun/: tóc nâu nhạt
+dark brown /dɑ:k braun/: tóc nâu đậm
+blonde /blɔnd/: tóc vàng
+black /blæk/: tóc đen
+curly /'kə:li/: tóc quăn
+wavy /'weivi/: tóc gợn sóng
+short /ʃɔ:t/: tóc ngắn
+oily /'ɔili/: tóc dầu
+damaged /'dæmidʤ/: tóc hư tổn
+glossy /ˈɡlɔsi/: tóc óng ả
