@@ -14,10 +14,10 @@ expel /ɪkˈspɛl/: (v) trục xuất, đuổi, tống ra. Ex: The student was e
 expulsion /ɪkˈspʌlʃən/: (n) sự trục xuất, sự đuổi
 expellable /ɪkˈspɛləbəl/: (a) có thể trục xuất
 expeller /ɪkˈspɛlər/: (n) người trục xuất
+sitcom /ˈsɪtkɒm/: (n) phim hài tình huống. Ex: "Friends" is one of the most popular sitcoms of all time ("Friends" là một trong những bộ phim hài tình huống nổi tiếng nhất mọi thời đại)
 reconsider /ˌriːkənˈsɪdər/: (v) cân nhắc lại
 reconsideration /ˌriːkənˌsɪdəˈreɪʃən/: (n) sự cân nhắc lại
 reconsidered /ˌriːkənˈsɪdərd/: (a) được cân nhắc lại
-sitcom /ˈsɪtkɒm/: (n) phim hài tình huống. Ex: "Friends" is one of the most popular sitcoms of all time ("Friends" là một trong những bộ phim hài tình huống nổi tiếng nhất mọi thời đại)
 bargain /ˈbɑːrɡɪn/: (n) sự mặc cả, món hời; (v) mặc cả, thương lượng. Ex: (n) I found a great bargain at the flea market (Tôi đã tìm thấy một món hời tuyệt vời ở chợ trời). (v) She bargained with the vendor to get a better price (Cô ấy mặc cả với người bán để có được giá tốt hơn)
 bargainer /ˈbɑːrɡənər/: (n) người mặc cả
 * hop /hɒp/: (v) Nhảy một chân (n) Một cú nhảy một chân
