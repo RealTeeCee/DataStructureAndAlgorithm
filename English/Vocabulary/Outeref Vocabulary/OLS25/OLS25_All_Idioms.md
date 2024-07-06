@@ -1,0 +1,18 @@
+to have ants in one's pants (very acive, nervous, restless) //: Bồn chồn, lo lắng.
+around the clock (continueously, without stopping) //: Liên tục
+just around the corner (soon to occur, close by) //: Sắp đến
+as a master of fact //: Thật sự
+to ask for the moon/shoot for the moon //: cố gắng dành lấy thứ bạn không thể có.
+at all costs = without regard for the costs or efforts //: bằng mọi giá
+to fly off handle //: mất tự chủ, nổi giận.
+from the bottom of one's heart/with all one's heart //: Với những tình cảm chân thành nhất.
+from the time to time //: Thỉnh thoảng, đôi khi
+generation gap //: sự thiếu thông hiểu giữa các thế hệ
+to get down to business/ get down to work //: tập trung vào công việc
+to get stuck //: bế tắt
+at a loss //: Lúng túng, bối rối, luống cuống
+at any rate //: Dù sao đi nữa, trong bất kỳ trường hợp nào
+to feel like a new man / woman //: cảm thấy khỏe khoắn, tươi tỉnh lại
+to fly off the handle //: mất tự chủ, nổi giận
+from the bottom of one's heart / with all one's heart //: với những tình cảm chân thành nhất
+from time to time //: thình thoảng, đổi khi 
