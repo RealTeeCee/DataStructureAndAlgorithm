@@ -13,18 +13,18 @@ from the time to time //: Thỉnh thoảng, đôi khi
 generation gap //: sự thiếu thông hiểu giữa các thế hệ
 to get down to business/ get down to work //: tập trung vào công việc
 to get stuck //: bế tắt
-good-for-nothing
-different strokes for diffrent folks
-eyes are bigger than one's stomach
-the early bird catches the worm
-all's well that ends well
-to add fuel to the flame
-to add insult to injury
-to be afraid of one's shadow
-a little bird told me
-a little knowledge is a dangerous thing
-to be all ears
-a babe in the woods
-back talk
-back-to-back
-to beat around the bush
+good-for-nothing//: vô dụng, người không đáng tin cậy
+different strokes for diffrent folks//: Mỗi người một ý
+eyes are bigger than one's stomach//: take more food  than one can eat
+the early bird catches the worm //: Đến trước thì có lợi
+all's well that ends well //: successful outcome is worth the effort
+to add fuel to the flame //: Do st to worsen a bad situation
+to add insult to injury //: tăng sự tổn thương
+to be afraid of one's shadow//: dễ sợ sệt những điều không đâu
+a little bird told me //: biết được điều gì một cách bí mật
+a little knowledge is a dangerous thing //: when a person has some knowlegde, they often act as if they know it all, causing trouble.
+to be all ears//:	Hăm hở nghe
+a babe in the woods//: người khờ dại, cả tin
+back talk//: nói hỗn
+back-to-back //: liên tục, sát nhau
+to beat around the bush//: nói lòng vòng
