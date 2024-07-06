@@ -13,6 +13,7 @@ from the time to time //: Thỉnh thoảng, đôi khi
 generation gap //: sự thiếu thông hiểu giữa các thế hệ
 to get down to business/ get down to work //: tập trung vào công việc
 to get stuck //: bế tắt
+=====================
 good-for-nothing //: Vô dụng, không có ích, ăn hại. Ex: He’s a good-for-nothing who never helps around the house (Anh ta là một người vô dụng, không bao giờ giúp đỡ việc nhà)
 different strokes for diffrent folks //: Mỗi người một sở thích. Ex: I like to get up early, but my brother prefers to stay up late. Different strokes for different folks (Tôi thích dậy sớm, nhưng anh trai tôi thích thức khuya Mỗi người một sở thích.)
 eyes are bigger than one's stomach //: Mắt to hơn bụng - yêu cầu nhiều thức ăn hơn khả năng ăn của mình. Ex: She couldn’t finish her meal because her eyes were bigger than her stomach (Cô ấy không thể ăn hết bữa ăn vì cô ấy lấy quá nhiều thức ăn)
@@ -28,3 +29,20 @@ a babe in the woods //: Người ngây thơ, thiếu kinh nghiệm. Ex: He’s a
 back talk //: (n) Cãi lại, nói hỗn xược. Ex: The teacher didn’t tolerate any back talk from the students. (Giáo viên không chịu đựng bất kỳ lời cãi lại nào từ học sinh.)
 back-to-back //: (adj) Liên tiếp, kế tiếp nhau. Ex: We had back-to-back meetings all day. (Chúng tôi có các cuộc họp liên tiếp suốt cả ngày)
 to beat around the bush //: Nói vòng vo, không đi vào vấn đề chính. Ex: Stop beating around the bush and tell me what happened. (Đừng nói vòng vo nữa và hãy nói cho tôi biết chuyện gì đã xảy ra)
+
+===========================
+good-for-nothing//: vô dụng, người không đáng tin cậy
+different strokes for diffrent folks//: Mỗi người một ý
+eyes are bigger than one's stomach//: take more food  than one can eat
+the early bird catches the worm //: Đến trước thì có lợi
+all's well that ends well //: successful outcome is worth the effort
+to add fuel to the flame //: Do st to worsen a bad situation
+to add insult to injury //: tăng sự tổn thương
+to be afraid of one's shadow//: dễ sợ sệt những điều không đâu
+a little bird told me //: biết được điều gì một cách bí mật
+a little knowledge is a dangerous thing //: when a person has some knowlegde, they often act as if they know it all, causing trouble.
+to be all ears//:	Hăm hở nghe
+a babe in the woods//: người khờ dại, cả tin
+back talk//: nói hỗn
+back-to-back //: liên tục, sát nhau
+to beat around the bush//: nói lòng vòng
