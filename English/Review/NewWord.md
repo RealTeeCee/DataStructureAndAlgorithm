@@ -51,3 +51,5 @@ damaged /'dæmidʤ/: tóc hư tổn
 glossy /ˈɡlɔsi/: tóc óng ả
 ==============================
 metro system:
+grasp
+pillar
