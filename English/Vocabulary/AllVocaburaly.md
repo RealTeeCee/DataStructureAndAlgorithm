@@ -2280,7 +2280,7 @@ daffodil /ˈdæfədɪl/: Hoa thủy tiên
 shelter (n) /ˈʃɛltər/: nơi trú ẩn, 
 overhang (n) /ˈoʊvərˌhæŋ/: phần nhô ra (of st,sb)
 pursue (v) /pərˈsu/: Theo đuổi
-exceed (v) /ɪkˈsid/: vượt quá
+exceed (v) /ɪkˈsēd/: vượt quá
 foster (v) /ˈfɔstər/: thúc đẩy, nuôi dưỡng
 diligent (a) /ˈdɪlədʒənt/: chuyên cần, tận tụy, siêng năng
 forge (v) /fɔrdʒ/: Tạo dựng, củng cố, rèn
