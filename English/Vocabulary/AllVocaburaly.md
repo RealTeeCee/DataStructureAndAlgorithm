@@ -2290,7 +2290,7 @@ diversify (v) /dəˈvərsəˌfaɪ/: đa dạng hóa
 mitigate  (v) /ˈmɪt̮əˌɡeɪt/: giảm thiểu, giảm nhẹ
 initiative (n) /ɪˈnɪʃət̮ɪv/: sáng kiến
 resilient (a) /rɪˈzɪlyənt/: kiên cường
-aim (v) /eɪm/:  đặt mục tiêu, ám chỉ
+aim /eɪm/:  (v) đặt mục tiêu, ám chỉ; nhắm bắn (n) mục tiêu
 proactive (a) /proʊˈæktɪv/: chủ động
 presence (n) /ˈprɛzns/: sự hiện diện
 institution (n) /ˌɪnstəˈtuʃn/: Tổ chức (lớn, ex: educational/financial, etc. )
