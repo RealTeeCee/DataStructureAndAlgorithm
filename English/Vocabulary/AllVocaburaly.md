@@ -2251,7 +2251,7 @@ shine - shone - shone /ʃaɪn/: soi sáng, sự chiếu sáng
 [I] all's well that ends well //: Kết thúc tốt đẹp. We had some problems at the start, but all's well that ends well. (Chúng tôi đã gặp một số vấn đề lúc đầu, nhưng kết thúc tốt đẹp)
 [I] to add fuel to the flame //: Thêm dầu vào lửa. Ex: His comments only added fuel to the flame of the argument. (Những bình luận của anh ta chỉ làm cho cuộc tranh cãi thêm căng thẳng)
 [I] to add insult to injury /add ˈɪn.sʌlt tu ˈinjəri/: Xát muối vào vết thương. Ex: She was already upset, and his criticism added insult to injury. (Cô ấy đã rất buồn, và lời chỉ trích của anh ấy xát muối vào vết thương)
-[I] to be afraid of one's shadow //: Sợ cả bóng của mình - Rất nhát gan, dễ bị hoảng sợ. Ex: He’s so timid, he’s afraid of his own shadow. (Anh ấy rất nhút nhát, anh ấy sợ cả bóng của mình)
+[I] to be afraid of one's own shadow //: Sợ cả bóng của mình - Rất nhát gan, dễ bị hoảng sợ. Ex: He’s so timid, he’s afraid of his own shadow. (Anh ấy rất nhút nhát, anh ấy sợ cả bóng của mình)
 [I] a little bird told me //: Có ai đó đã nói cho tôi biết. Nghĩa: Nghe được thông tin từ một nguồn không tiết lộ. Ex: A little bird told me that you’re getting a promotion. (Có ai đó nói cho tôi biết rằng bạn sẽ được thăng chức)
 [I] a little knowledge is a dangerous thing //: Kiến thức nửa vời thì nguy hiểm. Nghĩa: Biết một chút về một cái gì đó có thể dẫn đến những kết luận sai lầm. Ex: He thinks he’s an expert after reading one book, but a little knowledge is a dangerous thing. (Anh ấy nghĩ mình là chuyên gia sau khi đọc một cuốn sách, nhưng kiến thức nửa vời thì nguy hiểm)
 [I] to be all ears //: Chăm chú lắng nghe, Rất muốn nghe. Ex: Tell me the news, I’m all ears. (Hãy kể cho tôi nghe tin tức, tôi đang rất muốn nghe)
