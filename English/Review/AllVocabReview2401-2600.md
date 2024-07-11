@@ -9,7 +9,7 @@ a building that provides meals and a cheap place to stay to students, workers, o
 Đút lót: 
 tham quan, ngắm cảnh: 
 đi ngắm cảnh, tham quan: 
-nôn mửa.: 
+nôn mửa: 
 kén chọn, khó tính
 vết sẹo: 
 bóp, ví túi xách nhỏ của phụ nữ: 
@@ -21,7 +21,7 @@ hướng dẫn viên:
 khách du lịch: 
 khách tham quan: 
 chuyến bay: 
-tới nơi: 
+sự tới nơi; sự hiện diện, sự ra mắt; sự có mặt: 
 tới nơi: 
 hành lý: 
 hộ chiếu: 

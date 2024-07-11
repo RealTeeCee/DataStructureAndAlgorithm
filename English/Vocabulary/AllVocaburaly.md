@@ -2302,9 +2302,9 @@ commitment (n) /kəˈmɪtmənt/: cam kết
 safeguard (v) /ˈseɪfɡɑrd/: bảo vệ
 cyber (combining form)/ˈsaɪbər/: Mạng
 seamless (a) /ˈsimləs/: liền mạch
-tailored (a) /ˈteɪlərd/: phù hợp
+tailored (a) /ˈteɪlərd/: may riêng, may thủ công; được tùy chỉnh phù hợp. Ex: Ex: He wore a perfectly tailored suit to the wedding. (Anh ấy mặc một bộ vest được may đo hoàn hảo đến đám cưới).The training program was tailored to meet the needs of the employees. (Chương trình đào tạo được tùy chỉnh để đáp ứng nhu cầu của nhân viên)
 forward-thinking //: Tư duy tiến bộ
-poised (a) /pɔɪzd/: Sẵn sàng
+poised (a) /pɔɪzd/: (adj) Điềm tĩnh, bình tĩnh; + (to) Được sẵn sàng, chuẩn bị sẵn. Ex: She remained poised even during the stressful interview. (Cô ấy vẫn giữ bình tĩnh ngay cả trong buổi phỏng vấn căng thẳng). The cat was poised to pounce on the mouse. (Con mèo đang sẵn sàng vồ con chuột)
 Colloquial /kəˈloʊ.kwi.əl/: (a) Thông tục, thân mật.
 Transitional /trænˈzɪʃənəl/: (a) Chuyển tiếp, quá độ.
 Expression /ɪkˈspreʃ.ən/: (n) Cách diễn đạt, biểu hiện.
@@ -2344,7 +2344,7 @@ escape /ɪˈskeɪp/: bỏ trốn
 grasp /ɡræsp/: nắm lấy
 point the gun at sb /pɔɪnt the ɡʌn at sb/: chỉa súng vào ai
 shotgun /ˈʃɑːt.ɡʌn/: súng săn, súng hoa cải; súng bắn đạn chùm
-sack /sæk/: túi
+sack /sæk/: bao tải, túi lớn
 loudspeaker /ˈlaʊdˌspiː.kɚ/: loa
 hostage /ˈhɑː.stɪdʒ/: con tin
 school gate /ˈskuːl ɡeɪt/: cổng trường
@@ -2421,7 +2421,7 @@ tour guide (n)/tʊr ɡaɪd/: hướng dẫn viên
 tourist (n)/ˈtʊrɪst/: khách du lịch
 visitor (n)/ˈvɪzət̮ər/: khách tham quan
 flight (n)/flaɪt/: chuyến bay
-arrival (n) /əˈraɪvl/: tới nơi
+arrival (n) /əˈraɪvl/: sự tới nơi; sự hiện diện, sự ra mắt; sự có mặt. Ex: The arrival of the new product generated a lot of excitement among customers (Sự ra mắt của sản phẩm mới đã tạo ra rất nhiều sự phấn khích trong số khách hàng). Her arrival at the party was a complete surprise to everyone. (Sự có mặt của cô ấy tại bữa tiệc là một sự ngạc nhiên hoàn toàn đối với mọi người)
 arrive (v)/əˈraɪv/: tới nơi
 baggage (n) /ˈbæɡɪdʒ/: hành lý
 passport (n)/ˈpæspɔrt/: hộ chiếu

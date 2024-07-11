@@ -102,9 +102,9 @@ cam kết:
 bảo vệ: 
 Mạng: 
 liền mạch: 
-phù hợp: 
+may riêng, may thủ công; được tùy chỉnh phù hợp: 
 Tư duy tiến bộ: 
-Sẵn sàng: 
+(adj) Điềm tĩnh, bình tĩnh; + (to) Được sẵn sàng, chuẩn bị sẵn: 
 (a) Thông tục, thân mật: 
 (a) Chuyển tiếp, quá độ: 
 (n) Cách diễn đạt, biểu hiện: 
@@ -144,7 +144,7 @@ bỏ trốn:
 nắm lấy: 
 chỉa súng vào ai: 
 súng săn, súng hoa cải; súng bắn đạn chùm: 
-túi: 
+bao tải, túi lớn: 
 loa: 
 con tin: 
 cổng trường: 
