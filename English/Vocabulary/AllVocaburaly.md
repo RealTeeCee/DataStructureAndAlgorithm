@@ -2231,7 +2231,7 @@ shine - shone - shone /ʃaɪn/: soi sáng, sự chiếu sáng
 [I] to have ants in one's pants (very acive, nervous, restless) //: Bồn chồn, lo lắng.
 [I] around the clock (continueously, without stopping) //: Liên tục
 [I] just around the corner (soon to occur, close by) //: Sắp đến
-[I] as a master of fact //: Thật sự
+[I] as a matter of fact //: Thật sự
 [I] to ask for the moon/shoot for the moon //: cố gắng dành lấy thứ bạn không thể có.
 [I] at all costs = without regard for the costs or efforts //: bằng mọi giá
 [I] at a loss //: Lúng túng, bối rối, luống cuống
