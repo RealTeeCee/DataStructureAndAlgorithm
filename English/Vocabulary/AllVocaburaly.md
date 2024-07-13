@@ -827,7 +827,7 @@ doughnut /'dounʌt/: bánh rán, bánh vòng, bánh chữ O
 concert /ˈkɑːn.sɚt/: (n) buổi hòa nhạc (v) dự tính, sắp đặt; phối hợp
 punch /pʌntʃ/: đấm
 fist /fist/: nắm đấm, quả đấm (v) đấm nhau
-braise /breiz/: om, rim, kho 
+braise /breiz/: (v) om, rim, kho 
 juggle /ˈdʒʌɡ.əl/: (n) trò tung hứng (v) tung hứng, múa rối (+ with) lừa bịp, lừa dối; xuyên tạc
 circus /'sə:kəs/: rạp, gánh xiếc
 load /loud/: (v) tải; chất, bốc hàng; chở (n) vật gánh, vật chở

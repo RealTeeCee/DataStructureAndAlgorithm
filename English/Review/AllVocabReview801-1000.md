@@ -27,7 +27,7 @@ bánh rán, bánh vòng, bánh chữ O:
 (n) buổi hòa nhạc (v) dự tính, sắp đặt; phối hợp: 
 đấm: 
 nắm đấm, quả đấm (v) đấm nhau: 
-om, rim, kho : 
+(v) om, rim, kho: 
 (n) trò tung hứng (v) tung hứng, múa rối (+ with) lừa bịp, lừa dối; xuyên tạc: 
 rạp, gánh xiếc: 
 (v) tải; chất, bốc hàng; chở (n) vật gánh, vật chở: 
