@@ -2542,7 +2542,7 @@ clean the windshield /klin ðə ˈwɪndʃild/: (v) Lau kính chắn gió
 pump gas /pʌmp ɡæs/: (v) Bơm xăng. Ex: She went to the station to pump gas. (Cô ấy đến trạm xăng để đổ xăng)
 gas pump /ɡæs pʌmp/: (n) Máy bơm xăng. Ex: The gas pump was out of order. (Máy bơm xăng bị hỏng)
 air pump /ɛr pʌmp/: (n) máy bơm hơi. Ex: He used the air pump to inflate the tires. (Anh ấy sử dụng máy bơm hơi để bơm lốp xe)
-use the air pump /yuz ði ɛr pump/: dùng bơm hơi
+use the air pump /yuz ði ɛr pump/: dùng máy bơm hơi
 check the oil and gas /tʃɛk ði ɔɪl ən ɡæs/: kiểm tra xăng, dầu
 check the transmission /tʃɛk ðə trænsˈmɪʃ/: xem hộp số
 fix the engine /fɪk ði ˈɛndʒən/: sửa máy

@@ -10,11 +10,11 @@ a building that provides meals and a cheap place to stay to students, workers, o
 tham quan, ngắm cảnh: 
 đi ngắm cảnh, tham quan: 
 nôn mửa: 
-kén chọn, khó tính
+kén chọn, khó tính: 
 vết sẹo: 
 bóp, ví túi xách nhỏ của phụ nữ: 
 chung thủy, trung thành: 
-bó hoa, mùi hương dễ chịu của thực phẩm đồ uống đặc biệt là rượu vang: 
+bó hoa, mùi hương dễ chịu của thực phẩm đồ uống đặc biệt là:  rượu vang: 
 công ty lữ hành: 
 nhân viên công ty lữ hành: 
 hướng dẫn viên: 
@@ -51,7 +51,7 @@ xấu đi:
 (n) Tương cà: 
 (n) Sốt mayonnaise: 
 (n) Sốt dưa chua ngọt: 
-(n) Nước sốt trộn salad: 
+(n) Nước sốt trộn salad:  
 (n) Khoai tây nướng: 
 (n) Nước ngọt có ga dành cho người ăn kiêng (không đường, ít calo): 
 (n) Gà rán: 
@@ -60,7 +60,7 @@ xấu đi:
 (n) Bánh hamburger phô mai: 
 (n) Bánh hamburger hai lớp thịt: 
 (n) Bánh sandwich giăm bông và phô mai: 
-(n) Bánh cuộn. Nghĩa:  
+(n) Bánh cuộn. Nghĩa: 
 (n) Một cuộn bánh mì: 
 (n) Trứng chiên: 
 (n) Trứng luộc: 
@@ -73,7 +73,7 @@ xấu đi:
 (n) Rượu mạnh, đồ uống có cồn có nồng độ cồn cao: 
 rượu mạnh. Ám chỉ rượu có > 90 ABV (Alcohol By Volume - nồng độ cồn) : 
 (n) Rượu cognac Pháp. Một loại rượu mạnh được làm từ nho, đặc sản của vùng Cognac, Pháp: 
-(n) Rượu brandy Pháp. Nghĩa:  
+(n) Rượu brandy Pháp. Nghĩa: 
 (n) Nước cam: 
 (n) Nước ép cà chua: 
 (n) Trà đá: 
@@ -86,7 +86,7 @@ rượu mạnh. Ám chỉ rượu có > 90 ABV (Alcohol By Volume - nồng 
 (v) Có hương vị chocolate: 
 (n) Thạch. thực phẩm có kết cấu giống thạch làm từ gelatin: 
 (n) Mứt, thạch: 
-(n) Bánh muffin. Nghĩa:  
+(n) Bánh muffin: 
 (n) Sữa chua đông lạnh: 
 * (n) Kem phủ bánh. kem đặc hơn thường phủ lớp ngoài bánh kem hoặc nhân bánh: 
 * (n) Kem phủ bánh. kem mỏng hơn thường dùng để vẽ nét cho bánh: 
@@ -96,7 +96,7 @@ rượu mạnh. Ám chỉ rượu có > 90 ABV (Alcohol By Volume - nồng 
 (n) Kem phủ dâu: 
 (n) Bánh nướng: 
 (n) Bánh táo: 
-(n) Bánh sừng bò:
+(n) Bánh sừng bò: 
 (n) Tăm: 
 (v) Đứng xếp hàng: 
 (n) Tiệc lớn: 
@@ -130,19 +130,19 @@ thanh toán tiền, trả tiền cho thu ngân:
 (n) Quầy bar: 
 (n) Ghế quầy bar: 
 (adj) Bất lịch sự, khiếm nhã: 
-(adj) Mờ, anh sáng yếu:  
+(adj) Mờ, anh sáng yếu: 
 (adj) Đầy khói: 
-(adj) Hung hăng, quyết liệt:  
+(adj) Hung hăng, quyết liệt: 
 (adj) Kén chọn, khó tính: 
 (adj) Nghiệp dư: 
 (adv) Vội vàng, hấp tấp: 
 (n) Nhu cầu, yêu cầu; đòi hỏi: 
-(n) kính chắn gió
+(n) kính chắn gió: 
 (v) Lau kính chắn gió: 
 (v) Bơm xăng: 
 (n) Máy bơm xăng: 
 (n) máy bơm hơi: 
-dùng bơm hơi: 
+dùng máy bơm hơi: 
 kiểm tra xăng, dầu: 
 xem hộp số: 
 sửa máy: 
@@ -169,7 +169,7 @@ nhà điều hành khách sạn:
 nhân viên khách sạn: 
 thợ điện: 
 người rao tin trong thị trấn, nhân viên trực tầng: 
-(n) Đội trưởng bộ phận hành lý. Người chịu trách nhiệm quản lý các nhân viên khuân hành lý và đảm bảo dịch vụ hành lý trong khách sạn
+(n) Đội trưởng bộ phận hành lý. Người chịu trách nhiệm quản lý các nhân viên khuân hành lý và đảm bảo dịch vụ hành lý trong khách sạn: 
 giám đốc bưu điện: 
 quản lý chi nhánh: 
 nhân viên bưa điện: 
@@ -181,7 +181,7 @@ bưu thiếp:
 dán tem: 
 quầy/ cửa số gửi bảo đảm: 
 cửa sổ lo thư chuyển phát nhanh: 
-gửi fax.: 
+gửi fax: 
 quả chanh; vôi: 
 nham hiểm: 
 (v) ca ngợi, hoan nghênh; (n) sự ca ngợi, sự hoan nghênh:  
