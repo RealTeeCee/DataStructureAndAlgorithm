@@ -2499,7 +2499,7 @@ apple pie /ˈæpəl paɪ/: (n) Bánh táo. Ex: Apple pie is a classic American d
 croissant /krəˈsɑːnt/: (n) Bánh sừng bò. Ex: She enjoys a croissant with her morning coffee. (Cô ấy thích ăn một chiếc bánh sừng bò cùng cà phê buổi sáng)
 toothpick /ˈtuːθˌpɪk/: (n) Tăm. Ex: He used a toothpick to clean his teeth after the meal. (Anh ấy dùng tăm để xỉa răng sau bữa ăn)
 stand in line /stænd ɪn laɪn/: (v) Đứng xếp hàng. Ex: We had to stand in line for an hour to get tickets. (Chúng tôi phải đứng xếp hàng một tiếng để lấy vé)
-banquets /ˈbæŋ.kwɪts/: (n) Tiệc lớn. Ex: The company holds banquets for its employees every year. (Công ty tổ chức tiệc lớn cho nhân viên mỗi năm)
+banquet /ˈbæŋ.kwɪt/: (n) Tiệc lớn. Ex: The company holds banquets for its employees every year. (Công ty tổ chức tiệc lớn cho nhân viên mỗi năm)
 reserved table /rɪˈzɜrvd ˈteɪbəl/: (n) Bàn đặt trước. Ex: They had a reserved table at the restaurant. (Họ có một bàn đặt trước tại nhà hàng)
 course or dish /kɔrs ɔr dɪʃ/: (n) Món ăn. Ex: The main course was a delicious roast chicken. (Món chính là một món gà nướng ngon)
 prawns /prɔnz/: (n) Tôm lớn. Ex: She ordered a dish with prawns for dinner. (Cô ấy gọi một món có tôm lớn cho bữa tối)
