@@ -77,7 +77,7 @@ vỏ bánh taco:
 bánh taco: 
 bánh bông lan: 
 cắt lát: 
-chặt: 
+(v) chặt; (n) miếng sườn: 
 băm nhỏ: 
 nước dùng: 
 ninh, nấu vừa sôi: 

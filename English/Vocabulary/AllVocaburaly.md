@@ -278,7 +278,7 @@ tortilla /tɔːrˈtiːə/: vỏ bánh taco
 taco /ˈtɑːkəʊ/: bánh taco
 muffin /ˈmʌfɪn/: bánh bông lan
 slice /slaɪs/: cắt lát
-chop /tʃɑːp/: chặt
+chop /tʃɑːp/: (v) chặt; (n) miếng sườn
 chopped //: băm nhỏ
 broth /brɔːθ/: nước dùng
 simmer /ˈsɪmər/: ninh, nấu vừa sôi
@@ -2503,7 +2503,7 @@ banquet /ˈbæŋ.kwɪt/: (n) Tiệc lớn. Ex: The company holds banquets for it
 reserved table /rɪˈzɜrvd ˈteɪbəl/: (n) Bàn đặt trước. Ex: They had a reserved table at the restaurant. (Họ có một bàn đặt trước tại nhà hàng)
 course or dish /kɔrs ɔr dɪʃ/: (n) Món ăn. Ex: The main course was a delicious roast chicken. (Món chính là một món gà nướng ngon)
 prawns /prɔnz/: (n) Tôm lớn. Ex: She ordered a dish with prawns for dinner. (Cô ấy gọi một món có tôm lớn cho bữa tối)
-pork chops /pɔrk ʧɑps/: (n) Sườn heo
+pork chop /pɔrk ʧɑp/: (n) Sườn heo
 pig feet /pɪɡ fit/: (n) Chân giò
 fried rice /fraɪd raɪs/: (n) Cơm chiên
 salad /ˈsæləd/: (n) Món salad
@@ -2512,7 +2512,7 @@ tuna /ˈtuːnə/: (n) Cá ngừ
 appetizer /ˈæpɪˌtaɪzər/: (n) Món khai vị
 sauce /sɔs/: (n) Nước sốt
 lobster /ˈlɑbstər/: (n) Tôm hùm
-lamb chops /læm ʧɑps/: (n) Sườn cừu
+lamb chop /læm ʧɑp/: (n) Sườn cừu
 steamed fish /stimd fɪʃ/: (n) Cá hấp
 spaghetti /spəˈɡɛti/: (n) Mỳ Ý
 vegetarian dish /ˌvɛʤəˈtɛriən dɪʃ/: (n) Món ăn chay
