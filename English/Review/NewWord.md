@@ -51,5 +51,57 @@ damaged /'dæmidʤ/: tóc hư tổn
 glossy /ˈɡlɔsi/: tóc óng ả
 ==============================
 metro system:
-grasp
 pillar
+exquisite
+venue
+ambiance
+escort
+* entree
+* appetizer
+mousse: bánh mousse
+tart: bánh tart
+waitstaff
+consult: tham khảo ý kiến
+... and ... pairing: Sự kết hợp giữa ... và ... Ex: dish and wine pairings (sự kết hợp giữa món ăn và rượu vang)
+expertise
+regarding
+elsewhere
+delight
+conclude
+decadent meal
+impeccable
+ambiance
+standout
+superior
+superior dining experience
+culinary gem
+occasion
+indulge
+finest cuisine
+
+renowned 
+iconic
+fillet
+fillet of beef
+mushroom Duxelles
+sear
+leanest
+chestnut
+blitz
+crumble
+form up
+thyme leave
+prosciutto (Parma ham)
+pastry
+puff pastry
+egg yolk
+tsp = teaspoon
+tbsp = tablespoon
+shallot
+purée
+tomato purée
+evaporated
+pinch of salt
+beef stock
+cling film = plastic wrap: 
+remarkable
