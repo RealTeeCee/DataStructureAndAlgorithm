@@ -1,0 +1,5 @@
+# Tell a story about your trip
+
+Last week, I had a trip to Binh Hung island with my colleagues. The trip lasted only 2 days and 1 night but we had a lot of fun.
+We departed at Mien Dong bus station. It was 11 pm but none of us were sleepy because all of us were eager. However, after a while we fell asleep until we were  waken up by the driver's loud voice. We arrived. We were amazed at the clear aquamarine sea along with the soft white sand. After we had checked in at a local hotel, we quickly put away our luggage and headed for the beach. There, the air was fresh and sunlight was mild. In addition to the sea, we were impresed with the local people's hospitality and super-cheap local food. The most special thing was that Binh Hung's lobster were much cheaper than the restaurant we used to go to. Our 2 days and 1 night passed so fast. We wished we could stay longer but all good things had to come to an end. We had to come back to HCM to start a new work week.
+Generally, although our trip was short we enjoyed it so much and looked forward to the day we could return.
