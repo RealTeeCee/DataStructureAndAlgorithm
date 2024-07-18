@@ -74,11 +74,13 @@ ambiance
 standout
 superior
 superior dining experience
+unforgettable dining experience
 culinary gem
 occasion
 indulge
+indulging
 finest cuisine
-
+forefront
 renowned 
 iconic
 baguette
@@ -108,3 +110,21 @@ cling film = plastic wrap:
 remarkable
 blend
 contemporary
+epitome
+epitomize
+elevate
+refined
+refinement
+upscale
+gastronomic
+critic
+critical
+criticism
+crave
+craving
+retail
+gratitude
+unwave
+unwavering /ˌənˈwāv(ə)riNG/: không lay chuyển; vững vàng
+emulate
+exterior
