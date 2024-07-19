@@ -10,3 +10,6 @@ I had always been fascinated by the idea of exploring new places but never took 
 I had never been on a solo trip before, but that weekend I booked a flight and set off on an adventure. The journey was exhilarating yet challenging; navigating unfamiliar roads and dealing with language barriers made me wish I had planned better. Despite these obstacles, I pressed on, driven by a sense of curiosity and wonder. By the end of the trip, I had experienced breathtaking sights and made memories that would last a lifetime.
 
 It has been several months since that trip, and I have continued to explore new destinations. Now, I can confidently navigate foreign cities without feeling lost at all. My friend mentioned that he would embark on a solo journey just like me one day.
+
+
+
