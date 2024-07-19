@@ -23,7 +23,7 @@ stumbled upon /ˈstʌmbəld əˈpɒn/: (v) tình cờ gặp. Nghĩa: Gặp phả
 pack one's bags /pæk wʌnz bæɡz/: (idiom) thu dọn hành lý. Nghĩa: Chuẩn bị hoặc gói ghém đồ đạc để đi đâu đó. Ex: She packed her bags and left for Paris (Cô ấy thu dọn hành lý và lên đường đến Paris).
 set off /sɛt ɒf/: (v) khởi hành. Nghĩa: Bắt đầu một cuộc hành trình hoặc chuyến đi. Ex: We set off early in the morning (Chúng tôi khởi hành vào sáng sớm).
 exhilarating /ɪɡˈzɪləreɪtɪŋ/: (adj) đầy phấn khích. Nghĩa: Rất thú vị và kích thích. Ex: The ride was exhilarating (Chuyến đi thật phấn khích).
-navigating /ˈnævɪɡeɪtɪŋ/: (v) điều hướng. Nghĩa: Tìm đường hoặc hướng đi trong một khu vực hoặc qua một tình huống. Ex: Navigating the city was challenging (Điều hướng qua thành phố thật khó khăn).
+navigating /ˈnævɪɡeɪtɪŋ/: (v) tìm đường, điều hướng. Nghĩa: Tìm đường hoặc hướng đi trong một khu vực hoặc qua một tình huống. Ex: Navigating the city was challenging (Điều hướng qua thành phố thật khó khăn).
 language barriers /ˈlæŋɡwɪdʒ ˈbæriərz/: (n) rào cản ngôn ngữ. Nghĩa: Những khó khăn hoặc trở ngại khi giao tiếp bằng các ngôn ngữ khác nhau. Ex: We had to overcome language barriers (Chúng tôi phải vượt qua rào cản ngôn ngữ).
 pressed on /prɛst ɒn/: (v) tiếp tục tiến lên. Nghĩa: Kiên trì tiến lên bất chấp khó khăn. Ex: Despite the challenges, we pressed on (Mặc dù có nhiều khó khăn, chúng tôi vẫn tiếp tục tiến lên).
 driven by /ˈdrɪvən baɪ/: (adj) được thúc đẩy bởi. Nghĩa: Được điều khiển hoặc thúc đẩy bởi một cái gì đó. Ex: She was driven by a desire to succeed (Cô ấy được thúc đẩy bởi mong muốn thành công).
