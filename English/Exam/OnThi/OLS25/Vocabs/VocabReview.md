@@ -66,6 +66,7 @@
 (n) buổi định hướng: 
 (n) sự bối rối: 
 (n) sự bối rối ban đầu: 
+(idiom) đặc biệt chú ý làm điều gì: 
 (v) hòa nhập vào: 
 (v) giải quyết, đương đầu: 
 (v) đương đầu với các thử thách mới: 
