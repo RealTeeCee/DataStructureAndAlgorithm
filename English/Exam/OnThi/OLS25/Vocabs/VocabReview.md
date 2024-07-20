@@ -67,8 +67,8 @@
 (n) sự bối rối: 
 (n) sự bối rối ban đầu: 
 (v) hòa nhập vào: 
-(v) giải quyết: 
-(v) giải quyết các thử thách mới: 
+(v) giải quyết, đương đầu: 
+(v) đương đầu với các thử thách mới: 
 
 # Trip To The Beach
 (v) thu hút đến: 

@@ -67,8 +67,8 @@ orientation /ˌɔːriənˈteɪʃən/: (n) buổi định hướng. Nghĩa: Buổ
 confusion /kənˈfjuːʒən/: (n) sự bối rối. Nghĩa: Trạng thái không chắc chắn hoặc lẫn lộn. Ex: There was a lot of confusion at the start of the project (Có rất nhiều sự bối rối khi bắt đầu dự án).
 initial confusion /ɪˈnɪʃəl kənˈfjuːʒən/: (n) sự bối rối ban đầu. Nghĩa: Trạng thái không chắc chắn hoặc lẫn lộn khi mới bắt đầu. Ex: There was some initial confusion about the schedule (Có một số sự bối rối ban đầu về lịch trình).
 integrated into /ˈɪntɪɡreɪtɪd ˈɪntuː/: (v) hòa nhập vào. Nghĩa: Trở thành một phần của cái gì đó hoặc được kết hợp vào. Ex: She quickly integrated into the new team (Cô ấy nhanh chóng hòa nhập vào nhóm mới).
-tackle /ˈtækəl/: (v) giải quyết. Nghĩa: Đối mặt và xử lý vấn đề hoặc công việc khó khăn. Ex: We need to tackle the issue as soon as possible (Chúng ta cần giải quyết vấn đề càng sớm càng tốt).
-tackling new challenges /ˈtækəlɪŋ njuː ˈʧælɪnʤɪz/: (v) giải quyết các thử thách mới. Nghĩa: Đối mặt và xử lý các vấn đề hoặc công việc mới và khó khăn. Ex: He is excited about tackling new challenges at his job (Anh ấy háo hức với việc giải quyết các thử thách mới trong công việc của mình).
+tackle /ˈtækəl/: (v) giải quyết, đương đầu. Nghĩa: Đối mặt và xử lý vấn đề hoặc công việc khó khăn. Ex: We need to tackle the issue as soon as possible (Chúng ta cần giải quyết vấn đề càng sớm càng tốt).
+tackling new challenges /ˈtækəlɪŋ njuː ˈʧælɪnʤɪz/: (v) đương đầu với các thử thách mới. Nghĩa: Đối mặt và xử lý các vấn đề hoặc công việc mới và khó khăn. Ex: He is excited about tackling new challenges at his job (Anh ấy háo hức với việc đương đầu với các thử thách mới trong công việc của mình).
 
 # Trip To The Beach
 draw to /drɔː tuː/: (v) thu hút đến. Nghĩa: Hấp dẫn hoặc làm cho ai đó đến gần. Ex: The beautiful scenery drew me to the park (Phong cảnh đẹp thu hút tôi đến công viên).
