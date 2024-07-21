@@ -98,6 +98,7 @@
 (idiom) bắt đầu một chương mới trong cuộc đời: 
 (n) không ngoại lệ: 
 (idiom) dẫn đến điều đó; trước đó: 
+(idiom) có mọi thứ ai đó cần: 
 (v) đập mạnh với: 
 (idiom) tim đập mạnh vì háo hức: 
 (n) hành lang: 
