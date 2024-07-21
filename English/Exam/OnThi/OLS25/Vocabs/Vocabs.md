@@ -49,7 +49,8 @@ pushed on /pʊʃt ɒn/: (v) tiếp tục tiến lên. Nghĩa: Kiên trì tiếp 
 beauty of the surroundings /ˈbjuːti ʌv ðə səˈraʊndɪŋz/: (n) vẻ đẹp của cảnh quan xung quanh. Nghĩa: Sự đẹp đẽ của môi trường xung quanh. Ex: We were captivated by the beauty of the surroundings (Chúng tôi bị cuốn hút bởi vẻ đẹp của cảnh quan xung quanh).
 summit /ˈsʌmɪt/: (n) đỉnh núi. Nghĩa: Điểm cao nhất của một ngọn núi hoặc đồi. Ex: The view from the summit was breathtaking (Khung cảnh từ đỉnh núi thật ngoạn mục).
 reached the summit /riːtʃt ðə ˈsʌmɪt/: (v) đến đỉnh núi. Nghĩa: Đạt được điểm cao nhất của ngọn núi. Ex: After hours of hiking, we finally reached the summit (Sau nhiều giờ leo núi, chúng tôi cuối cùng đã đến đỉnh).
-worthwhile /ˌwɜːθˈwaɪl/: (adj) đáng giá. Nghĩa: Đáng để bỏ công sức hoặc thời gian. Ex: The effort was worthwhile for the view at the top (Công sức bỏ ra thật đáng giá cho khung cảnh ở đỉnh).
+* worthwhile /ˌwɜːθˈwaɪl/: (adj) đáng giá. Nghĩa: Đáng để bỏ công sức hoặc thời gian. Ex: The effort was worthwhile for the view at the top (Công sức bỏ ra thật đáng giá cho khung cảnh ở đỉnh).
+* If you are talking about the value of doing an activity, use worthwhile. If you are talking about a person or thing (a noun) that deserves respect/attention/recognition/etc, use worthy.
 energetic and refreshed /ˌɛnərˈdʒɛtɪk ənd rɪˈfrɛʃt/: (adj) tràn đầy năng lượng và tươi mới. Nghĩa: Cảm thấy đầy năng lượng và khỏe khoắn. Ex: After a good night's sleep, I felt energetic and refreshed (Sau một giấc ngủ ngon, tôi cảm thấy tràn đầy năng lượng và tươi mới).
 
 # First Day At Work

@@ -49,7 +49,8 @@
 (n) vẻ đẹp của cảnh quan xung quanh: 
 (n) đỉnh núi: 
 (v) đến đỉnh núi: 
-(adj) đáng giá: 
+* (adj) đáng giá: 
+* If you are talking about the value of doing an activity, use (1). If you are talking about a person or thing (a noun) that deserves respect/attention/recognition/etc, use (2): (1) is _; (2) is _
 (adj) tràn đầy năng lượng và tươi mới:
 
 # First Day At Work
