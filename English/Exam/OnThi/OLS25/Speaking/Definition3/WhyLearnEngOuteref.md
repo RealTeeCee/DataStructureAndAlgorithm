@@ -7,10 +7,3 @@ The teachers here are not only experienced but also devoted. They are always pat
 I have been studying English here with my brother for 6 months. I chose Dien Bien Phu Campus since It's near my home in order that I can save time for moving.
 I have studied a lot of skills at Outeref such as speaking, writing, and more. At first, I felt English was so difficult that I wanted to give up. With the help of the teachers here, my English has gradually improved. I can now communicate and write emails in English although I need to keep trying. If I had known Outeref sooner, I wouldn't have wasted my time learning English by my self at home.
 I hope after completing courses at Outeref I can speak English as if I were a native speaker. I will recommend Outeref to my friends who want to learn English.
-
-1. bc
-2. reflex
-3. the teacher
-4. who with / where
-5. study what
-6. after / recommend
