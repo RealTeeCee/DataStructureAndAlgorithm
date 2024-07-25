@@ -108,3 +108,28 @@
 (v) giảm bớt lo lắng: 
 (adv) dần dần: 
 (n) bạn đồng trang lứa: 
+
+=========================== 
+# DEFINITION 3
+
+# Why Like To Listening To Music
+(n) giai điệu: 
+(v) bật giai điệu yêu thích của tôi: 
+(v) thư giãn: 
+(phrase) từ nhạc pop đến nhạc cổ điển: 
+(n) ứng dụng phát trực tuyến: 
+(idiom) ra ngoài và đi lại: 
+(idiom) đang di chuyển: 
+(n) buổi hòa nhạc: 
+(n) lễ hội: 
+(n) các buổi hòa nhạc và lễ hội âm nhạc: 
+(v) có sự tham gia: 
+(n) sự kiện có sự tham gia của các ban nhạc địa phương và nghệ sĩ:
+(n) buổi biểu diễn trực tiếp: 
+(phrase) khắp thế giới: 
+(n) danh sách phát nhạc: 
+(n) tâm trạng: 
+(v) tập thể dục: 
+(n) bảng xếp hạng âm nhạc: 
+(v) nâng cao tinh thần: 
+(n) ngôn ngữ toàn cầu: 

@@ -1,35 +1,22 @@
-# Trip To The Beach
-draw to /drɔː tuː/: (v) thu hút đến. Nghĩa: Hấp dẫn hoặc làm cho ai đó đến gần. Ex: The beautiful scenery drew me to the park (Phong cảnh đẹp thu hút tôi đến công viên).
-captivate /ˈkæptɪveɪt/: (v) làm say đắm. Nghĩa: Làm ai đó say mê hoặc bị cuốn hút. Ex: The magician's performance captivated the audience (Màn trình diễn của ảo thuật gia làm khán giả say mê).
-captivating photo book /ˈkæptɪveɪtɪŋ ˈfəʊtəʊ bʊk/: (n) cuốn sách ảnh hấp dẫn. Nghĩa: Cuốn sách ảnh rất thu hút và thú vị. Ex: She showed me a captivating photo book of her travels (Cô ấy cho tôi xem một cuốn sách ảnh hấp dẫn về chuyến du lịch của mình).
-showcase /ˈʃəʊkeɪs/: (v) trưng bày. Nghĩa: Trình bày hoặc giới thiệu điều gì đó một cách nổi bật. Ex: The gallery showcases modern art (Phòng triển lãm trưng bày nghệ thuật hiện đại).
-coast /kəʊst/: (n) bờ biển. Nghĩa: Vùng đất dọc theo biển. Ex: We drove along the coast (Chúng tôi lái xe dọc bờ biển).
-beachgoer /ˈbiːʧɡoʊər/: (n) người đi biển. Nghĩa: Người thường xuyên đến bãi biển. Ex: The beach was crowded with beachgoers (Bãi biển đông đúc với những người đi biển).
-pack full of essentials /pæk fʊl ʌv ɪˈsɛnʃəlz/: (v) gói đầy đủ những thứ cần thiết. Nghĩa: Chuẩn bị và đóng gói tất cả những vật dụng cần thiết. Ex: She packed her bag full of essentials for the trip (Cô ấy đã đóng gói túi của mình đầy đủ những thứ cần thiết cho chuyến đi).
-long and tiring /lɒŋ ənd ˈtaɪərɪŋ/: (adj) dài và mệt mỏi. Nghĩa: Kéo dài và gây mệt mỏi. Ex: The journey was long and tiring (Hành trình kéo dài và mệt mỏi).
-faded into /ˈfeɪdɪd ˈɪntuː/: (v) mờ dần thành. Nghĩa: Trở nên mờ nhạt hoặc biến thành một trạng thái khác. Ex: The excitement faded into boredom (Sự phấn khích mờ dần thành chán nản).
-faded into exhaustion /ˈfeɪdɪd ˈɪntuː ɪɡˈzɔːstʃən/: (v) mờ dần thành kiệt sức. Nghĩa: Trở nên mệt mỏi đến mức kiệt sức. Ex: Their energy faded into exhaustion after the hike (Năng lượng của họ mờ dần thành kiệt sức sau chuyến đi bộ).
-endless /ˈɛndlɪs/: (adj) bất tận. Nghĩa: Không có điểm dừng hoặc không bao giờ kết thúc. Ex: The desert seemed endless (Sa mạc có vẻ như bất tận).
-endless stretch of golden sand /ˈɛndlɪs strɛʧ ʌv ˈɡəʊldən sænd/: (n) dải cát vàng bất tận. Nghĩa: Một khu vực cát vàng rộng lớn và không có điểm dừng. Ex: We walked along an endless stretch of golden sand (Chúng tôi đi dọc theo một dải cát vàng bất tận).
-soothing sound of the waves /ˈsuːðɪŋ saʊnd ʌv ðə weɪvz/: (n) âm thanh dịu êm của sóng biển. Nghĩa: Âm thanh nhẹ nhàng và êm dịu của sóng biển. Ex: The soothing sound of the waves helped me relax (Âm thanh dịu êm của sóng biển giúp tôi thư giãn).
-rejuvenated /rɪˈʤuːvəneɪtɪd/: (adj) trẻ lại, tươi mới. Nghĩa: Cảm thấy khỏe khoắn và đầy năng lượng trở lại. Ex: After a good night's sleep, I felt rejuvenated (Sau một giấc ngủ ngon, tôi cảm thấy trẻ lại).
-collecting seashells /kəˈlɛktɪŋ ˈsiːʃɛlz/: (v) nhặt vỏ sò. Nghĩa: Tìm và nhặt những vỏ sò trên bãi biển. Ex: The children spent the afternoon collecting seashells (Những đứa trẻ dành cả buổi chiều nhặt vỏ sò).
-bring along /brɪŋ əˈlɒŋ/: (v) mang theo. Nghĩa: Đưa theo hoặc mang theo cái gì đó. Ex: Don't forget to bring along your sunscreen (Đừng quên mang theo kem chống nắng của bạn).
-feel at /fiːl æt/: (v) cảm thấy tại. Nghĩa: Cảm thấy thoải mái hoặc hài lòng tại một nơi nào đó. Ex: I feel at home in this city (Tôi cảm thấy thoải mái như ở nhà trong thành phố này).
-peace and connect with nature /piːs ənd kəˈnɛkt wɪð ˈneɪʧər/: (n) hòa bình và kết nối với thiên nhiên. Nghĩa: Cảm giác yên bình và hòa hợp với môi trường tự nhiên. Ex: The hike helped me feel at peace and connect with nature (Chuyến đi bộ giúp tôi cảm thấy yên bình và kết nối với thiên nhiên).
-getaway /ˈɡɛtəˌweɪ/: (n) kỳ nghỉ ngắn. Nghĩa: Một chuyến đi ngắn để nghỉ ngơi và thư giãn. Ex: We're planning a weekend getaway to the mountains (Chúng tôi đang lên kế hoạch cho một kỳ nghỉ ngắn cuối tuần lên núi).
-beach getaway /biːʧ ˈɡɛtəˌweɪ/: (n) kỳ nghỉ ở biển. Nghĩa: Một chuyến đi ngắn để nghỉ ngơi và thư giãn tại bãi biển. Ex: They enjoyed a beach getaway last summer (Họ đã tận hưởng một kỳ nghỉ ở biển vào mùa hè năm ngoái).
+# Why Like To Listening To Music
 
-# First Day At School
-start a new chapter in one's life //: (idiom) bắt đầu một chương mới trong cuộc đời. Nghĩa: Bắt đầu một giai đoạn mới hoặc một sự thay đổi quan trọng trong cuộc sống. Ex: She decided to start a new chapter in her life by moving to a new city (Cô ấy quyết định bắt đầu một chương mới trong cuộc đời bằng cách chuyển đến một thành phố mới).
-no exception /nəʊ ɪkˈsɛpʃən/: (n) không ngoại lệ. Nghĩa: Không có ngoại lệ nào. Ex: Everyone must follow the rules, no exception (Mọi người đều phải tuân theo quy tắc, không có ngoại lệ).
-leading up to it /ˈliːdɪŋ ʌp tuː ɪt/: (idiom) dẫn đến điều đó. Nghĩa: Các sự kiện hoặc hành động xảy ra trước và chuẩn bị cho một sự kiện chính. Ex: There was a lot of preparation leading up to the event (Có rất nhiều sự chuẩn bị dẫn đến sự kiện đó).
-pound with /paʊnd wɪð/: (v) đập mạnh với. Nghĩa: Đập mạnh hoặc cảm thấy nhịp tim mạnh mẽ. Ex: Her heart pounded with excitement (Tim cô ấy đập mạnh vì phấn khích).
-heart pounding with anticipation /hɑːrt ˈpaʊndɪŋ wɪð ænˌtɪsɪˈpeɪʃən/: (idiom) tim đập mạnh vì háo hức. Nghĩa: Cảm thấy nhịp tim mạnh mẽ do sự háo hức hoặc mong đợi. Ex: As the show began, her heart was pounding with anticipation (Khi chương trình bắt đầu, tim cô ấy đập mạnh vì háo hức).
-hallways /ˈhɔːlweɪz/: (n) hành lang. Nghĩa: Những lối đi dài trong các tòa nhà hoặc nhà. Ex: The hallways were crowded with students (Hành lang đông đúc với học sinh).
-be a blur /biː ə blɜːr/: (idiom) mờ nhạt. Nghĩa: Một hình ảnh không rõ ràng hoặc ký ức không rõ ràng. Ex: The events of the day were a blur (Các sự kiện trong ngày thật mờ nhạt).
-keep to oneself /kiːp tuː wʌnˈsɛlf/: (v) giữ riêng tư. Nghĩa: Giữ bí mật hoặc không chia sẻ với người khác. Ex: She prefers to keep to herself (Cô ấy thích giữ riêng tư).
-by one side /baɪ wʌn saɪd/: (idiom) bên cạnh. Nghĩa: Ở gần hoặc kế bên. Ex: He kept his phone by his side (Anh ấy giữ điện thoại bên cạnh).
-ease one anxiety /iːz wʌn æŋˈzaɪəti/: (v) giảm bớt lo lắng. Nghĩa: Làm giảm cảm giác lo lắng hoặc căng thẳng. Ex: Listening to music helps ease my anxiety (Nghe nhạc giúp giảm bớt lo lắng của tôi).
-gradually /ˈɡrædʒuəli/: (adv) dần dần. Nghĩa: Xảy ra từ từ và liên tục theo thời gian. Ex: She gradually improved her skills (Cô ấy dần dần cải thiện kỹ năng của mình).
-peers /pɪrz/: (n) bạn đồng trang lứa. Nghĩa: Những người cùng độ tuổi hoặc vị trí xã hội. Ex: He enjoys spending time with his peers (Anh ấy thích dành thời gian với bạn đồng trang lứa của mình).
+tune /tjuːn/: (n) giai điệu. Nghĩa: Một đoạn nhạc hoặc bài hát. Ex: He played a familiar tune on the piano (Anh ấy chơi một giai điệu quen thuộc trên đàn piano)
+put on my favorite tune //: (v) bật giai điệu yêu thích của tôi. Nghĩa: Bật bài hát hoặc đoạn nhạc mà mình thích. Ex: I like to put on my favorite tune to relax (Tôi thích bật giai điệu yêu thích của mình để thư giãn)
+unwind /ʌnˈwaɪnd/: (v) thư giãn. Nghĩa: Thư giãn và giảm căng thẳng. Ex: I need some time to unwind after a busy day (Tôi cần chút thời gian để thư giãn sau một ngày bận rộn)
+from pop to classical //: (phrase) từ nhạc pop đến nhạc cổ điển. Nghĩa: Bao gồm nhiều thể loại âm nhạc khác nhau, từ nhạc pop hiện đại đến nhạc cổ điển. Ex: She enjoys all kinds of music, from pop to classical (Cô ấy thích tất cả các loại nhạc, từ nhạc pop đến nhạc cổ điển)
+streaming app /ˈstriːmɪŋ æp/: (n) ứng dụng phát trực tuyến. Nghĩa: Ứng dụng cho phép người dùng xem hoặc nghe nội dung qua internet. Ex: I use a streaming app to listen to music (Tôi sử dụng một ứng dụng phát trực tuyến để nghe nhạc)
+out and about /aʊt ənd əˈbaʊt/: (idiom) ra ngoài và đi lại. Nghĩa: Ra ngoài và di chuyển, thường là để làm việc hoặc giải trí. Ex: She is always out and about, exploring new places (Cô ấy luôn ra ngoài và khám phá những nơi mới)
+on the go /ɒn ðə ɡoʊ/: (idiom) đang di chuyển. Nghĩa: Luôn bận rộn và di chuyển từ nơi này đến nơi khác. Ex: He listens to audiobooks while on the go (Anh ấy nghe sách nói khi đang di chuyển)
+concert /ˈkɒnsət/: (n) buổi hòa nhạc. Nghĩa: Một buổi biểu diễn âm nhạc trực tiếp. Ex: We went to a live concert last night (Chúng tôi đã đi xem buổi hòa nhạc trực tiếp tối qua)
+festival /ˈfɛstɪvəl/: (n) lễ hội. Nghĩa: Sự kiện văn hóa, thường kéo dài nhiều ngày, bao gồm nhiều hoạt động giải trí và biểu diễn. Ex: The music festival attracted thousands of visitors (Lễ hội âm nhạc thu hút hàng ngàn khách tham quan)
+concerts and music festivals //: (n) các buổi hòa nhạc và lễ hội âm nhạc. Nghĩa: Các sự kiện âm nhạc trực tiếp và các lễ hội tổ chức nhiều hoạt động liên quan đến âm nhạc. Ex: They attend many concerts and music festivals throughout the year (Họ tham gia nhiều buổi hòa nhạc và lễ hội âm nhạc suốt năm)
+to feature /tuː ˈfiːʧər/: (v) có sự tham gia. Nghĩa: Bao gồm hoặc có mặt trong một sự kiện. Ex: The festival will feature local and international artists (Lễ hội sẽ có sự tham gia của các nghệ sĩ địa phương và quốc tế)
+event featuring local bands and international artists //: (n) sự kiện có sự tham gia của các ban nhạc địa phương và nghệ sĩ quốc tế. Nghĩa: Một sự kiện âm nhạc có sự tham gia của các ban nhạc từ khu vực địa phương và các nghệ sĩ nổi tiếng quốc tế. Ex: The event featuring local bands and international artists was a huge success (Sự kiện có sự tham gia của các ban nhạc địa phương và nghệ sĩ quốc tế đã thành công rực rỡ)
+live performance /laɪv pəˈfɔːməns/: (n) buổi biểu diễn trực tiếp. Nghĩa: Buổi biểu diễn trước khán giả mà không qua ghi âm hay phát lại. Ex: The live performance was incredible (Buổi biểu diễn trực tiếp thật tuyệt vời)
+all over the world /ɔːl ˈoʊvər ðə wɜːrld/: (phrase) khắp thế giới. Nghĩa: Mọi nơi trên thế giới. Ex: Fans travel from all over the world to attend the concert (Người hâm mộ từ khắp nơi trên thế giới đến dự buổi hòa nhạc)
+playlists /ˈpleɪlɪsts/: (n) danh sách phát nhạc. Nghĩa: Tập hợp các bài hát được chọn lọc để phát liên tục. Ex: She created a playlist for her road trip (Cô ấy tạo một danh sách phát nhạc cho chuyến đi đường dài của mình)
+moods /muːdz/: (n) tâm trạng. Nghĩa: Cảm xúc hoặc trạng thái tinh thần của một người. Ex: She listens to different music depending on her moods (Cô ấy nghe nhạc khác nhau tùy theo tâm trạng)
+work out /wɜːrk aʊt/: (v) tập thể dục. Nghĩa: Thực hiện các bài tập thể dục để rèn luyện cơ thể. Ex: I like to listen to music while I work out (Tôi thích nghe nhạc trong khi tập thể dục)
+music charts /ˈmjuːzɪk ʧɑːrts/: (n) bảng xếp hạng âm nhạc. Nghĩa: Danh sách các bài hát hoặc album phổ biến nhất trong một khoảng thời gian nhất định. Ex: The song topped the music charts for weeks (Bài hát đứng đầu bảng xếp hạng âm nhạc trong nhiều tuần)
+lift one spirit /lɪft wʌn ˈspɪrɪt/: (v) nâng cao tinh thần. Nghĩa: Làm ai đó cảm thấy vui vẻ và phấn chấn hơn. Ex: Good music can really lift one's spirit (Nhạc hay có thể thực sự nâng cao tinh thần của một người)
+universal language /ˌjuːnɪˈvɜːsəl ˈlæŋɡwɪʤ/: (n) ngôn ngữ toàn cầu. Nghĩa: Một phương tiện giao tiếp được hiểu và chấp nhận rộng rãi trên khắp thế giới. Ex: Music is often called the universal language (Âm nhạc thường được gọi là ngôn ngữ toàn cầu)

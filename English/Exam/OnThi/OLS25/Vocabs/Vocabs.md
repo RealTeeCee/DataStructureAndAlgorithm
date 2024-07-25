@@ -1,3 +1,5 @@
+# DEFINITION 4
+
 # The Day You Met Her 
 somewhat /ˈsʌmwɒt/: (adv) hơi, một chút. Nghĩa: Một mức độ nhỏ hoặc không hoàn toàn. Ex: She was somewhat tired after the long trip (Cô ấy hơi mệt sau chuyến đi dài)
 been somewhat reserved /bɪn ˈsʌmwɒt rɪˈzɜːvd/: (adj) đã hơi dè dặt. Nghĩa: Đã có chút giữ kẽ hoặc không cởi mở. Ex: He has been somewhat reserved in social situations (Anh ấy đã hơi dè dặt trong các tình huống xã hội)
@@ -108,3 +110,28 @@ by one side /baɪ wʌn saɪd/: (idiom) bên cạnh. Nghĩa: Ở gần hoặc k�
 ease one anxiety /iːz wʌn æŋˈzaɪəti/: (v) giảm bớt lo lắng. Nghĩa: Làm giảm cảm giác lo lắng hoặc căng thẳng. Ex: Listening to music helps ease my anxiety (Nghe nhạc giúp giảm bớt lo lắng của tôi).
 gradually /ˈɡrædʒuəli/: (adv) dần dần. Nghĩa: Xảy ra từ từ và liên tục theo thời gian. Ex: She gradually improved her skills (Cô ấy dần dần cải thiện kỹ năng của mình).
 peers /pɪrz/: (n) bạn đồng trang lứa. Nghĩa: Những người cùng độ tuổi hoặc vị trí xã hội. Ex: He enjoys spending time with his peers (Anh ấy thích dành thời gian với bạn đồng trang lứa của mình).
+
+=========================== 
+# DEFINITION 3
+
+# Why Like To Listening To Music
+tune /tjuːn/: (n) giai điệu. Nghĩa: Một đoạn nhạc hoặc bài hát. Ex: He played a familiar tune on the piano (Anh ấy chơi một giai điệu quen thuộc trên đàn piano)
+put on my favorite tune //: (v) bật giai điệu yêu thích của tôi. Nghĩa: Bật bài hát hoặc đoạn nhạc mà mình thích. Ex: I like to put on my favorite tune to relax (Tôi thích bật giai điệu yêu thích của mình để thư giãn)
+unwind /ʌnˈwaɪnd/: (v) thư giãn. Nghĩa: Thư giãn và giảm căng thẳng. Ex: I need some time to unwind after a busy day (Tôi cần chút thời gian để thư giãn sau một ngày bận rộn)
+from pop to classical //: (phrase) từ nhạc pop đến nhạc cổ điển. Nghĩa: Bao gồm nhiều thể loại âm nhạc khác nhau, từ nhạc pop hiện đại đến nhạc cổ điển. Ex: She enjoys all kinds of music, from pop to classical (Cô ấy thích tất cả các loại nhạc, từ nhạc pop đến nhạc cổ điển)
+streaming app /ˈstriːmɪŋ æp/: (n) ứng dụng phát trực tuyến. Nghĩa: Ứng dụng cho phép người dùng xem hoặc nghe nội dung qua internet. Ex: I use a streaming app to listen to music (Tôi sử dụng một ứng dụng phát trực tuyến để nghe nhạc)
+out and about /aʊt ənd əˈbaʊt/: (idiom) ra ngoài và đi lại. Nghĩa: Ra ngoài và di chuyển, thường là để làm việc hoặc giải trí. Ex: She is always out and about, exploring new places (Cô ấy luôn ra ngoài và khám phá những nơi mới)
+on the go /ɒn ðə ɡoʊ/: (idiom) đang di chuyển. Nghĩa: Luôn bận rộn và di chuyển từ nơi này đến nơi khác. Ex: He listens to audiobooks while on the go (Anh ấy nghe sách nói khi đang di chuyển)
+concert /ˈkɒnsət/: (n) buổi hòa nhạc. Nghĩa: Một buổi biểu diễn âm nhạc trực tiếp. Ex: We went to a live concert last night (Chúng tôi đã đi xem buổi hòa nhạc trực tiếp tối qua)
+festival /ˈfɛstɪvəl/: (n) lễ hội. Nghĩa: Sự kiện văn hóa, thường kéo dài nhiều ngày, bao gồm nhiều hoạt động giải trí và biểu diễn. Ex: The music festival attracted thousands of visitors (Lễ hội âm nhạc thu hút hàng ngàn khách tham quan)
+concerts and music festivals //: (n) các buổi hòa nhạc và lễ hội âm nhạc. Nghĩa: Các sự kiện âm nhạc trực tiếp và các lễ hội tổ chức nhiều hoạt động liên quan đến âm nhạc. Ex: They attend many concerts and music festivals throughout the year (Họ tham gia nhiều buổi hòa nhạc và lễ hội âm nhạc suốt năm)
+to feature /tuː ˈfiːʧər/: (v) có sự tham gia. Nghĩa: Bao gồm hoặc có mặt trong một sự kiện. Ex: The festival will feature local and international artists (Lễ hội sẽ có sự tham gia của các nghệ sĩ địa phương và quốc tế)
+event featuring local bands and international artists //: (n) sự kiện có sự tham gia của các ban nhạc địa phương và nghệ sĩ quốc tế. Nghĩa: Một sự kiện âm nhạc có sự tham gia của các ban nhạc từ khu vực địa phương và các nghệ sĩ nổi tiếng quốc tế. Ex: The event featuring local bands and international artists was a huge success (Sự kiện có sự tham gia của các ban nhạc địa phương và nghệ sĩ quốc tế đã thành công rực rỡ)
+live performance /laɪv pəˈfɔːməns/: (n) buổi biểu diễn trực tiếp. Nghĩa: Buổi biểu diễn trước khán giả mà không qua ghi âm hay phát lại. Ex: The live performance was incredible (Buổi biểu diễn trực tiếp thật tuyệt vời)
+all over the world /ɔːl ˈoʊvər ðə wɜːrld/: (phrase) khắp thế giới. Nghĩa: Mọi nơi trên thế giới. Ex: Fans travel from all over the world to attend the concert (Người hâm mộ từ khắp nơi trên thế giới đến dự buổi hòa nhạc)
+playlists /ˈpleɪlɪsts/: (n) danh sách phát nhạc. Nghĩa: Tập hợp các bài hát được chọn lọc để phát liên tục. Ex: She created a playlist for her road trip (Cô ấy tạo một danh sách phát nhạc cho chuyến đi đường dài của mình)
+moods /muːdz/: (n) tâm trạng. Nghĩa: Cảm xúc hoặc trạng thái tinh thần của một người. Ex: She listens to different music depending on her moods (Cô ấy nghe nhạc khác nhau tùy theo tâm trạng)
+work out /wɜːrk aʊt/: (v) tập thể dục. Nghĩa: Thực hiện các bài tập thể dục để rèn luyện cơ thể. Ex: I like to listen to music while I work out (Tôi thích nghe nhạc trong khi tập thể dục)
+music charts /ˈmjuːzɪk ʧɑːrts/: (n) bảng xếp hạng âm nhạc. Nghĩa: Danh sách các bài hát hoặc album phổ biến nhất trong một khoảng thời gian nhất định. Ex: The song topped the music charts for weeks (Bài hát đứng đầu bảng xếp hạng âm nhạc trong nhiều tuần)
+lift one spirit /lɪft wʌn ˈspɪrɪt/: (v) nâng cao tinh thần. Nghĩa: Làm ai đó cảm thấy vui vẻ và phấn chấn hơn. Ex: Good music can really lift one's spirit (Nhạc hay có thể thực sự nâng cao tinh thần của một người)
+universal language /ˌjuːnɪˈvɜːsəl ˈlæŋɡwɪʤ/: (n) ngôn ngữ toàn cầu. Nghĩa: Một phương tiện giao tiếp được hiểu và chấp nhận rộng rãi trên khắp thế giới. Ex: Music is often called the universal language (Âm nhạc thường được gọi là ngôn ngữ toàn cầu)
