@@ -1,4 +1,4 @@
-0# Why Like Traveling?
+# Why Like Traveling?
 
 I love traveling to the beach. I like to go to the beach to enjoy my days off.
 I often spend my summer vacation traveling to some famous beaches in VietNam. 
