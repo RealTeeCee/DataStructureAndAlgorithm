@@ -130,4 +130,4 @@ emulate
 exterior
 reasonable
 reasonable price: giá cả phải chăng
-Luxurious is a related term of luxury. As adjectives the difference between luxury and luxurious is that luxury is very expensive while luxurious is enjoying pleasures of luxury.
+* Luxurious is a related term of luxury. As adjectives the difference between luxury and luxurious is that luxury is very expensive while luxurious is enjoying pleasures of luxury.
