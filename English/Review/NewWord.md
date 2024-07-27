@@ -128,3 +128,5 @@ unwave
 unwavering /ˌənˈwāv(ə)riNG/: không lay chuyển; vững vàng
 emulate
 exterior
+reasonable
+reasonable price: giá cả phải chăng
