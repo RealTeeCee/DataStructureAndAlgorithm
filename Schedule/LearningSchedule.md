@@ -24,17 +24,3 @@
 # Sunday
 + Chiều 1h30: Thuật toán
 + Tối 8h30: Database
-
-
-select * from a b c d e f
-where 1=1
-group by
-unionall
-select * from a2 b c d e f
-where 1=1
-group by
-
-a b c; a b; a
-where asdasdas ad asdasd
-
-oper        crit        wh => 3 select qb mb fyc
