@@ -1,0 +1,11 @@
+go on a trip
+depart=
+set off
+vacation
+occasion
+holiday
+book a flight
+adventure
+accommodation
+hostel
+ 
