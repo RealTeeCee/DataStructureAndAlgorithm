@@ -61,7 +61,9 @@ escort
 mousse: bánh mousse
 tart: bánh tart
 waitstaff
+proceed to
 consult: tham khảo ý kiến
+elaborate
 ... and ... pairing: Sự kết hợp giữa ... và ... Ex: dish and wine pairings (sự kết hợp giữa món ăn và rượu vang)
 expertise
 regarding
@@ -70,7 +72,6 @@ delight
 conclude
 decadent meal
 impeccable
-ambiance
 standout
 superior
 superior dining experience
@@ -131,3 +132,5 @@ exterior
 reasonable
 reasonable price: giá cả phải chăng
 * Luxurious is a related term of luxury. As adjectives the difference between luxury and luxurious is that luxury is very expensive while luxurious is enjoying pleasures of luxury.
+swimwear
+shore
