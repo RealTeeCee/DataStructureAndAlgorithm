@@ -1,11 +1,18 @@
-go on a trip
-depart=
-set off
-vacation
-occasion
-holiday
-book a flight
-adventure
-accommodation
-hostel
+go on a trip--
+depart--
+set off--
+vacation--
+occasion--
+holiday--
+book a flight--
+adventure--
+accommodation--
+hostel--
  
+last summer vacation, After reading a magazine about the most beautiful beach in Viet Nam, 
+I felt inspired to plan to go on a trip to enjoy my holiday with my friends. First, We booked a flight, 
+and then we booked the accommodation which is a small hostel near the beach.
+As the time we were to depart, all of us felt eager and excited.
+We set off early in the morning and arrived after the sun rose. The adventure began, and we spent the day swimming, sunbathing,
+and playing beach sports wishing the day would never end. Now I still miss that happy day, 
+I look forward to returning there on the other occasion.
