@@ -8,6 +8,7 @@ PROCEDURE SP_test IS
     l_value_date DATE; -- For DATE types
     col_type NUMBER; -- To hold the column's data type
     i INTEGER; -- Loop counter
+    fetch_status INTEGER; -- Status of fetch operation
 
     -- Your dynamic SQL query
     l_query VARCHAR2(4000) := '
@@ -28,32 +29,41 @@ BEGIN
         col_type := l_desc_t(i).col_type;
 
         -- Define the column based on its data type
-        IF col_type = 1 THEN -- DBMS_SQL.VARCHAR2 and DBMS_SQL.CHAR map to 1
+        IF col_type = 1 THEN -- VARCHAR2 or CHAR
             DBMS_SQL.DEFINE_COLUMN(c, i, l_value_varchar, 4000);
-        ELSIF col_type = 2 THEN -- DBMS_SQL.NUMBER maps to 2
+        ELSIF col_type = 2 THEN -- NUMBER
             DBMS_SQL.DEFINE_COLUMN(c, i, l_value_number);
-        ELSIF col_type = 12 THEN -- DBMS_SQL.DATE maps to 12
+        ELSIF col_type = 12 THEN -- DATE
             DBMS_SQL.DEFINE_COLUMN(c, i, l_value_date);
         ELSE
             DBMS_OUTPUT.PUT_LINE('Unhandled column type: ' || col_type);
         END IF;
     END LOOP;
 
+    -- Execute the query
+    DBMS_SQL.EXECUTE(c);
+
     -- Fetch the rows and process each one
-    WHILE DBMS_SQL.FETCH_ROWS(c) > 0 LOOP
+    FETCH_LOOP:
+    LOOP
+        fetch_status := DBMS_SQL.FETCH_ROWS(c);
+        
+        -- Exit loop if no more rows
+        EXIT WHEN fetch_status = 0;
+        
         l_header := '"';
 
         FOR i IN 1 .. l_col_cnt LOOP
             col_type := l_desc_t(i).col_type;
 
             -- Fetch and concatenate column values based on their type
-            IF col_type = 1 THEN -- DBMS_SQL.VARCHAR2 and DBMS_SQL.CHAR
+            IF col_type = 1 THEN -- VARCHAR2 or CHAR
                 DBMS_SQL.COLUMN_VALUE(c, i, l_value_varchar);
                 l_header := l_header || l_value_varchar;
-            ELSIF col_type = 2 THEN -- DBMS_SQL.NUMBER
+            ELSIF col_type = 2 THEN -- NUMBER
                 DBMS_SQL.COLUMN_VALUE(c, i, l_value_number);
                 l_header := l_header || TO_CHAR(l_value_number);
-            ELSIF col_type = 12 THEN -- DBMS_SQL.DATE
+            ELSIF col_type = 12 THEN -- DATE
                 DBMS_SQL.COLUMN_VALUE(c, i, l_value_date);
                 l_header := l_header || TO_CHAR(l_value_date, 'YYYY-MM-DD');
             ELSE
@@ -70,8 +80,11 @@ BEGIN
 
     -- Close the cursor
     DBMS_SQL.CLOSE_CURSOR(c);
+
 EXCEPTION
     WHEN OTHERS THEN
+        -- Output error message and details
+        DBMS_OUTPUT.PUT_LINE('Error: ' || SQLERRM);
         -- Ensure cursor is closed even if an error occurs
         IF DBMS_SQL.IS_OPEN(c) THEN
             DBMS_SQL.CLOSE_CURSOR(c);
