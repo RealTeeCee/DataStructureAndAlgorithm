@@ -3,15 +3,17 @@ PROCEDURE SP_test IS
     l_desc_t DBMS_SQL.DESC_TAB; -- To hold column descriptions
     l_col_cnt INTEGER; -- Number of columns in the result set
     l_header VARCHAR2(4000); -- To build a header string
-    l_value VARCHAR2(4000); -- To fetch each column value
+    l_value_varchar VARCHAR2(4000); -- For VARCHAR2 and similar types
+    l_value_number NUMBER; -- For NUMBER types
+    l_value_date DATE; -- For DATE types
+    col_type NUMBER; -- To hold the column's data type
     i INTEGER; -- Loop counter
 
     -- Your dynamic SQL query
     l_query VARCHAR2(4000) := '
-    SELECT e.emp_id, e.emp_name, d.dept_name
+    SELECT e.emp_id, e.emp_name, e.hire_date, e.salary, d.dept_name
     FROM employees e
     JOIN departments d ON e.dept_id = d.dept_id
-    WHERE e.emp_salary > 50000
     ';
 BEGIN
     -- Open a cursor
@@ -23,19 +25,47 @@ BEGIN
 
     -- Loop through the columns and define them dynamically
     FOR i IN 1 .. l_col_cnt LOOP
-        DBMS_SQL.DEFINE_COLUMN(c, i, l_value, 4000);
+        col_type := l_desc_t(i).col_type;
+
+        -- Define the column based on its data type
+        IF col_type = DBMS_SQL.VARCHAR2 OR col_type = DBMS_SQL.CHAR THEN
+            DBMS_SQL.DEFINE_COLUMN(c, i, l_value_varchar, 4000);
+        ELSIF col_type = DBMS_SQL.NUMBER THEN
+            DBMS_SQL.DEFINE_COLUMN(c, i, l_value_number);
+        ELSIF col_type = DBMS_SQL.DATE THEN
+            DBMS_SQL.DEFINE_COLUMN(c, i, l_value_date);
+        ELSE
+            DBMS_OUTPUT.PUT_LINE('Unhandled column type: ' || col_type);
+        END IF;
     END LOOP;
 
     -- Fetch the rows and process each one
     WHILE DBMS_SQL.FETCH_ROWS(c) > 0 LOOP
         l_header := '"';
+
         FOR i IN 1 .. l_col_cnt LOOP
-            DBMS_SQL.COLUMN_VALUE(c, i, l_value);
-            l_header := l_header || l_value || (CASE WHEN i < l_col_cnt THEN '","' ELSE '"' END);
+            col_type := l_desc_t(i).col_type;
+
+            -- Fetch and concatenate column values based on their type
+            IF col_type = DBMS_SQL.VARCHAR2 OR col_type = DBMS_SQL.CHAR THEN
+                DBMS_SQL.COLUMN_VALUE(c, i, l_value_varchar);
+                l_header := l_header || l_value_varchar;
+            ELSIF col_type = DBMS_SQL.NUMBER THEN
+                DBMS_SQL.COLUMN_VALUE(c, i, l_value_number);
+                l_header := l_header || TO_CHAR(l_value_number);
+            ELSIF col_type = DBMS_SQL.DATE THEN
+                DBMS_SQL.COLUMN_VALUE(c, i, l_value_date);
+                l_header := l_header || TO_CHAR(l_value_date, 'YYYY-MM-DD');
+            ELSE
+                l_header := l_header || 'UNKNOWN_TYPE';
+            END IF;
+
+            -- Add a comma or close the string
+            l_header := l_header || (CASE WHEN i < l_col_cnt THEN '","' ELSE '"' END);
         END LOOP;
 
         -- Output the concatenated string for this row
-        DBMS_OUTPUT.PUT_LINE(l_header);
+        DBMS_OUTPUT.PUT_LINE('Row: ' || l_header);
     END LOOP;
 
     -- Close the cursor
