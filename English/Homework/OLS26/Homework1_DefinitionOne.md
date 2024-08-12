@@ -1,0 +1,16 @@
+# The Motorcycle wash shop
+If you want to have your motorcycle washed you should look for a good motorcycle wash shop. In case you don't know a good one, you can ask friends or google it. Unless you know how to get there, you should use Google Maps take a taxi, or ask someone to take you there.
+When you get there, you should first walk your motorcycle into the shop. If it's crowded, you must wait for your turn. While waiting, you should find a place to sit down. Then you should watch TV, read newspapers, or surf the Internet on your smartphone. When It's your turn, the attendant will take your motorcycle to the wash machine or area. 
+After that, they will cover the seat with a waterproof bag, and spray water all over the motorcycle. Spray some detergent into different parts of the motorcycle like wheels, and frames, and Rub them up with a piece of cloth. Rinse it with water until it's clean. Blow air into different parts of the motorcycle. Wipe it with a piece of cloth till it looks shiny. Start the engine and charge a fee. Then you will pay the cashier and leave some tips
+When you go home, if it's a good motorcycle wash shop you will return there soon and you won't forget to recommend it to your friends.
+
+# The High School
+If you want to find a good high school, you should research carefully. In case you don't know a good one, you can ask older students, teachers, or search online for recommendations. Unless you're familiar with the school’s location, you should use Google Maps, take public transportation, or ask someone to guide you there.
+
+When you arrive at the school, you should first locate the main entrance or the office. If it’s a busy time, you might need to wait in line to speak with the administration. While waiting, you should find a place to sit down. Then you can observe the school environment, look around the campus, or even chat with current students to get a feel for the atmosphere.
+
+Once it's your turn, you'll be guided to your classroom or shown around the school by an attendant or teacher. During the tour, they will introduce you to different parts of the school like the classrooms, laboratories, library, and playground. They may also explain the school's programs, extracurricular activities, and rules.
+
+After the tour, you might sit in on a class to see how lessons are conducted. You’ll observe the teaching style, the interaction between students and teachers, and the overall vibe of the classroom. At the end of your visit, you might meet the principal or another administrator who will provide additional information and answer any questions you have.
+
+When you get home, if it’s a good high school, you’ll likely consider enrolling there, and you won’t forget to recommend it to your friends.
