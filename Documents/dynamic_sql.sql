@@ -28,11 +28,11 @@ BEGIN
         col_type := l_desc_t(i).col_type;
 
         -- Define the column based on its data type
-        IF col_type = DBMS_SQL.VARCHAR2 OR col_type = DBMS_SQL.CHAR THEN
+        IF col_type = 1 THEN -- DBMS_SQL.VARCHAR2 and DBMS_SQL.CHAR map to 1
             DBMS_SQL.DEFINE_COLUMN(c, i, l_value_varchar, 4000);
-        ELSIF col_type = DBMS_SQL.NUMBER THEN
+        ELSIF col_type = 2 THEN -- DBMS_SQL.NUMBER maps to 2
             DBMS_SQL.DEFINE_COLUMN(c, i, l_value_number);
-        ELSIF col_type = DBMS_SQL.DATE THEN
+        ELSIF col_type = 12 THEN -- DBMS_SQL.DATE maps to 12
             DBMS_SQL.DEFINE_COLUMN(c, i, l_value_date);
         ELSE
             DBMS_OUTPUT.PUT_LINE('Unhandled column type: ' || col_type);
@@ -47,13 +47,13 @@ BEGIN
             col_type := l_desc_t(i).col_type;
 
             -- Fetch and concatenate column values based on their type
-            IF col_type = DBMS_SQL.VARCHAR2 OR col_type = DBMS_SQL.CHAR THEN
+            IF col_type = 1 THEN -- DBMS_SQL.VARCHAR2 and DBMS_SQL.CHAR
                 DBMS_SQL.COLUMN_VALUE(c, i, l_value_varchar);
                 l_header := l_header || l_value_varchar;
-            ELSIF col_type = DBMS_SQL.NUMBER THEN
+            ELSIF col_type = 2 THEN -- DBMS_SQL.NUMBER
                 DBMS_SQL.COLUMN_VALUE(c, i, l_value_number);
                 l_header := l_header || TO_CHAR(l_value_number);
-            ELSIF col_type = DBMS_SQL.DATE THEN
+            ELSIF col_type = 12 THEN -- DBMS_SQL.DATE
                 DBMS_SQL.COLUMN_VALUE(c, i, l_value_date);
                 l_header := l_header || TO_CHAR(l_value_date, 'YYYY-MM-DD');
             ELSE
