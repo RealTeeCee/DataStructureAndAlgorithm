@@ -1,0 +1,163 @@
+ 
+    select  pol.pol_num,
+            pol.frst_iss_dt,
+            pol.pol_stat_cd,
+            cov.plan_code,
+            cov.face_amt,
+            sum(ctr.crr_valu) com,
+            ctr.agt_cd,
+            pol.cnfrm_acpt_dt, --160199
+            agt.loc_code,
+            get_cas_sys_dt - agt.cntrct_eff_dt agt_age,
+            agt.comp_prvd_num,
+            agt.rank_cd,
+            agt.trmn_dt,
+            case
+              when pol.pol_stat_cd = 'A' or pol.pol_stat_cd = 'X' or get_cas_sys_dt < pol.cnfrm_acpt_dt + 21
+              then NULL else sysdate
+            end as valid_dt,
+            atp.PAY_AMT,
+            case
+              when pol.pol_stat_cd = 'A' then 'NTK, bns_trxn'
+              when pol.pol_stat_cd = 'X' then 'Closed'
+              else null
+            end as note,
+            (select sum(bns.bns_amt)
+              from tams_wrk_prd_bns_by_fyc bns
+              where bns.pol_num = pol.pol_num
+                and bns.run_num = ''and bns.bns_typ = 'M') as MBP,
+            (select sum(bns.bns_amt)
+              from tams_wrk_prd_bns_by_fyc bns
+              where bns.pol_num = pol.pol_num
+                and bns.run_num = ''and bns.bns_typ = 'Q') as QBP,
+            0+ (select sum(bns.bns_amt)
+          from tams_wrk_prd_bns_by_fyc bns
+         where bns.pol_num = pol.pol_num
+           and bns.run_num = '199912'and bns.bns_typ = 'Q')+ sum(ctr.crr_valu)+ (select sum(bns.bns_amt)
+          from tams_wrk_prd_bns_by_fyc bns
+         where bns.pol_num = pol.pol_num
+           and bns.run_num = '199912'and bns.bns_typ = 'M') total
+  , 'BigPol' as "WH_typ" 
+    from  tams_crr_transactions ctr,
+          tpolicys pol,
+          tcoverages cov,
+          TAMS_WRK_AUTOPAY ATP,
+          TAMS_AGENTS AGT,
+          tams_stru_groups grp
+   
+    where ctr.crr_trxn_dt between '30/11/1999' and '27/12/1999'
+          and ctr.crr_typ = 'COM' and ctr.reasn_cd = '115'
+          and pol.pol_num = cov.pol_num
+          and cov.cvg_typ = 'B' and cov.cvg_reasn = 'O'
+          and ctr.pol_num = pol.pol_num
+          and ctr.agt_cd = atp.agt_cd
+          and ctr.agt_cd = agt.agt_code
+          and Ams_cd.is_stat_typ_active(agt.stat_cd) = 'Y'
+          and agt.br_code = grp.stru_grp_cd
+  
+        and ctr.agt_cd in (select config_valu from tfield_config_fl where config_status = 'A' and config_cd = 'AGT_CD' and condition_group = 1)
+      
+        and agt.loc_code in (select config_valu from tfield_config_fl where config_status = 'A' and config_cd = 'LOC_CD' and condition_group = 1)
+      
+        and agt.rank_cd in (select config_valu from tfield_config_fl where config_status = 'A' and config_cd = 'RNK_CD' and condition_group = 1)
+       and get_cas_sys_dt - agt.cntrct_eff_dt between 12 and 55 
+    group by  pol.pol_num,pol.frst_iss_dt,
+              pol.pol_stat_cd,cov.plan_code,
+              cov.face_amt,
+              ctr.agt_cd,
+              pol.cnfrm_acpt_dt,
+              agt.loc_code,
+              agt.comp_prvd_num,
+              agt.rank_cd,
+              agt.trmn_dt,
+              agt.cntrct_eff_dt,
+              atp.PAY_AMT
+    having sum(ctr.crr_valu) >= nvl(1, 0)
+   and 0+ (select sum(bns.bns_amt)
+          from tams_wrk_prd_bns_by_fyc bns
+         where bns.pol_num = pol.pol_num
+           and bns.run_num = '199912'and bns.bns_typ = 'Q')+ sum(ctr.crr_valu)+ (select sum(bns.bns_amt)
+          from tams_wrk_prd_bns_by_fyc bns
+         where bns.pol_num = pol.pol_num
+           and bns.run_num = '199912'and bns.bns_typ = 'M') >=30000 UNION ALL 
+    select  pol.pol_num,
+            pol.frst_iss_dt,
+            pol.pol_stat_cd,
+            cov.plan_code,
+            cov.face_amt,
+            sum(ctr.crr_valu) com,
+            ctr.agt_cd,
+            pol.cnfrm_acpt_dt, --160199
+            agt.loc_code,
+            get_cas_sys_dt - agt.cntrct_eff_dt agt_age,
+            agt.comp_prvd_num,
+            agt.rank_cd,
+            agt.trmn_dt,
+            case
+              when pol.pol_stat_cd = 'A' or pol.pol_stat_cd = 'X' or get_cas_sys_dt < pol.cnfrm_acpt_dt + 21
+              then NULL else sysdate
+            end as valid_dt,
+            atp.PAY_AMT,
+            case
+              when pol.pol_stat_cd = 'A' then 'NTK, bns_trxn'
+              when pol.pol_stat_cd = 'X' then 'Closed'
+              else null
+            end as note,
+            (select sum(bns.bns_amt)
+              from tams_wrk_prd_bns_by_fyc bns
+              where bns.pol_num = pol.pol_num
+                and bns.run_num = ''and bns.bns_typ = 'M') as MBP,
+            (select sum(bns.bns_amt)
+              from tams_wrk_prd_bns_by_fyc bns
+              where bns.pol_num = pol.pol_num
+                and bns.run_num = ''and bns.bns_typ = 'Q') as QBP,
+            0+ (select sum(bns.bns_amt)
+          from tams_wrk_prd_bns_by_fyc bns
+         where bns.pol_num = pol.pol_num
+           and bns.run_num = '199912'and bns.bns_typ = 'Q')+ sum(ctr.crr_valu)+ (select sum(bns.bns_amt)
+          from tams_wrk_prd_bns_by_fyc bns
+         where bns.pol_num = pol.pol_num
+           and bns.run_num = '199912'and bns.bns_typ = 'M') total
+  , 'COM' as "WH_typ" 
+    from  tams_crr_transactions_bk ctr,
+          tpolicys pol,
+          tcoverages cov,
+          TAMS_WRK_AUTOPAY ATP,
+          TAMS_AGENTS AGT,
+          tams_stru_groups grp
+   
+    where ctr.crr_trxn_dt between '30/11/1999' and '27/12/1999'
+          and ctr.crr_typ = 'COM' and ctr.reasn_cd = '115'
+          and pol.pol_num = cov.pol_num
+          and cov.cvg_typ = 'B' and cov.cvg_reasn = 'O'
+          and ctr.pol_num = pol.pol_num
+          and ctr.agt_cd = atp.agt_cd
+          and ctr.agt_cd = agt.agt_code
+          and Ams_cd.is_stat_typ_active(agt.stat_cd) = 'Y'
+          and agt.br_code = grp.stru_grp_cd
+  
+        and ctr.agt_cd in (select config_valu from tfield_config_fl where config_status = 'A' and config_cd = 'AGT_CD' and condition_group = 1)
+      
+        and agt.loc_code in (select config_valu from tfield_config_fl where config_status = 'A' and config_cd = 'LOC_CD' and condition_group = 1)
+      
+        and agt.rank_cd in (select config_valu from tfield_config_fl where config_status = 'A' and config_cd = 'RNK_CD' and condition_group = 1)
+       and get_cas_sys_dt - agt.cntrct_eff_dt between 12 and 55 
+    group by  pol.pol_num,pol.frst_iss_dt,
+              pol.pol_stat_cd,cov.plan_code,
+              cov.face_amt,
+              ctr.agt_cd,
+              pol.cnfrm_acpt_dt,
+              agt.loc_code,
+              agt.comp_prvd_num,
+              agt.rank_cd,
+              agt.trmn_dt,
+              agt.cntrct_eff_dt,
+              atp.PAY_AMT
+    having sum(ctr.crr_valu) >= nvl(1, 0)
+   and 0+ (select sum(bns.bns_amt)
+          from tams_wrk_prd_bns_by_fyc bns
+         where bns.pol_num = pol.pol_num
+           and bns.run_num = '199912'and bns.bns_typ = 'Q')+ sum(ctr.crr_valu)+ (select sum(bns.bns_amt)
+          from tams_wrk_prd_bns_by_fyc bns
+         where bns.pol_num = pol.pol_num
+           and bns.run_num = '199912'and bns.bns_typ = 'M') >=30000
