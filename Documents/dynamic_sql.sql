@@ -44,7 +44,7 @@ BEGIN
     DBMS_SQL.EXECUTE(c);
 
     -- Fetch the rows and process each one
-    FETCH_LOOP:
+    --FETCH_LOOP:
     LOOP
         fetch_status := DBMS_SQL.FETCH_ROWS(c);
         
