@@ -1,8 +1,9 @@
 # Array: 
-+ What is Array?
-    - An array is a fundamental data structure that stores a fixed-size sequence of elements of the same type in contiguous memory locations. It provides efficient random access to individual elements based on their index
+# What is Array?
+    - An array is a fundamental data structure that stores a fixed-size sequence of elements of the same type in contiguous memory locations. It provides efficient random access to individual elements based on their index.
+    - An ArrayList() in Java have default size is 10.
 
-+ Key Characteristics:
+# Key Characteristics:
     * Fixed Size: Arrays have a predetermined size that is fixed at the time of creation. Once the size is defined, it typically cannot be changed dynamically. Some programming languages provide dynamic arrays or resizable arrays that allow for flexible sizing.
 
     * Contiguous Memory: The elements in an array are stored in adjacent memory locations. This contiguous memory layout enables efficient access to any element using its index. The index is an integer value that represents the position of an element within the array.
@@ -15,11 +16,11 @@
 
     * Iteration: Arrays can be easily traversed or iterated using loops or iterators. This allows for processing each element of the array sequentially.
     
-+ Array vs ArrayList?
+# Array vs ArrayList?
     * Arrays are fixed size. Once we initialize the array with some int value as its size, it can’t change. The size and capacity are equal to each other too.
     * ArrayList ‘s size and capacity are not fixed. The logical size of the list changes based on the insertion and removal of elements in it. This is managed separately from its physical storage size. Also when the threshold of ArrayList capacity is reached, it increases its capacity to make room for more elements.
 
-+ Realworld Usecases:
+# Realworld Usecases:
     * Data Storage: Arrays are commonly used to store collections of data in a structured manner. For instance, in a spreadsheet application, an array can be used to store tabular data, with each row representing a record and each column representing a field. Arrays allow for efficient access and manipulation of data elements.
 
     * Image Processing: Arrays are extensively used in image processing algorithms. An image can be represented as a two-dimensional array, where each element corresponds to a pixel value. Image filters, transformations, and operations like convolution can be performed on the array to manipulate and analyze images.
@@ -30,7 +31,18 @@
 
     * Statistical Analysis: Arrays are crucial in statistical analysis and data science. Statistical models often involve large datasets stored in arrays, enabling efficient calculations and analysis. Arrays allow for operations such as calculating means, variances, correlations, and performing regression analysis on datasets.
 
-+ Big(O) Notation:
+# Advantage & Disadvantage
++ Advantage: 
+- Fast Lookups
+- Fast push/pop
+- Ordered
+
++ Disadvantage:
+- Slow inserts (position)
+- Slow deletes
+- Fixed Size (*If using static array)
+
+# Big(O) Notation:
 ____________________________________________________________________________________________________________________
                             Time Complexity	                                                    |  Space Complexity
                 Average	                        |                   Worst	                    |       Worst
