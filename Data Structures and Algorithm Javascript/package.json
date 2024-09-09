@@ -3,5 +3,8 @@
   "version": "1.0.0",
   "main": "practical.js",
   "license": "MIT",
-  "type": "module"
+  "type": "module",
+  "dependencies": {
+    "Algorithm_Practice": "file:"
+  }
 }
