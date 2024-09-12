@@ -2855,7 +2855,258 @@ oily /'ɔili/: tóc dầu
 damaged /'dæmidʤ/: tóc hư tổn
 glossy /ˈɡlɔsi/: tóc óng ả
 ====================================
+# DEFINITION 4
 
+# The Day You Met Her 
+somewhat /ˈsʌmwɒt/: (adv) hơi, một chút. Nghĩa: Một mức độ nhỏ hoặc không hoàn toàn. Ex: She was somewhat tired after the long trip (Cô ấy hơi mệt sau chuyến đi dài)
+been somewhat reserved /bɪn ˈsʌmwɒt rɪˈzɜːvd/: (adj) đã hơi dè dặt. Nghĩa: Đã có chút giữ kẽ hoặc không cởi mở. Ex: He has been somewhat reserved in social situations (Anh ấy đã hơi dè dặt trong các tình huống xã hội)
+settled into /ˈsɛtld ˈɪntuː/: (v) ổn định vào. Nghĩa: Bắt đầu quen với hoặc cảm thấy thoải mái trong một môi trường mới. Ex: She quickly settled into her new job (Cô ấy nhanh chóng ổn định vào công việc mới)
+socializer /ˈsəʊʃəlaɪzər/: (n) người thích giao tiếp xã hội. Nghĩa: Một người thích tham gia vào các hoạt động xã hội và gặp gỡ người khác. Ex: He's a natural socializer who enjoys meeting new people (Anh ấy là một người thích giao tiếp tự nhiên và thích gặp gỡ người mới)
+engrossed in /ɪnˈɡrəʊst ɪn/: (adj) mải mê với. Nghĩa: Hoàn toàn chú tâm vào một cái gì đó. Ex: She was engrossed in her book (Cô ấy mải mê với cuốn sách của mình)
+drenched from /drɛntʃt frɒm/: (adj) ướt sũng từ. Nghĩa: Bị ướt đẫm từ một nguồn hoặc lý do nào đó. Ex: He was drenched from the rain (Anh ấy bị ướt sũng từ cơn mưa)
+our eyes met briefly /aʊər aɪz mɛt ˈbriːfli/: (idiom) mắt chúng tôi gặp nhau thoáng qua. Nghĩa: Nhìn thấy nhau trong một khoảng thời gian ngắn. Ex: Our eyes met briefly across the crowded room (Mắt chúng tôi gặp nhau thoáng qua trong căn phòng đông đúc)
+inexplicable /ˌɪnɪkˈsplɪkəbl/: (adj) không thể giải thích được. Nghĩa: Không thể hiểu hoặc giải thích. Ex: The event was inexplicable (Sự kiện đó không thể giải thích được)
+flowed /fləʊd/: (v) chảy, trôi chảy. Nghĩa: Di chuyển một cách tự nhiên và dễ dàng. Ex: The river flowed gently (Dòng sông chảy nhẹ nhàng)
+the conversation flowed effortlessly //: (idiom) cuộc trò chuyện diễn ra trôi chảy. Nghĩa: Cuộc trò chuyện diễn ra một cách tự nhiên và không gặp khó khăn. Ex: We talked for hours; the conversation flowed effortlessly (Chúng tôi nói chuyện hàng giờ; cuộc trò chuyện diễn ra trôi chảy)
+felt a connection /fɛlt ə kəˈnɛkʃən/: (v) cảm thấy có sự kết nối. Nghĩa: Cảm giác gần gũi hoặc thấu hiểu với ai đó. Ex: They felt a connection from the very first meeting (Họ cảm thấy có sự kết nối ngay từ lần gặp đầu tiên)
+companionship /kəmˈpænjənʃɪp/: (n) tình bạn, sự đồng hành. Nghĩa: Sự gần gũi và đồng hành với ai đó. Ex: She enjoyed the companionship of her friends (Cô ấy thích sự đồng hành của bạn bè)
+
+# A Trip
+none of us /nʌn ʌv ʌs/: (pronoun) không ai trong chúng ta. Nghĩa: Không một ai trong nhóm hoặc tập thể của chúng ta. Ex: None of us knew the answer (Không ai trong chúng ta biết câu trả lời).
+aquamarine /ˌækwəˈməriːn/: (n) màu xanh nước biển. Nghĩa: Một màu xanh giống như màu của nước biển. Ex: She wore a beautiful aquamarine dress (Cô ấy mặc một chiếc váy màu xanh nước biển tuyệt đẹp).
+hospitality /ˌhɒspɪˈtæləti/: (n) lòng hiếu khách. Nghĩa: Sự thân thiện và chào đón khách. Ex: We were impressed by the hospitality of the local people (Chúng tôi ấn tượng bởi lòng hiếu khách của người dân địa phương).
+all good things had to come to an end //: (idiom) mọi điều tốt đẹp đều phải kết thúc. Nghĩa: Tất cả những gì tốt đẹp đều có lúc phải chấm dứt. Ex: Our vacation was wonderful, but all good things had to come to an end (Kỳ nghỉ của chúng tôi thật tuyệt vời, nhưng mọi điều tốt đẹp đều phải kết thúc).
+fascinated by /ˈfæsɪneɪtɪd baɪ/: (adj) bị cuốn hút bởi. Nghĩa: Cảm thấy rất hứng thú hoặc hấp dẫn bởi cái gì đó. Ex: She was fascinated by the beautiful landscape (Cô ấy bị cuốn hút bởi phong cảnh đẹp).
+take the initiative to /teɪk ðə ɪˈnɪʃətɪv tu/: (v) chủ động làm gì. Nghĩa: Tự mình bắt đầu hoặc thực hiện điều gì đó mà không cần ai đó bảo. Ex: He took the initiative to start the project (Anh ấy đã chủ động bắt đầu dự án).
+stumbled upon /ˈstʌmbəld əˈpɒn/: (v) tình cờ gặp. Nghĩa: Gặp phải hoặc tìm thấy một cách tình cờ. Ex: We stumbled upon a quaint little shop (Chúng tôi tình cờ gặp một cửa hàng nhỏ xinh).
+pack one's bags /pæk wʌnz bæɡz/: (idiom) thu dọn hành lý. Nghĩa: Chuẩn bị hoặc gói ghém đồ đạc để đi đâu đó. Ex: She packed her bags and left for Paris (Cô ấy thu dọn hành lý và lên đường đến Paris).
+set off /sɛt ɒf/: (v) khởi hành. Nghĩa: Bắt đầu một cuộc hành trình hoặc chuyến đi. Ex: We set off early in the morning (Chúng tôi khởi hành vào sáng sớm).
+exhilarating /ɪɡˈzɪləreɪtɪŋ/: (adj) đầy phấn khích. Nghĩa: Rất thú vị và kích thích. Ex: The ride was exhilarating (Chuyến đi thật phấn khích).
+navigating /ˈnævɪɡeɪtɪŋ/: (v) tìm đường, điều hướng. Nghĩa: Tìm đường hoặc hướng đi trong một khu vực hoặc qua một tình huống. Ex: Navigating the city was challenging (Điều hướng qua thành phố thật khó khăn).
+language barriers /ˈlæŋɡwɪdʒ ˈbæriərz/: (n) rào cản ngôn ngữ. Nghĩa: Những khó khăn hoặc trở ngại khi giao tiếp bằng các ngôn ngữ khác nhau. Ex: We had to overcome language barriers (Chúng tôi phải vượt qua rào cản ngôn ngữ).
+pressed on /prɛst ɒn/: (v) tiếp tục tiến lên. Nghĩa: Kiên trì tiến lên bất chấp khó khăn. Ex: Despite the challenges, we pressed on (Mặc dù có nhiều khó khăn, chúng tôi vẫn tiếp tục tiến lên).
+driven by /ˈdrɪvən baɪ/: (adj) được thúc đẩy bởi. Nghĩa: Được điều khiển hoặc thúc đẩy bởi một cái gì đó. Ex: She was driven by a desire to succeed (Cô ấy được thúc đẩy bởi mong muốn thành công).
+sense of curiosity and wonder /sɛns ʌv kjʊərɪˈɒsɪti ənd ˈwʌndər/: (n) cảm giác tò mò và kỳ diệu. Nghĩa: Cảm giác hứng thú và ngạc nhiên về thế giới xung quanh. Ex: The children explored the forest with a sense of curiosity and wonder (Những đứa trẻ khám phá khu rừng với cảm giác tò mò và kỳ diệu).
+breathtaking /ˈbrɛθˌteɪkɪŋ/: (adj) ngoạn mục. Nghĩa: Rất đẹp hoặc ấn tượng đến mức ngỡ ngàng. Ex: The view from the top was breathtaking (Khung cảnh từ đỉnh núi thật ngoạn mục).
+last a lifetime /læst ə ˈlaɪftaɪm/: (v) kéo dài suốt đời. Nghĩa: Bền bỉ hoặc tồn tại mãi mãi. Ex: The memories we made will last a lifetime (Những kỷ niệm chúng tôi tạo ra sẽ kéo dài suốt đời).
+confident /ˈkɒnfɪdənt/: (adj) tự tin. Nghĩa: Cảm thấy chắc chắn và tin vào khả năng của mình. Ex: She felt confident about the exam (Cô ấy cảm thấy tự tin về kỳ thi).
+confidence /ˈkɒnfɪdəns/: (n) sự tự tin. Nghĩa: Niềm tin vào khả năng của chính mình hoặc điều gì đó. Ex: He has a lot of confidence in his team (Anh ấy có nhiều sự tự tin vào đội của mình).
+confidently /ˈkɒnfɪdəntli/: (adv) một cách tự tin. Nghĩa: Làm điều gì đó với sự tự tin. Ex: She walked confidently into the room (Cô ấy bước vào phòng một cách tự tin).
+feeling lost /ˈfiːlɪŋ lɒst/: (v) cảm thấy lạc lõng. Nghĩa: Cảm giác không biết phải làm gì hoặc đi đâu. Ex: He was feeling lost in the new city (Anh ấy cảm thấy lạc lõng trong thành phố mới).
+embark on /ɪmˈbɑːrk ɒn/: (v) bắt đầu một hành trình. Nghĩa: Bắt đầu một cuộc hành trình hoặc dự án. Ex: They embarked on a new adventure (Họ bắt đầu một cuộc phiêu lưu mới).
+
+# Your Weekend
+online article /ˈɒnˌlaɪn ˈɑːrtɪkl/: (n) bài báo trực tuyến. Nghĩa: Một bài viết hoặc báo cáo được xuất bản trên mạng. Ex: I read an interesting online article about climate change (Tôi đã đọc một bài báo trực tuyến thú vị về biến đổi khí hậu).
+enthusiast /ɪnˈθjuːziæst/: (n) người đam mê. Nghĩa: Một người rất nhiệt tình và đam mê với một hoạt động hoặc chủ đề. Ex: He is a sports enthusiast (Anh ấy là một người đam mê thể thao).
+outdoor enthusiast /ˈaʊtdɔːr ɪnˈθjuːziæst/: (n) người đam mê hoạt động ngoài trời. Nghĩa: Một người rất thích các hoạt động ngoài trời. Ex: She is an outdoor enthusiast who loves hiking and camping (Cô ấy là một người đam mê hoạt động ngoài trời, thích đi bộ đường dài và cắm trại).
+laced up /leɪst ʌp/: (v) buộc dây giày. Nghĩa: Thắt hoặc buộc dây giày. Ex: He laced up his shoes before going for a run (Anh ấy buộc dây giày trước khi đi chạy).
+hiking boots /ˈhaɪkɪŋ buːts/: (n) giày leo núi. Nghĩa: Giày chuyên dụng cho việc đi bộ đường dài hoặc leo núi. Ex: She put on her hiking boots and set off on the trail (Cô ấy mang giày leo núi và bắt đầu đi trên đường mòn).
+trail /treɪl/: (n) đường mòn. Nghĩa: Một con đường nhỏ hoặc lối đi qua một khu vực tự nhiên. Ex: The trail led us through the forest (Con đường mòn dẫn chúng tôi qua khu rừng).
+steep climb /stiːp klaɪm/: (n) dốc đứng. Nghĩa: Một đoạn đường hoặc leo lên có độ dốc lớn. Ex: The steep climb was challenging but rewarding (Đoạn dốc đứng thật khó khăn nhưng xứng đáng).
+rugged terrain /ˈrʌɡɪd təˈreɪn/: (n) địa hình gồ ghề. Nghĩa: Khu vực đất đai không bằng phẳng, khó đi. Ex: We had to navigate the rugged terrain carefully (Chúng tôi phải đi qua địa hình gồ ghề một cách cẩn thận).
+pushed on /pʊʃt ɒn/: (v) tiếp tục tiến lên. Nghĩa: Kiên trì tiếp tục bất chấp khó khăn. Ex: Despite the fatigue, they pushed on to reach the summit (Dù mệt mỏi, họ vẫn tiếp tục tiến lên để đến đỉnh).
+beauty of the surroundings /ˈbjuːti ʌv ðə səˈraʊndɪŋz/: (n) vẻ đẹp của cảnh quan xung quanh. Nghĩa: Sự đẹp đẽ của môi trường xung quanh. Ex: We were captivated by the beauty of the surroundings (Chúng tôi bị cuốn hút bởi vẻ đẹp của cảnh quan xung quanh).
+summit /ˈsʌmɪt/: (n) đỉnh núi. Nghĩa: Điểm cao nhất của một ngọn núi hoặc đồi. Ex: The view from the summit was breathtaking (Khung cảnh từ đỉnh núi thật ngoạn mục).
+reached the summit /riːtʃt ðə ˈsʌmɪt/: (v) đến đỉnh núi. Nghĩa: Đạt được điểm cao nhất của ngọn núi. Ex: After hours of hiking, we finally reached the summit (Sau nhiều giờ leo núi, chúng tôi cuối cùng đã đến đỉnh).
+* worthwhile /ˌwɜːθˈwaɪl/: (adj) đáng giá. Nghĩa: Đáng để bỏ công sức hoặc thời gian. Ex: The effort was worthwhile for the view at the top (Công sức bỏ ra thật đáng giá cho khung cảnh ở đỉnh).
+* If you are talking about the value of doing an activity, use worthwhile. If you are talking about a person or thing (a noun) that deserves respect/attention/recognition/etc, use worthy.
+energetic and refreshed /ˌɛnərˈdʒɛtɪk ənd rɪˈfrɛʃt/: (adj) tràn đầy năng lượng và tươi mới. Nghĩa: Cảm thấy đầy năng lượng và khỏe khoắn. Ex: After a good night's sleep, I felt energetic and refreshed (Sau một giấc ngủ ngon, tôi cảm thấy tràn đầy năng lượng và tươi mới).
+
+# First Day At Work
+nerve /nɜːrv/: (n) dây thần kinh, sự can đảm. Nghĩa: Một phần của hệ thần kinh, hoặc sự dũng cảm để làm gì đó. Ex: She mustered the nerve to speak in front of the crowd (Cô ấy đã lấy hết can đảm để nói trước đám đông).
+felt a wave of nerves /fɛlt ə weɪv ʌv nɜːrvz/: (v) cảm thấy lo lắng. Nghĩa: Cảm giác bất an hoặc lo lắng đột ngột. Ex: She felt a wave of nerves before her presentation (Cô ấy cảm thấy lo lắng trước buổi thuyết trình của mình).
+meticulously /məˈtɪkjələsli/: (adv) tỉ mỉ. Nghĩa: Làm việc một cách cẩn thận và chi tiết. Ex: He reviewed the documents meticulously (Anh ấy xem xét tài liệu một cách tỉ mỉ).
+company materials /ˈkʌmpəni məˈtɪəriəlz/: (n) tài liệu của công ty. Nghĩa: Các tài liệu liên quan đến công ty. Ex: She reviewed all the company materials before the meeting (Cô ấy đã xem xét tất cả các tài liệu của công ty trước cuộc họp).
+reviewed all the company materials //: (v) xem xét tất cả tài liệu của công ty. Nghĩa: Đã xem xét hoặc kiểm tra tất cả các tài liệu liên quan đến công ty. Ex: He reviewed all the company materials before starting the project (Anh ấy đã xem xét tất cả các tài liệu của công ty trước khi bắt đầu dự án).
+daunting /ˈdɔːntɪŋ/: (adj) đáng sợ, làm nản lòng. Nghĩa: Gây cảm giác khó khăn hoặc sợ hãi. Ex: The task ahead seemed daunting (Nhiệm vụ trước mắt có vẻ đáng sợ).
+thrilling and daunting /ˈθrɪlɪŋ ənd ˈdɔːntɪŋ/: (adj) đầy phấn khích và đáng sợ. Nghĩa: Gây cảm giác hào hứng và sợ hãi cùng lúc. Ex: The adventure was both thrilling and daunting (Cuộc phiêu lưu vừa đầy phấn khích vừa đáng sợ).
+bustling with /ˈbʌslɪŋ wɪð/: (v) nhộn nhịp với. Nghĩa: Tràn đầy hoạt động và sự sống động. Ex: The market was bustling with people (Chợ nhộn nhịp với người).
+find oneself V-ing //: (v) thấy mình đang làm gì đó. Nghĩa: Nhận ra mình đang trong tình huống hoặc hoạt động nào đó. Ex: She found herself thinking about the past (Cô ấy thấy mình đang suy nghĩ về quá khứ).
+locate my desk /ləʊˈkeɪt maɪ dɛsk/: (v) tìm bàn làm việc của tôi. Nghĩa: Tìm ra vị trí bàn làm việc của mình. Ex: I had trouble locating my desk on the first day (Tôi gặp khó khăn trong việc tìm bàn làm việc của mình vào ngày đầu tiên).
+orientation /ˌɔːriənˈteɪʃən/: (n) buổi định hướng. Nghĩa: Buổi giới thiệu và hướng dẫn ban đầu cho người mới. Ex: The orientation helped new employees get familiar with he company (Buổi định hướng giúp nhân viên mới làm quen với công ty).
+confusion /kənˈfjuːʒən/: (n) sự bối rối. Nghĩa: Trạng thái không chắc chắn hoặc lẫn lộn. Ex: There was a lot of confusion at the start of the project (Có rất nhiều sự bối rối khi bắt đầu dự án).
+initial confusion /ɪˈnɪʃəl kənˈfjuːʒən/: (n) sự bối rối ban đầu. Nghĩa: Trạng thái không chắc chắn hoặc lẫn lộn khi mới bắt đầu. Ex: There was some initial confusion about the schedule (Có một số sự bối rối ban đầu về lịch trình).
+make a point to do sth //: (idiom) đặc biệt chú ý làm điều gì. Nghĩa: Cố gắng chắc chắn sẽ làm điều gì đó, thường vì nó quan trọng. Ex: She always makes a point to thank her team for their hard work (Cô ấy luôn đặc biệt chú ý để cảm ơn đội của mình vì sự chăm chỉ của họ).
+integrated into /ˈɪntɪɡreɪtɪd ˈɪntuː/: (v) hòa nhập vào. Nghĩa: Trở thành một phần của cái gì đó hoặc được kết hợp vào. Ex: She quickly integrated into the new team (Cô ấy nhanh chóng hòa nhập vào nhóm mới).
+tackle /ˈtækəl/: (v) giải quyết, đương đầu. Nghĩa: Đối mặt và xử lý vấn đề hoặc công việc khó khăn. Ex: We need to tackle the issue as soon as possible (Chúng ta cần giải quyết vấn đề càng sớm càng tốt).
+tackling new challenges /ˈtækəlɪŋ njuː ˈʧælɪnʤɪz/: (v) đương đầu với các thử thách mới. Nghĩa: Đối mặt và xử lý các vấn đề hoặc công việc mới và khó khăn. Ex: He is excited about tackling new challenges at his job (Anh ấy háo hức với việc đương đầu với các thử thách mới trong công việc của mình).
+
+# Trip To The Beach
+draw to /drɔː tuː/: (v) thu hút đến. Nghĩa: Hấp dẫn hoặc làm cho ai đó đến gần. Ex: The beautiful scenery drew me to the park (Phong cảnh đẹp thu hút tôi đến công viên).
+captivate /ˈkæptɪveɪt/: (v) làm say đắm. Nghĩa: Làm ai đó say mê hoặc bị cuốn hút. Ex: The magician's performance captivated the audience (Màn trình diễn của ảo thuật gia làm khán giả say mê).
+captivating photo book /ˈkæptɪveɪtɪŋ ˈfəʊtəʊ bʊk/: (n) cuốn sách ảnh hấp dẫn. Nghĩa: Cuốn sách ảnh rất thu hút và thú vị. Ex: She showed me a captivating photo book of her travels (Cô ấy cho tôi xem một cuốn sách ảnh hấp dẫn về chuyến du lịch của mình).
+showcase /ˈʃəʊkeɪs/: (v) trưng bày. Nghĩa: Trình bày hoặc giới thiệu điều gì đó một cách nổi bật. Ex: The gallery showcases modern art (Phòng triển lãm trưng bày nghệ thuật hiện đại).
+coast /kəʊst/: (n) bờ biển. Nghĩa: Vùng đất dọc theo biển. Ex: We drove along the coast (Chúng tôi lái xe dọc bờ biển).
+beachgoer /ˈbiːʧɡoʊər/: (n) người đi biển. Nghĩa: Người thường xuyên đến bãi biển. Ex: The beach was crowded with beachgoers (Bãi biển đông đúc với những người đi biển).
+pack full of essentials /pæk fʊl ʌv ɪˈsɛnʃəlz/: (v) gói đầy đủ những thứ cần thiết. Nghĩa: Chuẩn bị và đóng gói tất cả những vật dụng cần thiết. Ex: She packed her bag full of essentials for the trip (Cô ấy đã đóng gói túi của mình đầy đủ những thứ cần thiết cho chuyến đi).
+long and tiring /lɒŋ ənd ˈtaɪərɪŋ/: (adj) dài và mệt mỏi. Nghĩa: Kéo dài và gây mệt mỏi. Ex: The journey was long and tiring (Hành trình kéo dài và mệt mỏi).
+faded into /ˈfeɪdɪd ˈɪntuː/: (v) mờ dần thành. Nghĩa: Trở nên mờ nhạt hoặc biến thành một trạng thái khác. Ex: The excitement faded into boredom (Sự phấn khích mờ dần thành chán nản).
+faded into exhaustion /ˈfeɪdɪd ˈɪntuː ɪɡˈzɔːstʃən/: (v) mờ dần thành kiệt sức. Nghĩa: Trở nên mệt mỏi đến mức kiệt sức. Ex: Their energy faded into exhaustion after the hike (Năng lượng của họ mờ dần thành kiệt sức sau chuyến đi bộ).
+endless /ˈɛndlɪs/: (adj) bất tận. Nghĩa: Không có điểm dừng hoặc không bao giờ kết thúc. Ex: The desert seemed endless (Sa mạc có vẻ như bất tận).
+endless stretch of golden sand /ˈɛndlɪs strɛʧ ʌv ˈɡəʊldən sænd/: (n) dải cát vàng bất tận. Nghĩa: Một khu vực cát vàng rộng lớn và không có điểm dừng. Ex: We walked along an endless stretch of golden sand (Chúng tôi đi dọc theo một dải cát vàng bất tận).
+soothing sound of the waves /ˈsuːðɪŋ saʊnd ʌv ðə weɪvz/: (n) âm thanh dịu êm của sóng biển. Nghĩa: Âm thanh nhẹ nhàng và êm dịu của sóng biển. Ex: The soothing sound of the waves helped me relax (Âm thanh dịu êm của sóng biển giúp tôi thư giãn).
+rejuvenated /rɪˈʤuːvəneɪtɪd/: (adj) trẻ lại, tươi mới. Nghĩa: Cảm thấy khỏe khoắn và đầy năng lượng trở lại. Ex: After a good night's sleep, I felt rejuvenated (Sau một giấc ngủ ngon, tôi cảm thấy trẻ lại).
+collecting seashells /kəˈlɛktɪŋ ˈsiːʃɛlz/: (v) nhặt vỏ sò. Nghĩa: Tìm và nhặt những vỏ sò trên bãi biển. Ex: The children spent the afternoon collecting seashells (Những đứa trẻ dành cả buổi chiều nhặt vỏ sò).
+bring along /brɪŋ əˈlɒŋ/: (v) mang theo. Nghĩa: Đưa theo hoặc mang theo cái gì đó. Ex: Don't forget to bring along your sunscreen (Đừng quên mang theo kem chống nắng của bạn).
+feel at /fiːl æt/: (v) cảm thấy tại. Nghĩa: Cảm thấy thoải mái hoặc hài lòng tại một nơi nào đó. Ex: I feel at home in this city (Tôi cảm thấy thoải mái như ở nhà trong thành phố này).
+peace and connect with nature /piːs ənd kəˈnɛkt wɪð ˈneɪʧər/: (n) hòa bình và kết nối với thiên nhiên. Nghĩa: Cảm giác yên bình và hòa hợp với môi trường tự nhiên. Ex: The hike helped me feel at peace and connect with nature (Chuyến đi bộ giúp tôi cảm thấy yên bình và kết nối với thiên nhiên).
+getaway /ˈɡɛtəˌweɪ/: (n) kỳ nghỉ ngắn. Nghĩa: Một chuyến đi ngắn để nghỉ ngơi và thư giãn. Ex: We're planning a weekend getaway to the mountains (Chúng tôi đang lên kế hoạch cho một kỳ nghỉ ngắn cuối tuần lên núi).
+beach getaway /biːʧ ˈɡɛtəˌweɪ/: (n) kỳ nghỉ ở biển. Nghĩa: Một chuyến đi ngắn để nghỉ ngơi và thư giãn tại bãi biển. Ex: They enjoyed a beach getaway last summer (Họ đã tận hưởng một kỳ nghỉ ở biển vào mùa hè năm ngoái).
+
+# First Day At School
+start a new chapter in one's life //: (idiom) bắt đầu một chương mới trong cuộc đời. Nghĩa: Bắt đầu một giai đoạn mới hoặc một sự thay đổi quan trọng trong cuộc sống. Ex: She decided to start a new chapter in her life by moving to a new city (Cô ấy quyết định bắt đầu một chương mới trong cuộc đời bằng cách chuyển đến một thành phố mới).
+no exception /nəʊ ɪkˈsɛpʃən/: (n) không ngoại lệ. Nghĩa: Không có ngoại lệ nào. Ex: Everyone must follow the rules, no exception (Mọi người đều phải tuân theo quy tắc, không có ngoại lệ).
+leading up to it /ˈliːdɪŋ ʌp tuː ɪt/: (idiom) dẫn đến điều đó; trước đó. Nghĩa: Các sự kiện hoặc hành động xảy ra trước và chuẩn bị cho một sự kiện chính. Ex: There was a lot of preparation leading up to the event (Có rất nhiều sự chuẩn bị dẫn đến sự kiện đó).
+have everything one needed /hæv ˈɛvrɪθɪŋ wʌn ˈniːdɪd/: (idiom) có mọi thứ ai đó cần. Nghĩa: Sở hữu tất cả các thành phần cần thiết của một cái gì đó được tập hợp lại với nhau ở một vị trí. Ex: We had everything we needed for the trip (Chúng tôi đã có mọi thứ chúng tôi cần cho chuyến đi)
+pound with /paʊnd wɪð/: (v) đập mạnh với. Nghĩa: Đập mạnh hoặc cảm thấy nhịp tim mạnh mẽ. Ex: Her heart pounded with excitement (Tim cô ấy đập mạnh vì phấn khích).
+heart pounding with anticipation /hɑːrt ˈpaʊndɪŋ wɪð ænˌtɪsɪˈpeɪʃən/: (idiom) tim đập mạnh vì háo hức. Nghĩa: Cảm thấy nhịp tim mạnh mẽ do sự háo hức hoặc mong đợi. Ex: As the show began, her heart was pounding with anticipation (Khi chương trình bắt đầu, tim cô ấy đập mạnh vì háo hức).
+hallways /ˈhɔːlweɪz/: (n) hành lang. Nghĩa: Những lối đi dài trong các tòa nhà hoặc nhà. Ex: The hallways were crowded with students (Hành lang đông đúc với học sinh).
+be a blur /biː ə blɜːr/: (idiom) mờ nhạt. Nghĩa: Một hình ảnh không rõ ràng hoặc ký ức không rõ ràng. Ex: The events of the day were a blur (Các sự kiện trong ngày thật mờ nhạt).
+keep to oneself /kiːp tuː wʌnˈsɛlf/: (v) giữ riêng tư. Nghĩa: Giữ bí mật hoặc không chia sẻ với người khác. Ex: She prefers to keep to herself (Cô ấy thích giữ riêng tư).
+by one side /baɪ wʌn saɪd/: (idiom) bên cạnh. Nghĩa: Ở gần hoặc kế bên. Ex: He kept his phone by his side (Anh ấy giữ điện thoại bên cạnh).
+ease one anxiety /iːz wʌn æŋˈzaɪəti/: (v) giảm bớt lo lắng. Nghĩa: Làm giảm cảm giác lo lắng hoặc căng thẳng. Ex: Listening to music helps ease my anxiety (Nghe nhạc giúp giảm bớt lo lắng của tôi).
+gradually /ˈɡrædʒuəli/: (adv) dần dần. Nghĩa: Xảy ra từ từ và liên tục theo thời gian. Ex: She gradually improved her skills (Cô ấy dần dần cải thiện kỹ năng của mình).
+peers /pɪrz/: (n) bạn đồng trang lứa. Nghĩa: Những người cùng độ tuổi hoặc vị trí xã hội. Ex: He enjoys spending time with his peers (Anh ấy thích dành thời gian với bạn đồng trang lứa của mình).
+
+=========================== 
+# DEFINITION 3
+
+# Why Like To Listening To Music
+tune /tjuːn/: (n) giai điệu. Nghĩa: Một đoạn nhạc hoặc bài hát. Ex: He played a familiar tune on the piano (Anh ấy chơi một giai điệu quen thuộc trên đàn piano)
+put on my favorite tune //: (v) bật giai điệu yêu thích của tôi. Nghĩa: Bật bài hát hoặc đoạn nhạc mà mình thích. Ex: I like to put on my favorite tune to relax (Tôi thích bật giai điệu yêu thích của mình để thư giãn)
+unwind /ʌnˈwaɪnd/: (v) thư giãn. Nghĩa: Thư giãn và giảm căng thẳng. Ex: I need some time to unwind after a busy day (Tôi cần chút thời gian để thư giãn sau một ngày bận rộn)
+from pop to classical //: (phrase) từ nhạc pop đến nhạc cổ điển. Nghĩa: Bao gồm nhiều thể loại âm nhạc khác nhau, từ nhạc pop hiện đại đến nhạc cổ điển. Ex: She enjoys all kinds of music, from pop to classical (Cô ấy thích tất cả các loại nhạc, từ nhạc pop đến nhạc cổ điển)
+streaming app /ˈstriːmɪŋ æp/: (n) ứng dụng phát trực tuyến. Nghĩa: Ứng dụng cho phép người dùng xem hoặc nghe nội dung qua internet. Ex: I use a streaming app to listen to music (Tôi sử dụng một ứng dụng phát trực tuyến để nghe nhạc)
+out and about /aʊt ənd əˈbaʊt/: (idiom) ra ngoài và đi lại. Nghĩa: Ra ngoài và di chuyển, thường là để làm việc hoặc giải trí. Ex: She is always out and about, exploring new places (Cô ấy luôn ra ngoài và khám phá những nơi mới)
+on the go /ɒn ðə ɡoʊ/: (idiom) đang di chuyển. Nghĩa: Luôn bận rộn và di chuyển từ nơi này đến nơi khác. Ex: He listens to audiobooks while on the go (Anh ấy nghe sách nói khi đang di chuyển)
+concert /ˈkɒnsət/: (n) buổi hòa nhạc. Nghĩa: Một buổi biểu diễn âm nhạc trực tiếp. Ex: We went to a live concert last night (Chúng tôi đã đi xem buổi hòa nhạc trực tiếp tối qua)
+festival /ˈfɛstɪvəl/: (n) lễ hội. Nghĩa: Sự kiện văn hóa, thường kéo dài nhiều ngày, bao gồm nhiều hoạt động giải trí và biểu diễn. Ex: The music festival attracted thousands of visitors (Lễ hội âm nhạc thu hút hàng ngàn khách tham quan)
+concerts and music festivals //: (n) các buổi hòa nhạc và lễ hội âm nhạc. Nghĩa: Các sự kiện âm nhạc trực tiếp và các lễ hội tổ chức nhiều hoạt động liên quan đến âm nhạc. Ex: They attend many concerts and music festivals throughout the year (Họ tham gia nhiều buổi hòa nhạc và lễ hội âm nhạc suốt năm)
+to feature /tuː ˈfiːʧər/: (v) có sự tham gia. Nghĩa: Bao gồm hoặc có mặt trong một sự kiện. Ex: The festival will feature local and international artists (Lễ hội sẽ có sự tham gia của các nghệ sĩ địa phương và quốc tế)
+event featuring local bands and international artists //: (n) sự kiện có sự tham gia của các ban nhạc địa phương và nghệ sĩ quốc tế. Nghĩa: Một sự kiện âm nhạc có sự tham gia của các ban nhạc từ khu vực địa phương và các nghệ sĩ nổi tiếng quốc tế. Ex: The event featuring local bands and international artists was a huge success (Sự kiện có sự tham gia của các ban nhạc địa phương và nghệ sĩ quốc tế đã thành công rực rỡ)
+live performance /laɪv pəˈfɔːməns/: (n) buổi biểu diễn trực tiếp. Nghĩa: Buổi biểu diễn trước khán giả mà không qua ghi âm hay phát lại. Ex: The live performance was incredible (Buổi biểu diễn trực tiếp thật tuyệt vời)
+all over the world /ɔːl ˈoʊvər ðə wɜːrld/: (phrase) khắp thế giới. Nghĩa: Mọi nơi trên thế giới. Ex: Fans travel from all over the world to attend the concert (Người hâm mộ từ khắp nơi trên thế giới đến dự buổi hòa nhạc)
+playlists /ˈpleɪlɪsts/: (n) danh sách phát nhạc. Nghĩa: Tập hợp các bài hát được chọn lọc để phát liên tục. Ex: She created a playlist for her road trip (Cô ấy tạo một danh sách phát nhạc cho chuyến đi đường dài của mình)
+moods /muːdz/: (n) tâm trạng. Nghĩa: Cảm xúc hoặc trạng thái tinh thần của một người. Ex: She listens to different music depending on her moods (Cô ấy nghe nhạc khác nhau tùy theo tâm trạng)
+work out /wɜːrk aʊt/: (v) tập thể dục. Nghĩa: Thực hiện các bài tập thể dục để rèn luyện cơ thể. Ex: I like to listen to music while I work out (Tôi thích nghe nhạc trong khi tập thể dục)
+music charts /ˈmjuːzɪk ʧɑːrts/: (n) bảng xếp hạng âm nhạc. Nghĩa: Danh sách các bài hát hoặc album phổ biến nhất trong một khoảng thời gian nhất định. Ex: The song topped the music charts for weeks (Bài hát đứng đầu bảng xếp hạng âm nhạc trong nhiều tuần)
+lift one spirit /lɪft wʌn ˈspɪrɪt/: (v) nâng cao tinh thần. Nghĩa: Làm ai đó cảm thấy vui vẻ và phấn chấn hơn. Ex: Good music can really lift one's spirit (Nhạc hay có thể thực sự nâng cao tinh thần của một người)
+universal language /ˌjuːnɪˈvɜːsəl ˈlæŋɡwɪʤ/: (n) ngôn ngữ toàn cầu. Nghĩa: Một phương tiện giao tiếp được hiểu và chấp nhận rộng rãi trên khắp thế giới. Ex: Music is often called the universal language (Âm nhạc thường được gọi là ngôn ngữ toàn cầu)
+
+=============================================
+# Definition 1
+# Describe HCM City
+formerly known as //: (phrase) trước đây được gọi là. Nghĩa: Được biết đến với tên khác trong quá khứ. Ex: Ho Chi Minh City, formerly known as Saigon, is a bustling metropolis (Thành phố Hồ Chí Minh, trước đây được gọi là Sài Gòn, là một đô thị sôi động)
+in terms of /ɪn tɜːrmz ʌv/: (phrase) về mặt. Nghĩa: Liên quan đến một khía cạnh cụ thể. Ex: In terms of population, Ho Chi Minh City is the largest in Vietnam (Về mặt dân số, Thành phố Hồ Chí Minh là thành phố lớn nhất Việt Nam)
+population and economic activity //: (phrase) dân số và hoạt động kinh tế. Nghĩa: Số lượng người và các hoạt động kinh tế trong một khu vực. Ex: The city's population and economic activity are continuously growing (Dân số và hoạt động kinh tế của thành phố đang liên tục phát triển)
+serves as /sɜːrvz æz/: (v) đóng vai trò như. Nghĩa: Có chức năng hoặc nhiệm vụ như. Ex: The city serves as the economic and cultural hub of the region (Thành phố đóng vai trò là trung tâm kinh tế và văn hóa của khu vực)
+economic and cultural hub /ˌiːkəˈnɒmɪk ənd ˈkʌltʃərəl hʌb/: (n) trung tâm kinh tế và văn hóa. Nghĩa: Một địa điểm quan trọng cho các hoạt động kinh tế và văn hóa. Ex: Ho Chi Minh City is known as the economic and cultural hub of southern Vietnam (Thành phố Hồ Chí Minh được biết đến như là trung tâm kinh tế và văn hóa của miền nam Việt Nam)
+southeastern /ˌsaʊθˈiːstərn/: (adj) đông nam. Nghĩa: Liên quan đến khu vực phía đông nam. Ex: The southeastern region of Vietnam is known for its dynamic economy (Khu vực đông nam Việt Nam nổi tiếng với nền kinh tế năng động)
+Mekong Delta /ˈmeɪkɒŋ ˈdɛltə/: (n) Đồng bằng sông Cửu Long. Nghĩa: Vùng đất phía nam Việt Nam, nơi sông Mekong chảy ra biển. Ex: The Mekong Delta is a vital area for agriculture in Vietnam (Đồng bằng sông Cửu Long là một khu vực quan trọng cho nông nghiệp ở Việt Nam)
+Saigonese /ˌsaɪˈɡoʊniz/: (adj) người Sài Gòn, thuộc về Sài Gòn. Nghĩa: Người dân hoặc các đặc điểm liên quan đến Sài Gòn (Thành phố Hồ Chí Minh) Ex: The Saigonese are known for their friendliness and hospitality (Người Sài Gòn nổi tiếng với sự thân thiện và hiếu khách)
+Independence Palace /ˌɪndɪˈpɛndəns ˈpælɪs/: (n) Dinh Độc Lập. Nghĩa: Một địa danh lịch sử nổi tiếng tại Thành phố Hồ Chí Minh. Ex: Independence Palace is a popular tourist attraction in Ho Chi Minh City (Dinh Độc Lập là một điểm thu hút khách du lịch nổi tiếng ở Thành phố Hồ Chí Minh)
+Notre Dame Cathedral /ˌnoʊtrə ˈdɑːm kəˈθiːdrəl/: (n) Nhà thờ Đức Bà. Nghĩa: Một nhà thờ nổi tiếng tại trung tâm Thành phố Hồ Chí Minh. Ex: The Notre Dame Cathedral is an iconic landmark in Ho Chi Minh City (Nhà thờ Đức Bà là một địa danh biểu tượng ở Thành phố Hồ Chí Minh)
+Bitexco Financial Tower /ˌbɪtɛkˈsoʊ faɪˈnænʃəl ˈtaʊər/: (n) Tháp Tài chính Bitexco. Nghĩa: Một tòa nhà chọc trời nổi bật tại Thành phố Hồ Chí Minh. Ex: The Bitexco Financial Tower offers stunning views of the city (Tháp Tài chính Bitexco cung cấp tầm nhìn tuyệt đẹp của thành phố)
+luxury goods /ˈlʌkʃəri ɡʊdz/: (n) hàng hóa xa xỉ. Nghĩa: Các sản phẩm đắt tiền và cao cấp. Ex: The mall features a wide range of luxury goods (Trung tâm thương mại có nhiều loại hàng hóa xa xỉ)
+indoor amusement park /ˈɪndɔːr əˈmjuːzmənt pɑːrk/: (n) công viên giải trí trong nhà. Nghĩa: Khu vực giải trí được xây dựng trong nhà. Ex: The indoor amusement park is a great place for families to have fun (Công viên giải trí trong nhà là nơi tuyệt vời để gia đình vui chơi)
+shopaholic /ˌʃɒpəˈhɒlɪk/: (n) người nghiện mua sắm. Nghĩa: Người thích mua sắm và thường mua rất nhiều đồ. Ex: She admits to being a bit of a shopaholic (Cô ấy thừa nhận mình là một người nghiện mua sắm)
+paradise /ˈpærədaɪs/: (n) thiên đường. Nghĩa: Nơi rất đẹp và lý tưởng. Ex: The island is a paradise for beach lovers (Hòn đảo là một thiên đường cho những người yêu thích biển)
+heaven /ˈhɛvən/: (n) thiên đường. Nghĩa: Nơi hoàn hảo và hạnh phúc, thường được dùng để miêu tả cảm giác tuyệt vời. Ex: For food lovers, this market is heaven (Đối với những người yêu ẩm thực, chợ này là thiên đường)
+sidewalk /ˈsaɪdwɔːk/: (n) vỉa hè. Nghĩa: Lối đi bộ bên cạnh đường phố. Ex: The sidewalk is crowded with pedestrians (Vỉa hè đông đúc với người đi bộ)
+sidewalk vendors /ˈsaɪdwɔːk ˈvɛndərz/: (n) người bán hàng rong. Nghĩa: Những người bán hàng trên vỉa hè. Ex: Sidewalk vendors offer a variety of street food (Người bán hàng rong cung cấp nhiều loại thức ăn đường phố)
+affordable dish /əˈfɔːrdəbl dɪʃ/: (n) món ăn giá rẻ. Nghĩa: Món ăn có giá cả phải chăng. Ex: You can find many affordable dishes at the market (Bạn có thể tìm thấy nhiều món ăn giá rẻ ở chợ)
+ethnic /ˈɛθnɪk/: (adj) dân tộc. Nghĩa: Liên quan đến một nhóm người có cùng văn hóa, ngôn ngữ, hoặc tôn giáo. Ex: The city is home to various ethnic communities (Thành phố là nơi sinh sống của nhiều cộng đồng dân tộc khác nhau)
+expatriate /ɛksˈpætriɪt/: (n) người nước ngoài sinh sống ở nước khác. Nghĩa: Người đang sống ở một nước khác với nước mình sinh ra. Ex: The city has a large expatriate community (Thành phố có một cộng đồng người nước ngoài lớn)
+as of /æz ʌv/: (phrase) tính đến. Nghĩa: Tại một thời điểm cụ thể trong quá khứ hoặc tương lai. Ex: As of next month, the new regulations will be in effect (Tính từ tháng sau, các quy định mới sẽ có hiệu lực)
+as of recent estimates /æz ʌv ˈriːsənt ˈɛstɪmɪts/: (phrase) theo ước tính gần đây. Nghĩa: Dựa trên các con số hoặc thông tin ước tính mới nhất. Ex: As of recent estimates, the city's population has reached 10 million (Theo ước tính gần đây, dân số của thành phố đã đạt 10 triệu người)
+vibrant /ˈvaɪbrənt/: (adj) sôi động. Nghĩa: Đầy năng lượng và sự sống động. Ex: The city has a vibrant nightlife (Thành phố có cuộc sống đêm sôi động)
+crispy pancake /ˈkrɪspi ˈpænkeɪk/: (n) bánh xèo. Nghĩa: Một loại bánh mỏng, giòn, thường có nhân thịt, tôm và giá. Ex: Crispy pancake is a popular Vietnamese dish (Bánh xèo là một món ăn Việt Nam phổ biến)
+
+# Describe Hometown
+province /ˈprɒvɪns/: (n) tỉnh. Nghĩa: Một đơn vị hành chính lớn trong một quốc gia. Ex: Each province in Vietnam has its own unique culture (Mỗi tỉnh ở Việt Nam có nền văn hóa riêng biệt)
+unique blend of /juˈniːk blɛnd ʌv/: (phrase) sự pha trộn độc đáo của. Nghĩa: Sự kết hợp độc đáo của nhiều yếu tố khác nhau. Ex: The city has a unique blend of modern and traditional architecture (Thành phố có sự pha trộn độc đáo của kiến trúc hiện đại và truyền thống)
+shaped by /ʃeɪpt baɪ/: (phrase) được hình thành bởi. Nghĩa: Được tạo ra hoặc ảnh hưởng bởi một yếu tố nào đó. Ex: The culture of the region is shaped by its history and geography (Văn hóa của khu vực này được hình thành bởi lịch sử và địa lý của nó)
+riverine /ˈrɪvəraɪn/: (adj) thuộc sông ngòi. Nghĩa: Liên quan đến sông ngòi. Ex: The riverine communities depend on fishing and agriculture (Các cộng đồng ven sông phụ thuộc vào đánh bắt cá và nông nghiệp)
+engaged in agriculture /ɪnˈɡeɪʤd ɪn ˈæɡrɪkʌltʃər/: (phrase) tham gia vào nông nghiệp. Nghĩa: Thực hiện các hoạt động liên quan đến trồng trọt và chăn nuôi. Ex: Many families in the delta are engaged in agriculture (Nhiều gia đình ở đồng bằng tham gia vào nông nghiệp)
+rice farming /raɪs ˈfɑːrmɪŋ/: (n) trồng lúa. Nghĩa: Hoạt động canh tác và sản xuất lúa gạo. Ex: Rice farming is a major industry in the Mekong Delta (Trồng lúa là ngành công nghiệp chính ở Đồng bằng sông Cửu Long)
+fruit cultivation /fruːt ˌkʌltɪˈveɪʃən/: (n) trồng trái cây. Nghĩa: Hoạt động trồng và thu hoạch các loại trái cây. Ex: The region is known for its fruit cultivation, especially durian and mango (Khu vực này nổi tiếng với việc trồng trái cây, đặc biệt là sầu riêng và xoài)
+firsthand /ˌfɜːrstˈhænd/: (adj, adv) trực tiếp. Nghĩa: Tận mắt chứng kiến hoặc tự mình trải nghiệm. Ex: Visitors can experience the local culture firsthand (Du khách có thể trải nghiệm văn hóa địa phương trực tiếp)
+generosity /ˌdʒɛnəˈrɒsɪti/: (n) sự hào phóng. Nghĩa: Tính cách rộng lượng, sẵn sàng chia sẻ và giúp đỡ người khác. Ex: The generosity of the local people is well-known (Sự hào phóng của người dân địa phương rất nổi tiếng)
+fertile /ˈfɜːrtaɪl/: (adj) màu mỡ. Nghĩa: Đất đai tốt, phù hợp cho canh tác nông nghiệp. Ex: The fertile soil of the delta is ideal for growing rice (Đất màu mỡ của đồng bằng rất lý tưởng để trồng lúa)
+the region's fertile landscape //: (n) cảnh quan màu mỡ của khu vực. Nghĩa: Vùng đất có đất đai phì nhiêu và phong phú. Ex: The region's fertile landscape supports a variety of crops (Cảnh quan màu mỡ của khu vực này hỗ trợ cho nhiều loại cây trồng)
+abundance /əˈbʌndəns/: (n) sự phong phú. Nghĩa: Sự nhiều, dư dả. Ex: The river provides an abundance of fish (Con sông cung cấp một sự phong phú về cá)
+abundance of freshwater resources //: (n) sự phong phú của nguồn nước ngọt. Nghĩa: Sự dư dả và đa dạng của các nguồn nước ngọt. Ex: The delta has an abundance of freshwater resources, making it ideal for agriculture (Đồng bằng có sự phong phú của nguồn nước ngọt, làm cho nó trở nên lý tưởng cho nông nghiệp)
+freshwater fish /ˈfrɛʃˌwɔːtər fɪʃ/: (n) cá nước ngọt. Nghĩa: Các loài cá sống trong môi trường nước ngọt. Ex: The river is home to many species of freshwater fish (Con sông là nơi sinh sống của nhiều loài cá nước ngọt)
+catfish /ˈkætˌfɪʃ/: (n) cá tra. Nghĩa: Một loại cá nước ngọt phổ biến trong ẩm thực Việt Nam. Ex: Catfish is a common ingredient in Vietnamese cuisine (Cá tra là một nguyên liệu phổ biến trong ẩm thực Việt Nam)
+snakehead /ˈsneɪkˌhɛd/: (n) cá lóc. Nghĩa: Một loại cá nước ngọt, được sử dụng trong nhiều món ăn Việt Nam. Ex: Snakehead fish is often used in soups and stews (Cá lóc thường được sử dụng trong các món súp và hầm)
+staple /ˈsteɪpl/: (n) lương thực chính. Nghĩa: Thực phẩm chính hoặc cơ bản trong chế độ ăn. Ex: Rice is a staple food in many Asian countries (Gạo là thực phẩm chính ở nhiều nước châu Á)
+stewed /stjuːd/: (adj) hầm. Nghĩa: Nấu chín từ từ trong nước. Ex: Stewed fish in a clay pot is a traditional dish (Cá hầm trong nồi đất là một món ăn truyền thống)
+clay pot /kleɪ pɒt/: (n) nồi đất. Nghĩa: Một loại nồi làm từ đất sét, thường dùng để nấu ăn. Ex: The dish is cooked in a clay pot for better flavor (Món ăn được nấu trong nồi đất để có hương vị tốt hơn)
+accompany /əˈkʌmpəni/: (v) kèm theo. Nghĩa: Đi cùng hoặc bổ sung cho cái gì đó. Ex: The dish is usually accompanied by rice (Món ăn thường đi kèm với cơm)
+variety of accompaniments //: (n) nhiều món ăn kèm. Nghĩa: Nhiều loại thực phẩm hoặc món ăn kèm theo món chính. Ex: The meal comes with a variety of accompaniments, such as pickles and sauces (Bữa ăn đi kèm với nhiều món ăn kèm như dưa chua và nước sốt)
+braised pork in coconut juice //: (n) thịt kho nước dừa. Nghĩa: Món thịt heo nấu với nước dừa. Ex: Braised pork in coconut juice is a favorite dish in the region (Thịt kho nước dừa là một món ăn ưa thích ở khu vực này)
+shrimp /ʃrɪmp/: (n) tôm. Nghĩa: Một loại hải sản phổ biến. Ex: The soup contains fresh shrimp and herbs (Súp có tôm tươi và thảo mộc)
+bean sprout /biːn spraʊt/: (n) giá đỗ. Nghĩa: Mầm của hạt đậu. Ex: Bean sprouts add a crunchy texture to the dish (Giá đỗ thêm độ giòn cho món ăn)
+crispy rice pancakes /ˈkrɪspi raɪs ˈpænkeɪks/: (n) bánh xèo. Nghĩa: Một loại bánh mỏng, giòn, thường có nhân thịt, tôm và giá. Ex: Crispy rice pancakes are a popular street food (Bánh xèo là một món ăn đường phố phổ biến)
+pomelo /ˈpɒmɪloʊ/: (n) bưởi. Nghĩa: Một loại trái cây họ cam quýt có vị ngọt và hơi chua. Ex: The pomelo salad is a refreshing dish (Gỏi bưởi là một món ăn mát lạnh)
+longan /ˈlɔːŋɡæn/: (n) nhãn. Nghĩa: Một loại trái cây nhiệt đới có vỏ mỏng và thịt ngọt. Ex: Longan is often eaten fresh or used in desserts (Nhãn thường được ăn tươi hoặc dùng trong các món tráng miệng)
+plentiful /ˈplɛntɪfəl/: (adj) phong phú. Nghĩa: Có nhiều, dư thừa. Ex: The harvest was plentiful this year (Mùa màng năm nay rất phong phú)
+sweet soups /swiːt suːps/: (n) chè. Nghĩa: Các món tráng miệng dạng súp ngọt. Ex: Sweet soups are a popular dessert in Vietnam (Chè là món tráng miệng phổ biến ở Việt Nam)
+lush /lʌʃ/: (adj) tươi tốt. Nghĩa: Thực vật phát triển mạnh mẽ, xanh tươi. Ex: The lush green rice paddies stretch as far as the eye can see (Những cánh đồng lúa xanh tươi trải dài ngút ngàn)
+lush green rice paddies //: (n) cánh đồng lúa xanh tươi tốt. Nghĩa: Những cánh đồng lúa có màu xanh và phát triển tốt. Ex: The lush green rice paddies are a typical sight in the Mekong Delta (Những cánh đồng lúa xanh tươi là hình ảnh điển hình ở Đồng bằng sông Cửu Long)
+interspersed with /ˌɪntərˈspɜːrst wɪð/: (phrase) xen kẽ với. Nghĩa: Bố trí hoặc xuất hiện giữa những cái khác. Ex: The rice fields are interspersed with small villages (Các cánh đồng lúa xen kẽ với những ngôi làng nhỏ)
+grove /ɡroʊv/: (n) lùm cây. Nghĩa: Một nhóm cây nhỏ mọc gần nhau. Ex: The orchard is surrounded by a grove of palm trees (Vườn cây ăn quả được bao quanh bởi một lùm cây cọ)
+orchard /ˈɔːrtʃərd/: (n) vườn cây ăn quả. Nghĩa: Khu vực trồng nhiều loại cây cho trái. Ex: The orchard produces a variety of fruits, including mangoes and oranges (Vườn cây ăn quả sản xuất nhiều loại trái cây, bao gồm xoài và cam)
+pond /pɒnd/: (n) ao. Nghĩa: Một vùng nước nhỏ, thường do con người tạo ra. Ex: The pond is full of fish and lotus flowers (Ao đầy cá và hoa sen)
+scenic /ˈsiːnɪk/: (adj) đẹp, có cảnh quan đẹp. Nghĩa: Đẹp về cảnh quan, thường dùng để miêu tả phong cảnh. Ex: The scenic boat tours offer a view of the delta's natural beauty (Các tour du thuyền ngắm cảnh cung cấp một cái nhìn về vẻ đẹp tự nhiên của đồng bằng)
+scenic boat tours /ˈsiːnɪk boʊt tʊrz/: (n) các tour du thuyền ngắm cảnh. Nghĩa: Chuyến tham quan bằng thuyền để ngắm cảnh đẹp. Ex: Scenic boat tours are a popular attraction in the delta (Các tour du thuyền ngắm cảnh là một điểm thu hút khách du lịch phổ biến ở đồng bằng)
+intricate /ˈɪntrɪkɪt/: (adj) phức tạp. Nghĩa: Có nhiều chi tiết và khó hiểu. Ex: The delta's intricate ecosystem supports a wide range of species (Hệ sinh thái phức tạp của đồng bằng hỗ trợ nhiều loài sinh vật)
+the delta's intricate ecosystem //: (n) hệ sinh thái phức tạp của đồng bằng. Nghĩa: Hệ sinh thái của vùng đồng bằng, có nhiều chi tiết và đa dạng. Ex: The delta's intricate ecosystem is home to many unique species (Hệ sinh thái phức tạp của đồng bằng là nơi sinh sống của nhiều loài độc đáo)
+floating market /ˈfloʊtɪŋ ˈmɑːrkɪt/: (n) chợ nổi. Nghĩa: Chợ họp trên thuyền, thường trên sông. Ex: The floating market is famous for its fresh produce and local handicrafts (Chợ nổi nổi tiếng với nông sản tươi và thủ công mỹ nghệ địa phương)
+fresh produce /frɛʃ ˈproʊduːs/: (n) nông sản tươi. Nghĩa: Các loại rau, quả tươi được sản xuất từ nông trại. Ex: The market is known for its variety of fresh produce (Chợ nổi tiếng với nhiều loại nông sản tươi)
+handicrafts /ˈhændɪkræfts/: (n) thủ công mỹ nghệ. Nghĩa: Các sản phẩm làm bằng tay, thường mang tính truyền thống. Ex: Visitors can buy handmade handicrafts at the local market (Du khách có thể mua thủ công mỹ nghệ tại chợ địa phương)
+flat terrain /flæt təˈreɪn/: (n) địa hình bằng phẳng. Nghĩa: Khu vực đất đai không có đồi núi, phẳng lặng. Ex: The delta is characterized by its flat terrain and extensive waterways (Đồng bằng có đặc điểm là địa hình bằng phẳng và nhiều kênh rạch)
+vegetation /ˌvɛdʒɪˈteɪʃən/: (n) thảm thực vật. Nghĩa: Các loại cây cỏ và thực vật mọc tự nhiên trong một khu vực. Ex: The region is known for its dense vegetation and diverse plant species (Khu vực này nổi tiếng với thảm thực vật dày đặc và các loài thực vật đa dạng)
+eco-tourism /ˈiːkoʊˌtʊrɪzəm/: (n) du lịch sinh thái. Nghĩa: Hình thức du lịch chú trọng bảo vệ môi trường và văn hóa địa phương. Ex: Eco-tourism is growing in popularity in the delta (Du lịch sinh thái ngày càng phổ biến ở đồng bằng)
+harmony /ˈhɑːrməni/: (n) sự hài hòa. Nghĩa: Tình trạng hòa hợp và đồng nhất. Ex: The design of the village is in harmony with nature (Thiết kế của ngôi làng hài hòa với thiên nhiên)
+harmonious /hɑːrˈmoʊniəs/: (adj) hài hòa. Nghĩa: Có sự hòa hợp và đồng nhất. Ex: The community lives in a harmonious relationship with their environment (Cộng đồng sống trong mối quan hệ hài hòa với môi trường của họ)
+cultural heritage /ˈkʌltʃərəl ˈhɛrɪtɪʤ/: (n) di sản văn hóa. Nghĩa: Các giá trị văn hóa được truyền lại qua các thế hệ. Ex: The city's cultural heritage is reflected in its architecture and festivals (Di sản văn hóa của thành phố được phản ánh qua kiến trúc và lễ hội của nó)
+agricultural bounty /ˌæɡrɪˈkʌltʃərəl ˈbaʊnti/: (n) sự phong phú về nông sản. Nghĩa: Sự dư dả và phong phú của các sản phẩm nông nghiệp. Ex: The region is known for its agricultural bounty, including rice, fruit, and fish (Khu vực này nổi tiếng với sự phong phú về nông sản, bao gồm lúa gạo, trái cây và cá)
+glimpse /ɡlɪmps/: (n) cái nhìn thoáng qua. Nghĩa: Nhìn thấy một cách nhanh chóng và không rõ ràng. Ex: Visitors can catch a glimpse of traditional life in the delta (Du khách có thể thoáng thấy cuộc sống truyền thống ở đồng bằng)
+warm hospitality /wɔːrm ˌhɒspɪˈtælɪti/: (n) lòng hiếu khách nồng hậu. Nghĩa: Sự tiếp đón và hiếu khách với sự ấm áp và thân thiện. Ex: The villagers are known for their warm hospitality (Người dân làng nổi tiếng với lòng hiếu khách nồng hậu)
+# Describe Your School
+prestigious institution /prɛˈstɪdʒəs ˌɪnstɪˈtuːʃən/: (n) cơ sở uy tín. Nghĩa: Một tổ chức hoặc cơ sở giáo dục có danh tiếng cao. Ex: Harvard University is a prestigious institution (Đại học Harvard là một cơ sở uy tín)
+business administration /ˈbɪznɪs ædˌmɪnɪˈstreɪʃən/: (n) quản trị kinh doanh. Nghĩa: Ngành học về quản lý và điều hành doanh nghiệp. Ex: She is studying business administration at a top university (Cô ấy đang học ngành quản trị kinh doanh tại một trường đại học hàng đầu)
+key aspects /kiː ˈæspekts/: (n) các khía cạnh chính. Nghĩa: Những phần quan trọng của một vấn đề. Ex: The course covers key aspects of financial management (Khóa học bao gồm các khía cạnh chính của quản lý tài chính)
+highly qualified academics /ˈhaɪli ˈkwɒlɪfaɪd ˌækəˈdɛmɪks/: (n) các học giả có trình độ cao. Nghĩa: Những người giảng dạy và nghiên cứu có trình độ và kinh nghiệm cao trong lĩnh vực của họ. Ex: The university boasts a faculty of highly qualified academics (Trường đại học tự hào có đội ngũ giảng viên có trình độ cao)
+typically /ˈtɪpɪkli/: (adv) thường. Nghĩa: Thường là, theo cách điển hình. Ex: Graduate programs typically require a bachelor's degree for admission (Các chương trình sau đại học thường yêu cầu bằng cử nhân để được nhập học)
+advanced degrees /ədˈvɑːnst dɪˈɡriːz/: (n) các bằng cấp cao. Nghĩa: Các bằng cấp sau cử nhân, như thạc sĩ hoặc tiến sĩ. Ex: Many faculty members hold advanced degrees in their fields (Nhiều giảng viên có các bằng cấp cao trong lĩnh vực của họ)
+PhD /piː eɪtʃ ˈdiː/: (n) tiến sĩ. Nghĩa: Bằng cấp cao nhất trong hầu hết các lĩnh vực học thuật. Ex: She earned her PhD in economics from Stanford University (Cô ấy đã lấy bằng tiến sĩ kinh tế từ Đại học Stanford)
+extensive /ɪkˈstɛnsɪv/: (adj) rộng rãi. Nghĩa: Bao phủ hoặc kéo dài trên một khu vực hoặc phạm vi rộng lớn. Ex: He has extensive experience in the tech industry (Anh ấy có kinh nghiệm rộng rãi trong ngành công nghệ)
+imparting /ɪmˈpɑːrtɪŋ/: (v) truyền đạt. Nghĩa: Chia sẻ hoặc truyền đạt thông tin, kiến thức. Ex: The teacher is skilled in imparting complex concepts (Giáo viên có kỹ năng truyền đạt các khái niệm phức tạp)
+foster /ˈfɒstər/: (v) thúc đẩy. Nghĩa: Khuyến khích hoặc nuôi dưỡng sự phát triển của một cái gì đó. Ex: The school aims to foster creativity in its students (Trường học nhằm thúc đẩy sự sáng tạo ở học sinh)
+sector /ˈsɛktər/: (n) lĩnh vực. Nghĩa: Một phần hoặc phân khúc của nền kinh tế hoặc xã hội. Ex: The tech sector is growing rapidly (Lĩnh vực công nghệ đang phát triển nhanh chóng)
+pursuit /pərˈsuːt/: (n) sự theo đuổi. Nghĩa: Hành động hoặc quá trình theo đuổi một mục tiêu hoặc sở thích. Ex: Her pursuit of knowledge led her to many discoveries (Sự theo đuổi kiến thức đã dẫn cô đến nhiều khám phá)
+extracurricular /ˌɛkstrəˈkɪrɪkjələr/: (adj) ngoại khóa. Nghĩa: Các hoạt động ngoài chương trình học chính. Ex: The school offers a variety of extracurricular activities (Trường cung cấp nhiều hoạt động ngoại khóa)
+comprehend /ˌkɒmprɪˈhɛnd/: (v) hiểu. Nghĩa: Nắm bắt hoặc hiểu biết đầy đủ về một điều gì đó. Ex: It's important to comprehend the basics before moving on (Điều quan trọng là phải hiểu những điều cơ bản trước khi tiến tới)
+comprehensive /ˌkɒmprɪˈhɛnsɪv/: (adj) toàn diện. Nghĩa: Bao gồm tất cả hoặc gần như tất cả các yếu tố hoặc khía cạnh. Ex: The report provides a comprehensive overview of the project (Báo cáo cung cấp một cái nhìn tổng quan toàn diện về dự án)
+foundational /faʊnˈdeɪʃənəl/: (adj) cơ bản. Nghĩa: Cơ sở hoặc căn bản, tạo nền tảng cho những điều khác. Ex: Understanding microeconomics is foundational to studying business (Hiểu biết về kinh tế vi mô là nền tảng để học kinh doanh)
+microeconomics /ˌmaɪkroʊˌiːkəˈnɒmɪks/: (n) kinh tế vi mô. Nghĩa: Ngành kinh tế học nghiên cứu các hành vi của các đơn vị kinh tế cá nhân như hộ gia đình và doanh nghiệp. Ex: Microeconomics examines how individuals make economic decisions (Kinh tế vi mô nghiên cứu cách các cá nhân đưa ra các quyết định kinh tế)
+macroeconomics /ˌmækroʊˌiːkəˈnɒmɪks/: (n) kinh tế vĩ mô. Nghĩa: Ngành kinh tế học nghiên cứu nền kinh tế tổng thể và các yếu tố ảnh hưởng đến nó. Ex: Macroeconomics looks at the economy as a whole, including inflation and unemployment (Kinh tế vĩ mô nhìn vào nền kinh tế tổng thể, bao gồm lạm phát và thất nghiệp)
+accounting /əˈkaʊntɪŋ/: (n) kế toán. Nghĩa: Quá trình ghi chép, phân loại và báo cáo các giao dịch tài chính. Ex: She is studying accounting to become a certified public accountant (Cô ấy đang học kế toán để trở thành một kế toán công chứng)
+marketing /ˈmɑːrkɪtɪŋ/: (n) tiếp thị. Nghĩa: Quá trình quảng bá và bán sản phẩm hoặc dịch vụ. Ex: The marketing team developed a new campaign to attract customers (Đội ngũ tiếp thị đã phát triển một chiến dịch mới để thu hút khách hàng)
+elective /ɪˈlɛktɪv/: (n) môn tự chọn. Nghĩa: Khóa học hoặc môn học mà học sinh có thể chọn để học, không bắt buộc. Ex: Students can choose from a variety of electives in their final year (Học sinh có thể chọn từ nhiều môn tự chọn trong năm cuối)
+tailored to /ˈteɪlərd tuː/: (phrase) được điều chỉnh phù hợp với. Nghĩa: Điều chỉnh hoặc thiết kế để phù hợp với nhu cầu hoặc sở thích cụ thể. Ex: The program is tailored to meet the needs of working professionals (Chương trình được điều chỉnh để đáp ứng nhu cầu của các chuyên gia đang làm việc)
+entrepreneurship /ˌɒntrəprəˈnɜːrʃɪp/: (n) khởi nghiệp. Nghĩa: Hành động hoặc quá trình bắt đầu và điều hành một doanh nghiệp mới. Ex: The course on entrepreneurship encourages students to start their own businesses (Khóa học về khởi nghiệp khuyến khích học sinh bắt đầu kinh doanh riêng)
+financial analysis /faɪˈnænʃəl əˈnælɪsɪs/: (n) phân tích tài chính. Nghĩa: Quá trình đánh giá các dữ liệu tài chính để đưa ra quyết định kinh doanh. Ex: Financial analysis is crucial for understanding the health of a company (Phân tích tài chính là rất quan trọng để hiểu về tình hình của một công ty)
+align with /əˈlaɪn wɪð/: (phrase) phù hợp với. Nghĩa: Được đồng nhất hoặc điều chỉnh để phù hợp với một mục tiêu hoặc tiêu chuẩn nào đó. Ex: The new policies align with the company's long-term goals (Các chính sách mới phù hợp với các mục tiêu dài hạn của công ty)
+industry trends /ˈɪndəstri trɛndz/: (n) xu hướng ngành. Nghĩa: Những xu hướng hiện tại và tương lai trong một ngành cụ thể. Ex: Staying updated with industry trends is essential for business success (Cập nhật xu hướng ngành là điều cần thiết để thành công trong kinh doanh)
+competitive job market /kəmˈpɛtɪtɪv ʤɑb ˈmɑrkɪt/: (n) thị trường việc làm cạnh tranh. Nghĩa: Thị trường lao động có nhiều ứng viên cạnh tranh cho cùng một công việc. Ex: Having a degree from a prestigious institution can help in a competitive job market (Có bằng cấp từ một cơ sở uy tín có thể giúp trong thị trường việc làm cạnh tranh)
+enrich /ɪnˈrɪtʃ/: (v) làm phong phú. Nghĩa: Làm cho phong phú hơn hoặc có giá trị hơn. Ex: Traveling can enrich your understanding of different cultures (Du lịch có thể làm phong phú thêm hiểu biết của bạn về các nền văn hóa khác nhau)
+association /əˌsoʊsiˈeɪʃən/: (n) hiệp hội. Nghĩa: Một nhóm người hoặc tổ chức cùng hoạt động trong một lĩnh vực cụ thể. Ex: She joined the professional association to network with other experts (Cô ấy tham gia hiệp hội chuyên nghiệp để kết nối với các chuyên gia khác)
+social gathering /ˈsoʊʃəl ˈɡæðərɪŋ/: (n) buổi tụ tập xã hội. Nghĩa: Cuộc gặp gỡ hoặc sự kiện nơi mọi người đến với nhau để tương tác xã hội. Ex: The company organizes social gatherings to foster team spirit (Công ty tổ chức các buổi tụ tập xã hội để thúc đẩy tinh thần đồng đội)
+camaraderie /ˌkæməˈrɑːdəri/: (n) tình đồng đội. Nghĩa: Tình bạn và sự thân thiết giữa những người chia sẻ cùng một hoạt động hoặc môi trường. Ex: The camaraderie among team members was evident during the project (Tình đồng đội giữa các thành viên trong nhóm thể hiện rõ ràng trong suốt dự án)
+cultivate /ˈkʌltɪveɪt/: (v) trau dồi. Nghĩa: Phát triển hoặc cải thiện kỹ năng, phẩm chất hoặc mối quan hệ. Ex: The program aims to cultivate leadership skills in students (Chương trình nhằm trau dồi kỹ năng lãnh đạo cho học sinh)
 
 
 
