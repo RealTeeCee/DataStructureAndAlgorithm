@@ -27,7 +27,7 @@ Second /ˈsɛkənd/ : thứ nhì
 Third /θɜːrd/ : thứ ba
 For example /fɔːr ɪɡˈzæmpl/ : ví dụ
 In general /ɪn ˈdʒɛnərəl/ : nói chung
-Mainly /ˈmeɪnli/ : nhất là
+Mainly /ˈmeɪnli/ : nhất là, chủ yếu là
 For instance /fɔːr ˈɪnstəns/ : ví dụ
 Indeed /ɪnˈdiːd/ : thực ra
 Namely /ˈneɪmli/ : nhất là
