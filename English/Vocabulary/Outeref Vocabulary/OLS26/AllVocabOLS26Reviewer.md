@@ -30,7 +30,7 @@ nói chung:
 nhất là, chủ yếu là: 
 ví dụ:
 thực ra:
-nhất là:
+cụ thể là:
 thỉnh thoảng:
 thường xuyên:
 đôi khi:

@@ -30,7 +30,7 @@ In general /ɪn ˈdʒɛnərəl/ : nói chung
 Mainly /ˈmeɪnli/ : nhất là, chủ yếu là
 For instance /fɔːr ˈɪnstəns/ : ví dụ
 Indeed /ɪnˈdiːd/ : thực ra
-Namely /ˈneɪmli/ : nhất là
+Namely /ˈneɪmli/ : cụ thể là
 Occasionally /əˈkeɪʒənəli/ : thỉnh thoảng
 Often /ˈɔːfən/ : thường xuyên
 Sometimes /ˈsʌmtaɪmz/ : đôi khi
