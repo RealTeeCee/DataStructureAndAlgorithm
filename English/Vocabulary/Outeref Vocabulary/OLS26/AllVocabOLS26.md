@@ -13,7 +13,7 @@ Nevertheless /ˌnɛvərðəˈlɛs/ : tuy thế mà
 On the contrary /ɒn ðə ˈkɒntrəri/ : trái lại
 Yet /jɛt/ : tuy nhiên
 On the other hand /ɒn ði ˈʌðər hænd/ : ngược lại
-Surely /ˈʃʊrli/ : Không nghi ngờ
+Surely /ˈʃʊrli/ : Chắn chắn là, Không nghi ngờ gì nữa
 Naturally /ˈnæʧrəli/ : dĩ nhiên là
 Although this may be true /ɔːlˈðoʊ ðɪs meɪ bi truː/ : mặc dù điều này có thể đúng
 Certainly /ˈsɜːrtənli/ : chắc chắn là

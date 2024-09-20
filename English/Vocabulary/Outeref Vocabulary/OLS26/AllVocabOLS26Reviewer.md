@@ -1,9 +1,9 @@
-hơn nữa: 
-thêm vào: 
-hơn thế: 
-bên cạnh: 
-cũng như thế: 
-cũng như vậy: 
+hơn nữa: .
+thêm vào: .
+hơn thế: .
+bên cạnh: .
+cũng như thế: .
+cũng như vậy: .
 trong cùng hoàn cảnh: 
 tương tự như vậy: 
 cũng giống vậy: 
@@ -13,7 +13,7 @@ tuy thế mà:
 trái lại: 
 tuy nhiên: 
 ngược lại: 
-Không nghi ngờ: 
+Chắn chắn là, Không nghi ngờ gì nữa: 
 dĩ nhiên là: 
 mặc dù điều này có thể đúng: 
 chắc chắn là: 
