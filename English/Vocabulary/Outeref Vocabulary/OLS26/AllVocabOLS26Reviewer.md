@@ -29,7 +29,7 @@ ví dụ:
 nói chung: 
 nhất là, chủ yếu là: 
 ví dụ:
-thực ra:
+thực vậy, quả thực:
 cụ thể là:
 thỉnh thoảng:
 thường xuyên:

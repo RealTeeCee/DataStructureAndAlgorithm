@@ -29,7 +29,7 @@ For example /fɔːr ɪɡˈzæmpl/ : ví dụ
 In general /ɪn ˈdʒɛnərəl/ : nói chung
 Mainly /ˈmeɪnli/ : nhất là, chủ yếu là
 For instance /fɔːr ˈɪnstəns/ : ví dụ
-Indeed /ɪnˈdiːd/ : thực ra
+Indeed /ɪnˈdiːd/ : thực vậy, quả thực
 Namely /ˈneɪmli/ : cụ thể là
 Occasionally /əˈkeɪʒənəli/ : thỉnh thoảng
 Often /ˈɔːfən/ : thường xuyên
