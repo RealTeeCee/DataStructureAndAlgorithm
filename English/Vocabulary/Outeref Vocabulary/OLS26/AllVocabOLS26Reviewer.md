@@ -1,3 +1,243 @@
+hơn nữa: 
+thêm vào: 
+hơn thế: 
+bên cạnh: 
+cũng như thế: 
+cũng như vậy: 
+trong cùng hoàn cảnh: 
+tương tự như vậy: 
+cũng giống vậy: 
+cùng điều kiện: 
+tuy nhiên: 
+tuy thế mà: 
+trái lại: 
+tuy nhiên: 
+ngược lại: 
+Không nghi ngờ: 
+dĩ nhiên là: 
+mặc dù điều này có thể đúng: 
+chắc chắn là: 
+không nghi ngờ: 
+cuối cùng: 
+tóm lại: 
+để kết luận: 
+nói tóm lại: 
+trước hết: 
+thứ nhì: 
+thứ ba: 
+ví dụ: 
+nói chung: 
+nhất là: 
+ví dụ: 
+thực ra: 
+nhất là: 
+thỉnh thoảng: 
+thường xuyên: 
+đôi khi: 
+thường khi: 
+thường xuyên: 
+thường xuyên: 
+ở đây: 
+ở đâu khác: 
+trong hậu trường: 
+ở đó: 
+xa xa: 
+thẳng trước mặt: 
+lần nữa: 
+nói cách khác: 
+một lần nữa: 
+như đã trình bày: 
+như tôi đã nói ở trên: 
+như anh đã biết: 
+như thế thì: 
+cho nên: 
+cho nên: 
+kết quả là: 
+trong lúc ấy: 
+cùng lúc đó: 
+vào lúc đó: 
+cùng lúc ấy: 
+sau một lúc: 
+trong quá khứ: 
+hết xăng: 
+cho đổ đầy bình xăng: 
+đứng xếp hàng: 
+giải quyết khiếu nại: 
+xem lại bộ số: 
+sửa thắng: 
+bơm xăng: 
+xăng không có chì: 
+xăng thường: 
+xăng tốt nhất không có chì: 
+nhân viên cây xăng: 
+thợ máy: 
+sửa lại bộ hộp số: 
+thay bộ hộp số: 
+thay dầu mỡ: 
+lấy tiền công và tiền phụ tùng: 
+thợ máy: 
+thợ thành thạo chuyên môn: 
+máy móc: 
+nhớt máy: 
+bình điện: 
+bugi: 
+xịt: 
+bọc ghế ngồi: 
+chà tới lui: 
+chất tẩy rửa: 
+xà phòng: 
+túi không thấm: 
+miếng vải: 
+thuốc tẩy: 
+bánh xe: 
+sườn xe: 
+đầu xe máy: 
+yên xe: 
+bánh lái: 
+thắng xe: 
+bàn đạp: 
+hệ thống tòa án: 
+thẩm phán: 
+chánh án: 
+biện lý, công tố: 
+luật sư: 
+luật sư: 
+thư ký tòa án, lục sự: 
+bồi thẩm đoàn có 12 bồi thẩm viên: 
+phán xét không mãn nguyện: 
+cho bản định tội của bồi thẩm đoàn: 
+trả lời đơn thưa: 
+kiện cáo ai: 
+nộp đơn thưa: 
+ra tòa: 
+tuyên án: 
+trường công lập: 
+trường tư nhân - dân lập: 
+hiệu trưởng: 
+phó hiệu trưởng: 
+giám thị: 
+chấp hành kỷ luật: 
+đón con: 
+đời sống sung túc dễ dàng: 
+tin vào những gì bạn thấy, thường diễn tả sự ngạc nhiên: 
+xin cứ tự nhiên: 
+phòng có thể nhìn ra bên ngoài: 
+phòng ngủ có thêm phòng khách loại đặc biệt: 
+truyền hình cáp: 
+đầu máy - video cassette recorder: 
+điện thoại: 
+có internet: 
+phòng lễ tân: 
+thu ngân: 
+chỗ nhận phòng: 
+chỗ trả phòng: 
+nhân viên khuân vác hành lý: 
+trưởng nhóm bảo vệ khuân vác: 
+cho xem thư đặt phòng trước: 
+giấy xác nhận có đặt phòng trước: 
+cho xem chứng minh thư: 
+đưa nhân viên nhận phòng xem visa của bạn: 
+ký hợp đồng: 
+nhận chìa khóa: 
+gọi nhân viên khuân vác hành lý: 
+chỉ cho họ hành lý của bạn: 
+vô thang máy: 
+nhân viên trả phòng: 
+thủ tục trả phòng: 
+người lao công quét dọn phòng: 
+trả bằng ngân phiếu: 
+trả bằng thẻ tín dụng: 
+trả bằng thẻ thu ngân: 
+phòng thương mại: 
+lấy thông tin: 
+quyển niên giám về thương mại: 
+phòng nhân sự: 
+phòng tuyển dụng: 
+viên chức tuyển dụng: 
+bộ hồ sơ xin việc: 
+tóm tắt lý lịch: 
+sơ yếu lý lịch: 
+giấy chứng nhận sức khỏe: 
+hình: 
+cuộc phỏng vấn: 
+những tài liệu còn thiếu: 
+những tài liệu theo yêu cầu: 
+chuyên nghiệp hay thiếu chuyên nghiệp: 
+một buổi hội thảo: 
+chủ đề thảo luận: 
+giấy quảng bá buổi hội thảo: 
+phòng hội thảo: 
+được tổ chức tại: 
+có lấy phí tham dự: 
+phù hợp nhu cầu của bạn: 
+dự một buổi hội thảo: 
+tiệm bán quà tặng: 
+quà lưu niệm: 
+có nhiều quà để chọn lựa: 
+quà tặng cho tất cả dịp lễ: 
+mẫu hàng cho sinh nhật: 
+kỷ niệm hằng năm: 
+kỷ niệm ngày cưới: 
+kỷ niệm năm thứ 5: 
+mỹ phẩm: 
+quà cho nam giới: 
+gửi thư: 
+mua tem gửi bằng đường hàng không: 
+tem mua để gửi số lượng nhiều: 
+phong bì: 
+trả tiền điện, gas: 
+nhân viên bưu điện: 
+gửi thư bảo đảm: 
+thư gửi tốc hành: 
+thư chuyển nhanh qua đêm phát ngày mai: 
+gia hạn hộ chiếu: 
+gửi gói đồ: 
+khám bệnh: 
+khám bệnh tổng quát: 
+điền vào đơn của bệnh nhân: 
+được bảo hiểm chi trả: 
+bác sĩ gia đình: 
+khám người tôi: 
+cho toa: 
+tiêm: 
+kiểm tra đầu, ngực: 
+đo huyết áp: 
+một lỗ bị sâu răng: 
+răng giả: 
+khám răng: 
+chụp X-quang răng: 
+trám: 
+niềng răng: 
+đánh răng: 
+dùng chỉ nha khoa: 
+nhổ răng: 
+Shopping and Supermarket: 
+đi siêu thị: 
+mua: 
+gia cầm: 
+trái cây và rau quả: 
+cửa hàng trưởng: 
+máy tính tiền: 
+lối đi có hàng hóa 2 bên cho khách chọn mua: 
+bán hạ giá: 
+rừng rậm: 
+mang theo súng săn: 
+bắn: 
+con nai: 
+nai cái: 
+con sóc: 
+con hổ: 
+con khỉ: 
+con gấu: 
+cấm: 
+giết: 
+săn để lấy thịt ăn hay bán: 
+(n) Luật sư: 
+(n) Luật sư trẻ tuổi nữ: 
+(v) Giữ lại: 
+(n) Văn phòng luật sư: 
+(v) Cầu hôn: 
+(n) Đàn (gia súc, chim, etc.): 
 (prep) Khi đến nơi: 
 (prep) Khi về nhà: 
 (n) Chập tối: 
