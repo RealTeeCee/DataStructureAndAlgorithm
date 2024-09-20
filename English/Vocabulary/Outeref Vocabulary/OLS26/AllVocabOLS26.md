@@ -32,11 +32,11 @@ For instance /fɔːr ˈɪnstəns/ : ví dụ
 Indeed /ɪnˈdiːd/ : thực vậy, quả thực
 Namely /ˈneɪmli/ : cụ thể là
 Occasionally /əˈkeɪʒənəli/ : thỉnh thoảng
-Often /ˈɔːfən/ : thường xuyên
+Often /ˈɔːfən/ : thường
 Sometimes /ˈsʌmtaɪmz/ : đôi khi
-Usually /ˈjuːʒuəli/ : thường khi
+Usually /ˈjuːʒuəli/ : thường xuyên
 Frequently /ˈfriːkwəntli/ : thường xuyên
-Generally /ˈdʒɛnərəli/ : thường xuyên
+Generally /ˈdʒɛnərəli/ : thường thì, nhìn chung
 Here /hɪər/ : ở đây
 Elsewhere /ˈelswɛr/ : ở đâu khác
 In the background /ɪn ðə ˈbækɡraʊnd/ : trong hậu trường

@@ -36,7 +36,7 @@ thường xuyên:
 đôi khi:
 thường khi:
 thường xuyên:
-thường xuyên:
+thường thì, nhìn chung:
 ở đây:
 ở đâu khác:
 trong hậu trường:
