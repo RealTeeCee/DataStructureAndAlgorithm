@@ -49,7 +49,7 @@ Once again /wʌns əˈɡɛn/ : một lần nữa
 As it has been pointed out /æz ɪt hæz bɪn ˈpɔɪntɪd aʊt/ : như đã trình bày
 As I have said above /æz aɪ hæv sɛd əˈbʌv/ : như tôi đã nói ở trên
 As you've known /æz juːv noʊn/ : như anh đã biết
-Then /ðɛn/ : như thế thì
+Then /ðɛn/ : sau đó; như vậy thì
 Thus /ðʌs/ : cho nên
 Therefore /ˈðɛrˌfɔːr/ : cho nên
 As a result /æz ə rɪˈzʌlt/ : kết quả là

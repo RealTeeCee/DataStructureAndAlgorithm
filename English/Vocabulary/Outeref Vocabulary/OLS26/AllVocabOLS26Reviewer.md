@@ -49,7 +49,7 @@ một lần nữa:
 như đã trình bày: 
 như tôi đã nói ở trên: 
 như anh đã biết: 
-như thế thì: 
+sau đó; như vậy thì: 
 cho nên: 
 cho nên: 
 kết quả là: 
