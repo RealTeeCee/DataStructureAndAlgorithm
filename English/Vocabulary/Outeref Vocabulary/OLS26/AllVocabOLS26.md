@@ -73,7 +73,7 @@ The gas station attendant /ðə ɡæs ˈsteɪʃən əˈtɛndənt/ : nhân viên 
 The mechanics /ðə mɪˈkænɪks/ : thợ máy
 To fix the transmission /tuː fɪks ðə trænzˈmɪʃən/ : sửa lại bộ hộp số
 To change transmission /tuː ʧeɪndʒ trænzˈmɪʃən/ : thay bộ hộp số
-To change transmission oil /tuː ʧeɪndʒ trænzˈmɪʃən ɔɪl/ : thay dầu mỡ
+To change transmission oil /tuː ʧeɪndʒ trænzˈmɪʃən ɔɪl/ : thay dầu mỡ hộp số
 To charge a fee for parts and labor /tuː ʧɑːrdʒ ə fiː fɔːr pɑːrts ənd ˈleɪbər/ : lấy tiền công và tiền phụ tùng
 The mechanic /ðə mɪˈkænɪk/ : thợ máy
 The expertise /ðə ˌɛkspɜːrˈtiːz/ : thợ thành thạo chuyên môn

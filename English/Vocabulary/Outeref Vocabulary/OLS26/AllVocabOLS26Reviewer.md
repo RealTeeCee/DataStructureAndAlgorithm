@@ -73,7 +73,7 @@ nhân viên cây xăng:
 thợ máy: 
 sửa lại bộ hộp số: 
 thay bộ hộp số: 
-thay dầu mỡ: 
+thay dầu mỡ hộp số: 
 lấy tiền công và tiền phụ tùng: 
 thợ máy: 
 thợ thành thạo chuyên môn: 
