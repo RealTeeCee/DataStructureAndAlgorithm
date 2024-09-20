@@ -32,9 +32,9 @@ ví dụ:
 thực vậy, quả thực:
 cụ thể là:
 thỉnh thoảng:
-thường xuyên:
+thường:
 đôi khi:
-thường khi:
+thường xuyên:
 thường xuyên:
 thường thì, nhìn chung:
 ở đây:
