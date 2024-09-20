@@ -51,10 +51,10 @@ As I have said above /æz aɪ hæv sɛd əˈbʌv/ : như tôi đã nói ở trê
 As you've known /æz juːv noʊn/ : như anh đã biết
 Then /ðɛn/ : sau đó; như vậy thì
 Thus /ðʌs/ : cho nên
-Therefore /ˈðɛrˌfɔːr/ : cho nên
+Therefore /ˈðɛrˌfɔːr/ : vì vậy
 As a result /æz ə rɪˈzʌlt/ : kết quả là
 Meanwhile /ˈmiːnˌwaɪl/ : trong lúc ấy
-Simultaneously /ˌsaɪməlˈteɪniəsli/ : cùng lúc đó
+Simultaneously /ˌsaɪməlˈteɪniəsli/ : đồng thời; ngay lúc đó
 At that time /æt ðæt taɪm/ : vào lúc đó
 In the meantime /ɪn ðə ˈmiːnˌtaɪm/ : cùng lúc ấy
 After a while /ˈæftər ə waɪl/ : sau một lúc

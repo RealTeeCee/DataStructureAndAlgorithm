@@ -51,10 +51,10 @@ như tôi đã nói ở trên:
 như anh đã biết: 
 sau đó; như vậy thì: 
 cho nên: 
-cho nên: 
+vì vậy: 
 kết quả là: 
 trong lúc ấy: 
-cùng lúc đó: 
+đồng thời; ngay lúc đó: 
 vào lúc đó: 
 cùng lúc ấy: 
 sau một lúc: 
