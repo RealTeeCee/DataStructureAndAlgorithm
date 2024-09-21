@@ -150,7 +150,7 @@ trả bằng thẻ tín dụng:
 trả bằng thẻ thu ngân: 
 phòng thương mại: 
 lấy thông tin: 
-danh bạ doanh nghiệp: 
+danh bạ doanh nghiệp hàng năm: 
 phòng nhân sự: 
 phòng tuyển dụng: 
 viên chức tuyển dụng: 
