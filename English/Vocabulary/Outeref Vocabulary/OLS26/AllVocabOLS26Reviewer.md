@@ -165,6 +165,19 @@ những tài liệu theo yêu cầu:
 chuyên nghiệp hay thiếu chuyên nghiệp: 
 một buổi hội thảo: 
 chủ đề thảo luận: 
+
+Tờ rơi:
+Tờ rơi quảng cáo: 
+Áp phích, poster: 
+Tập tài liệu quảng cáo: 
+Sách mỏng, cuốn sách nhỏ: 
+
+
+
+
+
+
+
 giấy quảng bá buổi hội thảo: 
 phòng hội thảo: 
 được tổ chức tại: 
@@ -194,6 +207,8 @@ gia hạn hộ chiếu:
 gửi gói đồ: 
 khám bệnh: 
 khám bệnh tổng quát: 
+(v) Điền vào, điền thông tin (VÀO Ô TRỐNG HOẶC VỊ TRÍ CHỈ ĐỈNH): 
+(v) Điền đầy đủ, hoàn thành biểu mẫu: 
 điền vào đơn của bệnh nhân: 
 được bảo hiểm chi trả: 
 bác sĩ gia đình: 

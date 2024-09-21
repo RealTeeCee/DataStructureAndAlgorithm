@@ -165,6 +165,19 @@ The requested documents /ðə rɪˈkwɛstɪd ˈdɒkjʊmənts/ : những tài li�
 Professional or lack of it /prəˈfɛʃənl ɔːr læk ʌv ɪt/ : chuyên nghiệp hay thiếu chuyên nghiệp
 A seminar /ə ˈsɛmɪnɑːr/ : một buổi hội thảo
 The topic of discussion /ðə ˈtɒpɪk ʌv dɪˈskʌʃən/ : chủ đề thảo luận
+
+* leaflet /ˈliː.flɪt/: (n) Tờ rơi. Nghĩa: Một tờ giấy nhỏ cung cấp thông tin hoặc quảng cáo, thường được phân phát miễn phí. Ex: The store distributed leaflets to promote their sale. (Cửa hàng đã phát tờ rơi để quảng cáo chương trình khuyến mãi của họ)
+* flyer /ˈflaɪ.ər/: (n) Tờ rơi quảng cáo. Nghĩa: Một tờ giấy hoặc tài liệu nhỏ được thiết kế để thu hút sự chú ý, thường phát ở nơi công cộng. Ex: They handed out flyers for the upcoming event. (Họ phát tờ rơi quảng cáo cho sự kiện sắp tới)
+* poster /ˈpəʊ.stər/: (n) Áp phích, poster. Nghĩa: Một tờ giấy lớn với hình ảnh hoặc thông điệp quảng cáo, thường được dán ở nơi công cộng. Ex: The movie poster was displayed outside the cinema. (Poster quảng cáo phim được treo bên ngoài rạp chiếu phim)
+* brochure /ˈbrəʊ.ʃər/: (n) Tập tài liệu quảng cáo. Nghĩa: Một cuốn sách nhỏ hoặc tập tài liệu chứa thông tin chi tiết về sản phẩm hoặc dịch vụ. Ex: The travel agency gave me a brochure about their holiday packages. (Công ty du lịch đã đưa cho tôi tập tài liệu quảng cáo về các gói kỳ nghỉ của họ)
+* pamphlet /ˈpæm.flət/: (n) Sách mỏng, cuốn sách nhỏ. Nghĩa: Một cuốn sách nhỏ chứa thông tin hoặc quan điểm về một chủ đề cụ thể. Ex: He read a pamphlet on healthy eating habits. (Anh ấy đọc một cuốn sách nhỏ về thói quen ăn uống lành mạnh)
+
+* So sánh các từ:
+- Leaflet và flyer thường nhỏ và đơn giản, nhưng flyer có xu hướng thu hút sự chú ý hơn và được dùng nhiều trong các sự kiện hoặc chương trình khuyến mãi.
+- Poster lớn hơn, thường dùng để thu hút sự chú ý từ xa và hay được dán ở nơi công cộng.
+- Brochure là tập tài liệu nhiều trang với nội dung chi tiết hơn, thường dùng trong các ngành du lịch, bất động sản, hoặc dịch vụ cao cấp.
+- Pamphlet có mục đích giáo dục hoặc cung cấp thông tin cụ thể về một chủ đề, thường được phát tại các hội nghị hoặc sự kiện nâng cao nhận thức.
+
 A seminar leaflet /ə ˈsɛmɪnɑːr ˈliːflɪt/ : giấy quảng bá buổi hội thảo
 The conference room /ðə ˈkɒnfərəns ruːm/ : phòng hội thảo
 To be held at /tuː bi hɛld æt/ : được tổ chức tại
@@ -194,6 +207,8 @@ To renew a passport /tuː rɪˈnjuː ə ˈpæspɔːrt/ : gia hạn hộ chiếu
 To mail a package /tuː meɪl ə ˈpækɪdʒ/ : gửi gói đồ
 To have a checkup /tuː hæv ə ˈtʃɛkʌp/ : khám bệnh
 An overall medical checkup /æn ˈoʊvərɔːl ˈmɛdɪkl ˈtʃɛkʌp/ : khám bệnh tổng quát
+* fill in /fɪl ɪn/: (v) Điền vào, điền thông tin (VÀO Ô TRỐNG HOẶC VỊ TRÍ CHỈ ĐỈNH). Nghĩa: Dùng khi điền thông tin vào các ô hoặc chỗ trống trong một biểu mẫu hoặc tài liệu. Ex: Please fill in your name and address on the form. (Vui lòng điền tên và địa chỉ của bạn vào biểu mẫu)
+* fill out /fɪl aʊt/: (v) Điền đầy đủ, hoàn thành biểu mẫu. Nghĩa: Dùng khi hoàn thành toàn bộ một biểu mẫu hoặc tài liệu bằng cách điền vào tất cả các thông tin cần thiết. Ex: It took me 10 minutes to fill out the application form. (Tôi mất 10 phút để điền đầy đủ biểu mẫu đăng ký)
 To fill out the patient's form /tuː fɪl aʊt ðə ˈpeɪʃəntz fɔːrm/ : điền vào đơn của bệnh nhân
 To have insurance coverage /tuː hæv ɪnˈʊrəns ˈkʌvərɪdʒ/ : được bảo hiểm chi trả
 A family physician /ə ˈfæmɪli fɪˈzɪʃən/ : bác sĩ gia đình
