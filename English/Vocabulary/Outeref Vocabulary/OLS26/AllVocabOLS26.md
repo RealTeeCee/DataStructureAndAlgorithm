@@ -70,7 +70,7 @@ Unleaded gas /ʌnˈlɛdɪd ɡæs/ : xăng không có chì
 Regular gas /ˈrɛɡjələr ɡæs/ : xăng thường
 Super unleaded /ˈsuːpər ʌnˈlɛdɪd/ : xăng tốt nhất không có chì
 The gas station attendant /ðə ɡæs ˈsteɪʃən əˈtɛndənt/ : nhân viên cây xăng
-The mechanics /ðə mɪˈkænɪks/ : thợ máy
+The mechanics /ðə mɪˈkænɪks/ : Cơ giới học (hoặc nhiều người thợ máy)
 To fix the transmission /tuː fɪks ðə trænzˈmɪʃən/ : sửa lại bộ hộp số
 To change transmission /tuː ʧeɪndʒ trænzˈmɪʃən/ : thay bộ hộp số
 To change transmission oil /tuː ʧeɪndʒ trænzˈmɪʃən ɔɪl/ : thay dầu mỡ hộp số

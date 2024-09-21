@@ -70,7 +70,7 @@ xăng không có chì:
 xăng thường: 
 xăng tốt nhất không có chì: 
 nhân viên cây xăng: 
-thợ máy: 
+Cơ giới học (hoặc nhiều người thợ máy): 
 sửa lại bộ hộp số: 
 thay bộ hộp số: 
 thay dầu mỡ hộp số: 
