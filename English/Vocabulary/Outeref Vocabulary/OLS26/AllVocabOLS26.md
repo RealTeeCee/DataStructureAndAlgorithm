@@ -150,7 +150,7 @@ To pay by credit card /tuː peɪ baɪ ˈkrɛdɪt kɑːrd/ : trả bằng thẻ t
 To pay by cashier /tuː peɪ baɪ kæˈʃɪər/ : trả bằng thẻ thu ngân
 The chamber of commerce /ðə ˈʧeɪmbər ʌv ˈkɒmɜːrs/ : phòng thương mại
 To obtain the information /tuː əbˈteɪn ði ˌɪnfərˈmeɪʃən/ : lấy thông tin
-The yearly business directory /ðə ˈjɪərli ˈbɪznəs dɪˈrɛktəri/ : quyển niên giám về thương mại
+The yearly business directory /ðə ˈjɪərli ˈbɪznəs dɪˈrɛktəri/ : danh bạ doanh nghiệp; quyển niên giám về thương mại. Nghĩa: Danh bạ liệt kê các doanh nghiệp trong một ngành hoặc khu vực cụ thể
 The personnel department /ðə ˌpɜːrsəˈnɛl dɪˈpɑːrtmənt/ : phòng nhân sự
 The recruiting department /ðə rɪˈkruːtɪŋ dɪˈpɑːrtmənt/ : phòng tuyển dụng
 A recruiting officer /ə rɪˈkruːtɪŋ ˈɒfɪsər/ : viên chức tuyển dụng
