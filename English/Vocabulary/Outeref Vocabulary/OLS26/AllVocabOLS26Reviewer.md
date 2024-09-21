@@ -166,7 +166,7 @@ chuyên nghiệp hay thiếu chuyên nghiệp:
 một buổi hội thảo: 
 chủ đề thảo luận: 
 
-Tờ rơi ưu đãi:
+Tờ rơi ưu đãi: 
 Tờ rơi quảng cáo: 
 Áp phích, poster: 
 Tập tài liệu quảng cáo: 
