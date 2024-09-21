@@ -50,7 +50,7 @@ như đã trình bày:
 như tôi đã nói ở trên: 
 như anh đã biết: 
 sau đó; như vậy thì: 
-cho nên: 
+cho nên:    
 vì vậy: 
 kết quả là: 
 trong lúc ấy: 
@@ -134,7 +134,7 @@ chỗ trả phòng:
 nhân viên khuân vác hành lý: 
 trưởng nhóm bảo vệ khuân vác: 
 cho xem thư đặt phòng trước: 
-giấy xác nhận có đặt phòng trước: 
+biên lai xác nhận; giấy xác nhận có đặt phòng trước: 
 cho xem chứng minh thư: 
 đưa nhân viên nhận phòng xem visa của bạn: 
 ký hợp đồng: 
@@ -237,7 +237,7 @@ săn để lấy thịt ăn hay bán:
 (v) Giữ lại: 
 (n) Văn phòng luật sư: 
 (v) Cầu hôn: 
-(n) Đàn (gia súc, chim, etc.): 
+(n) Đàn (gia súc, chim, etc): 
 (prep) Khi đến nơi: 
 (prep) Khi về nhà: 
 (n) Chập tối: 
@@ -354,7 +354,7 @@ săn để lấy thịt ăn hay bán:
 (n) Bập bênh: 
 (v) Làm tóc: 
 (n) Dầu gội: 
-                   (v) Gội đầu. Ex:  
+                   (v) Gội đầu Ex:  
 (v) Uốn tóc: 
 (v) Tỉa tóc: 
 (v) Cạo râu: 
@@ -392,7 +392,7 @@ săn để lấy thịt ăn hay bán:
 (v) Cài đặt radio trong xe: 
 (v) Thay lốp xe: 
 (v) Sửa chữa tổng thể: 
-(v) Thực hiện sửa chữa toàn bộ hệ thống hoặc động cơ. Ex:  qua một lần sửa chữa toàn bộ)
+(v) Thực hiện sửa chữa toàn bộ hệ thống hoặc động cơ Ex:  qua một lần sửa chữa toàn bộ)
 (v) Bị thủng lốp: 
 (n) Va li: 
 (n) Tiểu hành tinh: 
@@ -418,17 +418,17 @@ săn để lấy thịt ăn hay bán:
 (v) Lặn với bình khí: 
 (n) Thủ đô: 
 (n) Thành phố thương mại: 
-Sách hướng dẫn.
-Các điểm thu hút khách du lịch.
-Di tích lịch sử.
-Gợi nhớ về.
-Bản đồ.
+Sách hướng dẫn
+Các điểm thu hút khách du lịch
+Di tích lịch sử
+Gợi nhớ về
+Bản đồ
 (n) Kem chống nắng: 
 (n) Kem chống nắng mạnh (sunblock): 
 Ex:  
 (v) Thoa kem chống nắng cho ai đó: 
 (a) Bị cháy nắng: 
-Quầy thông tin.
+Quầy thông tin
 (v) Trưng bày, triển lãm: 
 (n) Con sóc: 
 (v) Bị cháy nắng, bị bỏng: 

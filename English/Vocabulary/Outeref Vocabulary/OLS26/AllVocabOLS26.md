@@ -134,7 +134,7 @@ The check-out counter /ðə ˈʧɛk aʊt ˈkaʊntər/ : chỗ trả phòng
 A bellman /ə ˈbɛlmən/ : nhân viên khuân vác hành lý
 A bell captain /ə ˈbɛl ˈkæptɪn/ : trưởng nhóm bảo vệ khuân vác
 To show your reservation letter /tuː ʃoʊ jʊər ˌrɛzərˈveɪʃən ˈlɛtər/ : cho xem thư đặt phòng trước
-The confirmation slip /ðə ˌkɒnfərˈmeɪʃən slɪp/ : giấy xác nhận có đặt phòng trước
+The confirmation slip /ðə ˌkɒnfərˈmeɪʃən slɪp/ : biên lai xác nhận; giấy xác nhận có đặt phòng trước
 To present your ID card /tuː prɪˈzɛnt jʊər aɪ diː kɑːrd/ : cho xem chứng minh thư
 To give the check-in clerk your visa /tuː ɡɪv ðə ˈʧɛk ɪn klɜːrk jʊər ˈviːzə/ : đưa nhân viên nhận phòng xem visa của bạn
 To sign the contract /tuː saɪn ðə ˈkɒntrækt/ : ký hợp đồng
