@@ -255,6 +255,7 @@ săn để lấy thịt ăn hay bán:
 (n) Đàn (gia súc, chim, etc): 
 (prep) Khi đến nơi: 
 (prep) Khi về nhà: 
+(n) Hoàng hôn: 
 (n) Chập tối: 
 (n) Sườn đồi: 
 (a) Phụ thuộc: 
