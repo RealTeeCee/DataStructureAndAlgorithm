@@ -295,9 +295,9 @@ săn để lấy thịt ăn hay bán:
 (v) Đi qua cửa kiểm soát nhập cảnh: 
 (v) Lên tàu hoặc máy bay: 
 (v) Vẫy tay: 
-(n) Hàng hóa: 
+(n) Hàng hóa vận chuyển: 
 (n) Cảng biển: 
-(n) Hàng hóa: 
+(n) Hàng hóa, sản phẩm; mặt hàng: 
 (v) Xác định hàng hóa: 
 (n) Thuế nhập khẩu: 
 (n) Chi phí vận chuyển: 
