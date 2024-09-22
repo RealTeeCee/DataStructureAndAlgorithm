@@ -258,6 +258,7 @@ săn để lấy thịt ăn hay bán:
 (n) Hoàng hôn: 
 (n) Chập tối: 
 (n) Sườn đồi: 
+(v) Cảm thấy buồn: 
 (a) Phụ thuộc: 
 (n) Liên từ phụ thuộc: 
 (n) Bóng bàn: 
