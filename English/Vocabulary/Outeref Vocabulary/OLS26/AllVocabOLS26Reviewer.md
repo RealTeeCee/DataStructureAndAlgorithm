@@ -457,7 +457,7 @@ Quầy thông tin:
 (n) Danh mục trường đại học: 
 (n) Khoa, giảng viên: 
 (n) Các khoa khác nhau: 
-(n) Hiệu trưởng: 
+(n) Hiệu trưởng trường đại học; (tôn giáo) giám mục: 
 (n) Các môn học: 
 (n) Bằng cấp: 
 (n) Cử nhân nghệ thuật: 
