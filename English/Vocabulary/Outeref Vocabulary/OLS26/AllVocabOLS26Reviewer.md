@@ -423,7 +423,7 @@ săn để lấy thịt ăn hay bán:
 (n) Tàu cao tốc sử dụng động cơ phản lực: 
 (n) Cái xẻng: 
 (n) Cái xô: 
-(n) Kem chống nắng: 
+(n) Kem chống nắng dưỡng da rám nắng: 
 (n) Đồ bơi: 
 (n) Bình khí lặn: 
 (n) Chân vịt: 

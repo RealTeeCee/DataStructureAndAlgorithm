@@ -423,7 +423,7 @@ turbo /ˈtɜːrboʊ/: (n) Tăng áp. Nghĩa: Thiết bị sử dụng để tăn
 turbo jet boat /ˈtɜːr.boʊ dʒɛt boʊt/: (n) Tàu cao tốc sử dụng động cơ phản lực. Nghĩa: Loại tàu di chuyển nhanh nhờ động cơ phản lực. Ex: We took a ride on a turbo jet boat along the coast. (Chúng tôi đã đi trên tàu phản lực cao tốc dọc theo bờ biển)
 shovel /ˈʃʌvəl/: (n) Cái xẻng. Nghĩa: Dụng cụ dùng để đào đất hoặc cát. Ex: The children used a shovel to dig in the sand. (Trẻ em dùng xẻng để đào cát)
 pail /peɪl/: (n) Cái xô. Nghĩa: Dụng cụ để đựng nước, cát hoặc các chất lỏng khác. Ex: He filled the pail with water from the sea. (Anh ấy đổ đầy xô nước từ biển)
-suntan lotion /ˈsʌn.tæn ˈloʊʃən/: (n) Kem chống nắng. Nghĩa: Sản phẩm dùng để bảo vệ da khỏi tác hại của ánh nắng mặt trời. Ex: She applied suntan lotion before going to the beach. (Cô ấy thoa kem chống nắng trước khi ra biển)
+suntan lotion /ˈsʌn.tæn ˈloʊʃən/: (n) Kem chống nắng dưỡng da rám nắng. Nghĩa: Sản phẩm dùng để bảo vệ da khỏi tác hại của ánh nắng mặt trời. Ex: She applied suntan lotion before going to the beach. (Cô ấy thoa kem chống nắng trước khi ra biển)
 bathing suit /ˈbeɪ.ðɪŋ suːt/: (n) Đồ bơi. Nghĩa: Trang phục mặc khi đi bơi. Ex: She bought a new bathing suit for her vacation. (Cô ấy đã mua một bộ đồ bơi mới cho kỳ nghỉ của mình)
 scuba tank /ˈskuː.bə tæŋk/: (n) Bình khí lặn. Nghĩa: Bình chứa khí oxy dùng khi lặn dưới nước. Ex: The diver carried a scuba tank on his back. (Thợ lặn mang một bình khí lặn trên lưng)
 flippers /ˈflɪpərz/: (n) Chân vịt. Nghĩa: Dụng cụ giúp bơi dễ dàng và nhanh hơn khi lặn. Ex: He put on his flippers before diving into the water. (Anh ấy mang chân vịt trước khi lặn xuống nước)
