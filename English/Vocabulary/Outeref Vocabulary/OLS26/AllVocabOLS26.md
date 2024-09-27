@@ -442,7 +442,7 @@ remind you of /rɪˈmaɪnd ju əv/: Gợi nhớ về.
 map /mæp/: Bản đồ.
 sunscreen /ˈsʌn.skriːn/: (n) Kem chống nắng. Nghĩa: Sản phẩm bảo vệ da khỏi tác hại của tia UV từ ánh nắng mặt trời. Ex: Apply sunscreen before going outside to protect your skin. (Thoa kem chống nắng trước khi ra ngoài để bảo vệ da)
 sunblock /ˈsʌn.blɒk/: (n) Kem chống nắng mạnh (sunblock). Nghĩa: Loại kem chống nắng với khả năng ngăn chặn hoàn toàn tia UV, tạo một lớp bảo vệ trên da.Ex: He used sunblock to prevent getting sunburned at the beach. (Anh ấy sử dụng sunblock để tránh bị cháy nắng khi ở bãi biển)
-put sunblock on someone /pʊt ˈsʌn ˌblɒk ɒn ˈsʌm.wʌn/: (v) Thoa kem chống nắng cho ai đó. Nghĩa: Giúp người khác thoa kem chống nắng. Ex: She put sun block on her daughter before going to the beach. (Cô ấy thoa kem chống nắng cho con gái trước khi đi biển)
+put sunblock on someone /pʊt ˈsʌn ˌblɒk ɒn ˈsʌm.wʌn/: (v) Thoa kem chống nắng cho ai đó. Nghĩa: Giúp người khác thoa kem chống nắng.Ex: She put sun block on her daughter before going to the beach. (Cô ấy thoa kem chống nắng cho con gái trước khi đi biển)
 sunburned /ˈsʌn.bɜːnd/: (a) Bị cháy nắng. Nghĩa: Da bị bỏng do tiếp xúc với ánh nắng mặt trời quá mức. Ex: He got sunburned after spending the whole day at the beach. (Anh ấy bị cháy nắng sau khi ở ngoài biển cả ngày)
 information booth /ˌɪn.fəˈmeɪ.ʃən buːθ/: Quầy thông tin.
 exhibit /ɪɡˈzɪb.ɪt/: (v) Trưng bày, triển lãm. Nghĩa: Đưa ra hoặc trưng bày một vật gì đó trong một buổi triển lãm. Ex: The museum will exhibit ancient artifacts from the Roman Empire. (Bảo tàng sẽ trưng bày các hiện vật cổ từ Đế chế La Mã)

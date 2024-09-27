@@ -409,7 +409,7 @@ săn để lấy thịt ăn hay bán:
 (v) Cài đặt radio trong xe: 
 (v) Thay lốp xe: 
 (v) Sửa chữa tổng thể: 
-(v) Thực hiện sửa chữa toàn bộ hệ thống hoặc động cơ Ex:  qua một lần sửa chữa toàn bộ)
+(v) Thực hiện sửa chữa toàn bộ hệ thống hoặc động cơ:
 (v) Bị thủng lốp: 
 (n) Va li: 
 (n) Tiểu hành tinh: 
@@ -441,11 +441,10 @@ Di tích lịch sử
 Gợi nhớ về
 Bản đồ
 (n) Kem chống nắng: 
-(n) Kem chống nắng mạnh (sunblock): 
-Ex:  
+(n) Kem chống nắng mạnh: 
 (v) Thoa kem chống nắng cho ai đó: 
 (a) Bị cháy nắng: 
-Quầy thông tin
+Quầy thông tin: 
 (v) Trưng bày, triển lãm: 
 (n) Con sóc: 
 (v) Bị cháy nắng, bị bỏng: 
