@@ -435,11 +435,11 @@ săn để lấy thịt ăn hay bán:
 (v) Lặn với bình khí: 
 (n) Thủ đô: 
 (n) Thành phố thương mại: 
-Sách hướng dẫn
-Các điểm thu hút khách du lịch
-Di tích lịch sử
-Gợi nhớ về
-Bản đồ
+Sách hướng dẫn: 
+Các điểm thu hút khách du lịch: 
+Di tích lịch sử: 
+Gợi nhớ về: 
+Bản đồ: 
 (n) Kem chống nắng: 
 (n) Kem chống nắng mạnh: 
 (v) Thoa kem chống nắng cho ai đó: 
