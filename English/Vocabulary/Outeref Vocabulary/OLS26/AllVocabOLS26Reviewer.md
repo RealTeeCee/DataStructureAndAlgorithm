@@ -370,8 +370,8 @@ săn để lấy thịt ăn hay bán:
 (n) Hệ thống phun nước: 
 (n) Bập bênh: 
 (v) Làm tóc: 
-(n) Dầu gội: 
-                   (v) Gội đầu Ex:  
+(n) Dầu gội, (v) Gội đầu: 
+                   
 (v) Uốn tóc: 
 (v) Tỉa tóc: 
 (v) Cạo râu: 
