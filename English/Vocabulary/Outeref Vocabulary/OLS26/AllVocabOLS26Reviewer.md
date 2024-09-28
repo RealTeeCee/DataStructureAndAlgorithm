@@ -477,7 +477,6 @@ Quầy thông tin:
 (n) Văn phòng du lịch: 
 (n) Cháu gái và cháu trai: 
 (v) Lấy mẫu đơn: 
-(v) Điền vào: 
 (n) Nhà hát: 
 (n) Khán giả: 
 (n) Rèm: 
@@ -488,7 +487,7 @@ Quầy thông tin:
 (n) Ghế khu vực dàn nhạc: 
 (n) Tầng lửng: 
 (n) Ban công: 
-(n) Nhân viên dẫn chỗ: 
+(n) Nhân viên dẫn chỗ (trong nhà hát, rạp phim): 
 (n) Dàn hợp xướng: 
 (n) Synthesizer (nhạc cụ tổng hợp): 
 (n) Người chơi keyboard (nhạc cụ bấm phím): 
