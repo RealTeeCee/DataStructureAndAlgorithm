@@ -687,3 +687,5 @@ Quầy thông tin:
 (n) Cửa hàng văn phòng phẩm: 
 (n) Virus: 
 (n) Máy in: 
+(n) Cơ hội bình đẳng: 
+(n) Nhà tuyển dụng bình đẳng: 
