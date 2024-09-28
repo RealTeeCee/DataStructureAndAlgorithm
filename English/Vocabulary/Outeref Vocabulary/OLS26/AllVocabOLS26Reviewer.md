@@ -689,3 +689,5 @@ Quầy thông tin:
 (n) Máy in: 
 (n) Cơ hội bình đẳng: 
 (n) Nhà tuyển dụng bình đẳng: 
+(n) Thuật ngữ: 
+(n) Thuật ngữ trong thư tín kinh doanh: 
