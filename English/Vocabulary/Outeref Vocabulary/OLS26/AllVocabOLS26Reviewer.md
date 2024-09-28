@@ -520,10 +520,10 @@ Quầy thông tin:
 (n) Đơn thuốc: 
 (n) Viên nang: 
 (n) Viên thuốc: 
-(n) Viên thuốc: 
+(n) Viên thuốc hình con nhộng: 
 (n) Thuốc mỡ: 
 (n) Thuốc nhỏ mắt: 
-(n) Phẫu thuật: 
+(n) Ca phẫu thuật; khoa giải phẫu: 
 (n) Thủ môn: 
 (n) Cầu môn, mục tiêu: 
 (n) Trọng tài: 
