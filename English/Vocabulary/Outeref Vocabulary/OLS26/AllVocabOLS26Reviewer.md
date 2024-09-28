@@ -520,7 +520,7 @@ Quầy thông tin:
 (n) Đơn thuốc: 
 (n) Viên nang: 
 (n) Viên thuốc: 
-(n) Viên thuốc hình con nhộng: 
+(n) Viên thuốc dạng nhỏ tròn: 
 (n) Thuốc mỡ: 
 (n) Thuốc nhỏ mắt: 
 (n) Ca phẫu thuật; khoa giải phẫu: 

@@ -520,7 +520,7 @@ infection /ɪnˈfɛk.ʃən/: (n) Nhiễm trùng. Nghĩa: Tình trạng khi vi kh
 a prescription /ə prɪˈskrɪp.ʃən/: (n) Đơn thuốc. Nghĩa: Đơn do bác sĩ viết để yêu cầu thuốc hoặc điều trị. Ex: She received a prescription for antibiotics. (Cô ấy nhận được đơn thuốc cho thuốc kháng sinh)
 capsules /ˈkæp.səlz/: (n) Viên nang. Nghĩa: Loại thuốc được đóng trong một lớp vỏ gelatin. Ex: The doctor prescribed capsules to be taken twice daily. (Bác sĩ kê đơn viên nang để uống hai lần mỗi ngày)
 a tablet /ˈtæb.lɪt/: (n) Viên thuốc. Nghĩa: Viên thuốc có dạng rắn, thường dùng để uống. Ex: You should take one tablet every six hours. (Bạn nên uống một viên thuốc mỗi sáu giờ)
-a pill /pɪl/: (n) Viên thuốc hình con nhộng. Nghĩa: Thuốc dạng viên nhỏ để uống. Ex: He takes a pill every morning for his allergies. (Anh ấy uống một viên thuốc mỗi sáng để điều trị dị ứng)
+a pill /pɪl/: (n) Viên thuốc dạng nhỏ tròn. Nghĩa: Thuốc dạng viên nhỏ để uống. Ex: He takes a pill every morning for his allergies. (Anh ấy uống một viên thuốc mỗi sáng để điều trị dị ứng)
 ointment /ˈɔɪnt.mənt/: (n) Thuốc mỡ. Nghĩa: Sản phẩm bôi lên da để điều trị vết thương hoặc da khô. Ex: Apply the ointment to the affected area twice a day. (Thoa thuốc mỡ lên vùng bị ảnh hưởng hai lần mỗi ngày)
 eye drops /aɪ drɒps/: (n) Thuốc nhỏ mắt. Nghĩa: Dung dịch dùng để nhỏ vào mắt để điều trị hoặc làm sạch. Ex: Use the eye drops as directed to relieve irritation. (Sử dụng thuốc nhỏ mắt theo hướng dẫn để giảm kích ứng)
 surgery /ˈsɜː.dʒər.i/: (n) Ca phẫu thuật; khoa giải phẫu. Nghĩa: Quy trình y tế để điều trị bệnh hoặc chấn thương bằng cách can thiệp phẫu thuật. Ex: The patient is scheduled for surgery next week. (Bệnh nhân được lên lịch phẫu thuật vào tuần tới)
