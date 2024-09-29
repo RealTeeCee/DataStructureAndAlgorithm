@@ -574,6 +574,9 @@ Quầy thông tin:
 (a) Giả thuyết: 
 (v) Đối chiếu: 
 (n) Khoa cấp cứu: 
+(n) Nắp capo (trong ô tô):
+(n) Đầm lầy, vùng đất ngập nước: 
+/bɒɡd daʊn/: (v) Mắc kẹt, bị kẹt lại
 (n) Tập đoàn: 
 (v) Giữ máy: 
 (n) Quản lý bán hàng: 
