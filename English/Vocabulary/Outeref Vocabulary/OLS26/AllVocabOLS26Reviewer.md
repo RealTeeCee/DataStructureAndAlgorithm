@@ -702,3 +702,4 @@ Quầy thông tin:
 Mang theo một tuýp: 
 (v) Lao đi, chạy nhanh: 
 (v) Cầm lấy và chạy đi: 
+Nhận được điều may mắn đến từ thiên nhiên: 
