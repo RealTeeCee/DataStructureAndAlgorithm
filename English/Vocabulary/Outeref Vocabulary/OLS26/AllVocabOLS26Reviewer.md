@@ -643,7 +643,7 @@ Quầy thông tin:
 (n) Chi tiết: 
 (n) Đồ uống cocktail: 
 (n) Quyền sở hữu độc lập: 
-(n) Hợp danh: 
+(n) Hợp danh, đối tác: 
 (n) Tập đoàn: 
 (n) Đối tác: 
 (n) Cổ đông: 
@@ -663,7 +663,7 @@ Quầy thông tin:
 (n) Bài thuyết trình: 
 (n) Kế hoạch tiếp thị: 
 (v) Bị hoãn lại: 
-(v) Đính kèm: 
+(v) Đính kèm, ghim vào (lá thư): 
 (n) Danh mục sản phẩm: 
 (n) Sự cân nhắc: 
 (n) Sự lựa chọn: 
@@ -694,3 +694,11 @@ Quầy thông tin:
 (n) Nhà tuyển dụng bình đẳng: 
 (n) Thuật ngữ: 
 (n) Thuật ngữ trong thư tín kinh doanh: 
+(n) Quán ăn: 
+(n) Quán ăn địa phương: 
+(n) Biển động: 
+(n) Khăn tắm biển: 
+(n) Bào ngư: 
+Mang theo một tuýp: 
+(v) Lao đi, chạy nhanh: 
+(v) Cầm lấy và chạy đi: 
