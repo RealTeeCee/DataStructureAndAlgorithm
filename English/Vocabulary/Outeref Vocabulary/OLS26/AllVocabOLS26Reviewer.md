@@ -634,7 +634,7 @@ Quầy thông tin:
 (n) Thư tín dụng: 
 (n) Quy chế Tối huệ quốc: 
 (v) Vận chuyển: 
-(n) Hàng hóa trong cửa hàng: 
+(n) Hàng hóa (trong cửa hàng): 
 (v) Xóa nợ: 
 (n) Chi phí: 
 (n) Ban giám đốc: 
