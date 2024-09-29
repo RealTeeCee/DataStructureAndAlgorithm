@@ -634,7 +634,7 @@ bills of lading /bɪlz əv ˈleɪ.dɪŋ/: (n) Vận đơn. Nghĩa: Chứng từ 
 LC (Letter of credit) /ˈlet.ər əv ˈkrɛd.ɪt/: (n) Thư tín dụng. Nghĩa: Một chứng từ tài chính do ngân hàng phát hành đảm bảo thanh toán cho người bán. Ex: Payment will be made through a letter of credit. (Thanh toán sẽ được thực hiện thông qua thư tín dụng)
 MFN status (Most Favored Nations) /məʊst ˈfeɪ.vəd ˈneɪ.ʃənz/: (n) Quy chế Tối huệ quốc. Nghĩa: Tình trạng ưu đãi thương mại được cấp cho quốc gia được đối xử như quốc gia được ưu tiên. Ex: The country was granted MFN status in trade agreements. (Quốc gia này được cấp quy chế Tối huệ quốc trong các hiệp định thương mại)
 ship /ʃɪp/: (v) Vận chuyển. Nghĩa: Chuyển hàng hóa từ nơi này đến nơi khác. Ex: The goods were shipped overseas. (Hàng hóa đã được vận chuyển ra nước ngoài)
-goods /ɡʊdz/: (n) Hàng hóa. Nghĩa: Sản phẩm được mua bán. Ex: The store offers a variety of goods. (Cửa hàng cung cấp nhiều loại hàng hóa)
+goods /ɡʊdz/: (n) Hàng hóa trong cửa hàng. Nghĩa: Sản phẩm được mua bán. Ex: The store offers a variety of goods. (Cửa hàng cung cấp nhiều loại hàng hóa)
 write off /raɪt ɒf/: (v) Xóa nợ. Nghĩa: Xóa bỏ khoản nợ không thể thu hồi. Ex: The company decided to write off bad debts. (Công ty quyết định xóa nợ xấu)
 expenses /ɪkˈspensɪz/: (n) Chi phí. Nghĩa: Số tiền phải chi trả để mua hàng hóa, dịch vụ. Ex: Travel expenses were higher than expected. (Chi phí đi lại cao hơn dự kiến)
 board of directors /bɔːrd əv daɪˈrek.tərz/: (n) Ban giám đốc. Nghĩa: Nhóm người quản lý điều hành công ty. Ex: The board of directors approved the new policy. (Ban giám đốc đã phê duyệt chính sách mới)
