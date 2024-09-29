@@ -552,7 +552,7 @@ Quầy thông tin:
 (n) Đấu trường, sàn đấu: 
 (n) Găng tay: 
 (v) Hạ gục: 
-(n) Cái vợt: 
+(n) Vợt bóng bàn: 
 (n) Bóng bàn: 
 (n) Yên ngựa: 
 (n) Người cưỡi ngựa đua: 
