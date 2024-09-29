@@ -639,7 +639,7 @@ Quầy thông tin:
 (n) Chi phí: 
 (n) Ban giám đốc: 
 (v) Ăn mừng: 
-(n) Kết thúc hợp đồng này: 
+(n) Sự kết thúc hợp đồng này: 
 (n) Chi tiết: 
 (n) Đồ uống cocktail: 
 (n) Quyền sở hữu độc lập: 
