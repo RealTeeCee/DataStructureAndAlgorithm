@@ -643,7 +643,7 @@ Quầy thông tin:
 (n) Chi tiết: 
 (n) Đồ uống cocktail: 
 (n) Quyền sở hữu độc lập: 
-(n) Hợp danh, đối tác: 
+(n) Hợp danh, quan hệ đối tác: 
 (n) Tập đoàn: 
 (n) Đối tác: 
 (n) Cổ đông: 
