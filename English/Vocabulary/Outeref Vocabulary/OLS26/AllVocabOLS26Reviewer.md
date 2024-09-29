@@ -577,6 +577,7 @@ Quầy thông tin:
 (n) Tập đoàn: 
 (v) Giữ máy: 
 (n) Quản lý bán hàng: 
+(v) Quay số, bấm số: 
 (n) Số máy nhánh: 
 (v) Để lại lời nhắn: 
 (v) Giới thiệu ai đó với ai đó: 
