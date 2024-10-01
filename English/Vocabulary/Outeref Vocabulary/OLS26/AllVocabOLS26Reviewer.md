@@ -706,3 +706,5 @@ Nhận được điều may mắn đến từ thiên nhiên:
 (a) Thịnh vượng, phát đạt: 
 (n) Xà cừ: 
 (v) Giới thiệu hoặc kết nối ai đó với thứ họ cần: 
+(n) Đường bờ biển: 
+(n) Gió biển: 
