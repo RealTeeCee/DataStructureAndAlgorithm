@@ -703,3 +703,6 @@ Mang theo một tuýp:
 (v) Lao đi, chạy nhanh: 
 (v) Cầm lấy và chạy đi: 
 Nhận được điều may mắn đến từ thiên nhiên: 
+(a) Thịnh vượng, phát đạt: 
+(n) Xà cừ: 
+(v) Giới thiệu hoặc kết nối ai đó với thứ họ cần: 
