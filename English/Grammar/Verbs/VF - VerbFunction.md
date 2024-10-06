@@ -8,8 +8,8 @@
 
 # VF4 Verb + TO: Ask; Advance; Lease; Loan; Tell; Sing; Give; Grant; Award; Offer; Pass
 # VF4 Verb + FOR: Buy; Build; Cook; Make; Pour; Choose; Keep; Save
-
-
+========================================================================
+# ALL VERB FUNCTIONS
 
 # VF1       S + Vi
 + S = Subject: Chủ ngữ.
@@ -34,10 +34,12 @@ Ex:
 - Travellers take planes or trains to their destinations.
 - The author tells a good story.
 
-# VF3       S + Vl + adj
+# VF3       S + Vlk + adj
 + S = Subject: Chủ ngữ.
-+ Vl = Linking Verb: Động từ liên kế.
++ Vlk = Linking Verb: Động từ liên kế.
 + Adj: tính từ.
+
+# Linking Verb: Get/Go/Become; Appear; Look; Seem; Sound; Taste; Smell; Turn; Grow; Remain; Stay;
 
 Ex: 
 - I feel tired.
@@ -63,30 +65,30 @@ Ex:
 - Pass your ball to me => pass me your ball. (hãy chuyền cho tôi quả bóng)
 
 # VF5   S + V Transitive + Direct Object + V BI (Bare Infinitive)
-+ make: bắt
-+ let: để
-+ help: giúp
-+ have: nhờ
+            make: bắt
+            let: để
+            help: giúp
+            have: nhờ
 
 # VF6   S + V transitive + Direct Object + Present participle (Ving)
-+ catch: bắt gặp, bắt quả tang
-+ find: phát hiện, tìm thấy
-+ keep: để cho
-+ leave: mặc kể, để
-+ set: sắp đặt, lắp đặt (electronic / machinary)
-+ start: khởi động
+            catch: bắt gặp, bắt quả tang
+            find: phát hiện, tìm thấy
+            keep: để cho
+            leave: mặc kể, để
+            set: sắp đặt, lắp đặt (electronic / machinary)
+            start: khởi động
 
 # VF7   S + V transitive + Direct Object + V BI / Ving (Verb of perception)
-+ look at
-+ see
-+ notice: chú ý
-+ observe: quan sát
-+ watch
-+ listen to
-+ hear
-+ feel: cảm giác
-+ smell: ngửi thấy
-+ taste: cảm thấy vị
+            look at
+            see
+            notice: chú ý
+            observe: quan sát
+            watch
+            listen to
+            hear
+            feel: cảm giác
+            smell: ngửi thấy
+            taste: cảm thấy vị
 
 # VF8   S + V + DO + Adj (or V3/ed - when object doesnt do action) 
 Ex: 

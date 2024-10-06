@@ -1,7 +1,7 @@
 # Syllogism (Tam đoạn luận)
 
 # VF11, VF12, VF13 
-[Verb Function](/English/Grammar/Verbs/VF%20-%20VerbFunction.md#116) <-- Ctrl + Click
+[Verb Function](/English/Grammar/Verbs/VF%20-%20VerbFunction.md#L116) <-- Ctrl + Click
 
 # Syllogism - 3 step reasoning
 

@@ -75,7 +75,11 @@ shocking                                shocked
 
 # NF4b - Question Word / Whether to VF
 
+
 # NF5 - A NOUN CLAUSE
 # NF5a - That + S + VF
+Ex: - I know that he is a student
 
-# NF5b - Question word / Whether / If + S + VF
+# NF5b - Question Word or Whether/If + S + VF
+Ex: - I don't know whether he likes me
+    - I know why she cried
