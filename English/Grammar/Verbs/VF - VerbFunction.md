@@ -91,6 +91,27 @@ Ex:
             taste: cảm thấy vị
 
 # VF8   S + V + DO + Adj (or V3/ed - when object doesnt do action) 
+            have – Ex: They have the issue resolved.
+            get – Ex: They get the issue resolved.
+            want – Ex: They want the issue resolved.
+            need – Ex: They need the issue resolved.
+            require – Ex: They require the issue resolved.
+            prefer – Ex: They prefer the issue resolved.
+            expect – Ex: They expect the issue resolved.
+            wish – Ex: They wish the issue resolved.
+            hope – Ex: They hope the issue resolved.
+            demand – Ex: They demand the issue resolved.
+            order – Ex: They order the issue resolved.
+            ask to have – Ex: They ask to have the issue resolved.
+            insist on having – Ex: They insist on having the issue resolved.
+            arrange to have – Ex: They arrange to have the issue resolved.
+            instruct to have – Ex: They instruct to have the issue resolved.
+            permit to have – Ex: They permit to have the issue resolved.
+            authorize to have – Ex: They authorize to have the issue resolved.
+            force to have – Ex: They force to have the issue resolved.
+            request to have – Ex: They request to have the issue resolved.
+            hire someone to have – Ex: They hire someone to have the issue resolved.
+            ...
 Ex: 
 - He keeps the door white. - Adj
 - He keeps the door locked. - V3
