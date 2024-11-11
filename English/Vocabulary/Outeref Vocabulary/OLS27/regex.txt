@@ -1,0 +1,13 @@
+### Lowercase First Letter
+([A-Z])([\w\s'-]+/)
+\L$1\L$2
+
+========================
+### Reviewer making
+# Step 1
+.*/: (.*)
+$1
+
+# Step 2
+(\s)Nghĩa:.*|.\sNghĩa:.*
+: $1
