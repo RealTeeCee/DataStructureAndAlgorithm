@@ -1,5 +1,5 @@
 # Nguyen
-# The History of Computers: Past, Present, and Future
+# Topic 24: The History Of Computers
 
 The history of computers begins with simple machines designed for basic calculations. In the early 19th century, Charles Babbage proposed the "Analytical Engine," a mechanical device that could perform complex calculations, but it was never fully built during his lifetime. Later, in the 1940s, the world saw the development of the first electronic computers, like the ENIAC, which were used during World War II to perform military calculations. These early computers were massive, taking up entire rooms and requiring large teams of people to operate them. Despite their size, they could only perform basic tasks and were extremely slow by modern standards.
 The invention of the transistor in the 1950s and the integrated circuit in the 1960s marked a significant leap forward. These technologies allowed computers to become smaller, faster, and more reliable. By the 1970s, personal computers began to emerge, with companies like IBM, Apple, and Commodore leading the way. Machines like the Apple II and IBM PC brought computing power into homes, schools, and small businesses. Although these computers were still relatively simple compared to today, they were groundbreaking at the time, enabling people to type documents, play games, and even program software.
