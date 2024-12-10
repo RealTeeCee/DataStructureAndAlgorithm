@@ -8,7 +8,7 @@ ceiling /ˈsēliNG/: trần nhà
 floor /flɔː(r)/: sàn nhà, tầng
 clinic /ˈklɪnɪk/: phòng khám
 driveway /ˈdraɪvweɪ/: đường xe chạy (trong khu vực một toà nhà)
-drop off to sleep /drɒp ɒf tuː sliːp/ = go to bed: đi ngủ
+drop off to sleep = go to bed /drɒp ɒf tuː sliːp/: đi ngủ
 wick /wɪk/: tim nến, bấc nến
 candle /ˈkændl/: nến
 wax /wæks/: sáp nến
@@ -94,7 +94,7 @@ struggle /ˈstrʌɡl/: đấu tranh, rán sức
 marina /məˈriːnə/: bến du thuyền
 cut-off /ˈkʌt ɔːf/: ngắt (kết nối)
 warm and dry /wɔːrm n draɪ/: ấm và khô ráo
-safe and sound /seɪf n saʊnd/ : bình an vô sự
+safe and sound /seɪf n saʊnd/: bình an vô sự
 botanic /bəˌtænɪkl/: thực vật học
 botanical garden  /bəˌtænɪkl ˈɡɑːrdn/: vườn thực vật
 liberty /ˈlɪbərti/: quyền tự do
@@ -258,7 +258,7 @@ revolutionary /ˌrevəˈluːʃəneri/: mang tính cách mạng
 ritualistic /ˌrɪtʃuəˈlɪstɪk/: mang tính nghi thức
 ceremony /ˈserəməʊni/: lễ tưởng niệm, nghi lễ
 consumption /kənˈsʌmpʃn/: sự tiêu thụ
-jared /dʒɑːr/ = descent: con cháu, chai sạn
+jared = descent /dʒɑːr/: con cháu, chai sạn
 resident /ˈrezɪdənt/: cư dân, cư trú
 lobby /ˈlɑːbi/: sảnh nhỏ 
 storeroom /ˈstɔːruːm/: nhà kho
@@ -290,7 +290,7 @@ newcomer /ˈnuːkʌmər/: người mới đến
 sleepwalker /ˈsliːpwɔːkər/: người mộng du
 tension /ˈtenʃn/: áp lực
 stress /stres/: căng thẳng
-walrus /ˈwɔːlrəs/ : hải mã
+walrus /ˈwɔːlrəs/: hải mã
 mammal /ˈmæml/: động vật có vú
 whisker /ˈwɪskər/: râu mép
 clams /klæm/: con sò
@@ -381,7 +381,7 @@ thoroughly /ˈθərəli/: tỉ mỉ, ân cần, thấu đáo
 wipe /waɪp/: lau chùi
 bumper /ˈbʌmpər/: bội thu
 tuck /tʌk/: xếp, nhét
-chase /tʃeɪs/ : truy đuổi
+chase /tʃeɪs/: truy đuổi
 prey /preɪ/: con mồi
 moat /moʊt/: hào nước, hào sâu
 organism /ˈɔrɡəˌnɪzəm/: sinh vật
@@ -430,7 +430,7 @@ incredible /ɪnˈkrɛdəbl/: đáng kinh ngạc, không tưởng
 consider /kənˈsɪdər/: xem xét
 widely considered /ˈwaɪdli kənˈsɪdər/: được số đông biết đến
 interrupt /ˌɪntəˈrʌpt/: ngắt, gián đoạn
-orchestra /ˈɔrkəstrə/ : dàn nhạc
+orchestra /ˈɔrkəstrə/: dàn nhạc
 referee /ˌrɛfəˈri/: trọng tài
 tropical /'trɔpikəl/: nhiệt đới
 tropical forest /'trɔpikəl ˈfôrəst/: rừng nhiệt đới (chung)
@@ -440,9 +440,9 @@ orangutan /əˈræŋəˌtæn/: đười ươi
 ape /eɪp/: vượn
 gorilla /ɡəˈrɪlə/: khỉ đột
 souvenir /ˌsuvəˈnɪr/: quà lưu niệm
-gym-goer: người tập gym
+gym-goer //: người tập gym
 meditate /ˈmɛdəˌteɪt/: suy ngẫm, thiền định
-high blood pressure /haɪ blʌd ˈprɛʃər/  : cao huyết áp 
+high blood pressure /haɪ blʌd ˈprɛʃər/: cao huyết áp 
 obesity /oʊˈbisədi/: béo phì 
 diabetes /ˌdaɪəˈbit̮iz/: bệnh tiểu đường
 colony /ˈkɑləni/: thuộc địa, đất thực dân
@@ -480,7 +480,7 @@ photosynthesis /ˌfoʊt̮oʊˈsɪnθəsəs/: quang hợp
 pigment /ˈpɪɡmənt/: sắc tố, thuốc màu
 sculpture /ˈskʌlptʃər/: (n) bức tượng (v) điêu khắc
 go off //: rời đi
-headmaster /ˌhedˈmæstər/ = princilpe: hiệu trưởng
+headmaster = princilpe /ˌhedˈmæstər/: hiệu trưởng
 vapor /ˈveɪpər/: hơi nước
 meteor /ˈmit̮iər/: sao băng
 meteoroid /ˈmiːtiərɔɪd/: thiên thạch
@@ -562,7 +562,7 @@ cookie /ˈkʊki/: bánh quy (sweet, thin)
 cracker /ˈkrækər/: bánh quy (salty, thin, flaky: bong tróc)
 saturate /ˈsætʃəˌreɪt/: bão hòa
 exceptional /ɪkˈsɛpʃənl/: đặc biệt, xuất chúng, phi thường
-Upon /əˈpɑn/= on: trên
+Upon = on /əˈpɑn/: trên
 cozy/cosy /ˈkoʊzi/: ấm cúng
 cosy and homely //: ấm cúng và giản dị
 lavish /ˈlævɪʃ/: (a) xa hoa (v) xài không tiếc
@@ -651,7 +651,7 @@ omelet /ˈɑmlət/: ốp lết, trứng ốp la
 onion /ˈʌnyən/: (thực vật) hành tây
 spring onion: (thực vật) hành lá
 worm /wərm/: sâu
-earthworm /ˈərθwərm/ : giun đất
+earthworm /ˈərθwərm/: giun đất
 mug /mʌɡ/: cốc tròn có quai
 jar /dʒɑr/: cái lọ
 pit /pɪt/: (n) hố, huyệt
@@ -684,7 +684,7 @@ esteem /ɪˈstim/: kính trọng, kính mến
 straw /strɔ/: rơm
 slave /sleɪv/: nô lệ
 slavery /ˈsleɪvəri/: chế độ nô lệ
-vacancy /ˈveɪkənsi/ : vị trí tuyển dụng
+vacancy /ˈveɪkənsi/: vị trí tuyển dụng
 facility /fəˈsɪlət̮i/: sự thuận tiện; điều kiện dễ dàng, điều kiện thuận lợi;
 designated /ˈdɛzɪɡˌneɪt/: được chỉ định
 casual /ˈkæʒuəl/: giản dị bình thường, thoải mái
@@ -767,11 +767,11 @@ jungle = forest /ˈjəNGɡəl ˈfôrəst/: rừng
 crime /kraim/: tội ác, tội lỗi
 criminal /'kriminl/: (n) tội phạm (a) có tội, phạm tội (người đã bị chứng minh và công nhận là phạm tội)
 guilt /ɡilt/: tội lỗi 
-ɡuilty /ˈɡiltē/ : có tội, phạm tội (trạng thái pháp lý và thường đi kèm với quyết định)
+ɡuilty /ˈɡiltē/: có tội, phạm tội (trạng thái pháp lý và thường đi kèm với quyết định)
 easy-to-watch //: dễ xem
 easygoing /ˌēzēˈɡōiNG/: dễ dãi
-triathlon /traɪˈæθ.lɑːn/ : cuộc thi thể thao ba môn phối hợp
-triathlete /traɪˈæθ.liːt/ : vận động viên ba môn phối hợp
+triathlon /traɪˈæθ.lɑːn/: cuộc thi thể thao ba môn phối hợp
+triathlete /traɪˈæθ.liːt/: vận động viên ba môn phối hợp
 cage /keidʤ/: (n) chuồng, lồng (v) nhốt, giam
 bull /bul/: con bò tót
 leopard /'lepəd/: con báo hoa mai
@@ -840,7 +840,7 @@ scallion /'skæljən/: hành tăm
 pancake /'pænkeik/: bánh kếp
 dim sum /ˌdim ˈsəm/: món dim sum
 scallion pancakes //: bánh xèo hành
-Generational /ˌjenəˈrāSH(ə)nəl/ : (thuộc) thế hệ
+Generational /ˌjenəˈrāSH(ə)nəl/: (thuộc) thế hệ
 demonstrate /'demənstreit/: biểu diễn, phô diễn; biểu tình; chứng minh, giải thích; bày tỏ, biểu lộ, làm thấy rõ
 trophy /'troufi/: cúp; vật kỷ niệm chiến công, chiến tích
 magic staff /'mædʤik stɑ:f/: gậy phép
@@ -851,7 +851,7 @@ mattress /'mætris/: nệm, đệm không khí, đệm bông
 co-worker /ˌkoʊˈwɝː.kɚ/: bạn cùng làm việc với nhau; bạn đồng nghiệp
 curriculum /kə'rikjuləm/: chương trình giảng dạy
 societies /sə'saiəti/: hoạt động xã hội, đoàn thể, hội
-radiocarbon /ˌreɪ.di.əʊ.kɑːbən/ : các bon phóng xạ
+radiocarbon /ˌreɪ.di.əʊ.kɑːbən/: các bon phóng xạ
 attack /ə'tæk/: tấn công, công kích; cơn
 an attack of fever /ə'tæk əv ˈfiː.vɚ/: cơn sốt
 a heart attack /hɑ:t ə'tæk/: cơn đau tim
@@ -915,7 +915,7 @@ heatwave /heat-wave/: đợt nắng nóng
 soar /sôr/: (v) bay lên; bay lượn trên không
 soaring /'sɔ:riɳ/: (a) tăng vọt, vọt lên; (n) sự tham lam
 rainfall /ˈrānˌfôl/: lượng mưa
-lockdown /lockdown/ : lệnh đóng cửa
+lockdown /lockdown/: lệnh đóng cửa
 Nepali /nəˈpôlē/:  tiếng Nepan; Nepalian: người Nepan
 touchscreen /ˈtəCH ˌskrēn/: màn hình cảm ứng
 spin /ˈspin/: quay tròn; xe chỉ, kéo sợi
@@ -940,7 +940,7 @@ wicked /'wikid/: độc ác, tà ác; xấu, hư, tệ, đồi bại, tội 
 wicked witch /'wikid 'wit /: mụ phù thuỷ; mụ già xấu xí
 windmill /'winmil/: cối xay gió; máy xay gió
 peacock /'pi:kɔk/: con công (trống)
-peahen /'pi:'hen/ : con công (cái)
+peahen /'pi:'hen/: con công (cái)
 penguin /'peɳgwin/: chim cánh cụt
 thief /θi:f/: kẻ trộm, kẻ cắp; (số nhiều) thieves: những kẻ trộm
 liquor /'likə/: chất lỏng; rượu; nước luộc (thức ăn); dung dịch (thuộc nước)
@@ -998,7 +998,7 @@ primary /'praiməri/: gốc, nguyên, căn bản; sơ đẳng, sơ cấp; (adv) 
 spooky /'spu:kiʃ/: ma quái, như ma quỷ
 youth /yo͞oTH/: thời niên thiếu, thiếu niên, tuổi trẻ, thanh xuân
 architecture /'ɑ:kitektʃə/: công trình kiến trúc, cấu trúc; khoa kiến trúc
-rubbish /'rʌbiʃ/ = trash = garbage: vật bỏ đi, rác rưởi; chuyện tầm phào, nhảm nhí
+rubbish = trash = garbage /'rʌbiʃ/: vật bỏ đi, rác rưởi; chuyện tầm phào, nhảm nhí
 overcome /,ouvə'kʌm/: vượt qua, khắc phục (khó khăn...)
 inspiration /,inspə'reiʃn/: sự truyền cảm; sự cảm hứng; sự hít vào, sự thở vào
 postpone /poust'poun/: trì hoãn
@@ -1250,7 +1250,7 @@ brush stroke /ˈbrəSHstrōk/: nét cọ; dấu vết được tạo ra bởi m
 hip /hip/: (giải phẫu) hông; (kiến trúc) mép bờ mái nhà - sharp edge of a roof from the ridge to the eaves where the two sides meet.
 painkiller /ˈpānˌkilər/: thuốc giảm đau
 Mars /mɑ:z/: Sao Hoả
-Jupiter /'dʤu:pitə/ : sao Mộc; (thần thoại,thần học) thần Giu-pi-te
+Jupiter /'dʤu:pitə/: sao Mộc; (thần thoại,thần học) thần Giu-pi-te
 Pluto /'plu:tou/: (thiên văn học) sao Diêm vương; (thần thoại,thần học) Diêm vương
 Saturn /'sætən/: (thiên văn học) sao Thổ thần Xa-tuya, thần Nông
 Neptune /'neptju:n/: (thiên văn học) sao Hải vương; (thần thoại,thần học) thần biển, hải thần
@@ -1305,7 +1305,7 @@ catch up with //: Bắt kịp
 check over //: Kiểm tra
 clean up = clean //: dọn dẹp
 cut off //: Cắt, ngắt
-do without //: quản lý, làm việc mà không cần có ai đó hoặc cái gì đó hiện diện //: Ex: The country cannot do without foreign investment.
+do without //: quản lý, làm việc mà không cần có ai đó hoặc cái gì đó hiện diện .Ex: The country cannot do without foreign investment.
 drop in on = Visit //: Ghé vào 
 find out //:  Tìm ra
 * go for //: thích, lựa chọn nghiêng về phía .. Thường được sử dụng để chỉ việc chọn lựa hoặc quyết định thực hiện một hành động hoặc mục tiêu cụ thể. Ex: I think I'll go for the salad instead of the burger  (Tôi nghĩ tôi sẽ chọn salad thay vì bánh hamburger).
@@ -1450,12 +1450,12 @@ journalist /'dʤə:nəlist/: nhà báo
 jeweler /'jo͞o(ə)lər/: thợ kim hoàn; người làm đồ nữ trang
 pharmacist /'fɑ:məsist/: dược sĩ; người buôn dược phẩm
 acrobat /'ækrəbæt/: diễn viên nhào lộn, người biểu diễn nhào lộn; người biểu diễn leo dây
-musician /myuˈzɪʃn/ : Nhạc sĩ
+musician /myuˈzɪʃn/: Nhạc sĩ
 flight attendant /flaɪt əˈtɛndənt/: tiếp viên hàng không
 guitarist /ɡɪˈtɑrɪst/: Nhạc sĩ guitar
-director /dəˈrɛktər: giám đốc
+director /dəˈrɛktər/: giám đốc
 assistant /əˈsɪstənt/: Trợ lý
-professor /prəˈfɛsər: giáo sư
+professor /prəˈfɛsər/: giáo sư
 policeman /pəˈlismən/: cảnh sát nam
 policewoman /pəˈliswumən/: cảnh sát nữ
 mechanic /məˈkænɪk/: thợ máy cơ khí
@@ -1557,7 +1557,7 @@ berry /'beri/: (thực vật học) quả mọng; (lobster, fish) in berry: tr�
 lobster in berry //: con tôm hùm có trứng
 brew /bru:/: sự chế, sự ủ (rượu bia); sự pha (trà)
 booth /bu:ð/: quán, rạp, lều; buồng 
-oolong /'u:lɔɳ/: chè/trà ô long
+oolong /'u:lɔɳ/: chè; trà ô long
 interpolation /in,tə:pou'leiʃn/: (toán học) phép nội suy
 balcony /'bælkəni/: ban công
 redundant /ri'dʌndənt/: sự dư thừa; (văn) rườm rà
@@ -1607,13 +1607,13 @@ imaginary /ɪˈmædʒəˌnɛri/: tưởng tượng
 negative effect /ˈnɛɡət̮ɪv ɪˈfɛkt/: ảnh hưởng xấu
 interact /ˌɪntərˈækt/: tương tác
 face to face //: mặt đối mặt
-be aware of // : nhận thức, hiểu biết về một sự vật, hành động cụ thể hoặc có kiến thức, kinh nghiệm về một điều gì đó.
+be aware of //: nhận thức, hiểu biết về một sự vật, hành động cụ thể hoặc có kiến thức, kinh nghiệm về một điều gì đó.
 bedtime story /ˈbedtaɪm ˈstɔri/: câu chuyện trước khi đi ngủ
 chapter /ˈtʃæptər/: chương
 series of /ˈsɪriz/: Loạt. thường được sử dụng để mô tả một chuỗi các sự kiện hoặc hiện tượng có liên quan hoặc tuần tự. Ex: She watched a series of movies over the weekend (Cô ấy đã xem một loạt các bộ phim vào cuối tuần). The detective uncovered a series of clues leading to the identity of the suspect (Thám tử đã phát hiện ra một loạt các manh mối dẫn đến danh tính của nghi phạm). The company launched a series of new products this year (Công ty đã tung ra một loạt các sản phẩm mới trong năm nay).
 Alps /ælps/: Dãy núi Alps
 Appalachians /ˌæp.əˈleɪ.tʃən/: người Appalachia
-heartwarming story /ˈhɑrtˌwɔrmɪŋ/ : câu chuyện cảm động
+heartwarming story /ˈhɑrtˌwɔrmɪŋ/: câu chuyện cảm động
 facts /fækt/: sự thật
 insect /ˈɪnsɛkt/: côn trùng
 close to the edge of /ɛdʒ/: gần với các cạnh ,sát mép, gần rìa
@@ -1648,7 +1648,7 @@ Talkative /ˈtɔkət̮ɪv/: nói nhiều
 Quiet /ˈkwaɪət/: ít nói
 Liberal /ˈlɪbərəl/: tự do
 Conservative != progressive /kənˈsərvət̮ɪv != prəˈɡres.ɪv/: bảo thủ != cấp tiến, tiến tới, người theo chủ nghĩa tiến bộ 
-Tender != rude /ˈtɛndər != ruːd/ : dịu dàng != thô lỗ
+Tender != rude /ˈtɛndər != ruːd/: dịu dàng != thô lỗ
 Graceful != graceless/ˈɡreɪsfl != ˈɡreɪs.ləs/: duyên dáng != vô duyên
 Argumentative != agreeable /ˌɑrɡyəˈmɛntət̮ɪv != əˈɡriː.ə.bəl/: hay lý luận, thích tranh cãi hoặc gây gổ != dễ chịu, hòa nhã, thích hòa giải
 Punctual != tardy /ˈpʌŋktʃuəl != ˈtɑːr.di/: đúng giờ != hay đến muộn, không đúng giờ
@@ -1708,7 +1708,7 @@ psychologist /saɪˈkɑlədʒɪst/: nhà tâm lý học
 participate /pɑrˈtɪsəˌpeɪt/: (+ in) tham dự, tham gia vào = take part in
 participant /pɑrˈtɪsəpənt/: người tham gia
 uncertainty /ʌnˈsɝː.tən.ti/: tính không chắc chắn
-big-name companies //:các công ty tên tuổi
+big-name companies //: các công ty tên tuổi
 stress disorders /strɛs dɪsˈɔrdər/: rối loạn căng thẳng
 elder /ˈɛldər/: lớn hơn (tuổi)
 elderly people //: người cao tuổi
@@ -1716,7 +1716,7 @@ aging /eɪdʒɪŋ/: tuổi già
 illnesses /ˈɪlnəs/: sự ốm yếu bệnh tật
 wonder /ˈwəndər/: (n) sự kinh ngạc, điều kỳ diệu (v) tự hỏi, thắc mắc. Ex: I wonder why .. (Tự hỏi tại sao..)
 wondrous /ˈwʌndrəs/: tuyệt vời, đẹp một cách ấn tượng (cảm giác ngạc nhiên hoặc thích thú về cái đẹp) 
-birdwatching // : ngắm chim
+birdwatching //: ngắm chim
 flavour /ˈfleɪvər/: hương vị
 * karate instructor /kəˈrɑt̮i ɪnˈstrʌktər/: người dạy, huấn luyện viên karate. giảng dạy và hướng dẫn kỹ thuật, phù hợp với mọi cấp độ và thường xuyên hơn. Ex: My karate instructor teaches us new techniques every week (Huấn luyện viên karate của tôi dạy chúng tôi các kỹ thuật mới mỗi tuần).
 * karate coach /kəˈrɑːti koʊtʃ/: huấn luyện viên karate. thường tập trung vào việc huấn luyện học sinh cho các cuộc thi và cải thiện hiệu suất thi đấu. chú trọng đến việc nâng cao khả năng thi đấu, chiến thuật và tâm lý trong bối cảnh thi đấu. Ex: My karate coach helps me prepare for competitions (Huấn luyện viên karate của tôi giúp tôi chuẩn bị cho các cuộc thi).
@@ -1753,7 +1753,7 @@ birdwatcher /'bə:d,wɔtʃər/: người quan sát nhận dạng chim trời
 pair of /per ov/: một cặp, một đôi
 binoculars /bəˈnäkyələrz/: ống nhòm
 keep an eye on //: để mắt tới
-keep an eye out for (sth or so) //: tìm kiếm / theo dõi thứ gì đó / ai đó với sự chú ý cẩn thận và kiên nhẫn.
+keep an eye out for (sth or so) //: tìm kiếm (theo dõi thứ gì đó, ai đó với sự chú ý cẩn thận và kiên nhẫn)
 citizen /'sitizn/: công dân; người dân thành thị; người thường dân (trái với quân đội)
 dedicate /'dedikeit/: (v) cống hiến, hiến dâng; dành cho; khánh thành, khai mạc
 dedicated /'dedikeitit/: tận tụy, tận tâm; có tính cách chuyên môn; dành riêng
@@ -1762,7 +1762,7 @@ distance /'distəns/: khoảng cách, tầm xa; quãng đường
 refer to /rəˈfər tu/: đề cập đến; tham khảo đến
 twitch /twitʃ/: (n) sự co rúm, sự co quắp (mặt, chân tây...); chứng co giật; sự kéo mạnh, sự giật mạnh
                 (v) giật; gây ra chuyển động giật hoặc co giật đột ngột; co rúm, co quắp
-twitcher /ˈtwiCHər/: người/vật bị co giật
+twitcher /ˈtwiCHər/: người; vật bị co giật
 far-off /ˌfɑːˈrɑːf/: xa xôi
 enjoyable /in'dʤɔiəbl/: thú vị, thích thú
 culinary /'kʌlinəri/: (thuộc) nấu nướng, (thuộc) việc bếp núc
@@ -1798,7 +1798,7 @@ beyond /bi'jɔnd/: vượt ra khỏi, ở xa, ở phía bên kia; cao, xa hơn 
 go above and beyond //: luôn nỗ lực hết mình
 commitment /kə'mitmənt/: sự cam kết; lời giao kết; sự bảo chứng
 reliance /rəˈlīəns/: (n) sự trông cậy (a) reliable: thuộc tin cậy
-freelancer //: người làm việc/nghề tự do
+freelancer //: người làm việc; nghề tự do
 open water //: nước mặt thoáng; ngoài khơi
 record holder /ˈrekərd ˌhōldər/: người giữ kỷ lục
 * courage /'kʌridʤ/: sự can đảm, sự dũng cảm, dũng khí. thường liên quan đến sức mạnh tinh thần và quyết tâm đối mặt với nỗi sợ hãi, nguy hiểm, hoặc đau khổ bằng sự quyết tâm. Ex: It takes a lot of courage to admit your mistakes (Cần rất nhiều sự can đảm để thừa nhận sai lầm của mình)
@@ -1806,7 +1806,7 @@ record holder /ˈrekərd ˌhōldər/: người giữ kỷ lục
 courageous /kəˈreɪ.dʒəs/: (a) can đảm
 brave /ˈbreɪv/: (a) dũng cảm, gan dạ
 performing tricks /pə'fɔ:miɳ trik/: chiêu trò; biểu diễn kĩ xảo
-trickshot /'trikʃɔt/: Một cú sút/đánh bóng xuất chúng độc đáo để thể hiện bản thân hoặc ném một quả bóng không thể thực hiện được 
+trickshot /'trikʃɔt/: Một cú sút; đánh bóng xuất chúng độc đáo để thể hiện bản thân hoặc ném một quả bóng không thể thực hiện được 
 transfer /'trænsfə:/: (n) sự di chuyển, sự dời chỗ; sự truyền; sự chuyển cho; (v) dời, chuyển, dọn; (+ to) chuyển tới
 crowd /kraud/: đám đông; the crowd: quần chúng; bọn, tụi, lũ, nhóm
 * physician /fəˈzɪʃən/: Bác sĩ chuyên khoa. thường là bác sĩ nội khoa (bác sĩ nội tiết, bác sĩ tim mạch, bác sĩ nhi khoa, v.v), người chuyên chẩn đoán và điều trị bệnh không phẫu thuật. thường được sử dụng ở Hoa Kỳ. Ex: The physician prescribed medication for the patient's condition (Bác sĩ chuyên khoa đã kê đơn thuốc cho tình trạng của bệnh nhân)
@@ -1830,7 +1830,7 @@ overcrowding /ōvərˈkroudiNG/: chật kín, đông nghẹt, tình trạng c�
 treatment /ˈtrētmənt/: sự đối đãi; sự đãi ngộ; (y học) sự điều trị; phép trị bệnh
 city official /ˈsɪti əˈfɪʃəl/: quan chức thành phố
 historical center /his'tɔrikəl 'sentə/: trung tâm lịch sử
-environmentalist /inˌvīrənˈmentələst/ : nhà môi trường học
+environmentalist /inˌvīrənˈmentələst/: nhà môi trường học
 biota /bīˈōdə/: hệ sinh vật
 marine life /məˈrin laif/: cuộc sống ngoài biển 
 marine biota /məˈrin bīˈōdə/: hệ sinh vật biển
@@ -1942,7 +1942,7 @@ obsessed with //: bị ám ảnh bởi
 governing body /ˈɡʌvərnɪŋ ˈbɑdi/: cơ quan chủ quản
 archery /ˈɑrtʃəri/: Bắn cung
 archery range  /ɑrtʃəri reɪndʒ/: Trường bắn cung
-solo performance /ˈsoʊloʊ pərˈfɔrməns/ : biểu diễn solo
+solo performance /ˈsoʊloʊ pərˈfɔrməns/: biểu diễn solo
 fade /feɪd/: (v) phai nhạt, mờ dần. Ex: The colors of the painting have faded (Màu sắc của bức tranh đã phai nhạt). The sound of the music faded away (Âm thanh của bản nhạc mờ dần).
 looking back at //: nhìn lại điều gì đó ..
 behaviour /bɪˈheɪvyər/: hành vi
@@ -1959,7 +1959,7 @@ survival /sərˈvaɪvl/: sự sống còn, sự tồn tại
 water survival //: tình huống sinh tử dưới nước. Ex: Water survival training is essential for sailors and navy personnel (Huấn luyện sống sót trong nước là rất quan trọng đối với thủy thủ và nhân viên hải quân).
 G-force training //: huấn luyện lực g, chương trình huấn luyện của phi công. ( g la lực hấp dẫn hoặc gia tốc)
 physiology /ˌfɪziˈɑlədʒi/: sinh lý học
-astrobiology /ˌæstrəʊbaɪˈɒlədʒi/ : sinh vật học vũ trụ
+astrobiology /ˌæstrəʊbaɪˈɒlədʒi/: sinh vật học vũ trụ
 focus on /ˈfoʊkəs ɔn/: Tập trung vào
 childhood /ˈtʃaɪldhʊd/: thời thơ ấu
 goal /ɡoʊl/: mục tiêu, bàn thắng, cửa goal
@@ -1985,8 +1985,8 @@ spiciness //: vị cay
 menthol /ˈmɛnθɔl/: tinh dầu bạc hà
 minty /ˈmɪnti/: bạc hà
 cool-minty food //: món ăn mát lạnh
-activate /ˈæktəˌveɪt/ : kích hoạt
-receptor /rɪˈsɛptər/ thụ thể
+activate /ˈæktəˌveɪt/: kích hoạt
+receptor /rɪˈsɛptər/: thụ thể
 cold receptor //: thụ thể lạnh
 roller coaster /ˈroʊlər ˈkoʊstər/: tàu lượn siêu tốc
 rush /rʌʃ/: dồn dập, vội vã
@@ -2014,7 +2014,7 @@ peak physical condition //: tình trạng thể chất đỉnh cao
 insight /ˈɪnsaɪt/: sáng suốt, minh mẫn
 deaf /dɛf/: điếc
 mute /myut/: tắt tiếng, người câm
-embrace /ɪmˈbreɪs/ : ôm, bao quanh
+embrace /ɪmˈbreɪs/: ôm, bao quanh
 soon-to-be-released //: sắp được phát hành
 follow-up //: theo sát
 recognized proof of dancing //: huân chương được công nhận về khiêu vũ
@@ -2119,7 +2119,7 @@ tardiness /'tɑ:dinis/: sự chậm trễ, trễ nãi
 adhere /əd'hiə/: (v) tuân thủ; bám dính, dính chặt vào, bám chặt vào
 deadline /deadline/: thời hạn, hạn chót
 grading /grading/: sự chấm điểm; sự phân loại, sự tuyển chọn 
-numerous /'nju:mərəs/:(a) nhiều; đông, đông đảo
+numerous /'nju:mərəs/: (a) nhiều; đông, đông đảo
 influential /,influ'enʃəl/: có sức ảnh hưởng, có tác dụng; có uy thế, có thế lực 
 profound /prəˈfaʊnd/: sâu, thăm thẳm; sâu sắc, uyên thâm
 distinguish /dis'tiɳgwiʃ/: phân biệt
@@ -2174,7 +2174,7 @@ humiliate /hjuːˈmɪlieɪt/: (v) làm nhục, làm bẽ mặt. Ex: She refused 
 humiliation /hjuːˌmɪliˈeɪʃən/: (n) sự làm nhục, sự khiếm nhã. Ex: He felt a deep sense of humiliation after making a mistake in front of his colleagues (Anh ấy cảm thấy một cảm giác sâu sắc của sự khiếm nhã sau khi mắc lỗi trước đồng nghiệp của mình)
 humble /ˈhʌmbəl/: (a) khiêm tốn. Ex: Despite his success, he remained humble and down-to-earth (Mặc dù thành công, anh ấy vẫn khiêm tốn và gần gũi)
 humbleness /ˈhʌmblnəs/: (n) tính khiêm tốn. Ex: His humbleness endeared him to everyone he met (Tính khiêm tốn của anh ấy làm cho mọi người yêu mến anh ấy)
-humbly (/ˈhʌmbli/): (adv) một cách khiêm tốn. Ex: She accepted the award humbly, thanking her team for their support (Cô ấy nhận giải một cách khiêm tốn, cảm ơn đội ngũ của mình vì sự ủng hộ của họ)
+humbly /ˈhʌmbli/: (adv) một cách khiêm tốn. Ex: She accepted the award humbly, thanking her team for their support (Cô ấy nhận giải một cách khiêm tốn, cảm ơn đội ngũ của mình vì sự ủng hộ của họ)
 humility /hyuˈmɪlət̮i/: (n) tính cách khiêm tốn hoặc tư cách khiêm nhường
 long /lɔŋ/: (a) dài.
 longevity /lɒnˈdʒɛvɪti/: (n) tuổi thọ, sự kéo dài. Ex: After a decades-long career in public service, he retired with a legacy of achievements (Trải qua một sự nghiệp dài hàng thập kỷ trong lĩnh vực phục vụ cộng đồng, anh ấy nghỉ hưu với một di sản các thành tựu)
@@ -2406,9 +2406,9 @@ certificate /sɚˈtɪf.ə.kət/: chứng chỉ
 "hat toss" celebration //: lễ tung nón
 hood /hʊd/: mũ trùm; áo choàng học vị; mui (mui xe, mui bếp hút khói, ...); khuôn nón
 mortarboard /ˈmɔːr.t̬ɚ.bɔːrd/: mũ tốt nghiệp
-a diploma in architecture /dɪˈploʊ.mə ɪn ˈɑːrkɪˌtɛktʃər/:: (n) Bằng kiến trúc.
-commencement speech /kəˈmens.mənt spiːtʃ/: (n) Bài phát biểu khai giảng hoặc phát biểu tại lễ tốt nghiệp.
-congratulate sb on st /kənˈɡrætʃ.ə.leɪt/ (v) Chúc mừng ai về điều gì.
+a diploma in architecture /dɪˈploʊ.mə ɪn ˈɑːrkɪˌtɛktʃər/: (n) Bằng kiến trúc
+commencement speech /kəˈmens.mənt spiːtʃ/: (n) Bài phát biểu khai giảng hoặc phát biểu tại lễ tốt nghiệp
+congratulate sb on st /kənˈɡrætʃ.ə.leɪt/: (v) Chúc mừng ai về điều gì
 embrace /ɪmˈbreɪs/: (v) Ôm chặt.
 shed tears /ʃed ter/: (v) rơi nước mắt; bật khóc
 get into trouble //: (v) Gặp rắc rối.
@@ -2442,21 +2442,21 @@ anticipate /ænˈtɪsɪpeɪt/: (v) Dự đoán, mong đợi.
 postpone /poʊstˈpoʊn/: (v) Hoãn lại.
 consider /kənˈsɪdər/: (v) Cân nhắc, xem xét; dự tính
 waterskiing /ˈwɑː.t̬ɚˌskiː.ɪŋ/: lướt ván nước
-window shopping /ˈwɪn.doʊ ˌʃɑː.pɪŋ/: lượn lờ các cửa hàng/cửa hiệu (để ngắm chứ không mua)
+window shopping /ˈwɪn.doʊ ˌʃɑː.pɪŋ/: lượn lờ các cửa hàng; cửa hiệu (để ngắm chứ không mua)
 roller skating /ˈroʊ.lɚ skeɪtɪŋ/: trượt patin
 swallow (n) /ˈswɑloʊ/: Chim én
 simultaneous (a) /ˌsaɪmlˈteɪniəs/: đồng thời, cùng lúc (hành động)
 consecutive (a) /kənˈsɛkyət̮ɪv/: nối tiếp nhau (hành động)
-mortal (a) /ˈmɔrt̮l/ người phàm, phàm phu
+mortal (a) /ˈmɔrt̮l/: người phàm, phàm phu
 punish (v) /ˈpʌnɪʃ/: trừng phạt
 cruise (n) /kruz/: một cuộc hành trình bằng đường biển, tham quan những nơi khác nhau, đặc biệt là một kỳ nghỉ.
 vaccination (n) /ˌvæksəˈneɪʃn/: Tiêm ngừa vaccine
-youth hostel (n) /yuθ ˈhɑstl/ a building that provides meals and a cheap place to stay to students, workers, or travelers: nhà nghỉ.
+youth hostel /yuθ ˈhɑstl/: (n) nhà nghỉ. A building that provides meals and a cheap place to stay to students, workers, or travelers
 bribe (v) /braɪb/: Đút lót
 sightseeing (n) /ˈsaɪtˌsiɪŋ/: tham quan, ngắm cảnh
 go sightseeing //: đi ngắm cảnh, tham quan
 vomit (v) /ˈvɑmət/: nôn mửa.
-picky (a) /ˈpɪki/ kén chọn, khó tính
+picky /ˈpɪki/: (a) kén chọn, khó tính
 scar (n) /skɑr/: vết sẹo
 purse (n) /pərs/: bóp, ví túi xách nhỏ của phụ nữ.
 faithful (a) /ˈfeɪθfl/: chung thủy, trung thành
@@ -2583,7 +2583,7 @@ picky /ˈpɪki/: (adj) Kén chọn, khó tính
 amateur /ˈæmətər/: (adj) Nghiệp dư
 hastily /ˈheɪstɪli/: (adv) Vội vàng, hấp tấp
 demand /dɪˈmænd/: (n) Nhu cầu, yêu cầu; đòi hỏi
-windshield /ˈwɪndʃild/ (n) kính chắn gió
+windshield /ˈwɪndʃild/: (n) kính chắn gió
 clean the windshield /klin ðə ˈwɪndʃild/: (v) Lau kính chắn gió
 pump gas /pʌmp ɡæs/: (v) Bơm xăng. Ex: She went to the station to pump gas. (Cô ấy đến trạm xăng để đổ xăng)
 gas pump /ɡæs pʌmp/: (n) Máy bơm xăng. Ex: The gas pump was out of order. (Máy bơm xăng bị hỏng)
@@ -2625,7 +2625,7 @@ courier /ˈkəriər/: nhân viên phát thư
 envelope /ˈɛnvəˌloʊp/: phong bì
 postcard /ˈpoʊstkɑrd/: bưu thiếp
 affix a stamp /əˈfɪks ə stæm/: dán tem
-registered counter/window /ˈrɛdʒəstər ˈkaʊntə ˈwɪndoʊ/: quầy/ cửa số gửi bảo đảm
+registered counter/window /ˈrɛdʒəstər ˈkaʊntə ˈwɪndoʊ/: quầy; cửa số gửi bảo đảm
 express mail window /ɪkˈsprɛs meɪl ˈwɪndoʊ/: cửa sổ lo thư chuyển phát nhanh
 fax a letter /fæks ə ˈlɛt̮ər/:  gửi fax.
 lime /laɪm/: quả chanh; vôi
@@ -2636,7 +2636,7 @@ acclaimer /əˈkleɪmər/: (n) người ca ngợi
 acclamation /ˌækləˈmeɪʃən/: (n) sự hoan nghênh, sự tán thưởng
 chant /tʃɑ:nt/: (n) bài hát, lời hô vang (v) hát, hô vang
 chanting /ˈtʃæntɪŋ/: (n) sự hát, sự hô vang
-chanty /ˈtʃænti/ (hoặc Shanty): (n) bài hát lao động. Nghĩa: Một bài hát được hát bởi các thủy thủ hoặc công nhân để đồng bộ hóa công việc của họ. Ex: The sailors sang a sea chanty as they worked (Các thủy thủ hát một bài hát lao động biển khi họ làm việc)
+chanty (or Shanty) /ˈtʃænti/ : (n) bài hát lao động. Nghĩa: Một bài hát được hát bởi các thủy thủ hoặc công nhân để đồng bộ hóa công việc của họ. Ex: The sailors sang a sea chanty as they worked (Các thủy thủ hát một bài hát lao động biển khi họ làm việc)
 cope with /koʊp wɪð/: (v) đối phó với, đương đầu với. Ex: She had to cope with a lot of stress at work (Cô ấy phải đối phó với rất nhiều căng thẳng tại nơi làm việc)
 coping /ˈkoʊpɪŋ/: (a) đối phó, đương đầu; (n) sự đối phó, sự đương đầu
 expel /ɪkˈspɛl/: (v) trục xuất, đuổi, tống ra. Ex: The student was expelled from school for cheating (Học sinh đã bị đuổi học vì gian lận)
@@ -2955,7 +2955,7 @@ beauty of the surroundings /ˈbjuːti ʌv ðə səˈraʊndɪŋz/: (n) vẻ đẹ
 summit /ˈsʌmɪt/: (n) đỉnh núi. Nghĩa: Điểm cao nhất của một ngọn núi hoặc đồi. Ex: The view from the summit was breathtaking (Khung cảnh từ đỉnh núi thật ngoạn mục).
 reached the summit /riːtʃt ðə ˈsʌmɪt/: (v) đến đỉnh núi. Nghĩa: Đạt được điểm cao nhất của ngọn núi. Ex: After hours of hiking, we finally reached the summit (Sau nhiều giờ leo núi, chúng tôi cuối cùng đã đến đỉnh).
 * worthwhile /ˌwɜːθˈwaɪl/: (adj) đáng giá. Nghĩa: Đáng để bỏ công sức hoặc thời gian. Ex: The effort was worthwhile for the view at the top (Công sức bỏ ra thật đáng giá cho khung cảnh ở đỉnh).
-* If you are talking about the value of doing an activity, use worthwhile. If you are talking about a person or thing (a noun) that deserves respect/attention/recognition/etc, use worthy.
+* If you are talking about the value of doing an activity, use worthwhile. If you are talking about a person or thing (a noun) that deserves respect;attention;recognition;etc, use worthy.
 energetic and refreshed /ˌɛnərˈdʒɛtɪk ənd rɪˈfrɛʃt/: (adj) tràn đầy năng lượng và tươi mới. Nghĩa: Cảm thấy đầy năng lượng và khỏe khoắn. Ex: After a good night's sleep, I felt energetic and refreshed (Sau một giấc ngủ ngon, tôi cảm thấy tràn đầy năng lượng và tươi mới).
 
 # First Day At Work
@@ -3294,173 +3294,173 @@ Reasonable /ˈriːzənəbəl/: (adj) Hợp lý, phải chăng. Ex: They offered 
 Reasonable price /ˈriːzənəbəl praɪs/: (n) Giá cả hợp lý. Ex: The restaurant offers high-quality food at a reasonable price. (Nhà hàng cung cấp thức ăn chất lượng cao với giá cả hợp lý)
 unwavering /ˌənˈwāv(ə)riNG/: không lay chuyển; vững vàng
 ... and ... pairing //: Sự kết hợp giữa ... và ... Ex: dish and wine pairings (sự kết hợp giữa món ăn và rượu vang)
-Moreover /mɔːrˈoʊvər/ : hơn nữa
-In addition /ɪn əˈdɪʃən/ : thêm vào
-Furthermore /ˈfɜːrðərmɔːr/ : hơn thế
-Beside /bɪˈsaɪd/ : bên cạnh
-Similarly /ˈsɪmɪlərli/ : cũng như thế
-In like manner /ɪn laɪk ˈmænər/ : cũng như vậy
-Under the same circumstances /ˈʌndər ðə seɪm ˈsɜːrkəmstænsɪz/ : trong cùng hoàn cảnh
-Likewise /ˈlaɪkwaɪz/ : tương tự như vậy
-In the same way /ɪn ðə seɪm weɪ/ : cũng giống vậy
-Under the same condition /ˈʌndər ðə seɪm kənˈdɪʃən/ : cùng điều kiện
-However /haʊˈɛvər/ : tuy nhiên
-Nevertheless /ˌnɛvərðəˈlɛs/ : tuy thế mà
-On the contrary /ɒn ðə ˈkɒntrəri/ : trái lại
-Yet /jɛt/ : tuy nhiên
-On the other hand /ɒn ði ˈʌðər hænd/ : ngược lại
-Surely /ˈʃʊrli/ : Chắn chắn là, Không nghi ngờ gì nữa
-Naturally /ˈnæʧrəli/ : dĩ nhiên là
-Although this may be true /ɔːlˈðoʊ ðɪs meɪ bi truː/ : mặc dù điều này có thể đúng
-Certainly /ˈsɜːrtənli/ : chắc chắn là
-No doubt /noʊ daʊt/ : không nghi ngờ
-Finally /ˈfaɪnəli/ : cuối cùng
-In short /ɪn ʃɔːrt/ : tóm lại
-In conclusion /ɪn kənˈkluːʒən/ : để kết luận
-In brief /ɪn briːf/ : nói tóm lại
-First /fɜːrst/ : trước hết
-Second /ˈsɛkənd/ : thứ nhì
-Third /θɜːrd/ : thứ ba
-For example /fɔːr ɪɡˈzæmpl/ : ví dụ
-In general /ɪn ˈdʒɛnərəl/ : nói chung
-Mainly /ˈmeɪnli/ : nhất là, chủ yếu là
-For instance /fɔːr ˈɪnstəns/ : ví dụ
-Indeed /ɪnˈdiːd/ : thực vậy, quả thực
-Namely /ˈneɪmli/ : cụ thể là
-Occasionally /əˈkeɪʒənəli/ : thỉnh thoảng
-Often /ˈɔːfən/ : thường
-Sometimes /ˈsʌmtaɪmz/ : đôi khi
-Usually /ˈjuːʒuəli/ : thường xuyên
-Frequently /ˈfriːkwəntli/ : thường xuyên
-Generally /ˈdʒɛnərəli/ : thường thì, nhìn chung
-Here /hɪər/ : ở đây
-Elsewhere /ˈelswɛr/ : ở đâu khác
-In the background /ɪn ðə ˈbækɡraʊnd/ : trong hậu trường
-There /ðɛər/ : ở đó
-Farther on /ˈfɑːrðər ɒn/ : xa xa
-Straight ahead /streɪt əˈhɛd/ : thẳng trước mặt
-Again /əˈɡɛn/ : lần nữa
-In other words /ɪn ˈʌðər wɜːrdz/ : nói cách khác
-Once again /wʌns əˈɡɛn/ : một lần nữa
-As it has been pointed out /æz ɪt hæz bɪn ˈpɔɪntɪd aʊt/ : như đã trình bày
-As I have said above /æz aɪ hæv sɛd əˈbʌv/ : như tôi đã nói ở trên
-As you've known /æz juːv noʊn/ : như anh đã biết
-Then /ðɛn/ : sau đó; như vậy thì
-Thus /ðʌs/ : cho nên
-Therefore /ˈðɛrˌfɔːr/ : vì vậy
-As a result /æz ə rɪˈzʌlt/ : kết quả là
-Meanwhile /ˈmiːnˌwaɪl/ : trong lúc ấy
-Simultaneously /ˌsaɪməlˈteɪniəsli/ : đồng thời; ngay lúc đó
-At that time /æt ðæt taɪm/ : vào lúc đó
-In the meantime /ɪn ðə ˈmiːnˌtaɪm/ : cùng lúc ấy
-After a while /ˈæftər ə waɪl/ : sau một lúc
-In the past /ɪn ðə pæst/ : trong quá khứ
-To be out of gas /tuː bi aʊt ʌv ɡæs/ : hết xăng
-To have your tank filled up /tuː hæv jʊər tæŋk fɪld ʌp/ : cho đổ đầy bình xăng
-To stand in line /tuː stænd ɪn laɪn/ : đứng xếp hàng
-To resolve a complaint /tuː rɪˈzɑːlv ə kəmˈpleɪnt/ : giải quyết khiếu nại
-To check the transmission /tuː ʧɛk ðə trænzˈmɪʃən/ : xem lại bộ số
-To fix the brakes /tuː fɪks ðə breɪks/ : sửa thắng
-To pump gas /tuː pʌmp ɡæs/ : bơm xăng
-Unleaded gas /ʌnˈlɛdɪd ɡæs/ : xăng không có chì
-Regular gas /ˈrɛɡjələr ɡæs/ : xăng thường
-Super unleaded /ˈsuːpər ʌnˈlɛdɪd/ : xăng tốt nhất không có chì
-The gas station attendant /ðə ɡæs ˈsteɪʃən əˈtɛndənt/ : nhân viên cây xăng
-The mechanics /ðə mɪˈkænɪks/ : Cơ giới học (hoặc nhiều người thợ máy)
-To fix the transmission /tuː fɪks ðə trænzˈmɪʃən/ : sửa lại bộ hộp số
-To change transmission /tuː ʧeɪndʒ trænzˈmɪʃən/ : thay bộ hộp số
-To change transmission oil /tuː ʧeɪndʒ trænzˈmɪʃən ɔɪl/ : thay dầu mỡ hộp số
-To charge a fee for parts and labor /tuː ʧɑːrdʒ ə fiː fɔːr pɑːrts ənd ˈleɪbər/ : lấy tiền công và tiền phụ tùng
-The mechanic /ðə mɪˈkænɪk/ : thợ máy
-The expertise /ðə ˌɛkspɜːrˈtiːz/ : thợ thành thạo chuyên môn
-Machinery /məˈʃiːnəri/ : máy móc
-The engine oil /ðə ˈɛnʤɪn ɔɪl/ : nhớt máy
-The batteries /ðə ˈbætəriːz/ : bình điện
-The plugs /ðə plʌɡz/ : bugi
-To spray /tuː spreɪ/ : xịt
-To cover the seat /tuː ˈkʌvər ðə siːt/ : bọc ghế ngồi
-To rub back and forth /tuː rʌb bæk ənd fɔːrθ/ : chà tới lui
-Detergent /dɪˈtɜːrdʒənt/ : chất tẩy rửa
-Soap /soʊp/ : xà phòng
-A water-proof bag /ə ˈwɔːtər-pruːf bæɡ/ : túi không thấm
-A piece of cloth /ə piːs ʌv klɔːθ/ : miếng vải
-Bleach /bliːtʃ/ : thuốc tẩy
-Wheels /wiːlz/ : bánh xe
-The frame /ðə freɪm/ : sườn xe
-The motor /ðə ˈmoʊtər/ : đầu xe máy
-The seat /ðə siːt/ : yên xe
-Handlebars for steering /ˈhændəlbɑːrz fɔːr ˈstɪərɪŋ/ : bánh lái
-Brakes /breɪks/ : thắng xe
-Pedals /ˈpɛdəlz/ : bàn đạp
-The court system /ðə kɔːrt ˈsɪstəm/ : hệ thống tòa án
-The judge /ðə dʒʌdʒ/ : thẩm phán
-The presiding judge /ðə prɪˈzaɪdɪŋ dʒʌdʒ/ : chánh án
-The prosecuting attorney /ðə ˌprɒsɪˈkjuːtɪŋ əˈtɜːrni/ : biện lý, công tố
-The lawyer /ðə ˈlɔːjər/ : luật sư
-Attorney at law /əˈtɜːrni æt lɔː/ : luật sư
-The court clerk /ðə kɔːrt klɜːrk/ : thư ký tòa án, lục sự
-The jury /ðə ˈdʒʊəri/ : bồi thẩm đoàn có 12 bồi thẩm viên
-Unsatisfactory judgment /ˌʌnsætɪsˈfæktəri ˈdʒʌdʒmənt/ : phán xét không mãn nguyện
-To give a verdict /tuː ɡɪv ə ˈvɜːrdɪkt/ : cho bản định tội của bồi thẩm đoàn
-To answer a complaint /tuː ˈænsər ə kəmˈpleɪnt/ : trả lời đơn thưa
-To sue somebody /tuː suː ˈsʌmbədi/ : kiện cáo ai
-To file a complaint /tuː faɪl ə kəmˈpleɪnt/ : nộp đơn thưa
-To go to court /tuː ɡoʊ tuː kɔːrt/ : ra tòa
-To judge /tuː dʒʌdʒ/ : tuyên án
-A public high school /ə ˈpʌblɪk haɪ skuːl/ : trường công lập
-A private high school /ə ˈpraɪvɪt haɪ skuːl/ : trường tư nhân - dân lập
-The principal /ðə ˈprɪnsəpəl/ : hiệu trưởng
-The vice principal /ðə vaɪs ˈprɪnsəpəl/ : phó hiệu trưởng
-The proctors /ðə ˈprɒktəz/ : giám thị
-To obey the discipline /tuː əˈbeɪ ðə ˈdɪsɪplɪn/ : chấp hành kỷ luật
-To pick up their children /tuː pɪk ʌp ðɛər ˈʧɪldrən/ : đón con
-Bed of roses/ bowl of cherries /bɛd ʌv ˈroʊzɪz/ /boʊl ʌv ˈʧɛriz/ : đời sống sung túc dễ dàng
-To believe one's ears/ to believe one's eyes /tuː bɪˈliv wʌnz ɪərz/ /tuː bɪˈliv wʌnz aɪz/ : tin vào những gì bạn thấy, thường diễn tả sự ngạc nhiên
-Be one's guest /bi wʌnz ɡɛst/ : xin cứ tự nhiên
-A room with a view /ə ruːm wɪð ə vjuː/ : phòng có thể nhìn ra bên ngoài
-A suite /ə swiːt/ : phòng ngủ có thêm phòng khách loại đặc biệt
-Cable TV /ˈkeɪbl ˌtiːˈviː/ : truyền hình cáp
-VCR /ˌviː siː ˈɑːr/ : đầu máy - video cassette recorder
-Telephone /ˈtɛlɪfoʊn/ : điện thoại
-Internet connection /ˈɪntərˌnɛt kəˈnɛkʃən/ : có internet
-The reception room /ðə rɪˈsɛpʃən ruːm/ : phòng lễ tân
-The cashier /ðə kæˈʃɪər/ : thu ngân
-The check-in counter /ðə ˈʧɛk ɪn ˈkaʊntər/ : chỗ nhận phòng
-The check-out counter /ðə ˈʧɛk aʊt ˈkaʊntər/ : chỗ trả phòng
-A bellman /ə ˈbɛlmən/ : nhân viên khuân vác hành lý
-A bell captain /ə ˈbɛl ˈkæptɪn/ : trưởng nhóm bảo vệ khuân vác
-To show your reservation letter /tuː ʃoʊ jʊər ˌrɛzərˈveɪʃən ˈlɛtər/ : cho xem thư đặt phòng trước
-The confirmation slip /ðə ˌkɒnfərˈmeɪʃən slɪp/ : biên lai xác nhận; giấy xác nhận có đặt phòng trước
-To present your ID card /tuː prɪˈzɛnt jʊər aɪ diː kɑːrd/ : cho xem chứng minh thư
-To give the check-in clerk your visa /tuː ɡɪv ðə ˈʧɛk ɪn klɜːrk jʊər ˈviːzə/ : đưa nhân viên nhận phòng xem visa của bạn
-To sign the contract /tuː saɪn ðə ˈkɒntrækt/ : ký hợp đồng
-To get the keys /tuː ɡɛt ðə kiːz/ : nhận chìa khóa
-To ask for a bellman /tuː ɑːsk fɔːr ə ˈbɛlmən/ : gọi nhân viên khuân vác hành lý
-To show them the luggage /tuː ʃoʊ ðɛm ðə ˈlʌɡɪdʒ/ : chỉ cho họ hành lý của bạn
-To get on the elevator /tuː ɡɛt ɒn ði ˈɛlɪˌveɪtər/ : vô thang máy
-The check-out clerk /ðə ˈʧɛk aʊt klɜːrk/ : nhân viên trả phòng
-The check-out procedures /ðə ˈʧɛk aʊt prəˈsiːdʒərz/ : thủ tục trả phòng
-The room maid/servant /ðə ruːm meɪd/ /ˈsɜːrvənt/ : người lao công quét dọn phòng
-To pay by check /tuː peɪ baɪ ʧɛk/ : trả bằng ngân phiếu
-To pay by credit card /tuː peɪ baɪ ˈkrɛdɪt kɑːrd/ : trả bằng thẻ tín dụng
-To pay by cashier /tuː peɪ baɪ kæˈʃɪər/ : trả bằng thẻ thu ngân
-The chamber of commerce /ðə ˈʧeɪmbər ʌv ˈkɒmɜːrs/ : phòng thương mại
-To obtain the information /tuː əbˈteɪn ði ˌɪnfərˈmeɪʃən/ : lấy thông tin
-The yearly business directory /ðə ˈjɪərli ˈbɪznəs dɪˈrɛktəri/ : danh bạ doanh nghiệp hàng năm; quyển niên giám về thương mại. Nghĩa: Danh bạ liệt kê các doanh nghiệp trong một ngành hoặc khu vực cụ thể
-The personnel department /ðə ˌpɜːrsəˈnɛl dɪˈpɑːrtmənt/ : phòng nhân sự
-The recruiting department /ðə rɪˈkruːtɪŋ dɪˈpɑːrtmənt/ : phòng tuyển dụng
-A recruiting officer /ə rɪˈkruːtɪŋ ˈɒfɪsər/ : viên chức tuyển dụng
-An application package /ən ˌæplɪˈkeɪʃən ˈpækɪdʒ/ : bộ hồ sơ xin việc
-A resume /ə ˈrɛzəmeɪ/ : tóm tắt lý lịch
-A curriculum vitae /ə kəˈrɪkjələm ˈviːtaɪ/ : sơ yếu lý lịch
-A health certification /ə hɛlθ ˌsɜːrtɪfɪˈkeɪʃən/ : giấy chứng nhận sức khỏe
-A photograph /ə ˈfoʊtəɡræf/ : hình
-An interview /ən ˈɪntərvjuː/ : cuộc phỏng vấn
-The missing documents /ðə ˈmɪsɪŋ ˈdɒkjʊmənts/ : những tài liệu còn thiếu
-The requested documents /ðə rɪˈkwɛstɪd ˈdɒkjʊmənts/ : những tài liệu theo yêu cầu
-Professional or lack of it /prəˈfɛʃənl ɔːr læk ʌv ɪt/ : chuyên nghiệp hay thiếu chuyên nghiệp
-A seminar /ə ˈsɛmɪnɑːr/ : một buổi hội thảo
-The topic of discussion /ðə ˈtɒpɪk ʌv dɪˈskʌʃən/ : chủ đề thảo luận
+Moreover /mɔːrˈoʊvər/: hơn nữa
+In addition /ɪn əˈdɪʃən/: thêm vào
+Furthermore /ˈfɜːrðərmɔːr/: hơn thế
+Beside /bɪˈsaɪd/: bên cạnh
+Similarly /ˈsɪmɪlərli/: cũng như thế
+In like manner /ɪn laɪk ˈmænər/: cũng như vậy
+Under the same circumstances /ˈʌndər ðə seɪm ˈsɜːrkəmstænsɪz/: trong cùng hoàn cảnh
+Likewise /ˈlaɪkwaɪz/: tương tự như vậy
+In the same way /ɪn ðə seɪm weɪ/: cũng giống vậy
+Under the same condition /ˈʌndər ðə seɪm kənˈdɪʃən/: cùng điều kiện
+However /haʊˈɛvər/: tuy nhiên
+Nevertheless /ˌnɛvərðəˈlɛs/: tuy thế mà
+On the contrary /ɒn ðə ˈkɒntrəri/: trái lại
+Yet /jɛt/: tuy nhiên
+On the other hand /ɒn ði ˈʌðər hænd/: ngược lại
+Surely /ˈʃʊrli/: Chắn chắn là, Không nghi ngờ gì nữa
+Naturally /ˈnæʧrəli/: dĩ nhiên là
+Although this may be true /ɔːlˈðoʊ ðɪs meɪ bi truː/: mặc dù điều này có thể đúng
+Certainly /ˈsɜːrtənli/: chắc chắn là
+No doubt /noʊ daʊt/: không nghi ngờ
+Finally /ˈfaɪnəli/: cuối cùng
+In short /ɪn ʃɔːrt/: tóm lại
+In conclusion /ɪn kənˈkluːʒən/: để kết luận
+In brief /ɪn briːf/: nói tóm lại
+First /fɜːrst/: trước hết
+Second /ˈsɛkənd/: thứ nhì
+Third /θɜːrd/: thứ ba
+For example /fɔːr ɪɡˈzæmpl/: ví dụ
+In general /ɪn ˈdʒɛnərəl/: nói chung
+Mainly /ˈmeɪnli/: nhất là, chủ yếu là
+For instance /fɔːr ˈɪnstəns/: ví dụ
+Indeed /ɪnˈdiːd/: thực vậy, quả thực
+Namely /ˈneɪmli/: cụ thể là
+Occasionally /əˈkeɪʒənəli/: thỉnh thoảng
+Often /ˈɔːfən/: thường
+Sometimes /ˈsʌmtaɪmz/: đôi khi
+Usually /ˈjuːʒuəli/: thường xuyên
+Frequently /ˈfriːkwəntli/: thường xuyên
+Generally /ˈdʒɛnərəli/: thường thì, nhìn chung
+Here /hɪər/: ở đây
+Elsewhere /ˈelswɛr/: ở đâu khác
+In the background /ɪn ðə ˈbækɡraʊnd/: trong hậu trường
+There /ðɛər/: ở đó
+Farther on /ˈfɑːrðər ɒn/: xa xa
+Straight ahead /streɪt əˈhɛd/: thẳng trước mặt
+Again /əˈɡɛn/: lần nữa
+In other words /ɪn ˈʌðər wɜːrdz/: nói cách khác
+Once again /wʌns əˈɡɛn/: một lần nữa
+As it has been pointed out /æz ɪt hæz bɪn ˈpɔɪntɪd aʊt/: như đã trình bày
+As I have said above /æz aɪ hæv sɛd əˈbʌv/: như tôi đã nói ở trên
+As you've known /æz juːv noʊn/: như anh đã biết
+Then /ðɛn/: sau đó; như vậy thì
+Thus /ðʌs/: cho nên
+Therefore /ˈðɛrˌfɔːr/: vì vậy
+As a result /æz ə rɪˈzʌlt/: kết quả là
+Meanwhile /ˈmiːnˌwaɪl/: trong lúc ấy
+Simultaneously /ˌsaɪməlˈteɪniəsli/: đồng thời; ngay lúc đó
+At that time /æt ðæt taɪm/: vào lúc đó
+In the meantime /ɪn ðə ˈmiːnˌtaɪm/: cùng lúc ấy
+After a while /ˈæftər ə waɪl/: sau một lúc
+In the past /ɪn ðə pæst/: trong quá khứ
+To be out of gas /tuː bi aʊt ʌv ɡæs/: hết xăng
+To have your tank filled up /tuː hæv jʊər tæŋk fɪld ʌp/: cho đổ đầy bình xăng
+To stand in line /tuː stænd ɪn laɪn/: đứng xếp hàng
+To resolve a complaint /tuː rɪˈzɑːlv ə kəmˈpleɪnt/: giải quyết khiếu nại
+To check the transmission /tuː ʧɛk ðə trænzˈmɪʃən/: xem lại bộ số
+To fix the brakes /tuː fɪks ðə breɪks/: sửa thắng
+To pump gas /tuː pʌmp ɡæs/: bơm xăng
+Unleaded gas /ʌnˈlɛdɪd ɡæs/: xăng không có chì
+Regular gas /ˈrɛɡjələr ɡæs/: xăng thường
+Super unleaded /ˈsuːpər ʌnˈlɛdɪd/: xăng tốt nhất không có chì
+The gas station attendant /ðə ɡæs ˈsteɪʃən əˈtɛndənt/: nhân viên cây xăng
+The mechanics /ðə mɪˈkænɪks/: Cơ giới học (hoặc nhiều người thợ máy)
+To fix the transmission /tuː fɪks ðə trænzˈmɪʃən/: sửa lại bộ hộp số
+To change transmission /tuː ʧeɪndʒ trænzˈmɪʃən/: thay bộ hộp số
+To change transmission oil /tuː ʧeɪndʒ trænzˈmɪʃən ɔɪl/: thay dầu mỡ hộp số
+To charge a fee for parts and labor /tuː ʧɑːrdʒ ə fiː fɔːr pɑːrts ənd ˈleɪbər/: lấy tiền công và tiền phụ tùng
+The mechanic /ðə mɪˈkænɪk/: thợ máy
+The expertise /ðə ˌɛkspɜːrˈtiːz/: thợ thành thạo chuyên môn
+Machinery /məˈʃiːnəri/: máy móc
+The engine oil /ðə ˈɛnʤɪn ɔɪl/: nhớt máy
+The batteries /ðə ˈbætəriːz/: bình điện
+The plugs /ðə plʌɡz/: bugi
+To spray /tuː spreɪ/: xịt
+To cover the seat /tuː ˈkʌvər ðə siːt/: bọc ghế ngồi
+To rub back and forth /tuː rʌb bæk ənd fɔːrθ/: chà tới lui
+Detergent /dɪˈtɜːrdʒənt/: chất tẩy rửa
+Soap /soʊp/: xà phòng
+A water-proof bag /ə ˈwɔːtər-pruːf bæɡ/: túi không thấm
+A piece of cloth /ə piːs ʌv klɔːθ/: miếng vải
+Bleach /bliːtʃ/: thuốc tẩy
+Wheels /wiːlz/: bánh xe
+The frame /ðə freɪm/: sườn xe
+The motor /ðə ˈmoʊtər/: đầu xe máy
+The seat /ðə siːt/: yên xe
+Handlebars for steering /ˈhændəlbɑːrz fɔːr ˈstɪərɪŋ/: bánh lái
+Brakes /breɪks/: thắng xe
+Pedals /ˈpɛdəlz/: bàn đạp
+The court system /ðə kɔːrt ˈsɪstəm/: hệ thống tòa án
+The judge /ðə dʒʌdʒ/: thẩm phán
+The presiding judge /ðə prɪˈzaɪdɪŋ dʒʌdʒ/: chánh án
+The prosecuting attorney /ðə ˌprɒsɪˈkjuːtɪŋ əˈtɜːrni/: biện lý, công tố
+The lawyer /ðə ˈlɔːjər/: luật sư
+Attorney at law /əˈtɜːrni æt lɔː/: luật sư
+The court clerk /ðə kɔːrt klɜːrk/: thư ký tòa án, lục sự
+The jury /ðə ˈdʒʊəri/: bồi thẩm đoàn có 12 bồi thẩm viên
+Unsatisfactory judgment /ˌʌnsætɪsˈfæktəri ˈdʒʌdʒmənt/: phán xét không mãn nguyện
+To give a verdict /tuː ɡɪv ə ˈvɜːrdɪkt/: cho bản định tội của bồi thẩm đoàn
+To answer a complaint /tuː ˈænsər ə kəmˈpleɪnt/: trả lời đơn thưa
+To sue somebody /tuː suː ˈsʌmbədi/: kiện cáo ai
+To file a complaint /tuː faɪl ə kəmˈpleɪnt/: nộp đơn thưa
+To go to court /tuː ɡoʊ tuː kɔːrt/: ra tòa
+To judge /tuː dʒʌdʒ/: tuyên án
+A public high school /ə ˈpʌblɪk haɪ skuːl/: trường công lập
+A private high school /ə ˈpraɪvɪt haɪ skuːl/: trường tư nhân - dân lập
+The principal /ðə ˈprɪnsəpəl/: hiệu trưởng
+The vice principal /ðə vaɪs ˈprɪnsəpəl/: phó hiệu trưởng
+The proctors /ðə ˈprɒktəz/: giám thị
+To obey the discipline /tuː əˈbeɪ ðə ˈdɪsɪplɪn/: chấp hành kỷ luật
+To pick up their children /tuː pɪk ʌp ðɛər ˈʧɪldrən/: đón con
+Bed of roses/ bowl of cherries /bɛd ʌv ˈroʊzɪz/ /boʊl ʌv ˈʧɛriz/: đời sống sung túc dễ dàng
+To believe one's ears/ to believe one's eyes /tuː bɪˈliv wʌnz ɪərz/ /tuː bɪˈliv wʌnz aɪz/: tin vào những gì bạn thấy, thường diễn tả sự ngạc nhiên
+Be one's guest /bi wʌnz ɡɛst/: xin cứ tự nhiên
+A room with a view /ə ruːm wɪð ə vjuː/: phòng có thể nhìn ra bên ngoài
+A suite /ə swiːt/: phòng ngủ có thêm phòng khách loại đặc biệt
+Cable TV /ˈkeɪbl ˌtiːˈviː/: truyền hình cáp
+VCR /ˌviː siː ˈɑːr/: đầu máy - video cassette recorder
+Telephone /ˈtɛlɪfoʊn/: điện thoại
+Internet connection /ˈɪntərˌnɛt kəˈnɛkʃən/: có internet
+The reception room /ðə rɪˈsɛpʃən ruːm/: phòng lễ tân
+The cashier /ðə kæˈʃɪər/: thu ngân
+The check-in counter /ðə ˈʧɛk ɪn ˈkaʊntər/: chỗ nhận phòng
+The check-out counter /ðə ˈʧɛk aʊt ˈkaʊntər/: chỗ trả phòng
+A bellman /ə ˈbɛlmən/: nhân viên khuân vác hành lý
+A bell captain /ə ˈbɛl ˈkæptɪn/: trưởng nhóm bảo vệ khuân vác
+To show your reservation letter /tuː ʃoʊ jʊər ˌrɛzərˈveɪʃən ˈlɛtər/: cho xem thư đặt phòng trước
+The confirmation slip /ðə ˌkɒnfərˈmeɪʃən slɪp/: biên lai xác nhận; giấy xác nhận có đặt phòng trước
+To present your ID card /tuː prɪˈzɛnt jʊər aɪ diː kɑːrd/: cho xem chứng minh thư
+To give the check-in clerk your visa /tuː ɡɪv ðə ˈʧɛk ɪn klɜːrk jʊər ˈviːzə/: đưa nhân viên nhận phòng xem visa của bạn
+To sign the contract /tuː saɪn ðə ˈkɒntrækt/: ký hợp đồng
+To get the keys /tuː ɡɛt ðə kiːz/: nhận chìa khóa
+To ask for a bellman /tuː ɑːsk fɔːr ə ˈbɛlmən/: gọi nhân viên khuân vác hành lý
+To show them the luggage /tuː ʃoʊ ðɛm ðə ˈlʌɡɪdʒ/: chỉ cho họ hành lý của bạn
+To get on the elevator /tuː ɡɛt ɒn ði ˈɛlɪˌveɪtər/: vô thang máy
+The check-out clerk /ðə ˈʧɛk aʊt klɜːrk/: nhân viên trả phòng
+The check-out procedures /ðə ˈʧɛk aʊt prəˈsiːdʒərz/: thủ tục trả phòng
+The room maid/servant /ðə ruːm meɪd/ /ˈsɜːrvənt/: người lao công quét dọn phòng
+To pay by check /tuː peɪ baɪ ʧɛk/: trả bằng ngân phiếu
+To pay by credit card /tuː peɪ baɪ ˈkrɛdɪt kɑːrd/: trả bằng thẻ tín dụng
+To pay by cashier /tuː peɪ baɪ kæˈʃɪər/: trả bằng thẻ thu ngân
+The chamber of commerce /ðə ˈʧeɪmbər ʌv ˈkɒmɜːrs/: phòng thương mại
+To obtain the information /tuː əbˈteɪn ði ˌɪnfərˈmeɪʃən/: lấy thông tin
+The yearly business directory /ðə ˈjɪərli ˈbɪznəs dɪˈrɛktəri/: danh bạ doanh nghiệp hàng năm; quyển niên giám về thương mại. Nghĩa: Danh bạ liệt kê các doanh nghiệp trong một ngành hoặc khu vực cụ thể
+The personnel department /ðə ˌpɜːrsəˈnɛl dɪˈpɑːrtmənt/: phòng nhân sự
+The recruiting department /ðə rɪˈkruːtɪŋ dɪˈpɑːrtmənt/: phòng tuyển dụng
+A recruiting officer /ə rɪˈkruːtɪŋ ˈɒfɪsər/: viên chức tuyển dụng
+An application package /ən ˌæplɪˈkeɪʃən ˈpækɪdʒ/: bộ hồ sơ xin việc
+A resume /ə ˈrɛzəmeɪ/: tóm tắt lý lịch
+A curriculum vitae /ə kəˈrɪkjələm ˈviːtaɪ/: sơ yếu lý lịch
+A health certification /ə hɛlθ ˌsɜːrtɪfɪˈkeɪʃən/: giấy chứng nhận sức khỏe
+A photograph /ə ˈfoʊtəɡræf/: hình
+An interview /ən ˈɪntərvjuː/: cuộc phỏng vấn
+The missing documents /ðə ˈmɪsɪŋ ˈdɒkjʊmənts/: những tài liệu còn thiếu
+The requested documents /ðə rɪˈkwɛstɪd ˈdɒkjʊmənts/: những tài liệu theo yêu cầu
+Professional or lack of it /prəˈfɛʃənl ɔːr læk ʌv ɪt/: chuyên nghiệp hay thiếu chuyên nghiệp
+A seminar /ə ˈsɛmɪnɑːr/: một buổi hội thảo
+The topic of discussion /ðə ˈtɒpɪk ʌv dɪˈskʌʃən/: chủ đề thảo luận
 
 * leaflet /ˈliː.flɪt/: (n) Tờ rơi ưu đãi. Nghĩa: Một tờ giấy nhỏ cung cấp thông tin hoặc quảng cáo, thường được phân phát miễn phí. Ex: The store distributed leaflets to promote their sale. (Cửa hàng đã phát tờ rơi để quảng cáo chương trình khuyến mãi của họ)
 * flyer /ˈflaɪ.ər/: (n) Tờ rơi quảng cáo. Nghĩa: Một tờ giấy hoặc tài liệu nhỏ được thiết kế để thu hút sự chú ý, thường phát ở nơi công cộng. Ex: They handed out flyers for the upcoming event. (Họ phát tờ rơi quảng cáo cho sự kiện sắp tới)
@@ -3474,75 +3474,75 @@ The topic of discussion /ðə ˈtɒpɪk ʌv dɪˈskʌʃən/ : chủ đề thảo
 - Brochure là tập tài liệu nhiều trang với nội dung chi tiết hơn, thường dùng trong các ngành du lịch, bất động sản, hoặc dịch vụ cao cấp.
 - Pamphlet có mục đích giáo dục hoặc cung cấp thông tin cụ thể về một chủ đề, thường được phát tại các hội nghị hoặc sự kiện nâng cao nhận thức.
 
-A seminar leaflet /ə ˈsɛmɪnɑːr ˈliːflɪt/ : giấy quảng bá buổi hội thảo
-The conference room /ðə ˈkɒnfərəns ruːm/ : phòng hội thảo
-To be held at /tuː bi hɛld æt/ : được tổ chức tại
-To charge a fee /tuː ʧɑːrdʒ ə fiː/ : có lấy phí tham dự
-To suit your needs /tuː suːt jʊər niːdz/ : phù hợp nhu cầu của bạn
-To attend a seminar /tuː əˈtɛnd ə ˈsɛmɪnɑːr/ : dự một buổi hội thảo
-A gift shop /ə ɡɪft ʃɒp/ : tiệm bán quà tặng
-A souvenir gift /ə ˌsuːvəˈnɪr ɡɪft/ : quà lưu niệm
-To have a selection of gifts /tuː hæv ə sɪˈlɛkʃən ʌv ɡɪfts/ : có nhiều quà để chọn lựa
-Gifts for all occasions /ɡɪfts fɔːr ɔːl əˈkeɪʒənz/ : quà tặng cho tất cả dịp lễ
-Items for birthdays /ˈaɪtəmz fɔːr ˈbɜːrθdeɪz/ : mẫu hàng cho sinh nhật
-Anniversaries /ˌænɪˈvɜːrsəriz/ : kỷ niệm hằng năm
-Wedding anniversary /ˈwɛdɪŋ ˌænɪˈvɜːrsəri/ : kỷ niệm ngày cưới
-The 5th anniversary /ðə fɪfθ ˌænɪˈvɜːrsəri/ : kỷ niệm năm thứ 5
-Cosmetics /kɒzˈmɛtɪks/ : mỹ phẩm
-Gifts for men /ɡɪfts fɔːr mɛn/ : quà cho nam giới
-To mail a letter /tuː meɪl ə ˈlɛtər/ : gửi thư
-To buy airmail stamps /tuː baɪ ˈɛrməl ˈstæmps/ : mua tem gửi bằng đường hàng không
-Bulk-rate stamps /bʌlk reɪt ˈstæmps/ : tem mua để gửi số lượng nhiều
-Envelopes /ˈɛnvəloʊps/ : phong bì
-Pay utility bills /peɪ juˈtɪlɪti bɪlz/ : trả tiền điện, gas
-A postal worker /ə ˈpoʊstl ˈwɜrkər/ : nhân viên bưu điện
-To send a registered letter /tuː sɛnd ə ˈrɛdʒɪstərd ˈlɛtər/ : gửi thư bảo đảm
-An express mail /ən ɪksˈprɛs meɪl/ : thư gửi tốc hành
-Next-day delivery /nɛkst deɪ dɪˈlɪvəri/ : thư chuyển nhanh qua đêm phát ngày mai
-To renew a passport /tuː rɪˈnjuː ə ˈpæspɔːrt/ : gia hạn hộ chiếu
-To mail a package /tuː meɪl ə ˈpækɪdʒ/ : gửi gói đồ
-To have a checkup /tuː hæv ə ˈtʃɛkʌp/ : khám bệnh
-An overall medical checkup /æn ˈoʊvərɔːl ˈmɛdɪkl ˈtʃɛkʌp/ : khám bệnh tổng quát
+A seminar leaflet /ə ˈsɛmɪnɑːr ˈliːflɪt/: giấy quảng bá buổi hội thảo
+The conference room /ðə ˈkɒnfərəns ruːm/: phòng hội thảo
+To be held at /tuː bi hɛld æt/: được tổ chức tại
+To charge a fee /tuː ʧɑːrdʒ ə fiː/: có lấy phí tham dự
+To suit your needs /tuː suːt jʊər niːdz/: phù hợp nhu cầu của bạn
+To attend a seminar /tuː əˈtɛnd ə ˈsɛmɪnɑːr/: dự một buổi hội thảo
+A gift shop /ə ɡɪft ʃɒp/: tiệm bán quà tặng
+A souvenir gift /ə ˌsuːvəˈnɪr ɡɪft/: quà lưu niệm
+To have a selection of gifts /tuː hæv ə sɪˈlɛkʃən ʌv ɡɪfts/: có nhiều quà để chọn lựa
+Gifts for all occasions /ɡɪfts fɔːr ɔːl əˈkeɪʒənz/: quà tặng cho tất cả dịp lễ
+Items for birthdays /ˈaɪtəmz fɔːr ˈbɜːrθdeɪz/: mẫu hàng cho sinh nhật
+Anniversaries /ˌænɪˈvɜːrsəriz/: kỷ niệm hằng năm
+Wedding anniversary /ˈwɛdɪŋ ˌænɪˈvɜːrsəri/: kỷ niệm ngày cưới
+The 5th anniversary /ðə fɪfθ ˌænɪˈvɜːrsəri/: kỷ niệm năm thứ 5
+Cosmetics /kɒzˈmɛtɪks/: mỹ phẩm
+Gifts for men /ɡɪfts fɔːr mɛn/: quà cho nam giới
+To mail a letter /tuː meɪl ə ˈlɛtər/: gửi thư
+To buy airmail stamps /tuː baɪ ˈɛrməl ˈstæmps/: mua tem gửi bằng đường hàng không
+Bulk-rate stamps /bʌlk reɪt ˈstæmps/: tem mua để gửi số lượng nhiều
+Envelopes /ˈɛnvəloʊps/: phong bì
+Pay utility bills /peɪ juˈtɪlɪti bɪlz/: trả tiền điện, gas
+A postal worker /ə ˈpoʊstl ˈwɜrkər/: nhân viên bưu điện
+To send a registered letter /tuː sɛnd ə ˈrɛdʒɪstərd ˈlɛtər/: gửi thư bảo đảm
+An express mail /ən ɪksˈprɛs meɪl/: thư gửi tốc hành
+Next-day delivery /nɛkst deɪ dɪˈlɪvəri/: thư chuyển nhanh qua đêm phát ngày mai
+To renew a passport /tuː rɪˈnjuː ə ˈpæspɔːrt/: gia hạn hộ chiếu
+To mail a package /tuː meɪl ə ˈpækɪdʒ/: gửi gói đồ
+To have a checkup /tuː hæv ə ˈtʃɛkʌp/: khám bệnh
+An overall medical checkup /æn ˈoʊvərɔːl ˈmɛdɪkl ˈtʃɛkʌp/: khám bệnh tổng quát
 * fill in /fɪl ɪn/: (v) Điền vào, điền thông tin (VÀO Ô TRỐNG HOẶC VỊ TRÍ CHỈ ĐỈNH). Nghĩa: Dùng khi điền thông tin vào các ô hoặc chỗ trống trong một biểu mẫu hoặc tài liệu. Ex: Please fill in your name and address on the form. (Vui lòng điền tên và địa chỉ của bạn vào biểu mẫu)
 * fill out /fɪl aʊt/: (v) Điền đầy đủ, hoàn thành biểu mẫu. Nghĩa: Dùng khi hoàn thành toàn bộ một biểu mẫu hoặc tài liệu bằng cách điền vào tất cả các thông tin cần thiết. Ex: It took me 10 minutes to fill out the application form. (Tôi mất 10 phút để điền đầy đủ biểu mẫu đăng ký)
-To fill out the patient's form /tuː fɪl aʊt ðə ˈpeɪʃəntz fɔːrm/ : điền vào đơn của bệnh nhân
-To have insurance coverage /tuː hæv ɪnˈʊrəns ˈkʌvərɪdʒ/ : được bảo hiểm chi trả
-A family physician /ə ˈfæmɪli fɪˈzɪʃən/ : bác sĩ gia đình
-To examine my body /tuː ɪɡˈzæmɪn maɪ ˈbɒdi/ : khám người tôi
-To give a prescription /tuː ɡɪv ə prɪˈskrɪpʃən/ : cho toa
-To give me a shot /tuː ɡɪv miː ə ʃɒt/ : tiêm
-To check my head, my chest /tuː ʧɛk maɪ hɛd, maɪ ʧɛst/ : kiểm tra đầu, ngực
-To check my blood pressure /tuː ʧɛk maɪ blʌd ˈprɛʃər/ : đo huyết áp
-A cavity /ə ˈkævɪti/ : một lỗ bị sâu răng
-Dentures /ˈdɛntʃərz/ : răng giả
-To have a dental checkup /tuː hæv ə ˈdɛntl ˈʧɛkʌp/ : khám răng
-To take an X-ray of your teeth /tuː teɪk æn ˈɛksreɪ ʌv jʊər tiːθ/ : chụp X-quang răng
-To get it filled /tuː ɡɛt ɪt fɪld/ : trám
-To put on braces /tuː pʊt ɒn ˈbreɪsɪz/ : niềng răng
-To brush your teeth /tuː brʌʃ jʊər tiːθ/ : đánh răng
-To floss your teeth /tuː flɔːs jʊər tiːθ/ : dùng chỉ nha khoa
-To pull your teeth /tuː pʊl jʊər tiːθ/ : nhổ răng
+To fill out the patient's form /tuː fɪl aʊt ðə ˈpeɪʃəntz fɔːrm/: điền vào đơn của bệnh nhân
+To have insurance coverage /tuː hæv ɪnˈʊrəns ˈkʌvərɪdʒ/: được bảo hiểm chi trả
+A family physician /ə ˈfæmɪli fɪˈzɪʃən/: bác sĩ gia đình
+To examine my body /tuː ɪɡˈzæmɪn maɪ ˈbɒdi/: khám người tôi
+To give a prescription /tuː ɡɪv ə prɪˈskrɪpʃən/: cho toa
+To give me a shot /tuː ɡɪv miː ə ʃɒt/: tiêm
+To check my head, my chest /tuː ʧɛk maɪ hɛd, maɪ ʧɛst/: kiểm tra đầu, ngực
+To check my blood pressure /tuː ʧɛk maɪ blʌd ˈprɛʃər/: đo huyết áp
+A cavity /ə ˈkævɪti/: một lỗ bị sâu răng
+Dentures /ˈdɛntʃərz/: răng giả
+To have a dental checkup /tuː hæv ə ˈdɛntl ˈʧɛkʌp/: khám răng
+To take an X-ray of your teeth /tuː teɪk æn ˈɛksreɪ ʌv jʊər tiːθ/: chụp X-quang răng
+To get it filled /tuː ɡɛt ɪt fɪld/: trám
+To put on braces /tuː pʊt ɒn ˈbreɪsɪz/: niềng răng
+To brush your teeth /tuː brʌʃ jʊər tiːθ/: đánh răng
+To floss your teeth /tuː flɔːs jʊər tiːθ/: dùng chỉ nha khoa
+To pull your teeth /tuː pʊl jʊər tiːθ/: nhổ răng
 Shopping and Supermarket
-To go to the supermarket /tuː ɡoʊ tuː ðə ˈsuːpəmɑːrkɪt/ : đi siêu thị
-To buy or to purchase /tuː baɪ ɔːr tuː ˈpɜːrʧəs/ : mua
-Poultry /ˈpɔːltri/ : gia cầm
-Fruits and vegetables /fruːts ənd ˈvɛdʒtəblz/ : trái cây và rau quả
-The store manager /ðə stɔːr ˈmænɪdʒər/ : cửa hàng trưởng
-The cash register /ðə kæʃ ˈrɛdʒɪstər/ : máy tính tiền
-The aisle /ði aɪl/ : lối đi có hàng hóa 2 bên cho khách chọn mua
-To be on sale /tuː bi ɒn seɪl/ : bán hạ giá
-The dense forest /ðə dɛns ˈfɔːrɪst/ : rừng rậm
-To bring a hunting gun /tuː brɪŋ ə ˈhʌntɪŋ ɡʌn/ : mang theo súng săn
-To shoot /tuː ʃuːt/ : bắn
-A deer /ə dɪər/ : con nai
-A doe /ə doʊ/ : nai cái
-A squirrel /ə ˈskwɜːrəl/ : con sóc
-A tiger /ə ˈtaɪɡər/ : con hổ
-A monkey /ə ˈmʌnki/ : con khỉ
-A bear /ə bɛər/ : con gấu
-To forbid, forbade, forbidden /tuː fərˈbɪd, fərˈbeɪd, fɚˈbɪdn/ : cấm
-To kill /tuː kɪl/ : giết
-To hunt for meat /tuː hʌnt fɔːr miːt/ : săn để lấy thịt ăn hay bán
+To go to the supermarket /tuː ɡoʊ tuː ðə ˈsuːpəmɑːrkɪt/: đi siêu thị
+To buy or to purchase /tuː baɪ ɔːr tuː ˈpɜːrʧəs/: mua
+Poultry /ˈpɔːltri/: gia cầm
+Fruits and vegetables /fruːts ənd ˈvɛdʒtəblz/: trái cây và rau quả
+The store manager /ðə stɔːr ˈmænɪdʒər/: cửa hàng trưởng
+The cash register /ðə kæʃ ˈrɛdʒɪstər/: máy tính tiền
+The aisle /ði aɪl/: lối đi có hàng hóa 2 bên cho khách chọn mua
+To be on sale /tuː bi ɒn seɪl/: bán hạ giá
+The dense forest /ðə dɛns ˈfɔːrɪst/: rừng rậm
+To bring a hunting gun /tuː brɪŋ ə ˈhʌntɪŋ ɡʌn/: mang theo súng săn
+To shoot /tuː ʃuːt/: bắn
+A deer /ə dɪər/: con nai
+A doe /ə doʊ/: nai cái
+A squirrel /ə ˈskwɜːrəl/: con sóc
+A tiger /ə ˈtaɪɡər/: con hổ
+A monkey /ə ˈmʌnki/: con khỉ
+A bear /ə bɛər/: con gấu
+To forbid, forbade, forbidden /tuː fərˈbɪd, fərˈbeɪd, fɚˈbɪdn/: cấm
+To kill /tuː kɪl/: giết
+To hunt for meat /tuː hʌnt fɔːr miːt/: săn để lấy thịt ăn hay bán
 attorney /əˈtɜːr.ni/: (n) Luật sư. Nghĩa: Người được đào tạo để tư vấn và đại diện cho khách hàng trong các vấn đề pháp lý. Ex: She hired an attorney to handle her legal matters. (Cô ấy đã thuê một luật sư để xử lý các vấn đề pháp lý của mình)
 young female attorney /jʌŋ fiːˈmeɪl əˈtɜːr.ni/: (n) Luật sư trẻ tuổi nữ. Nghĩa: Một nữ luật sư còn trẻ tuổi. Ex: The young female attorney impressed everyone with her knowledge and dedication. (Nữ luật sư trẻ tuổi đã gây ấn tượng với mọi người bằng kiến thức và sự tận tâm của cô)
 retain /rɪˈteɪn/: (v) Giữ lại. Nghĩa: Duy trì sự sở hữu hoặc giữ cho một cái gì đó không bị mất đi. Ex: You may choose to retain your lawyer for ongoing legal advice. (Bạn có thể chọn giữ lại luật sư của mình để được tư vấn pháp lý liên tục)
@@ -3656,7 +3656,7 @@ the tailor's /ðə ˈteɪlərz/: (n) Tiệm may. Nghĩa: Nơi cung cấp dịch 
 the barber's /ðə ˈbɑːrbərz/: (n) Tiệm cắt tóc nam. Nghĩa: Nơi cung cấp dịch vụ cắt tóc cho nam giới. Ex: He goes to the barber's every month. (Anh ấy đi cắt tóc mỗi tháng)
 the hairdresser's /ðə ˈheərˌdrɛsərz/: (n) Tiệm làm tóc. Nghĩa: Nơi cung cấp dịch vụ cắt, làm tóc, chủ yếu cho phụ nữ. Ex: She has an appointment at the hairdresser's. (Cô ấy có lịch hẹn ở tiệm làm tóc)
 the butcher's /ðə ˈbʊtʃərz/: (n) Tiệm bán thịt. Nghĩa: Cửa hàng bán thịt tươi. Ex: He bought fresh meat from the butcher's. (Anh ấy mua thịt tươi ở tiệm bán thịt)
-the optometrist's /ðə ɑːpˈtɑːmɪtrɪsts/: (n) Tiệm kính/ cửa hàng mắt kính. Nghĩa: Nơi bán kính và cung cấp dịch vụ kiểm tra mắt. Ex: I need to get my eyes checked at the optometrist's. (Tôi cần kiểm tra mắt ở tiệm kính)
+the optometrist's /ðə ɑːpˈtɑːmɪtrɪsts/: (n) Tiệm kính; cửa hàng mắt kính. Nghĩa: Nơi bán kính và cung cấp dịch vụ kiểm tra mắt. Ex: I need to get my eyes checked at the optometrist's. (Tôi cần kiểm tra mắt ở tiệm kính)
 the jeweler's /ðə ˈdʒuːələrz/: (n) Tiệm trang sức. Nghĩa: Cửa hàng bán trang sức, đồ kim hoàn. Ex: She bought a necklace at the jeweler's. (Cô ấy mua một chiếc vòng cổ ở tiệm trang sức)
 the flower store /ðə ˈflaʊər stɔːr/: (n) Tiệm bán hoa. Nghĩa: Cửa hàng chuyên bán hoa tươi. Ex: He bought a bouquet from the flower store. (Anh ấy đã mua một bó hoa từ tiệm hoa)
 helicopter /ˈhɛlɪˌkɑːptər/: (n) Trực thăng. Nghĩa: Phương tiện bay có cánh quạt trên, có thể cất cánh và hạ cánh thẳng đứng. Ex: The helicopter landed on the roof of the hospital. (Trực thăng đã hạ cánh trên nóc bệnh viện)
@@ -4004,9 +4004,9 @@ mother of pearl /ˌmʌð.ər əv ˈpɜːl/: (n) Xà cừ. Nghĩa: Một vật li
 hooked (sb) up /hʊkt ʌp/: (v) Giới thiệu hoặc kết nối ai đó với thứ họ cần. Nghĩa: Giúp ai đó có được một thứ gì đó, thường là qua các mối quan hệ hoặc kết nối cá nhân. Ex: He hooked me up with a great job opportunity. (Anh ấy đã kết nối tôi với một cơ hội việc làm tuyệt vời)
 shoreline /ˈʃɔː.laɪn/: (n) Đường bờ biển. Nghĩa: Vùng tiếp giáp giữa mặt nước biển và đất liền. Ex: We walked along the shoreline, enjoying the view. (Chúng tôi đi dọc theo đường bờ biển, ngắm cảnh).
 the sea breeze /siː briːz/: (n) Gió biển. Nghĩa: Luồng gió thổi từ biển vào đất liền, thường mát mẻ và dễ chịu. Ex: The sea breeze felt refreshing on a hot day. (Luồng gió biển thật sảng khoái vào một ngày nóng bức).
-[I] Bed of roses/ bowl of cherries /bɛd ʌv ˈroʊzɪz/ /boʊl ʌv ˈʧɛriz/ : đời sống sung túc dễ dàng
-[I] To believe one's ears/ to believe one's eyes /tuː bɪˈliv wʌnz ɪərz/ /tuː bɪˈliv wʌnz aɪz/ : tin vào những gì bạn thấy, thường diễn tả sự ngạc nhiên
-[I] Be one's guest /bi wʌnz ɡɛst/ : xin cứ tự nhiên
+[I] Bed of roses/ bowl of cherries /bɛd ʌv ˈroʊzɪz/ /boʊl ʌv ˈʧɛriz/: đời sống sung túc dễ dàng
+[I] To believe one's ears/ to believe one's eyes /tuː bɪˈliv wʌnz ɪərz/ /tuː bɪˈliv wʌnz aɪz/: tin vào những gì bạn thấy, thường diễn tả sự ngạc nhiên
+[I] Be one's guest /bi wʌnz ɡɛst/: xin cứ tự nhiên
 [I] Better late than never /ˈbɛtər leɪt ðæn ˈnɛvər/: (idiom) Thà muộn còn hơn không. Ex: He finally arrived, better late than never! (Cuối cùng anh ấy cũng đến, thà muộn còn hơn không)
 [I] A bird in the hand is worth two in the bush /ə bɜrd ɪn ðə hænd ɪz wɜrθ tu ɪn ðə bʊʃ/: (idiom) Có được thứ chắc chắn trong tay còn hơn hy vọng vào điều viển vông. Ex: Don’t quit your job until you find a new one. A bird in the hand is worth two in the bush. (Đừng bỏ việc cho đến khi bạn tìm được việc mới. Có chắc trong tay còn hơn hy vọng mơ hồ)
 [I] Birds of a feather flock together /bɜrdz əv ə ˈfɛðər flɑk təˈɡɛðər/: (idiom) Ngưu tầm ngưu, mã tầm mã. Ex: It’s no surprise they became friends; birds of a feather flock together. (Không có gì ngạc nhiên khi họ trở thành bạn bè, ngưu tầm ngưu, mã tầm mã)
@@ -4410,3 +4410,740 @@ Assure /əˈʃʊr/: (v) Đảm bảo. Ex: I assure you that everything will be f
 Assurance /əˈʃʊrəns/: (n) Sự đảm bảo. Ex: He gave me his assurance that he would complete the work on time. (Anh ấy đã cho tôi sự đảm bảo rằng anh ấy sẽ hoàn thành công việc đúng hạn)
 Attract /əˈtrækt/: (v) Thu hút. Ex: The exhibit will attract many visitors. (Triển lãm sẽ thu hút nhiều khách tham quan)
 Attractive /əˈtræktɪv/: (adj) Hấp dẫn. Ex: The attractive design of the product caught everyone's attention. (Thiết kế hấp dẫn của sản phẩm đã thu hút sự chú ý của mọi người)
+Pure /pjʊr/: (adj) Nguyên chất .Ex: The water from the mountain is pure and safe to drink (Nước từ núi nguyên chất và an toàn để uống)
+Pure dialog /pjʊr ˈdaɪəˌlɔːɡ/: (n) Cuộc đối thoại thuần túy .Ex: Their discussion was a pure dialog about art. (Cuộc thảo luận của họ là một cuộc đối thoại thuần túy về nghệ thuật)
+Dealership /ˈdiːlərˌʃɪp/: (n) Đại lý .Ex: He works at a car dealership downtown. (Anh ấy làm việc tại một đại lý xe hơi ở trung tâm thành phố)
+Buy some auto parts /baɪ sʌm ˈɔːtoʊ pɑrts/: (v) Mua một số phụ tùng ô tô .Ex: I need to buy some auto parts for my car. (Tôi cần mua một số phụ tùng ô tô cho xe của mình)
+Juror /ˈdʒʊrər/: (n) Thành viên ban bồi thẩm .Ex: Each juror must evaluate the evidence presented. (Mỗi thành viên ban bồi thẩm phải đánh giá các bằng chứng được đưa ra)
+PTA meeting /piː tiː eɪ ˈmiːtɪŋ/: (n) Cuộc họp hội phụ huynh và giáo viên .Ex: The next PTA meeting is scheduled for Monday. (Cuộc họp hội phụ huynh và giáo viên tiếp theo được lên lịch vào thứ Hai)
+Do business /du ˈbɪznəs/: (v) Kinh doanh .Ex: They do business internationally. (Họ kinh doanh trên toàn cầu)
+To make business friends /tu meɪk ˈbɪznəs frɛndz/: (v) Kết bạn kinh doanh .Ex: Networking events help you to make business friends. (Các sự kiện kết nối giúp bạn kết bạn trong kinh doanh)
+To lecture /tu ˈlɛktʃər/: (v) Thuyết giảng .Ex: He loves to lecture on history. (Anh ấy thích thuyết giảng về lịch sử)
+Toothpaste /ˈtuːθpeɪst/: (n) Kem đánh răng .Ex: Don't forget to buy toothpaste from the store. (Đừng quên mua kem đánh răng từ cửa hàng)
+To wire money /tu ˈwaɪər ˈmʌni/: (v) Chuyển tiền qua ngân hàng .Ex: I need to wire money to my family abroad. (Tôi cần chuyển tiền cho gia đình ở nước ngoài)
+Rent a mailbox /rɛnt ə ˈmeɪlbɑːks/: (v) Thuê một hộp thư .Ex: You can rent a mailbox for your business. (Bạn có thể thuê một hộp thư cho công việc kinh doanh của mình)
+Get a shot for flu /ɡɛt ə ʃɑt fɔr flu/: (v) Tiêm phòng cúm .Ex: It's a good idea to get a shot for flu before winter. (Tiêm phòng cúm trước mùa đông là một ý tưởng tốt)
+Chairman /ˈtʃɛrmən/: (n) Chủ tịch (nam) .Ex: The chairman will address the board tomorrow. (Chủ tịch sẽ phát biểu trước hội đồng vào ngày mai)
+Chairwoman /ˈtʃɛrwʊmən/: (n) Chủ tịch (nữ) .Ex: The chairwoman presented the annual report. (Chủ tịch nữ đã trình bày báo cáo hàng năm)
+The sky grows dark /ðə skaɪ ɡroʊz dɑrk/: (phrase) Bầu trời tối lại .Ex: As the storm approached, the sky grew dark. (Khi cơn bão đến gần, bầu trời tối lại)
+The girl turns red /ðə ɡɜrl tɜrnz rɛd/: (phrase) Cô gái đỏ mặt .Ex: The girl turned red when everyone looked at her. (Cô gái đỏ mặt khi mọi người nhìn vào cô ấy)
+He goes blind /hi ɡoʊz blaɪnd/: (phrase) Anh ấy bị mù .Ex: He goes blind due to a rare disease. (Anh ấy bị mù do một căn bệnh hiếm gặp)
+The man runs mad /ðə mæn rʌnz mæd/: (phrase) Người đàn ông hóa điên .Ex: The man runs mad after losing everything. (Người đàn ông hóa điên sau khi mất tất cả)
+The plumber repairs the leak /ðə ˈplʌmər rɪˈpɛrz ðə lik/: (phrase) Người thợ sửa ống nước sửa chỗ rò rỉ .Ex: The plumber repairs the leak quickly. (Người thợ sửa ống nước sửa chỗ rò rỉ một cách nhanh chóng)
+To presume /tu prɪˈzuːm/: (v) Cho rằng .Ex: I presume he knows about the meeting. (Tôi cho rằng anh ấy biết về cuộc họp)
+Defendant /dɪˈfɛndənt/: (n) Bị cáo .Ex: The defendant pleaded not guilty. (Bị cáo không nhận tội)
+They presume the defendant guilty /ðeɪ prɪˈzuːm ðə dɪˈfɛndənt ˈɡɪlti/: (phrase) Họ cho rằng bị cáo có tội .Ex: They presume the defendant guilty based on the evidence. (Họ cho rằng bị cáo có tội dựa trên bằng chứng)
+Diaper /ˈdaɪpər/: (n) Tã lót .Ex: She changed the baby's diaper. (Cô ấy thay tã cho em bé)
+Baby's diaper /ˈbeɪbiz ˈdaɪpər/: (n) Tã của em bé .Ex: The baby's diaper needs to be changed often. (Tã của em bé cần được thay thường xuyên)
+To mob /tu mɑb/: (v) Vây quanh đông đúc .Ex: The fans mobbed the celebrity as he left the venue. (Các fan vây quanh người nổi tiếng khi anh ấy rời khỏi địa điểm)
+Splendid /ˈsplɛndɪd/: (adj) Tuyệt vời .Ex: The view from the top of the mountain is splendid. (Khung cảnh từ đỉnh núi thật tuyệt vời)
+Treasurer /ˈtrɛʒərər/: (n) Thủ quỹ .Ex: The treasurer is responsible for managing the funds. (Thủ quỹ chịu trách nhiệm quản lý quỹ)
+Chauffeur /ʃoʊˈfɜr/: (n) Tài xế riêng .Ex: The company provides a chauffeur for the CEO. (Công ty cung cấp tài xế riêng cho giám đốc điều hành)
+Carpet /ˈkɑrpɪt/: (n) Thảm .Ex: The carpet in the living room is very soft. (Tấm thảm trong phòng khách rất mềm mại)
+The memo /ðə ˈmɛmoʊ/: (n) Bản ghi nhớ .Ex: Did you read the memo about the new policy? (Bạn đã đọc bản ghi nhớ về chính sách mới chưa?)
+The auto accident /ðə ˈɔːtoʊ ˈæksɪdənt/: (n) Tai nạn ô tô .Ex: The police are investigating the auto accident. (Cảnh sát đang điều tra vụ tai nạn ô tô)
+To disintegrate /tu dɪsˈɪntɪˌɡreɪt/: (v) Phân rã .Ex: The old building began to disintegrate over time. (Tòa nhà cũ bắt đầu phân rã theo thời gian)
+Santa /ˈsæntə/: (n) Ông già Noel .Ex: The children were excited to see Santa at the mall. (Những đứa trẻ rất phấn khích khi gặp ông già Noel ở trung tâm thương mại)
+Kingdom /ˈkɪŋdəm/: (n) Vương quốc .Ex: The kingdom was known for its rich culture and history. (Vương quốc nổi tiếng với văn hóa và lịch sử phong phú)
+To startle /tu ˈstɑrtəl/: (v) Làm giật mình .Ex: The sudden noise startled everyone in the room. (Tiếng ồn đột ngột làm mọi người trong phòng giật mình)
+Originate /əˈrɪdʒɪˌneɪt/: (v) Bắt nguồn .Ex: Many popular dishes originate from Italy. (Nhiều món ăn nổi tiếng bắt nguồn từ Ý)
+Barbary /ˈbɑrbəri/: (n) Khu vực Barbary .Ex: Barbary was once known for its pirates. (Barbary từng nổi tiếng với cướp biển)
+Legendary /ˈlɛdʒənˌdɛri/: (adj) Huyền thoại .Ex: He is a legendary hero in folklore. (Anh ấy là một anh hùng huyền thoại trong truyện dân gian)
+Union /ˈjuːnjən/: (n) Liên hiệp .Ex: The workers formed a union to protect their rights. (Công nhân đã thành lập một liên hiệp để bảo vệ quyền lợi của họ)
+Intelligentsia /ɪnˌtɛlɪˈdʒɛntsɪə/: (n) Tầng lớp trí thức .Ex: The intelligentsia often play a key role in societal reform. (Tầng lớp trí thức thường đóng vai trò quan trọng trong cải cách xã hội)
+Systematic /ˌsɪstəˈmætɪk/: (adj) Có hệ thống .Ex: The investigation was carried out in a systematic manner. (Cuộc điều tra được tiến hành một cách có hệ thống)
+Atomic /əˈtɑmɪk/: (adj) Nguyên tử .Ex: Scientists are researching atomic energy. (Các nhà khoa học đang nghiên cứu năng lượng nguyên tử)
+Pharmaceutics /ˌfɑrməˈsuːtɪks/: (n) Dược học .Ex: She is studying pharmaceutics at the university. (Cô ấy đang học dược học tại trường đại học)
+Rhetoric /ˈrɛtərɪk/: (n) Hùng biện .Ex: His speech was full of persuasive rhetoric. (Bài phát biểu của anh ấy đầy tính hùng biện thuyết phục)
+Lunatic /ˈluːnəˌtɪk/: (adj) Điên rồ .Ex: Driving so fast on an icy road is lunatic behavior. (Lái xe nhanh trên đường băng là hành vi điên rồ)
+Assault /əˈsɔlt/: (n) Cuộc tấn công .Ex: The assault was reported to the police. (Cuộc tấn công đã được báo cho cảnh sát)
+Pick up on /pɪk ʌp ɑn/: (v) Nhận ra .Ex: She quickly picked up on the subtle changes in his tone. (Cô ấy nhanh chóng nhận ra những thay đổi nhỏ trong giọng điệu của anh ấy)
+Call on /kɔl ɑn/: (v) Thăm .Ex: We decided to call on an old friend while passing through town. (Chúng tôi quyết định ghé thăm một người bạn cũ khi đi qua thị trấn)
+Read it over /riːd ɪt ˈoʊvər/: (v) Đọc qua .Ex: Make sure to read it over before signing. (Hãy đảm bảo đọc qua trước khi ký)
+Fireplace /ˈfaɪərpleɪs/: (n) Lò sưởi .Ex: They gathered around the fireplace to keep warm. (Họ tụ tập quanh lò sưởi để giữ ấm)
+A custom /ə ˈkʌstəm/: (n) Một phong tục .Ex: Eating mooncakes is a custom during the Mid-Autumn Festival. (Ăn bánh trung thu là một phong tục trong dịp Tết Trung Thu)
+A church service /ə tʃɜrtʃ ˈsɜrvɪs/: (n) Một buổi lễ tại nhà thờ .Ex: We attended a church service on Christmas Eve. (Chúng tôi tham dự một buổi lễ tại nhà thờ vào đêm Giáng sinh)
+A supper /ə ˈsʌpər/: (n) Một bữa ăn tối nhẹ .Ex: They had a light supper before heading to bed. (Họ dùng bữa ăn tối nhẹ trước khi đi ngủ)
+Stockings /ˈstɑːkɪŋz/: (n) Tất dài .Ex: The children hung their stockings by the fireplace. (Bọn trẻ treo tất dài của chúng cạnh lò sưởi)
+A mistletoe /ə ˈmɪsəlˌtoʊ/: (n) Cành tầm gửi .Ex: It's a tradition to kiss under the mistletoe during Christmas. (Đó là một truyền thống để hôn nhau dưới cành tầm gửi trong dịp Giáng sinh)
+A carola /ə ˈkærələ/: (n) Một bài thánh ca .Ex: The choir sang a beautiful carola at the service. (Dàn hợp xướng đã hát một bài thánh ca tuyệt đẹp trong buổi lễ)
+Pocket book /ˈpɑːkɪt bʊk/: (n) Sổ tay nhỏ .Ex: She always carries a pocket book for notes. (Cô ấy luôn mang theo một cuốn sổ tay nhỏ để ghi chú)
+Compound /ˈkɒmpaʊnd/: (n) Khu phức hợp .Ex: The company built a large compound for its employees. (Công ty đã xây dựng một khu phức hợp lớn cho nhân viên)
+Dotted lines /ˈdɒtɪd laɪnz/: (n) Đường nét đứt .Ex: Please sign on the dotted lines to confirm. (Vui lòng ký vào đường nét đứt để xác nhận)
+Schoolwork /ˈskuːlˌwɜrk/: (n) Bài tập ở trường .Ex: She spent the evening catching up on her schoolwork. (Cô ấy đã dành cả buổi tối để hoàn thành bài tập ở trường)
+Preposition /ˌprɛpəˈzɪʃən/: (n) Giới từ .Ex: The word "in" is a common preposition in English. ("In" là một giới từ phổ biến trong tiếng Anh)
+Postposition /ˌpoʊstpəˈzɪʃən/: (n) Hậu tố vị trí .Ex: In some languages, the equivalent of prepositions are postpositions. (Trong một số ngôn ngữ, từ tương đương với giới từ là hậu tố vị trí)
+Pure != Impure /pjʊr ≠ ˌɪmˈpjʊr/: (adj) Nguyên chất ≠ Không nguyên chất .Ex: This water is pure and safe to drink. (Nước này nguyên chất và an toàn để uống)
+Private /ˈpraɪvɪt/: (adj) Riêng tư .Ex: She values her private life a lot. (Cô ấy rất coi trọng cuộc sống riêng tư của mình)
+Privacy /ˈpraɪvəsi/: (n) Sự riêng tư .Ex: Privacy is an important issue in today's world. (Sự riêng tư là một vấn đề quan trọng trong thế giới ngày nay)
+Policy /ˈpɒləsi/: (n) Chính sách .Ex: The company has a strict policy on data protection. (Công ty có một chính sách nghiêm ngặt về bảo vệ dữ liệu)
+Option /ˈɒpʃən/: (n) Sự lựa chọn .Ex: You have the option to stay or leave. (Bạn có sự lựa chọn ở lại hoặc rời đi)
+Arrangement /əˈreɪndʒmənt/: (n) Sự sắp xếp .Ex: The arrangement for the wedding was beautiful. (Sự sắp xếp cho đám cưới thật đẹp)
+Newlywed /ˈnjuːliˌwɛd/: (n) Người mới cưới .Ex: The newlyweds went on a honeymoon to Bali. (Cặp đôi mới cưới đã đi hưởng tuần trăng mật ở Bali)
+Customary /ˈkʌstəˌmɛri/: (adj) Theo phong tục .Ex: It is customary to shake hands when greeting someone. (Theo phong tục, người ta thường bắt tay khi chào hỏi)
+Unthinkable /ʌnˈθɪŋkəbl/: (adj) Không thể nghĩ tới .Ex: The idea of failure was unthinkable to her. (Ý tưởng về sự thất bại là không thể nghĩ tới đối với cô ấy)
+Disrespect /ˌdɪsrɪˈspɛkt/: (n) Sự thiếu tôn trọng .Ex: He showed disrespect to the teacher by interrupting her. (Anh ấy thể hiện sự thiếu tôn trọng đối với giáo viên bằng cách ngắt lời bà)
+Disrespectful /ˌdɪsrɪˈspɛktfəl/: (adj) Thiếu tôn trọng .Ex: His behavior was disrespectful to everyone present. (Hành vi của anh ấy thiếu tôn trọng đối với tất cả những người có mặt)
+Bustle /ˈbʌsəl/: (n) Sự nhộn nhịp .Ex: The city was full of bustle and energy. (Thành phố đầy nhộn nhịp và năng lượng)
+Laughter /ˈlæftər/: (n) Tiếng cười .Ex: The room was filled with laughter after his joke. (Căn phòng tràn ngập tiếng cười sau câu chuyện cười của anh ấy)
+Grandchildren /ˈɡræn(d)ˌtʃɪldrən/: (n) Các cháu (nội,ngoại) .Ex: She enjoys spending time with her grandchildren. (Bà ấy thích dành thời gian với các cháu của mình)
+Unusual /ʌnˈjuːʒuəl/: (adj) Bất thường .Ex: It's unusual to see snow in this area. (Thật bất thường khi thấy tuyết ở khu vực này)
+Kindergarten /ˈkɪndərˌɡɑːrtən/: (n) Mẫu giáo .Ex: My son goes to kindergarten in the mornings. (Con trai tôi đi học mẫu giáo vào buổi sáng)
+Elementary school /ˌɛləˈmɛntri ˌskuːl/: (n) Trường tiểu học .Ex: She teaches math at an elementary school. (Cô ấy dạy toán ở một trường tiểu học)
+Junior high school /ˌʤuːnjər ˈhaɪ ˌskuːl/: (n) Trường trung học cơ sở .Ex: Students in junior high school often take part in sports. (Học sinh trung học cơ sở thường tham gia các môn thể thao)
+Senior high school /ˌsiːnjər ˈhaɪ ˌskuːl/: (n) Trường trung học phổ thông .Ex: She graduated from senior high school last year. (Cô ấy đã tốt nghiệp trung học phổ thông vào năm ngoái)
+The university /ðə ˌjuːnɪˈvɜːrsɪti/: (n) Trường đại học .Ex: He plans to study engineering at the university. (Anh ấy dự định học ngành kỹ thuật tại trường đại học)
+Grade 1 to grade 12 /ɡreɪd wʌn tə ɡreɪd twɛlv/: (n) Lớp 1 đến lớp 12 .Ex: The education system here includes grade 1 to grade 12. (Hệ thống giáo dục ở đây bao gồm từ lớp 1 đến lớp 12)
+Freshman /ˈfrɛʃmən/: (n) Sinh viên năm nhất .Ex: Freshmen usually have orientation during their first week. (Sinh viên năm nhất thường có buổi định hướng trong tuần đầu tiên)
+Sophomore /ˈsɒfəˌmɔr/: (n) Sinh viên năm hai .Ex: He is a sophomore studying biology. (Anh ấy là sinh viên năm hai ngành sinh học)
+Junior /ˈʤuːnjər/: (n) Sinh viên năm ba .Ex: She is a junior at Harvard University. (Cô ấy là sinh viên năm ba tại Đại học Harvard)
+Senior student /ˈsiːnjər ˈstjuːdənt/: (n) Sinh viên năm cuối .Ex: Senior students often mentor freshmen. (Sinh viên năm cuối thường hướng dẫn sinh viên năm nhất)
+Graduate student /ˈɡræʤuət ˈstjuːdənt/: (n) Học viên cao học .Ex: He is a graduate student pursuing a Master's degree. (Anh ấy là học viên cao học đang theo đuổi bằng Thạc sĩ)
+Plantation /plænˈteɪʃən/: (n) Đồn điền .Ex: The family owns a large coffee plantation. (Gia đình sở hữu một đồn điền cà phê lớn)
+Harvest /ˈhɑːrvɪst/: (n) Mùa thu hoạch .Ex: The harvest this year was very successful. (Mùa thu hoạch năm nay rất thành công)
+Crop /krɒp/: (n) Mùa vụ; cây trồng .Ex: The farmers are growing new crops this season. (Những người nông dân đang trồng cây trồng mới trong mùa này)
+Total yield of produce /ˈtoʊtl jiːld əv ˈprɒdjuːs/: (n) Tổng sản lượng nông sản .Ex: The total yield of produce has increased this year. (Tổng sản lượng nông sản đã tăng trong năm nay)
+Sell by the kilo /sɛl baɪ ðə ˈkiːloʊ/: (v) Bán theo kilogram .Ex: The rice is sold by the kilo at the market. (Gạo được bán theo kilogram tại chợ)
+Import and export /ˈɪmpɔːrt ənd ˈɛkspɔːrt/: (n) Nhập khẩu và xuất khẩu .Ex: The company specializes in the import and export of electronics. (Công ty chuyên về nhập khẩu và xuất khẩu đồ điện tử)
+Machinery /məˈʃiːnəri/: (n) Máy móc .Ex: The factory invested in modern machinery. (Nhà máy đã đầu tư vào máy móc hiện đại)
+Modern equipment /ˈmɒdən ɪˈkwɪpmənt/: (n) Thiết bị hiện đại .Ex: Modern equipment makes work more efficient. (Thiết bị hiện đại giúp công việc hiệu quả hơn)
+Processing /ˈprɑːsesɪŋ/: (n) Sự chế biến .Ex: The processing of sugarcane requires advanced technology. (Sự chế biến mía đường đòi hỏi công nghệ tiên tiến)
+Series of operations /ˈsɪəriːz əv ˌɒpəˈreɪʃənz/: (n) Chuỗi các hoạt động .Ex: The production involves a series of operations. (Việc sản xuất bao gồm một chuỗi các hoạt động)
+Container /kənˈteɪnər/: (n) Thùng chứa .Ex: The chemicals are stored in secure containers. (Các hóa chất được lưu trữ trong các thùng chứa an toàn)
+Receptacle /rɪˈsɛptəkəl/: (n) Vật chứa .Ex: Please put your trash in the receptacle provided. (Vui lòng bỏ rác vào vật chứa đã được cung cấp)
+New Year Celebrations /njuː ˈjɪər ˌsɛləˈbreɪʃənz/: (n) Các lễ kỷ niệm năm mới .Ex: New Year celebrations in this country are vibrant and colorful. (Các lễ kỷ niệm năm mới ở đất nước này rất sôi động và đầy màu sắc)
+Anticipation (of) /ænˌtɪsɪˈpeɪʃən (ʌv)/ != Inanticipation /ɪnˌænˌtɪsɪˈpeɪʃən/: (n) Sự mong chờ (về) ≠ Không mong đợi .Ex: The children waited in anticipation for the fireworks. (Những đứa trẻ chờ đợi pháo hoa trong sự mong chờ)
+Parade /pəˈreɪd/: (n) Cuộc diễu hành .Ex: The parade for the festival attracted thousands of people. (Cuộc diễu hành cho lễ hội thu hút hàng ngàn người)
+Resolution /ˌrɛzəˈluːʃən/: (n) Quyết tâm; nghị quyết .Ex: She made a resolution to exercise more this year. (Cô ấy đưa ra quyết tâm tập thể dục nhiều hơn trong năm nay)
+Lantern /ˈlæntərn/: (n) Đèn lồng .Ex: The streets were beautifully decorated with colorful lanterns. (Các con phố được trang trí đẹp mắt với những chiếc đèn lồng đầy màu sắc)
+Ancestor /ˈænsɛstər/: (n) Tổ tiên .Ex: They honor their ancestors during the New Year festival. (Họ tôn kính tổ tiên trong lễ hội năm mới)
+Athletic /æθˈlɛtɪk/: (adj) Thuộc về thể thao .Ex: He is very athletic and enjoys playing soccer. (Anh ấy rất năng động và thích chơi bóng đá)
+Honor /ˈɒnər/: (n,v) Danh dự; tôn vinh .Ex: It’s important to honor traditions in our family. (Việc tôn vinh các truyền thống trong gia đình rất quan trọng)
+To honor ancestor /tə ˈɒnər ˈænsɛstər/: (v) Tôn kính tổ tiên .Ex: Families gather to honor their ancestors during the festival. (Các gia đình tụ họp để tôn kính tổ tiên trong lễ hội)
+Set aside /sɛt əˈsaɪd/: (v) Để dành .Ex: She set aside time every day to practice meditation. (Cô ấy để dành thời gian mỗi ngày để thực hành thiền)
+Celebrate /ˈsɛləˌbreɪt/: (v) Ăn mừng .Ex: They celebrated the New Year with a big party. (Họ ăn mừng năm mới bằng một bữa tiệc lớn)
+Athletic competition /æθˈlɛtɪk ˌkɑːmpəˈtɪʃən/: (n) Cuộc thi thể thao .Ex: The school organizes an athletic competition every year. (Trường tổ chức một cuộc thi thể thao hàng năm)
+To set aside for /tə sɛt əˈsaɪd fɔːr/: (v) Để dành cho .Ex: This money is set aside for emergencies. (Số tiền này được để dành cho các trường hợp khẩn cấp)
+Each of the fifteen days /iːʧ əv ðə ˈfɪftiːn deɪz/: (phr) Mỗi trong số mười lăm ngày .Ex: Each of the fifteen days of the festival has its own meaning. (Mỗi trong số mười lăm ngày của lễ hội đều có ý nghĩa riêng)
+Aspect /ˈæspɛkt/: (n) Khía cạnh .Ex: This is an important aspect of the culture. (Đây là một khía cạnh quan trọng của văn hóa)
+Associate /əˈsoʊsiˌeɪt/: (v) Liên kết .Ex: People associate lanterns with the Mid-Autumn Festival. (Mọi người liên kết đèn lồng với lễ hội Trung thu)
+Technology /tɛkˈnɑːləʤi/: (n) Công nghệ .Ex: Technology has greatly improved our lives. (Công nghệ đã cải thiện đáng kể cuộc sống của chúng ta)
+Presentation /ˌprɛzənˈteɪʃən/: (n) Bài thuyết trình .Ex: Her presentation on the new project was impressive. (Bài thuyết trình của cô ấy về dự án mới rất ấn tượng)
+Distance /ˈdɪstəns/: (n) Khoảng cách .Ex: The distance between the two cities is about 100 miles. (Khoảng cách giữa hai thành phố là khoảng 100 dặm)
+Invention /ɪnˈvɛnʃən/: (n) Phát minh .Ex: The invention of the telephone changed communication forever. (Phát minh ra điện thoại đã thay đổi mãi mãi cách giao tiếp)
+Huge /hjuːʤ/: (adj) Rất lớn .Ex: The company made a huge profit last year. (Công ty đã thu lợi nhuận rất lớn năm ngoái)
+To store /tə stɔːr/: (v) Lưu trữ .Ex: You can store data on this external hard drive. (Bạn có thể lưu trữ dữ liệu trên ổ cứng ngoài này)
+To communicate /tə kəˈmjuːnɪˌkeɪt/: (v) Giao tiếp .Ex: They communicate with each other using sign language. (Họ giao tiếp với nhau bằng ngôn ngữ ký hiệu)
+To access /tu ˈækˌsɛs/: (v) Truy cập .Ex: Only authorized users can access this system. (Chỉ những người được ủy quyền mới có thể truy cập vào hệ thống này)
+Marketing /ˈmɑːrkɪtɪŋ/: (n) Tiếp thị .Ex: The company spent millions on marketing their new product. (Công ty đã chi hàng triệu để tiếp thị sản phẩm mới của họ)
+Advertising /ˈædvərˌtaɪzɪŋ/: (n) Quảng cáo .Ex: Effective advertising is key to a successful business. (Quảng cáo hiệu quả là chìa khóa để kinh doanh thành công)
+Sacred /ˈseɪkrɪd/: (adj) Thiêng liêng .Ex: This temple is considered a sacred place. (Ngôi đền này được coi là một nơi thiêng liêng)
+Nostalgia /nɒˈstælʤə/: (n) Nỗi hoài niệm .Ex: He felt a wave of nostalgia when he visited his hometown. (Anh ấy cảm thấy một nỗi hoài niệm khi về thăm quê hương)
+To hand down /tə hænd daʊn/: (v) Truyền lại .Ex: These traditions have been handed down through generations. (Những truyền thống này đã được truyền lại qua các thế hệ)
+The Craft Creator /ðə kræft kriˈeɪtər/: (n) Vị thần nghề thủ công .Ex: People offer prayers to the Craft Creator for success in their work. (Mọi người cầu nguyện với vị thần nghề thủ công để công việc thành công)
+The Land Genie /ðə lænd ˈʤiːni/: (n) Thổ địa .Ex: Offerings are made to the Land Genie during the festival. (Lễ vật được dâng lên Thổ địa trong lễ hội)
+The Kitchen God /ðə ˈkɪʧɪn gɒd/: (n) Táo quân .Ex: The Kitchen God is believed to report on a family’s activities to the heavens. (Táo quân được tin rằng sẽ báo cáo các hoạt động của gia đình lên thiên đình)
+Deceased /dɪˈsiːst/: (adj,n) Đã khuất; người đã mất .Ex: The family honors their deceased relatives during the festival. (Gia đình tôn vinh những người thân đã khuất trong lễ hội)
+Descendants /dɪˈsɛndənts/: (n) Con cháu; hậu duệ .Ex: The descendants gathered to celebrate their ancestors. (Con cháu tụ họp để tưởng nhớ tổ tiên)
+Secular /ˈsɛkjʊlər/: (adj) Thế tục; không thuộc tôn giáo .Ex: The festival has both sacred and secular elements. (Lễ hội có cả yếu tố thiêng liêng và thế tục)
+The "five-fruit tray" /ðə ˈfaɪv ˈfruːt treɪ/: (n) Mâm ngũ quả .Ex: The five-fruit tray is an important part of the Tet celebration. (Mâm ngũ quả là một phần quan trọng của lễ Tết)
+Ancestral /ænˈsɛstrəl/: (adj) Thuộc về tổ tiên .Ex: The ancestral altar is beautifully decorated during Tet. (Bàn thờ tổ tiên được trang trí đẹp trong dịp Tết)
+Altar /ˈɔːltər/: (n) Bàn thờ .Ex: Offerings are placed on the altar to honor ancestors. (Lễ vật được đặt trên bàn thờ để tôn kính tổ tiên)
+Food specialties /fuːd ˈspɛʃəltiːz/: (n) Các món ăn đặc sản .Ex: Each region has its own unique food specialties. (Mỗi vùng có các món ăn đặc sản riêng)
+Subscriber /səbˈskraɪbər/: (n) Người đăng ký (dịch vụ) .Ex: The magazine has thousands of subscribers nationwide. (Tạp chí có hàng nghìn người đăng ký trên toàn quốc)
+Charge /ʧɑːrʤ/: (n,v) Phí; tính phí .Ex: There is no extra charge for this service. (Không có phí phụ thu cho dịch vụ này)
+Operator /ˈɒpəˌreɪtər/: (n) Nhà điều hành; tổng đài viên .Ex: The operator connected the call within seconds. (Tổng đài viên đã kết nối cuộc gọi trong vài giây)
+Peak rate /piːk reɪt/: (n) Giá cước giờ cao điểm .Ex: Phone calls during peak rates are more expensive. (Các cuộc gọi trong giờ cao điểm có giá cao hơn)
+Standard rate /ˈstændərd reɪt/: (n) Giá cước tiêu chuẩn .Ex: The standard rate applies to most hours of the day. (Giá cước tiêu chuẩn được áp dụng cho hầu hết các giờ trong ngày)
+Cheap rate /ʧiːp reɪt/: (n) Giá cước rẻ .Ex: Cheap rates are available late at night. (Giá cước rẻ có vào lúc khuya)
+Code /koʊd/: (n) Mã; quy tắc .Ex: Enter the code to unlock the phone. (Nhập mã để mở khóa điện thoại)
+Transmitter /trænzˈmɪtər/: (n) Bộ phát tín hiệu .Ex: The transmitter sends signals to the receiver. (Bộ phát tín hiệu gửi tín hiệu đến thiết bị thu)
+Frequency /ˈfriːkwənsi/: (n) Tần số .Ex: The radio operates on a specific frequency. (Đài phát thanh hoạt động trên một tần số nhất định)
+Facility /fəˈsɪlɪti/: (n) Cơ sở vật chất .Ex: The school provides excellent facilities for students. (Trường cung cấp cơ sở vật chất tuyệt vời cho học sinh)
+Warm climate /wɔːrm ˈklaɪmət/: (n) Khí hậu ấm áp .Ex: This region is known for its warm climate. (Khu vực này nổi tiếng với khí hậu ấm áp)
+Resort /rɪˈzɔːrt/: (n) Khu nghỉ dưỡng .Ex: They spent their vacation at a luxurious seaside resort. (Họ đã trải qua kỳ nghỉ tại một khu nghỉ dưỡng ven biển sang trọng)
+Seaside /ˈsiːsaɪd/: (n) Bờ biển .Ex: We stayed in a small hotel by the seaside. (Chúng tôi ở một khách sạn nhỏ gần bờ biển)
+Offshore /ˌɒfˈʃɔːr/: (adj/adv) Ngoài khơi .Ex: Offshore winds made the sailing difficult. (Gió ngoài khơi khiến việc đi thuyền trở nên khó khăn)
+Popular tourist region /ˈpɒpjʊlər ˈtʊərɪst ˈriːʤən/: (n) Khu vực du lịch nổi tiếng .Ex: Da Nang is a popular tourist region in Vietnam. (Đà Nẵng là một khu vực du lịch nổi tiếng ở Việt Nam)
+Holidaymaker /ˈhɒlɪˌdeɪˌmeɪkər/: (n) Khách du lịch .Ex: The resort is full of holidaymakers during the summer. (Khu nghỉ dưỡng đầy khách du lịch vào mùa hè)
+Island /ˈaɪlənd/: (n) Hòn đảo .Ex: They spent a week exploring the tropical island. (Họ đã dành một tuần để khám phá hòn đảo nhiệt đới)
+Natural /ˈnæʧrəl/: (adj) Tự nhiên .Ex: The park is known for its natural beauty. (Công viên nổi tiếng với vẻ đẹp tự nhiên)
+Blast /blæst/: (n,v) Sự nổ; làm nổ tung .Ex: The blast destroyed several buildings in the area. (Vụ nổ đã phá hủy một số tòa nhà trong khu vực)
+Terminus /ˈtɜːrmɪnəs/: (n) Điểm cuối; bến cuối .Ex: The train terminus is located in the city center. (Bến cuối của tàu hỏa nằm ở trung tâm thành phố)
+Destination /ˌdɛstɪˈneɪʃən/: (n) Điểm đến .Ex: Paris is a popular tourist destination. (Paris là một điểm đến du lịch nổi tiếng)
+Notably /ˈnəʊtəbli/: (adv) Đặc biệt; đáng chú ý .Ex: The plan has some issues, notably its high cost. (Kế hoạch có một số vấn đề, đặc biệt là chi phí cao)
+Afield /əˈfiːld/: (adv) Xa; cách xa .Ex: Farmers often traveled further afield to sell their crops. (Nông dân thường đi xa hơn để bán nông sản của họ)
+Tourist attraction /ˈtʊərɪst əˈtrækʃən/: (n) Điểm thu hút khách du lịch .Ex: Ha Long Bay is a famous tourist attraction in Vietnam. (Vịnh Hạ Long là một điểm thu hút khách du lịch nổi tiếng ở Việt Nam)
+Luxurious /lʌgˈʒʊərɪəs/: (adj) Sang trọng .Ex: They stayed in a luxurious hotel overlooking the beach. (Họ ở một khách sạn sang trọng nhìn ra bãi biển)
+Chain /ʧeɪn/: (n) Chuỗi (cửa hàng, khách sạn) .Ex: This is part of a global hotel chain. (Đây là một phần của chuỗi khách sạn toàn cầu)
+Individually owned /ˌɪndɪˈvɪʤuəli əʊnd/: (adj) Sở hữu cá nhân .Ex: Many of the shops in this area are individually owned. (Nhiều cửa hàng trong khu vực này thuộc sở hữu cá nhân)
+A wide range of goods /ə waɪd reɪnʤ əv gʊdz/: (n) Một loạt hàng hóa đa dạng .Ex: The market offers a wide range of goods, from clothing to food. (Chợ cung cấp một loạt hàng hóa đa dạng, từ quần áo đến thực phẩm)
+To stock /tə stɒk/: (v) Tích trữ; cung cấp hàng hóa .Ex: The shop stocks a variety of imported products. (Cửa hàng cung cấp nhiều loại sản phẩm nhập khẩu)
+On a large scale /ɒn ə lɑːrʤ skeɪl/: (adv) Trên quy mô lớn .Ex: They produce goods on a large scale to meet demand. (Họ sản xuất hàng hóa trên quy mô lớn để đáp ứng nhu cầu)
+Household goods /ˈhaʊshəʊld gʊdz/: (n) Đồ gia dụng .Ex: The store sells a wide range of household goods. (Cửa hàng bán nhiều loại đồ gia dụng)
+Superintendent /ˌsuːpərɪnˈtɛndənt/: (n) Người quản lý; giám thị .Ex: The superintendent oversees the operations of the school. (Người quản lý giám sát hoạt động của trường học)
+Ministry /ˈmɪnɪstri/: (n) Bộ (cơ quan chính phủ) .Ex: He works for the Ministry of Health. (Anh ấy làm việc cho Bộ Y tế)
+Ministry of Education /ˈmɪnɪstri əv ˌɛdʒʊˈkeɪʃən/: (n) Bộ Giáo dục .Ex: The Ministry of Education announced new policies for schools. (Bộ Giáo dục đã công bố các chính sách mới cho trường học)
+To be in charge /tə bi ɪn ʧɑːrʤ/: (v) Chịu trách nhiệm .Ex: She is in charge of organizing the event. (Cô ấy chịu trách nhiệm tổ chức sự kiện)
+Award /əˈwɔːrd/: (n) Giải thưởng .Ex: He received an award for his outstanding performance. (Anh ấy nhận được một giải thưởng cho màn trình diễn xuất sắc)
+Prove /pruːv/: (v) Chứng minh .Ex: Can you prove your point with evidence? (Bạn có thể chứng minh quan điểm của mình bằng bằng chứng không?)
+Proof /pruːf/: (n) Bằng chứng .Ex: We need proof of his identity. (Chúng tôi cần bằng chứng về danh tính của anh ấy)
+Diploma /dɪˈpləʊmə/: (n) Bằng cấp .Ex: She earned a diploma in computer science. (Cô ấy nhận được bằng cấp về khoa học máy tính)
+Proof of successful completion of the Senior high school programs //: (n) Chứng nhận hoàn thành chương trình trung học phổ thông .Ex: The diploma serves as proof of successful completion of the Senior high school programs. (Bằng tốt nghiệp là chứng nhận hoàn thành chương trình trung học phổ thông)
+Conduct an exam /kənˈdʌkt ən ɪɡˈzæm/: (v) Tổ chức một kỳ thi .Ex: The teacher will conduct an exam next week. (Giáo viên sẽ tổ chức một kỳ thi vào tuần sau)
+Thesis /ˈθiːsɪs/: (n) Luận án .Ex: She is working on her thesis for her Master's degree. (Cô ấy đang làm luận án cho bằng Thạc sĩ)
+The oral defense of a thesis /ði ˈɔːrəl dɪˈfɛns əv ə ˈθiːsɪs/: (n) Bảo vệ luận án bằng hình thức vấn đáp .Ex: He passed the oral defense of his thesis successfully. (Anh ấy đã bảo vệ luận án thành công bằng hình thức vấn đáp)
+Dissertation /ˌdɪsərˈteɪʃən/: (n) Luận văn .Ex: The dissertation must be submitted by the end of the semester. (Luận văn phải được nộp trước khi kết thúc học kỳ)
+An outfit /ən ˈaʊtfɪt/: (n) Bộ trang phục .Ex: She chose an elegant outfit for the party. (Cô ấy chọn một bộ trang phục thanh lịch cho bữa tiệc)
+Phoenix /ˈfiːnɪks/: (n) Chim phượng hoàng .Ex: The phoenix symbolizes rebirth and immortality. (Chim phượng hoàng tượng trưng cho sự tái sinh và bất tử)
+Ash /æʃ/: (n) Tro tàn .Ex: The phoenix rises from its ashes. (Chim phượng hoàng tái sinh từ tro tàn của nó)
+Rising born again from its ashes /ˈraɪzɪŋ bɔːrn əˈɡɛn frəm ɪts ˈæʃɪz/: (phr) Tái sinh từ tro tàn .Ex: The myth describes the phoenix as rising born again from its ashes. (Truyền thuyết miêu tả chim phượng hoàng như được tái sinh từ tro tàn)
+Fortune /ˈfɔːrʧən/: (n) Vận may; tài sản .Ex: He made a fortune through his investments. (Anh ấy kiếm được một gia tài nhờ các khoản đầu tư của mình)
+Affect /əˈfɛkt/: (v) Ảnh hưởng .Ex: The weather can affect your mood. (Thời tiết có thể ảnh hưởng đến tâm trạng của bạn)
+Costume /ˈkɒstjuːm/: (n) Trang phục .Ex: The actors wore elaborate costumes for the play. (Các diễn viên mặc những trang phục cầu kỳ cho vở kịch)
+Silk /sɪlk/: (n) Lụa .Ex: The dress is made of pure silk. (Chiếc váy được làm từ lụa nguyên chất)
+Silkworm /ˈsɪlkˌwɜːrm/: (n) Con tằm .Ex: Silkworms are raised to produce silk. (Tằm được nuôi để sản xuất lụa)
+Fabric /ˈfæbrɪk/: (n) Vải .Ex: This fabric is very soft and durable. (Loại vải này rất mềm và bền)
+Woven /ˈwoʊvən/: (adj) Được dệt .Ex: She prefers woven fabrics for making clothes. (Cô ấy thích các loại vải được dệt để may quần áo)
+Veil /veɪl/: (n) Tấm mạng che mặt .Ex: The bride wore a beautiful white veil. (Cô dâu đội một tấm mạng che mặt màu trắng tuyệt đẹp)
+Head-dress /ˈhɛdˌdrɛs/: (n) Mũ đội đầu (trang trí) .Ex: The traditional head-dress was adorned with feathers. (Chiếc mũ truyền thống được trang trí bằng lông vũ)
+Headdress of flowers /ˈhɛdˌdrɛs əv ˈflaʊərz/: (n) Vòng hoa đội đầu .Ex: She wore a headdress of flowers for the festival. (Cô ấy đội một vòng hoa cho lễ hội)
+Coat of arms /ˈkoʊt əv ɑːrmz/: (n) Huy hiệu gia đình hoặc tổ chức .Ex: The coat of arms was engraved on the shield. (Huy hiệu được khắc trên chiếc khiên)
+Crest /krɛst/: (n) Huy hiệu; đỉnh .Ex: The family crest was displayed on the wall. (Huy hiệu của gia đình được treo trên tường)
+Seal /siːl/: (n) Con dấu .Ex: The document was stamped with an official seal. (Tài liệu được đóng dấu chính thức)
+Note paper /ˈnoʊt ˌpeɪpər/: (n) Giấy viết thư .Ex: She wrote a letter on decorative note paper. (Cô ấy viết thư trên giấy viết thư trang trí)
+Symbol /ˈsɪmbəl/: (n) Biểu tượng .Ex: The dove is a symbol of peace. (Chim bồ câu là biểu tượng của hòa bình)
+Emblem /ˈɛmbləm/: (n) Huy hiệu; biểu tượng .Ex: The emblem of the organization is a golden eagle. (Huy hiệu của tổ chức là một con đại bàng vàng)
+Native /ˈneɪtɪv/: (adj) Bản xứ; thuộc về nơi sinh ra .Ex: She is a native speaker of Spanish. (Cô ấy là người bản ngữ nói tiếng Tây Ban Nha)
+Differ /ˈdɪfər/: (v) Khác biệt .Ex: The two opinions differ on many points. (Hai quan điểm khác biệt ở nhiều điểm)
+Sandals /ˈsændlz/: (n) Dép xăng-đan .Ex: He prefers wearing sandals in the summer. (Anh ấy thích mang dép xăng-đan vào mùa hè)
+All-white /ɔːl-waɪt/: (adj) Hoàn toàn màu trắng .Ex: She dressed in an all-white outfit for the ceremony. (Cô ấy mặc trang phục toàn màu trắng cho buổi lễ)
+Abundance /əˈbʌndəns/: (n) Sự phong phú; dồi dào .Ex: The garden is full of an abundance of flowers. (Khu vườn đầy hoa cỏ phong phú)
+Fertility /fərˈtɪlɪti/: (n) Sự màu mỡ; khả năng sinh sản .Ex: The fertility of the soil is crucial for agriculture. (Sự màu mỡ của đất rất quan trọng cho nông nghiệp)
+Untucked /ʌnˈtʌkt/: (adj) Không được bỏ vào (áo sơ mi không bỏ vào quần) .Ex: He prefers wearing untucked shirts for a casual look. (Anh ấy thích mặc áo sơ mi không bỏ vào quần để tạo phong cách thoải mái)
+Embroidered /ɪmˈbrɔɪdərd/: (adj) Được thêu .Ex: The embroidered patterns on the dress are stunning. (Các hoa văn thêu trên váy thật lộng lẫy)
+Robe /roʊb/: (n) Áo choàng .Ex: The king wore a royal robe during the ceremony. (Nhà vua mặc áo choàng hoàng gia trong buổi lễ)
+Black silk coat worn over a dark blue dragon robe //: (n) Áo dài đen lụa mặc bên ngoài áo long bào xanh thẫm .Ex: He dressed in a black silk coat worn over a dark blue dragon robe for the celebration. (Ông mặc áo dài đen lụa bên ngoài áo long bào xanh thẫm cho buổi lễ)
+Edo era /ˈɛdoʊ ˈɛrə/: (n) Thời kỳ Edo .Ex: The Edo era was known for its unique culture and art. (Thời kỳ Edo nổi tiếng với văn hóa và nghệ thuật độc đáo)
+Kimono /kɪˈmoʊnoʊ/: (n) Áo kimono (trang phục truyền thống của Nhật Bản) .Ex: She wore a beautiful kimono for the festival. (Cô ấy mặc một chiếc kimono đẹp cho lễ hội)
+Sari /ˈsɑːri/: (n) Sari (trang phục truyền thống của phụ nữ Ấn Độ) .Ex: The bride was dressed in a red sari. (Cô dâu mặc một chiếc sari đỏ)
+Loose /luːs/: (adj) Lỏng, rộng .Ex: She prefers loose clothing for comfort. (Cô ấy thích mặc quần áo rộng rãi để thoải mái)
+Sleeve /sliːv/: (n) Tay áo .Ex: The dress has long sleeves. (Chiếc váy có tay áo dài)
+Long-sleeved shirt /lɔːŋ-sliːvd ʃɜːrt/: (n) Áo sơ mi dài tay .Ex: He bought a long-sleeved shirt for the meeting. (Anh ấy đã mua một chiếc áo sơ mi dài tay cho buổi họp)
+Signify /ˈsɪɡnɪfaɪ/: (v) Biểu thị, có nghĩa là .Ex: The red color signifies love and passion. (Màu đỏ biểu thị tình yêu và đam mê)
+Purity /ˈpjʊrɪti/: (n) Sự thuần khiết .Ex: The white flower symbolizes purity. (Bông hoa trắng tượng trưng cho sự thuần khiết)
+Adorned /əˈdɔːrnd/: (adj) Được trang trí .Ex: The walls were adorned with beautiful paintings. (Những bức tường được trang trí bằng những bức tranh đẹp)
+Sarong /səˈrɔːŋ/: (n) Khăn quấn (trang phục truyền thống của một số nước Đông Nam Á) .Ex: She wrapped a sarong around her waist. (Cô ấy quấn một chiếc sarong quanh eo)
+Acceptance /əkˈsɛptəns/: (n) Sự chấp nhận .Ex: Her speech was met with great acceptance. (Bài phát biểu của cô ấy nhận được sự chấp nhận lớn)
+Affirmation /ˌæfərˈmeɪʃən/: (n) Sự khẳng định .Ex: He gave a firm affirmation of his plans. (Anh ấy đưa ra sự khẳng định chắc chắn về kế hoạch của mình)
+Negation /nɪˈɡeɪʃən/: (n) Sự phủ nhận .Ex: The idea was met with complete negation. (Ý tưởng đã bị phủ nhận hoàn toàn)
+Refusal /rɪˈfjuːzəl/: (n) Sự từ chối .Ex: Her refusal to participate surprised everyone. (Sự từ chối tham gia của cô ấy khiến mọi người ngạc nhiên)
+Denial /dɪˈnaɪəl/: (n) Sự phủ nhận, từ chối .Ex: The denial of the request caused disappointment. (Sự từ chối yêu cầu gây ra sự thất vọng)
+Positive /ˈpɑːzətɪv/: (adj) Tích cực .Ex: She has a positive attitude toward challenges. (Cô ấy có thái độ tích cực đối với những thử thách)
+Negative /ˈnɛɡətɪv/: (adj) Tiêu cực .Ex: Negative thoughts can affect your mental health. (Những suy nghĩ tiêu cực có thể ảnh hưởng đến sức khỏe tinh thần của bạn)
+Timid /ˈtɪmɪd/: (adj) Rụt rè, nhút nhát .Ex: The timid child hid behind her mother. (Đứa trẻ nhút nhát trốn sau lưng mẹ)
+Orient /ˈɔːrient/: (v) Định hướng .Ex: The course helps students orient their career goals. (Khóa học giúp sinh viên định hướng mục tiêu nghề nghiệp của mình)
+Self-confidence /ˌsɛlf ˈkɑːnfɪdəns/: (n) Sự tự tin .Ex: He spoke with great self-confidence during the presentation. (Anh ấy nói với sự tự tin lớn trong buổi thuyết trình)
+Trend /trɛnd/: (n) Xu hướng .Ex: There is a growing trend toward online shopping. (Có một xu hướng ngày càng tăng đối với mua sắm trực tuyến)
+Dynamic /daɪˈnæmɪk/: (adj) Năng động, sôi nổi .Ex: She is a dynamic leader who inspires her team. (Cô ấy là một nhà lãnh đạo năng động, truyền cảm hứng cho đội của mình)
+Tendency /ˈtɛndənsi/: (n) Xu hướng, khuynh hướng .Ex: There is a tendency for people to prefer convenience. (Có một xu hướng khiến mọi người thích sự tiện lợi hơn)
+Forceful /ˈfɔːrsfəl/: (adj) Mạnh mẽ, đầy sức thuyết phục .Ex: He made a forceful argument during the debate. (Anh ấy đưa ra một lập luận mạnh mẽ trong cuộc tranh luận)
+Dialect /ˈdaɪəˌlɛkt/: (n) Phương ngữ .Ex: People in the region speak a distinct dialect. (Người dân trong khu vực nói một phương ngữ đặc trưng)
+Accent /ˈæksɛnt/: (n) Giọng, trọng âm .Ex: She has a British accent. (Cô ấy có giọng Anh)
+Linguistics /lɪŋˈɡwɪstɪks/: (n) Ngôn ngữ học .Ex: He studies linguistics at the university. (Anh ấy học ngôn ngữ học tại trường đại học)
+Distinction /dɪˈstɪŋkʃən/: (n) Sự khác biệt, nét đặc biệt .Ex: There is a clear distinction between the two methods. (Có một sự khác biệt rõ ràng giữa hai phương pháp)
+Dissimilar /dɪˈsɪmɪlər/: (adj) Không giống nhau .Ex: The twins are surprisingly dissimilar in personality. (Hai anh em sinh đôi có tính cách không giống nhau đến đáng ngạc nhiên)
+Variation /ˌvɛriˈeɪʃən/: (n) Sự biến đổi, sự khác biệt .Ex: There is a lot of variation in climate across the country. (Có rất nhiều sự khác biệt về khí hậu trên khắp đất nước)
+Stilled /stɪld/: (adj) Ngừng lại, lặng yên .Ex: The crowd stilled when the speaker took the stage. (Đám đông im lặng khi người diễn thuyết lên sân khấu)
+Stiffly /ˈstɪfli/: (adv) Một cách cứng nhắc .Ex: He greeted her stiffly, avoiding eye contact. (Anh ấy chào cô ấy một cách cứng nhắc, tránh giao tiếp bằng mắt)
+Artificially /ˌɑːrtɪˈfɪʃəli/: (adv) Một cách nhân tạo .Ex: The plants were kept alive artificially. (Cây được giữ sống một cách nhân tạo)
+Renowned /rɪˈnaʊnd/: (adj) Nổi tiếng, có danh tiếng .Ex: She is a renowned scientist in her field. (Cô ấy là một nhà khoa học nổi tiếng trong lĩnh vực của mình)
+Typify /ˈtɪpɪfaɪ/: (v) Điển hình hóa, đại diện .Ex: These paintings typify the artist's early style. (Những bức tranh này đại diện cho phong cách ban đầu của họa sĩ)
+Slang /slæŋ/: (n) Tiếng lóng .Ex: Teenagers often use slang in their conversations. (Thanh thiếu niên thường sử dụng tiếng lóng trong các cuộc trò chuyện của họ)
+Chiefly /ˈtʃiːfli/: (adv) Chủ yếu .Ex: The problem is chiefly due to a lack of funding. (Vấn đề chủ yếu là do thiếu kinh phí)
+Coinage /ˈkɔɪnɪdʒ/: (n) Sự tạo ra từ mới .Ex: The coinage of new words reflects changes in society. (Sự tạo ra từ mới phản ánh những thay đổi trong xã hội)
+Deliberately /dɪˈlɪbərətli/: (adv) Một cách cố ý .Ex: He deliberately ignored her question. (Anh ấy cố ý phớt lờ câu hỏi của cô ấy)
+Standard terms /ˈstændərd tɜːrmz/: (n) Thuật ngữ chuẩn .Ex: The contract was written in standard terms. (Hợp đồng được viết bằng thuật ngữ chuẩn)
+Raciness /ˈreɪsinɪs/: (n) Sự mạnh mẽ, sinh động .Ex: The novel's raciness attracted a lot of readers. (Sự sinh động của cuốn tiểu thuyết đã thu hút rất nhiều độc giả)
+Irreverence /ɪˈrɛvərəns/: (n) Sự thiếu tôn kính .Ex: His irreverence toward authority made him unpopular. (Sự thiếu tôn kính của anh ấy đối với quyền lực khiến anh ấy không được ưa chuộng)
+Constituent /kənˈstɪtʃuənt/: (n) Thành phần, cử tri .Ex: Water is a major constituent of the human body. (Nước là một thành phần chính của cơ thể con người)
+Indistinguishable /ˌɪndɪˈstɪŋɡwɪʃəbl/: (adj) Không thể phân biệt .Ex: The twins are almost indistinguishable. (Hai anh em sinh đôi gần như không thể phân biệt được)
+Calm /kɑːm/: (adj) Bình tĩnh .Ex: She remained calm despite the chaos. (Cô ấy vẫn bình tĩnh bất chấp sự hỗn loạn)
+Agitated /ˈædʒɪteɪtɪd/: (adj) Lo âu, bối rối .Ex: He was visibly agitated during the meeting. (Anh ấy rõ ràng là lo âu trong cuộc họp)
+Knowledgeable /ˈnɑːlɪdʒəbl/: (adj) Hiểu biết rộng .Ex: She is knowledgeable about art history. (Cô ấy rất hiểu biết về lịch sử nghệ thuật)
+Well-informed /ˌwɛlɪnˈfɔːrmd/: (adj) Có hiểu biết, thông thạo .Ex: He is well-informed about current events. (Anh ấy rất thông thạo về các sự kiện hiện tại)
+Embellish /ɪmˈbɛlɪʃ/: (v) Tô điểm, thêm thắt .Ex: She likes to embellish her stories to make them more interesting. (Cô ấy thích thêm thắt câu chuyện của mình để chúng thú vị hơn)
+Untrue /ʌnˈtruː/: (adj) Không đúng, sai sự thật .Ex: The rumors about him are completely untrue. (Những tin đồn về anh ấy hoàn toàn sai sự thật)
+Amusing /əˈmjuːzɪŋ/: (adj) Thú vị, hài hước .Ex: The movie was very amusing. (Bộ phim rất hài hước)
+Formulate /ˈfɔːrmjuleɪt/: (v) Đưa ra, xây dựng .Ex: The scientist formulated a new theory. (Nhà khoa học đã đưa ra một lý thuyết mới)
+To state as or reduce to a formula //: (v) Trình bày dưới dạng công thức .Ex: He tried to state the problem as a formula. (Anh ấy đã cố gắng trình bày vấn đề dưới dạng công thức)
+Objective /əbˈdʒɛktɪv/: (n) Mục tiêu .Ex: The company's main objective is to increase sales. (Mục tiêu chính của công ty là tăng doanh số bán hàng)
+Goal /ɡoʊl/: (n) Mục tiêu, mục đích .Ex: Her goal is to become a doctor. (Mục tiêu của cô ấy là trở thành bác sĩ)
+Criticism /ˈkrɪtɪˌsɪzəm/: (n) Sự chỉ trích, phê bình .Ex: His ideas were met with criticism. (Ý tưởng của anh ấy đã bị chỉ trích)
+Critical /ˈkrɪtɪkl/: (adj) Mang tính phê bình, quan trọng .Ex: The article was critical of government policies. (Bài báo mang tính phê bình các chính sách của chính phủ)
+Instinct /ˈɪnstɪŋkt/: (n) Bản năng .Ex: Birds have an instinct to build nests. (Chim có bản năng làm tổ)
+Inborn /ˌɪnˈbɔːrn/: (adj) Bẩm sinh .Ex: He has an inborn talent for music. (Anh ấy có tài năng âm nhạc bẩm sinh)
+Stimuli /ˈstɪmjʊlaɪ/: (n) Tác nhân kích thích (số nhiều của stimulus) .Ex: The body reacts to external stimuli. (Cơ thể phản ứng với các tác nhân kích thích bên ngoài)
+Ramble /ˈræmbl/: (v) Nói lan man, đi lang thang .Ex: He rambled on about his childhood memories. (Anh ấy nói lan man về ký ức thời thơ ấu của mình)
+Digression /daɪˈɡrɛʃən/: (n) Sự lạc đề .Ex: The lecture was full of digressions. (Bài giảng đầy rẫy những sự lạc đề)
+Lottery /ˈlɒtəri/: (n) Xổ số .Ex: He won the lottery and became rich overnight. (Anh ấy trúng xổ số và trở nên giàu có chỉ sau một đêm)
+Prizewinner /ˈpraɪzˌwɪnər/: (n) Người đoạt giải .Ex: She was the prizewinner of the competition. (Cô ấy là người đoạt giải của cuộc thi)
+Football pool /ˈfʊtbɔːl puːl/: (n) Dự đoán kết quả bóng đá (cược bóng đá) .Ex: He participates in the football pool every weekend. (Anh ấy tham gia cược bóng đá mỗi cuối tuần)
+The holders /ðə ˈhoʊldərz/: (n) Người giữ vé, người nắm giữ (một thứ gì đó) .Ex: The ticket holders were allowed entry first. (Những người giữ vé được phép vào trước)
+Gamble /ˈɡæmbl/: (v) Đánh bạc .Ex: He gambled all his money away at the casino. (Anh ấy đã đánh bạc hết tiền ở sòng bạc)
+Gambling /ˈɡæmblɪŋ/: (n) Sự đánh bạc .Ex: Gambling is illegal in some countries. (Đánh bạc là bất hợp pháp ở một số quốc gia)
+To forecast /tə ˈfɔːrkæst/: (v) Dự đoán, dự báo .Ex: They forecast rain for tomorrow. (Họ dự báo trời sẽ mưa vào ngày mai)
+Tell in advance /tɛl ɪn ədˈvæns/: (v) Nói trước, báo trước .Ex: Please tell me in advance if you're coming. (Làm ơn báo trước cho tôi nếu bạn đến)
+Skate /skeɪt/: (v) Trượt băng, trượt patin .Ex: She loves to skate in the winter. (Cô ấy thích trượt băng vào mùa đông)
+Card-game /ˈkɑːrd ˌɡeɪm/: (n) Trò chơi bài .Ex: We played a fun card-game last night. (Chúng tôi đã chơi một trò chơi bài thú vị tối qua)
+Bet /bɛt/: (v) Đặt cược .Ex: He bet $50 on his favorite team. (Anh ấy đặt cược 50 đô la cho đội yêu thích của mình)
+Doubtful /ˈdaʊtfəl/: (adj) Nghi ngờ, không chắc chắn .Ex: It's doubtful whether the train will arrive on time. (Không chắc chắn liệu tàu có đến đúng giờ hay không)
+Greyhound /ˈɡreɪhaʊnd/: (n) Chó săn thỏ, loài chó săn .Ex: Greyhounds are known for their speed. (Chó săn thỏ nổi tiếng về tốc độ)
+Casino /kəˈsiːnoʊ/: (n) Sòng bạc .Ex: They spent the evening at the casino. (Họ đã dành buổi tối tại sòng bạc)
+Amusement /əˈmjuːzmənt/: (n) Sự giải trí, sự thích thú .Ex: The park offers many forms of amusement. (Công viên cung cấp nhiều hình thức giải trí)
+Arcade /ɑːrˈkeɪd/: (n) Khu vui chơi có máy trò chơi điện tử; hành lang có mái vòm .Ex: He spent hours playing games at the arcade. (Anh ấy đã dành hàng giờ chơi trò chơi tại khu vui chơi)
+Passage /ˈpæsɪdʒ/: (n) Đoạn văn, lối đi .Ex: The passage to the basement is narrow. (Lối đi xuống tầng hầm rất hẹp)
+Arched /ɑːrtʃt/: (adj) Có hình vòm .Ex: The room had a beautiful arched ceiling. (Căn phòng có một trần nhà hình vòm tuyệt đẹp)
+Bingo /ˈbɪŋɡoʊ/: (n) Trò chơi lô tô, trò chơi cờ bạc có thưởng .Ex: My grandma loves to play bingo with her friends. (Bà tôi rất thích chơi lô tô với bạn bè)
+Called at random /kɔːld æt ˈrændəm/: (v) Được gọi ngẫu nhiên .Ex: The bingo numbers are called at random. (Các con số lô tô được gọi ngẫu nhiên)
+Raffle /ˈræfl/: (n) Xổ số từ thiện .Ex: She won a gift basket in the charity raffle. (Cô ấy đã thắng một giỏ quà trong xổ số từ thiện)
+Quiz /kwɪz/: (n) Bài kiểm tra ngắn, trò chơi đố vui .Ex: We had a fun quiz at the party. (Chúng tôi đã có một trò chơi đố vui thú vị tại bữa tiệc)
+Article /ˈɑːrtɪkl/: (n) Bài báo, điều khoản .Ex: I read an interesting article in the newspaper. (Tôi đã đọc một bài báo thú vị trên tờ báo)
+Stigma /ˈstɪɡmə/: (n) Sự kỳ thị .Ex: There is still a stigma attached to mental illness. (Vẫn còn sự kỳ thị đối với bệnh tâm thần)
+Disgrace /dɪsˈɡreɪs/: (n) Sự nhục nhã, sự hổ thẹn .Ex: His behavior brought disgrace to the family. (Hành vi của anh ấy mang lại sự nhục nhã cho gia đình)
+Shameful /ˈʃeɪmfəl/: (adj) Đáng xấu hổ .Ex: His actions were shameful and unacceptable. (Hành động của anh ta thật đáng xấu hổ và không thể chấp nhận được)
+Reputation /ˌrɛpjəˈteɪʃən/: (n) Danh tiếng .Ex: She has a reputation for being honest. (Cô ấy có danh tiếng là người trung thực)
+Small sum /smɔːl sʌm/: (n) Số tiền nhỏ .Ex: He donated a small sum to the charity. (Anh ấy đã quyên góp một số tiền nhỏ cho tổ chức từ thiện)
+Three-figure number /ˈθriː ˈfɪɡjər ˈnʌmbər/: (n) Số có ba chữ số .Ex: The ticket price was a three-figure number. (Giá vé là một số có ba chữ số)
+Bank's financial figures /bæŋks ˈfaɪˌnænʃəl ˈfɪɡjərz/: (n) Các số liệu tài chính của ngân hàng .Ex: The bank's financial figures were published yesterday. (Các số liệu tài chính của ngân hàng đã được công bố ngày hôm qua)
+date back to /deɪt bæk tuː/: (v) Bắt nguồn từ, có từ .Ex: The tradition dates back to the 18th century (Truyền thống này có từ thế kỷ 18)
+era /ˈɪrə/ hoặc /ˈerə/: (n) Thời đại, kỷ nguyên .Ex: The Victorian era is known for its strict social norms (Thời đại Victoria được biết đến với những quy tắc xã hội nghiêm ngặt)
+golden thread /ˈɡoʊldən θrɛd/: (n) Sợi chỉ vàng; biểu tượng cho sự gắn kết quan trọng hoặc ý nghĩa xuyên suốt .Ex: Love is the golden thread that connects all relationships (Tình yêu là sợi chỉ vàng gắn kết mọi mối quan hệ)
+Baccalaureate /ˌbækəˈlɔːriət/: (n) Kỳ thi tú tài; bằng tú tài .Ex: She is preparing for the International Baccalaureate exams (Cô ấy đang chuẩn bị cho kỳ thi tú tài quốc tế)
+pageant /ˈpædʒənt/: (n) Cuộc trình diễn, sự kiện quy mô lớn, lễ hội (thường có yếu tố lịch sử hoặc văn hóa) .Ex: The town organizes a historical pageant every year (Thị trấn tổ chức một lễ hội lịch sử hàng năm)
+pageant contest /ˈpædʒənt ˈkɑːntɛst/: (n) Cuộc thi trình diễn (thường là sắc đẹp hoặc tài năng) .Ex: She won first place in the beauty pageant contest (Cô ấy đã giành giải nhất trong cuộc thi sắc đẹp)
+fruit picking /ˈfruːt ˌpɪkɪŋ/: (n) Hái quả .Ex: Fruit picking is a common activity during harvest season (Hái quả là một hoạt động phổ biến trong mùa thu hoạch)
+weight-lifting /ˈweɪt ˌlɪftɪŋ/: (n) Cử tạ .Ex: Weight-lifting is an Olympic sport (Cử tạ là một môn thể thao Olympic)
+coal-mining /ˈkoʊl ˌmaɪnɪŋ/: (n) Khai thác than .Ex: Coal-mining is a dangerous job (Khai thác than là một công việc nguy hiểm)
+sheep farming /ˈʃiːp ˌfɑːrmɪŋ/: (n) Chăn nuôi cừu .Ex: Sheep farming is common in Australia (Chăn nuôi cừu phổ biến ở Úc)
+wind surfing /ˈwɪnd ˌsɜːrfɪŋ/: (n) Lướt ván buồm .Ex: Wind surfing is an exciting water sport (Lướt ván buồm là một môn thể thao nước thú vị)
+dining-room /ˈdaɪnɪŋ ˌruːm/: (n) Phòng ăn .Ex: We had dinner in the dining-room (Chúng tôi ăn tối trong phòng ăn)
+swimming pool /ˈswɪmɪŋ ˌpuːl/: (n) Hồ bơi .Ex: The hotel has a large swimming pool (Khách sạn có một hồ bơi lớn)
+driving license /ˈdraɪvɪŋ ˌlaɪsəns/: (n) Giấy phép lái xe .Ex: He applied for a driving license (Anh ấy đã nộp đơn xin giấy phép lái xe)
+waiting list /ˈweɪtɪŋ ˌlɪst/: (n) Danh sách chờ .Ex: She is on the waiting list for the surgery (Cô ấy đang trong danh sách chờ phẫu thuật)
+housing committee /ˈhaʊzɪŋ kəˌmɪti/: (n) Ủy ban nhà ở .Ex: The housing committee met to discuss new policies (Ủy ban nhà ở đã họp để thảo luận chính sách mới)
+reading lamp /ˈriːdɪŋ ˌlæmp/: (n) Đèn đọc sách .Ex: I bought a new reading lamp for my study desk (Tôi đã mua một chiếc đèn đọc sách mới cho bàn học của mình)
+skating rink /ˈskeɪtɪŋ ˌrɪŋk/: (n) Sân trượt băng .Ex: We went to the skating rink yesterday (Chúng tôi đã đi đến sân trượt băng hôm qua)
+river bank /ˈrɪvər ˌbæŋk/: (n) Bờ sông .Ex: They had a picnic on the river bank (Họ đã có một buổi picnic trên bờ sông)
+church bell /ˈtʃɜːrtʃ ˌbel/: (n) Chuông nhà thờ .Ex: The church bell rang loudly (Chuông nhà thờ vang lên to)
+picture frame /ˈpɪktʃər ˌfreɪm/: (n) Khung ảnh .Ex: She put the photo in a golden picture frame (Cô ấy đã đặt bức ảnh vào một khung ảnh vàng)
+street market /ˈstriːt ˌmɑːrkɪt/: (n) Chợ đường phố .Ex: The street market sells fresh vegetables (Chợ đường phố bán rau tươi)
+coffee cup /ˈkɔːfi ˌkʌp/: (n) Tách cà phê .Ex: He drank from a small coffee cup (Anh ấy uống từ một tách cà phê nhỏ)
+chess board /ˈtʃes ˌbɔːrd/: (n) Bàn cờ .Ex: The chess board was set up for a new game (Bàn cờ đã được sắp xếp cho một ván mới)
+golf club /ˈɡɑːlf ˌklʌb/: (n) Gậy đánh golf .Ex: He bought a new golf club for his game (Anh ấy đã mua một cây gậy golf mới cho trò chơi của mình)
+fish-farm /ˈfɪʃ ˌfɑːrm/: (n) Trại nuôi cá .Ex: The fish-farm produces high-quality seafood (Trại nuôi cá sản xuất hải sản chất lượng cao)
+soccer game /ˈsɑːkər ˌɡeɪm/: (n) Trận bóng đá .Ex: We watched an exciting soccer game yesterday (Chúng tôi đã xem một trận bóng đá hấp dẫn hôm qua)
+tennis tournament /ˈtenɪs ˌtʊrnəmənt/: (n) Giải đấu quần vợt .Ex: The tennis tournament attracts players from around the world (Giải đấu quần vợt thu hút các tay vợt từ khắp nơi trên thế giới)
+beauty contest /ˈbjuːti ˌkɑːntest/: (n) Cuộc thi sắc đẹp .Ex: She won first place in the beauty contest (Cô ấy đã giành giải nhất trong cuộc thi sắc đẹp)
+telephone bill /ˈtelɪfoʊn ˌbɪl/: (n) Hóa đơn điện thoại .Ex: I need to pay the telephone bill today (Tôi cần thanh toán hóa đơn điện thoại hôm nay)
+colossal /kəˈlɑːsl/: (adj) Khổng lồ, to lớn .Ex: The building is of colossal size (Tòa nhà có kích thước khổng lồ)
+colossal sum /kəˈlɑːsl ˌsʌm/: (n) Số tiền khổng lồ .Ex: He spent a colossal sum on the new project (Anh ấy đã chi một số tiền khổng lồ cho dự án mới)
+double helping /ˈdʌbl ˌhelpɪŋ/: (n) Phần ăn gấp đôi .Ex: He asked for a double helping of dessert (Anh ấy yêu cầu một phần tráng miệng gấp đôi)
+compromise /ˈkɑːmprəmaɪz/: (n) Sự thỏa hiệp .Ex: They reached a compromise after hours of negotiation (Họ đã đạt được thỏa hiệp sau nhiều giờ đàm phán)
+spare room /ˌsper ˈruːm/: (n) Phòng trống .Ex: We keep the spare room ready for guests (Chúng tôi luôn chuẩn bị sẵn phòng trống cho khách)
+strike action /ˈstraɪk ˌækʃn/: (n) Hành động đình công .Ex: The workers planned a strike action for better wages (Các công nhân lên kế hoạch đình công để đòi mức lương tốt hơn)
+dried milk /ˌdraɪd ˈmɪlk/: (n) Sữa bột .Ex: Dried milk is often used in baking (Sữa bột thường được sử dụng trong việc làm bánh)
+sake of /seɪk əv/: (n) Vì lợi ích của .Ex: They made sacrifices for the sake of their children (Họ đã hy sinh vì lợi ích của con cái)
+for the sake of peace /fər ðə ˈseɪk əv ˈpiːs/: (n) Vì hòa bình .Ex: They agreed to a truce for the sake of peace (Họ đã đồng ý đình chiến vì hòa bình)
+refugee /ˌrefjuˈdʒiː/: (n) Người tị nạn .Ex: The refugee sought shelter in a neighboring country (Người tị nạn tìm nơi trú ẩn ở quốc gia láng giềng)
+ecology /iˈkɑːlədʒi/: (n) Sinh thái học .Ex: She studies ecology to understand environmental changes (Cô ấy học sinh thái học để hiểu về sự thay đổi môi trường)
+claw /klɔː/: (n) Móng vuốt .Ex: The bird caught the prey with its sharp claw (Con chim bắt mồi bằng móng vuốt sắc nhọn)
+slug /slʌɡ/: (n) Sên không vỏ .Ex: The slug left a trail of slime behind it (Con sên để lại một vệt nhớt phía sau)
+mock /mɑːk/: (v) Chế nhạo .Ex: They mocked his accent during the conversation (Họ chế nhạo giọng của anh ấy trong cuộc trò chuyện)
+furnish /ˈfɜːrnɪʃ/: (v) Trang bị nội thất .Ex: They decided to furnish the new house with modern furniture (Họ quyết định trang bị nội thất hiện đại cho ngôi nhà mới)
+mend /mend/: (v) Sửa chữa .Ex: He learned how to mend broken appliances (Anh ấy đã học cách sửa chữa các thiết bị hỏng)
+dye /daɪ/: (v) Nhuộm .Ex: She decided to dye her hair red (Cô ấy quyết định nhuộm tóc màu đỏ)
+henna /ˈhenə/: (n) Lá móng (để nhuộm) .Ex: Henna is often used for temporary tattoos (Lá móng thường được sử dụng để vẽ hình xăm tạm thời)
+palm /pɑːm/: (n) Lòng bàn tay, cây cọ .Ex: She held the coin in her palm (Cô ấy giữ đồng xu trong lòng bàn tay)
+flower petal /ˈflaʊər ˌpetl/: (n) Cánh hoa .Ex: The flower petal fell to the ground (Cánh hoa rơi xuống đất)
+betel leaf /ˈbiːtl ˌliːf/: (n) Lá trầu .Ex: Betel leaf is often used in traditional ceremonies (Lá trầu thường được sử dụng trong các nghi lễ truyền thống)
+areca nut /ˈærɪkə ˌnʌt/: (n) Quả cau .Ex: The areca nut is a symbol in Vietnamese weddings (Quả cau là một biểu tượng trong đám cưới Việt Nam)
+tray /treɪ/: (n) Khay .Ex: She served tea on a silver tray (Cô ấy dọn trà trên một cái khay bạc)
+matchmaker /ˈmætʃˌmeɪkər/: (n) Người mai mối .Ex: The matchmaker arranged the meeting between the two families (Người mai mối đã sắp xếp cuộc gặp giữa hai gia đình)
+intermediary /ˌɪntərˈmiːdiəri/: (n) Người trung gian .Ex: An intermediary helped resolve the conflict (Một người trung gian đã giúp giải quyết xung đột)
+proposal of marriage /prəˈpoʊzl əv ˈmærɪdʒ/: (n) Lời cầu hôn .Ex: His proposal of marriage was a surprise to everyone (Lời cầu hôn của anh ấy là một bất ngờ đối với mọi người)
+trousseau /ˈtruːsoʊ/: (n) Của hồi môn .Ex: Her mother helped prepare the trousseau for the wedding (Mẹ cô ấy đã giúp chuẩn bị của hồi môn cho đám cưới)
+joss stick /ˈdʒɑːs ˌstɪk/: (n) Nhang, hương .Ex: They lit a joss stick to pray at the altar (Họ thắp một nén nhang để cầu nguyện tại bàn thờ)
+to bow /tə ˈbaʊ/: (v) Cúi chào .Ex: He bowed to show respect (Anh ấy cúi chào để thể hiện sự tôn trọng)
+alliance /əˈlaɪəns/: (n) Liên minh, sự kết hợp .Ex: The marriage formed a strong alliance between the two families (Cuộc hôn nhân đã tạo ra một liên minh vững chắc giữa hai gia đình)
+chaste /tʃeɪst/: (adj) Trong trắng, thuần khiết .Ex: The bride wore a chaste white gown (Cô dâu mặc một chiếc váy trắng thuần khiết)
+banquet /ˈbæŋkwɪt/: (n) Tiệc lớn .Ex: A wedding banquet was held in a luxurious hall (Tiệc cưới được tổ chức trong một hội trường sang trọng)
+a best man /ə ˈbest ˌmæn/: (n) Phù rể .Ex: The groom's best friend was chosen as the best man (Người bạn thân nhất của chú rể được chọn làm phù rể)
+a bridesmaid /ə ˈbraɪdzˌmeɪd/: (n) Phù dâu .Ex: The bride's sister was one of the bridesmaids (Chị của cô dâu là một trong những phù dâu)
+to bedeck /tə bɪˈdek/: (v) Trang trí, tô điểm .Ex: The room was bedecked with flowers for the celebration (Căn phòng được trang trí bằng hoa cho buổi lễ)
+a garland of flowers /ə ˈɡɑːrlənd əv ˈflaʊərz/: (n) Vòng hoa .Ex: She wore a garland of flowers around her head (Cô ấy đội một vòng hoa trên đầu)
+solemn /ˈsɑːləm/: (adj) Trang nghiêm, trọng thể .Ex: The ceremony was solemn and emotional (Buổi lễ trang nghiêm và đầy cảm xúc)
+to sip /tə ˈsɪp/: (v) Nhấp, uống từng ngụm nhỏ .Ex: She sipped her tea slowly (Cô ấy nhấp từng ngụm trà chậm rãi)
+profound /prəˈfaʊnd/: (adj) Sâu sắc, thâm thúy .Ex: The speech had a profound impact on the audience (Bài phát biểu đã có ảnh hưởng sâu sắc đến khán giả)
+to enhance /tə ɪnˈhæns/: (v) Nâng cao, tăng cường .Ex: They added new features to enhance the product's usability (Họ đã thêm các tính năng mới để nâng cao tính hữu dụng của sản phẩm)
+climate of trust and partnership between ... and //: (n) Môi trường tin cậy và hợp tác giữa ... và ... .Ex: A climate of trust and partnership between employees and management is crucial (Môi trường tin cậy và hợp tác giữa nhân viên và quản lý là rất quan trọng)
+be at high risk for sth /bi ət haɪ ˈrɪsk fər ˈsʌmθɪŋ/: (v) Có nguy cơ cao với điều gì .Ex: Smokers are at high risk for lung cancer (Người hút thuốc có nguy cơ cao bị ung thư phổi)
+social adjustment /ˈsoʊʃl əˈdʒʌstmənt/: (n) Sự thích nghi xã hội .Ex: Social adjustment can be challenging for immigrants (Sự thích nghi xã hội có thể khó khăn đối với người nhập cư)
+maturation /ˌmætʃəˈreɪʃn/: (n) Sự trưởng thành .Ex: The maturation of fruit is influenced by temperature (Sự trưởng thành của trái cây bị ảnh hưởng bởi nhiệt độ)
+social competence skill /ˈsoʊʃl ˈkɑːmpɪtəns ˌskɪl/: (n) Kỹ năng giao tiếp xã hội .Ex: Social competence skills are essential for building relationships (Kỹ năng giao tiếp xã hội là cần thiết để xây dựng các mối quan hệ)
+adolescence /ˌædəˈlesns/: (n) Thời niên thiếu .Ex: Adolescence is a time of rapid change (Thời niên thiếu là thời kỳ thay đổi nhanh chóng)
+to propel /tə prəˈpel/: (v) Thúc đẩy, đẩy đi .Ex: The engine propels the car forward (Động cơ đẩy xe tiến về phía trước)
+incentive /ɪnˈsentɪv/: (n) Sự khuyến khích, động lực .Ex: The company offers financial incentives to employees (Công ty đưa ra các động lực tài chính cho nhân viên)
+courtship /ˈkɔːrtʃɪp/: (n) Sự tán tỉnh, quá trình tìm hiểu trước hôn nhân .Ex: Their courtship lasted for two years before they got married (Họ đã tìm hiểu nhau hai năm trước khi kết hôn)
+to be tied down with /tə bi taɪd ˈdaʊn wɪð/: (v) Bị ràng buộc với điều gì .Ex: He doesn’t want to be tied down with too many responsibilities (Anh ấy không muốn bị ràng buộc bởi quá nhiều trách nhiệm)
+to neglect /tə nɪˈɡlekt/: (v) Sao lãng, bỏ bê .Ex: She neglected her studies due to excessive work (Cô ấy đã sao lãng việc học vì làm việc quá nhiều)
+the period of fertility /ðə ˈpɪriəd əv fərˈtɪləti/: (n) Thời kỳ sinh sản .Ex: The period of fertility varies from person to person (Thời kỳ sinh sản khác nhau ở mỗi người)
+to procreate /tə ˈproʊkrieɪt/: (v) Sinh sản .Ex: Animals procreate to maintain their species (Động vật sinh sản để duy trì loài của chúng)
+the legal marriage ages for registration //: (n) Độ tuổi kết hôn hợp pháp để đăng ký .Ex: The legal marriage ages for registration differ by country (Độ tuổi kết hôn hợp pháp để đăng ký khác nhau tùy theo quốc gia)
+marriage certificate /ˈmærɪdʒ sərˈtɪfɪkət/: (n) Giấy chứng nhận kết hôn .Ex: The couple signed their marriage certificate after the ceremony (Cặp đôi đã ký giấy chứng nhận kết hôn sau buổi lễ)
+linens /ˈlɪnɪnz/: (n) Đồ vải (ga trải giường, khăn bàn, v.v.) .Ex: The hotel provides fresh linens every day (Khách sạn cung cấp đồ vải sạch hàng ngày)
+astrological /ˌæstrəˈlɑːdʒɪkl/: (adj) Thuộc về chiêm tinh học .Ex: She believes in astrological predictions (Cô ấy tin vào các dự đoán chiêm tinh)
+astrological forecast /ˌæstrəˈlɑːdʒɪkl ˈfɔːrkæst/: (n) Dự đoán chiêm tinh .Ex: The astrological forecast suggests good fortune this month (Dự đoán chiêm tinh cho thấy may mắn trong tháng này)
+ornament /ˈɔːrnəmənt/: (n) Đồ trang trí .Ex: The Christmas tree was decorated with colorful ornaments (Cây thông Giáng sinh được trang trí bằng các đồ trang trí nhiều màu sắc)
+showy /ˈʃoʊi/: (adj) Lòe loẹt, phô trương .Ex: She wore a showy dress to the party (Cô ấy mặc một chiếc váy lòe loẹt đến bữa tiệc)
+showy fashion /ˈʃoʊi ˈfæʃən/: (n) Phong cách lòe loẹt, phô trương .Ex: He enjoys dressing in showy fashion for big events (Anh ấy thích mặc phong cách lòe loẹt trong các sự kiện lớn)
+wreath /riːθ/: (n) Vòng hoa .Ex: The bride wore a wreath of flowers on her head (Cô dâu đội một vòng hoa trên đầu)
+festoon /fɛˈstuːn/: (n) Dây hoa trang trí .Ex: The room was decorated with colorful festoons for the celebration (Căn phòng được trang trí bằng những dây hoa màu sắc cho buổi lễ)
+draped /dreɪpt/: (adj) Bao phủ, treo lên (theo cách trang trí) .Ex: The stage was draped with beautiful velvet curtains (Sân khấu được bao phủ bởi những tấm rèm nhung đẹp)
+plaited /ˈpleɪtɪd/: (adj) Tết lại, bện lại .Ex: She wore her hair plaited with ribbons (Cô ấy buộc tóc tết cùng những dải ruy băng)
+rim /rɪm/: (n) Vành, mép .Ex: The glass was filled to the rim with water (Ly nước được rót đầy đến vành)
+shrub /ʃrʌb/: (n) Bụi cây .Ex: The garden was full of colorful shrubs (Khu vườn đầy những bụi cây đầy màu sắc)
+ovate /ˈoʊveɪt/: (adj) Hình trái xoan .Ex: The plant has ovate leaves with smooth edges (Cây có lá hình trái xoan với viền mịn)
+veneration /ˌvɛnəˈreɪʃən/: (n) Sự tôn kính .Ex: The statue is a symbol of veneration in the temple (Bức tượng là biểu tượng của sự tôn kính trong ngôi đền)
+virginal /ˈvɜːrdʒɪnl/: (adj) Thuần khiết, trong sáng .Ex: The white dress symbolized her virginal purity (Chiếc váy trắng biểu trưng cho sự trong sáng thuần khiết của cô ấy)
+ceremonial /ˌserɪˈmoʊniəl/: (adj) Mang tính nghi lễ .Ex: The king wore a ceremonial robe during the event (Nhà vua mặc áo choàng nghi lễ trong sự kiện)
+bridegroom's chief attendant /ˈbraɪdɡruːmz tʃiːf əˈtɛndənt/: (n) Phù rể chính .Ex: The bridegroom's chief attendant helped him prepare for the ceremony (Phù rể chính đã giúp chú rể chuẩn bị cho buổi lễ)
+onset /ˈɒnˌsɛt/: (n) Sự bắt đầu, khởi đầu (thường dùng cho điều gì khó khăn) .Ex: The onset of the rainy season caused flooding in the region (Sự bắt đầu của mùa mưa gây ra ngập lụt trong khu vực)
+puberty /ˈpjuːbərti/: (n) Tuổi dậy thì .Ex: Most children experience major changes during puberty (Hầu hết trẻ em trải qua những thay đổi lớn trong tuổi dậy thì)
+the onset of puberty /ði ˈɒnˌsɛt əv ˈpjuːbərti/: (n) Sự bắt đầu của tuổi dậy thì .Ex: The onset of puberty often brings emotional and physical changes (Sự bắt đầu của tuổi dậy thì thường mang đến những thay đổi về cảm xúc và thể chất)
+air fryer /ˈer ˌfraɪər/: (n) Nồi chiên không dầu .Ex: She uses an air fryer to prepare healthier meals (Cô ấy sử dụng nồi chiên không dầu để chuẩn bị các bữa ăn lành mạnh)
+an appliance /ən əˈplaɪəns/: (n) Thiết bị, dụng cụ .Ex: The kitchen appliance is energy-efficient (Thiết bị nhà bếp này tiết kiệm năng lượng)
+a chore /ə tʃɔːr/: (n) Việc vặt, công việc nhà .Ex: Doing the dishes is my least favorite chore (Rửa chén là công việc nhà tôi ghét nhất)
+workload /ˈwɜːrkloʊd/: (n) Khối lượng công việc .Ex: Her workload increased significantly after the promotion (Khối lượng công việc của cô ấy tăng lên đáng kể sau khi được thăng chức)
+a vacuum cleaner /ə ˈvækjuːm ˈkliːnər/: (n) Máy hút bụi .Ex: This vacuum cleaner is great for cleaning carpets (Máy hút bụi này rất tốt để làm sạch thảm)
+a toaster /ə ˈtoʊstər/: (n) Máy nướng bánh mì .Ex: She made breakfast using a toaster and some jam (Cô ấy làm bữa sáng bằng máy nướng bánh mì và ít mứt)
+a microwave oven /ə ˈmaɪkrəweɪv ˈʌvn/: (n) Lò vi sóng .Ex: He reheated the leftovers in the microwave oven (Anh ấy hâm nóng thức ăn thừa trong lò vi sóng)
+to do the laundry /tə du ðə ˈlɔːndri/: (v) Giặt quần áo .Ex: She does the laundry every Sunday morning (Cô ấy giặt quần áo vào mỗi sáng Chủ nhật)
+to come into existence //: (v) Ra đời, xuất hiện .Ex: The idea of the internet came into existence in the 1960s (Ý tưởng về internet ra đời vào những năm 1960)
+routine task /ruːˈtiːn tæsk/: (n) Công việc thường nhật .Ex: Checking emails is a routine task for most office workers (Kiểm tra email là một công việc thường nhật của hầu hết nhân viên văn phòng)
+dust /dʌst/: (n) Bụi .Ex: There was a thick layer of dust on the bookshelf (Có một lớp bụi dày trên kệ sách)
+dirt /dɜːrt/: (n) Bụi bẩn, đất .Ex: The kids came home covered in dirt from the playground (Bọn trẻ về nhà đầy bụi bẩn từ sân chơi)
+suction /ˈsʌkʃn/: (n) Sự hút .Ex: The vacuum cleaner’s powerful suction removed all the dirt (Lực hút mạnh của máy hút bụi đã loại bỏ toàn bộ bụi bẩn)
+electromagnetic wave /ɪˌlektrəʊmæɡˈnetɪk weɪv/: (n) Sóng điện từ .Ex: Electromagnetic waves are used in communication systems (Sóng điện từ được sử dụng trong các hệ thống thông tin liên lạc)
+a resource /ə ˈriːsɔːrs/: (n) Tài nguyên .Ex: Water is a valuable natural resource (Nước là một tài nguyên thiên nhiên quý giá)
+a packet switching /ə ˈpækɪt ˈswɪtʃɪŋ/: (n) Chuyển mạch gói .Ex: Packet switching is the foundation of modern internet communication (Chuyển mạch gói là nền tảng của truyền thông internet hiện đại)
+a network /ə ˈnetwɜːrk/: (n) Mạng lưới .Ex: The office is connected through a secure network (Văn phòng được kết nối qua một mạng lưới bảo mật)
+a browser /ə ˈbraʊzər/: (n) Trình duyệt .Ex: Chrome is one of the most popular browsers today (Chrome là một trong những trình duyệt phổ biến nhất hiện nay)
+global /ˈɡloʊbl/: (adj) Toàn cầu .Ex: Climate change is a global issue that requires urgent action (Biến đổi khí hậu là một vấn đề toàn cầu cần được hành động khẩn cấp)
+console /ˈkɑːnsoʊl/: (n) Bảng điều khiển; máy chơi game .Ex: He bought a new gaming console for his birthday (Anh ấy mua một máy chơi game mới cho sinh nhật)
+consolation /ˌkɑːnsəˈleɪʃn/: (n) Sự an ủi .Ex: Winning the consolation prize cheered her up a little (Giành được giải an ủi đã khiến cô ấy vui lên đôi chút)
+to glance /tə ɡlæns/: (v) Liếc nhìn .Ex: She glanced at her watch before leaving the room (Cô ấy liếc nhìn đồng hồ trước khi rời khỏi phòng)
+the act of glancing /ði ækt əv ˈɡlænsɪŋ/: (n) Hành động liếc nhìn .Ex: The act of glancing at her phone annoyed her boss (Hành động liếc nhìn điện thoại của cô ấy khiến sếp khó chịu)
+athlete /ˈæθliːt/: (n) Vận động viên .Ex: He is a professional athlete specializing in track and field (Anh ấy là một vận động viên chuyên nghiệp chuyên về điền kinh)
+hero /ˈhɪroʊ/: (n) Anh hùng .Ex: The fireman was hailed as a hero for saving the child (Người lính cứu hỏa được ca ngợi là anh hùng vì đã cứu đứa trẻ)
+heroine /ˈheroʊɪn/: (n) Nữ anh hùng .Ex: She is considered a heroine in the community for her charitable work (Cô ấy được xem là nữ anh hùng trong cộng đồng vì công việc từ thiện của mình)
+wreath /riːθ/: (n) Vòng hoa .Ex: They laid a wreath at the memorial to honor the fallen soldiers (Họ đặt một vòng hoa tại đài tưởng niệm để vinh danh những người lính đã ngã xuống)
+crown /kraʊn/: (n) Vương miện, vương quốc .Ex: The queen’s crown was encrusted with precious gems (Vương miện của nữ hoàng được nạm đầy đá quý)
+parade /pəˈreɪd/: (n) Cuộc diễu hành .Ex: The parade was held to celebrate the national holiday (Cuộc diễu hành được tổ chức để kỷ niệm ngày lễ quốc gia)
+torch /tɔːrtʃ/: (n) Ngọn đuốc .Ex: The Olympic torch is a symbol of peace and unity (Ngọn đuốc Olympic là biểu tượng của hòa bình và đoàn kết)
+to march /tə mɑːrtʃ/: (v) Diễu hành, hành quân .Ex: The soldiers marched in perfect formation (Những người lính diễu hành với đội hình hoàn hảo)
+to light - lit - lit /laɪt - lɪt - lɪt/: (v) Thắp sáng, đốt .Ex: They lit a candle in memory of their loved ones (Họ thắp một ngọn nến để tưởng nhớ những người thân yêu)
+to put out /tə pʊt aʊt/: (v) Dập tắt .Ex: The firefighters quickly put out the flames (Những người lính cứu hỏa nhanh chóng dập tắt ngọn lửa)
+to extinguish /tə ɪkˈstɪŋɡwɪʃ/: (v) Dập tắt .Ex: They used sand to extinguish the campfire (Họ dùng cát để dập tắt lửa trại)
+historian /hɪˈstɔːriən/: (n) Nhà sử học .Ex: The historian specializes in ancient civilizations (Nhà sử học chuyên về các nền văn minh cổ đại)
+Greece /ɡriːs/: (n) Hy Lạp .Ex: Greece is known for its rich history and beautiful islands (Hy Lạp nổi tiếng với lịch sử phong phú và những hòn đảo xinh đẹp)
+Christmas /ˈkrɪsməs/: (n) Lễ Giáng Sinh .Ex: Christmas is celebrated on December 25th worldwide (Lễ Giáng Sinh được tổ chức vào ngày 25 tháng 12 trên toàn thế giới)
+Weather in Vietnam /ˈweðər ɪn ˌviːetˈnæm/: (n) Thời tiết ở Việt Nam .Ex: The weather in Vietnam varies greatly from north to south (Thời tiết ở Việt Nam thay đổi đáng kể từ bắc vào nam)
+Lifestyles /ˈlaɪfstaɪlz/: (n) Phong cách sống .Ex: Urban and rural lifestyles differ significantly in many aspects (Phong cách sống thành thị và nông thôn khác biệt đáng kể ở nhiều khía cạnh)
+Educational system /ˌedʒuˈkeɪʃənl ˈsɪstəm/: (n) Hệ thống giáo dục .Ex: The educational system in Vietnam has undergone many reforms (Hệ thống giáo dục ở Việt Nam đã trải qua nhiều cải cách)
+The coffee industry /ðə ˈkɔːfi ˈɪndəstri/: (n) Ngành công nghiệp cà phê .Ex: Vietnam is one of the largest coffee exporters in the world (Việt Nam là một trong những nước xuất khẩu cà phê lớn nhất thế giới)
+New Year celebration /ˌnuː ˈjɪr ˌseləˈbreɪʃn/: (n) Lễ mừng năm mới .Ex: Fireworks are a common feature of New Year celebrations (Pháo hoa là một đặc trưng phổ biến của các lễ mừng năm mới)
+Computers /kəmˈpjuːtərz/: (n) Máy tính .Ex: Computers have become an essential tool in modern life (Máy tính đã trở thành một công cụ thiết yếu trong cuộc sống hiện đại)
+New Year in Vietnam /ˌnuː ˈjɪr ɪn ˌviːetˈnæm/: (n) Năm mới ở Việt Nam .Ex: Tet is the most important New Year celebration in Vietnam (Tết là lễ mừng năm mới quan trọng nhất ở Việt Nam)
+The cellphone industry /ðə ˈselfoʊn ˈɪndəstri/: (n) Ngành công nghiệp điện thoại di động .Ex: The cellphone industry is constantly evolving with new technology (Ngành công nghiệp điện thoại di động luôn thay đổi với công nghệ mới)
+The beaches /ðə ˈbiːtʃɪz/: (n) Các bãi biển .Ex: The beaches in Vietnam are known for their beauty and tranquility (Các bãi biển ở Việt Nam nổi tiếng với vẻ đẹp và sự yên bình)
+The vacation resources /ðə vəˈkeɪʃn ˈriːsɔːrsɪz/: (n) Các tài nguyên du lịch .Ex: Vietnam has abundant vacation resources, from beaches to mountains (Việt Nam có nhiều tài nguyên du lịch, từ bãi biển đến núi non)
+The supermarkets /ðə ˈsuːpərˌmɑːrkɪts/: (n) Các siêu thị .Ex: The supermarkets offer a wide range of products for consumers (Các siêu thị cung cấp một loạt sản phẩm cho người tiêu dùng)
+Graduation Examinations /ˌɡrædʒuˈeɪʃn ɪɡˌzæməˈneɪʃn̩z/: (n) Kỳ thi tốt nghiệp .Ex: Graduation examinations are crucial for students to advance their studies (Kỳ thi tốt nghiệp rất quan trọng để học sinh tiếp tục học tập)
+Wedding Outfits /ˈwedɪŋ ˈaʊtfɪts/: (n) Trang phục cưới .Ex: Traditional wedding outfits in Vietnam include the ao dai (Trang phục cưới truyền thống ở Việt Nam bao gồm áo dài)
+Students' attitude toward the teachers /ˈstuːdənts ˈætɪtuːd təˈwɔːrd ðə ˈtiːtʃərz/: (n) Thái độ của học sinh đối với giáo viên .Ex: Respectful students' attitude toward the teachers fosters a better learning environment (Thái độ tôn trọng của học sinh đối với giáo viên giúp tạo ra môi trường học tập tốt hơn)
+Accent and dialect /ˈæksent ənd ˈdaɪəlekt/: (n) Giọng và phương ngữ .Ex: Different regions in Vietnam have distinct accents and dialects (Các vùng khác nhau ở Việt Nam có giọng và phương ngữ đặc trưng)
+Interview /ˈɪntərvjuː/: (n) Cuộc phỏng vấn .Ex: He prepared well for the job interview (Anh ấy đã chuẩn bị kỹ cho buổi phỏng vấn xin việc)
+Gambling /ˈɡæmblɪŋ/: (n) Cờ bạc .Ex: Gambling is prohibited in many countries (Cờ bạc bị cấm ở nhiều quốc gia)
+Wedding customs /ˈwedɪŋ ˈkʌstəmz/: (n) Phong tục cưới hỏi .Ex: Wedding customs vary greatly between cultures (Phong tục cưới hỏi khác nhau đáng kể giữa các nền văn hóa)
+Wedding customs in your country /ˈwedɪŋ ˈkʌstəmz ɪn jɔːr ˈkʌntri/: (n) Phong tục cưới hỏi ở đất nước bạn .Ex: Wedding customs in Vietnam include tea ceremonies and gift exchanges (Phong tục cưới hỏi ở Việt Nam bao gồm lễ dâng trà và trao quà)
+Relationships /rɪˈleɪʃnʃɪps/: (n) Các mối quan hệ .Ex: Healthy relationships are built on trust and communication (Các mối quan hệ lành mạnh được xây dựng dựa trên sự tin tưởng và giao tiếp)
+Age to get married /eɪdʒ tə ɡet ˈmærid/: (n) Độ tuổi kết hôn .Ex: The legal age to get married varies by country (Độ tuổi hợp pháp để kết hôn khác nhau tùy theo quốc gia)
+The cinema /ðə ˈsɪnəmə/: (n) Rạp chiếu phim .Ex: We went to the cinema to watch the latest movie (Chúng tôi đến rạp chiếu phim để xem bộ phim mới nhất)
+The history of computers /ðə ˈhɪstri əv kəmˈpjuːtərz/: (n) Lịch sử của máy tính .Ex: The history of computers dates back to the early 19th century (Lịch sử của máy tính bắt đầu từ đầu thế kỷ 19)
+The automobile /ðə ˈɔːtəməbiːl/: (n) Ô tô .Ex: The invention of the automobile revolutionized transportation (Sự ra đời của ô tô đã cách mạng hóa giao thông vận tải)
+Household appliances /ˈhaʊshoʊld əˈplaɪənsɪz/: (n) Các thiết bị gia dụng .Ex: Modern household appliances save a lot of time and effort (Các thiết bị gia dụng hiện đại giúp tiết kiệm nhiều thời gian và công sức)
+The internet /ðə ˈɪntərnet/: (n) Internet .Ex: The internet has transformed how we communicate and access information (Internet đã thay đổi cách chúng ta giao tiếp và tiếp cận thông tin)
+Olympic Games /əˈlɪmpɪk ɡeɪmz/: (n) Thế vận hội .Ex: The Olympic Games bring together athletes from all over the world (Thế vận hội tập hợp các vận động viên từ khắp nơi trên thế giới)
+curious /ˈkjʊriəs/: (adj) Tò mò .Ex: She was curious about the new project at work (Cô ấy tò mò về dự án mới tại công ty)
+interfere /ˌɪntərˈfɪr/: (v) Can thiệp, gây cản trở .Ex: I don’t want to interfere with your plans (Tôi không muốn can thiệp vào kế hoạch của bạn)
+stockbroker /ˈstɑːkˌbroʊkər/: (n) Người môi giới chứng khoán .Ex: A stockbroker helps investors buy and sell stocks (Một người môi giới chứng khoán giúp các nhà đầu tư mua và bán cổ phiếu)
+investor /ɪnˈvɛstər/: (n) Nhà đầu tư .Ex: The investor decided to diversify his portfolio (Nhà đầu tư quyết định đa dạng hóa danh mục đầu tư của mình)
+suicide /ˈsuːɪsaɪd/: (n) Tự sát .Ex: He sought professional help to cope with his thoughts of suicide (Anh ấy đã tìm kiếm sự trợ giúp chuyên nghiệp để đối mặt với những suy nghĩ tự sát)
+capital /ˈkæpɪtl/: (n) Vốn; thủ đô .Ex: Hanoi is the capital of Vietnam (Hà Nội là thủ đô của Việt Nam)
+abandon /əˈbændən/: (v) Từ bỏ, bỏ rơi .Ex: He abandoned his plan to start a business (Anh ấy đã từ bỏ kế hoạch mở doanh nghiệp)
+electrical outlet /ɪˈlɛktrɪkəl ˈaʊtˌlɛt/: (n) Ổ cắm điện .Ex: Don’t forget to plug the device into an electrical outlet (Đừng quên cắm thiết bị vào ổ cắm điện)
+a battle /ə ˈbætl/: (n) Trận chiến .Ex: The soldiers fought bravely in the battle (Những người lính chiến đấu dũng cảm trong trận chiến)
+a system of dots and dashes /ə ˈsɪstəm əv dɑːts ənd ˈdæʃɪz/: (n) Hệ thống dấu chấm và gạch .Ex: Morse code is a system of dots and dashes used for communication (Mã Morse là một hệ thống dấu chấm và gạch được sử dụng để giao tiếp)
+morse code /mɔːrs koʊd/: (n) Mã Morse .Ex: They sent a message using Morse code (Họ đã gửi một tin nhắn bằng mã Morse)
+a wire /ə ˈwaɪər/: (n) Dây điện .Ex: The telephone was connected by a wire (Điện thoại được kết nối bằng một dây điện)
+laser /ˈleɪzər/: (n) Tia la-ze .Ex: Laser technology is used in many medical applications (Công nghệ la-ze được sử dụng trong nhiều ứng dụng y tế)
+fiber /ˈfaɪbər/: (n) Sợi .Ex: Glass fiber is commonly used in communication technology (Sợi thủy tinh thường được sử dụng trong công nghệ truyền thông)
+fiber optics /ˈfaɪbər ˈɑːptɪks/: (n) Công nghệ sợi quang .Ex: Fiber optics allows high-speed data transmission (Công nghệ sợi quang cho phép truyền dữ liệu tốc độ cao)
+by means of /baɪ ˈmiːnz əv/: (prep) Bằng cách, nhờ vào .Ex: They communicated by means of Morse code (Họ giao tiếp bằng cách sử dụng mã Morse)
+along /əˈlɔːŋ/: (prep) Dọc theo .Ex: The cable runs along the wall (Dây cáp chạy dọc theo tường)
+surgical devices /ˈsɜːrdʒɪkl dɪˈvaɪsɪz/: (n) Thiết bị phẫu thuật .Ex: Laser technology is used in surgical devices (Công nghệ la-ze được sử dụng trong các thiết bị phẫu thuật)
+glass fiber /ɡlæs ˈfaɪbər/: (n) Sợi thủy tinh .Ex: Glass fiber is a key component of modern telecommunications (Sợi thủy tinh là một thành phần quan trọng của viễn thông hiện đại)
+telecommunication /ˌtɛlɪkəˌmjuːnɪˈkeɪʃən/: (n) Viễn thông .Ex: Telecommunication systems have improved global connectivity (Hệ thống viễn thông đã cải thiện kết nối toàn cầu)
+fierce /fɪrs/: (adj) Dữ dội, khốc liệt .Ex: The battle was fierce and lasted all day (Trận chiến rất dữ dội và kéo dài cả ngày)
+to come into existence /tuː kʌm ˈɪntuː ɪɡˈzɪstəns/: (v) Ra đời, xuất hiện .Ex: The new technology came into existence in the 20th century (Công nghệ mới đã ra đời vào thế kỷ 20)
+to fax /tuː fæks/: (v) Gửi fax .Ex: She faxed the documents to the office (Cô ấy đã gửi tài liệu qua fax đến văn phòng)
+horizontal strokes /ˌhɔːrəˈzɑːntl stroʊks/: (n) Nét ngang .Ex: The artist painted horizontal strokes to create the background (Họa sĩ vẽ các nét ngang để tạo nền)
+small round mark /smɔːl raʊnd mɑːrk/: (n) Dấu chấm nhỏ tròn .Ex: He noticed a small round mark on the paper (Anh ấy nhận thấy một dấu chấm nhỏ tròn trên giấy)
+a rod /ə rɑːd/: (n) Thanh, que .Ex: The metal rod was used to support the structure (Thanh kim loại được sử dụng để hỗ trợ cấu trúc)
+electric current /ɪˈlɛktrɪk ˈkɜːrənt/: (n) Dòng điện .Ex: The electric current flows through the wire (Dòng điện chạy qua dây dẫn)
+signal /ˈsɪɡnəl/: (n) Tín hiệu .Ex: The signal was too weak to receive clearly (Tín hiệu quá yếu để nhận rõ)
+intense /ɪnˈtɛns/: (adj) Mãnh liệt, cường độ cao .Ex: The laser produced an intense beam of light (Tia la-ze tạo ra một chùm sáng cường độ cao)
+highly controlled /ˈhaɪli kənˈtroʊld/: (adj) Được kiểm soát chặt chẽ .Ex: The environment needs to be highly controlled for the experiment (Môi trường cần được kiểm soát chặt chẽ cho thí nghiệm)
+beam /biːm/: (n) Chùm tia .Ex: The laser emitted a bright beam of light (Tia la-ze phát ra một chùm sáng rực rỡ)
+beam of light /biːm əv laɪt/: (n) Chùm ánh sáng .Ex: A beam of light shone through the window (Một chùm ánh sáng chiếu qua cửa sổ)
+infra-red /ˌɪnfrəˈrɛd/: (n) Hồng ngoại .Ex: Infra-red technology is used in remote controls (Công nghệ hồng ngoại được sử dụng trong điều khiển từ xa)
+telephone line /ˈtɛləˌfoʊn laɪn/: (n) Đường dây điện thoại .Ex: The telephone line was down due to the storm (Đường dây điện thoại bị hỏng do cơn bão)
+anywhere anytime /ˈɛniˌwɛr ˈɛniˌtaɪm/: (adv) Bất cứ đâu, bất cứ lúc nào .Ex: With a smartphone, you can access the internet anywhere anytime (Với một chiếc điện thoại thông minh, bạn có thể truy cập internet bất cứ đâu, bất cứ lúc nào)
+an image /ən ˈɪmɪdʒ/: (n) Hình ảnh .Ex: The mirror reflected an image of the room (Gương phản chiếu hình ảnh của căn phòng)
+a sitcom /ə ˈsɪtkɑːm/: (n) Phim hài kịch tình huống .Ex: Friends is a famous sitcom loved by many people (Friends là một bộ phim hài kịch tình huống nổi tiếng được nhiều người yêu thích)
+a satellite /ə ˈsætəlaɪt/: (n) Vệ tinh .Ex: The satellite orbits the Earth every 90 minutes (Vệ tinh quay quanh Trái Đất mỗi 90 phút)
+man-made /mæn ˈmeɪd/: (adj) Nhân tạo .Ex: This lake is man-made, not natural (Hồ này là nhân tạo, không phải tự nhiên)
+man-made device /mæn ˈmeɪd dɪˈvaɪs/: (n) Thiết bị nhân tạo .Ex: Satellites are man-made devices used for communication (Vệ tinh là các thiết bị nhân tạo được sử dụng để liên lạc)
+orbit /ˈɔːrbɪt/: (v) Quay quanh quỹ đạo .Ex: The Moon orbits around the Earth (Mặt Trăng quay quanh Trái Đất)
+orbit round a planet /ˈɔːrbɪt raʊnd ə ˈplænɪt/: (v) Quay quanh một hành tinh .Ex: The satellite orbits round the planet every 12 hours (Vệ tinh quay quanh hành tinh mỗi 12 giờ)
+instantaneous /ˌɪnstənˈteɪniəs/: (adj) Tức thời .Ex: The communication was almost instantaneous thanks to advanced technology (Liên lạc gần như tức thời nhờ vào công nghệ tiên tiến)
+to advance /tuː ədˈvæns/: (v) Tiến bộ, phát triển .Ex: Technology continues to advance at a rapid pace (Công nghệ tiếp tục phát triển với tốc độ nhanh chóng)
+the middle ages /ðə ˈmɪdl ˈeɪdʒɪz/: (n) Thời Trung Cổ .Ex: Castles were built during the Middle Ages (Các lâu đài được xây dựng trong thời Trung Cổ)
+AD /ˌeɪ ˈdiː/: (n) Công Nguyên .Ex: The Roman Empire existed during AD 27 to AD 476 (Đế chế La Mã tồn tại từ năm 27 Công Nguyên đến năm 476 Công Nguyên)
+AD 1100 to AD 1400 //: (n) Giai đoạn từ năm 1100 đến năm 1400 Công Nguyên .Ex: Many cultural changes occurred from AD 1100 to AD 1400 (Nhiều thay đổi văn hóa đã diễn ra từ năm 1100 đến năm 1400 Công Nguyên)
+warfare /ˈwɔːrˌfɛr/: (n) Chiến tranh .Ex: Modern warfare involves advanced technology and strategies (Chiến tranh hiện đại bao gồm công nghệ và chiến lược tiên tiến)
+a nomad /ə ˈnoʊmæd/: (n) Người du mục .Ex: The nomads moved from one place to another in search of pasture (Người du mục di chuyển từ nơi này sang nơi khác để tìm đồng cỏ)
+wander /ˈwɑːndər/: (v) Đi lang thang .Ex: The shepherds wandered across the plains with their flocks (Những người chăn cừu đi lang thang khắp đồng bằng cùng đàn cừu của họ)
+pasture /ˈpæstʃər/: (n) Đồng cỏ .Ex: The cows are grazing in the pasture (Những con bò đang gặm cỏ trên đồng cỏ)
+fixed home /fɪkst hoʊm/: (n) Nhà cố định .Ex: The tribe decided to settle down and build a fixed home (Bộ lạc quyết định định cư và xây dựng một ngôi nhà cố định)
+spear /spɪr/: (n) Giáo .Ex: The warrior carried a spear for protection (Chiến binh mang theo một cây giáo để tự vệ)
+weapon /ˈwɛpən/: (n) Vũ khí .Ex: Guns and knives are examples of weapons (Súng và dao là những ví dụ về vũ khí)
+metal point /ˈmɛtl pɔɪnt/: (n) Đầu kim loại .Ex: The spear had a sharp metal point (Cây giáo có đầu kim loại sắc nhọn)
+long handle /lɔːŋ ˈhændl/: (n) Cán dài .Ex: The tool was equipped with a long handle for easier use (Công cụ được trang bị một cán dài để dễ dàng sử dụng hơn)
+formerly /ˈfɔːrmərli/: (adv) Trước đây .Ex: This area was formerly a forest (Khu vực này trước đây là một khu rừng)
+horseback /ˈhɔːrsˌbæk/: (n) Cưỡi ngựa .Ex: The soldiers traveled on horseback to reach the battlefield (Những người lính di chuyển bằng ngựa để đến chiến trường)
+sword /sɔːrd/: (n) Thanh kiếm .Ex: The knight drew his sword and prepared for battle (Hiệp sĩ rút kiếm và chuẩn bị chiến đấu)
+metal blade /ˈmɛtl bleɪd/: (n) Lưỡi kim loại .Ex: The sword had a sharp metal blade (Thanh kiếm có lưỡi kim loại sắc bén)
+protected handle /prəˈtɛktɪd ˈhændl/: (n) Tay cầm được bảo vệ .Ex: The knife was designed with a protected handle for safety (Con dao được thiết kế với tay cầm được bảo vệ để an toàn)
+soldier /ˈsoʊldʒər/: (n) Người lính .Ex: The soldier fought bravely in the battle (Người lính chiến đấu dũng cảm trong trận chiến)
+missile /ˈmɪsəl/: (n) Tên lửa .Ex: The missile was launched successfully (Tên lửa đã được phóng thành công)
+fire at a target /ˈfaɪər æt ə ˈtɑːrɡɪt/: (v) Bắn vào mục tiêu .Ex: The soldiers were trained to fire accurately at a target (Những người lính được huấn luyện để bắn chính xác vào mục tiêu)
+aircraft /ˈɛrˌkræft/: (n) Máy bay .Ex: The aircraft landed safely despite the storm (Máy bay hạ cánh an toàn dù gặp bão)
+carrier /ˈkæriər/: (n) Tàu sân bay .Ex: The aircraft carrier was deployed in the Pacific Ocean (Tàu sân bay được triển khai ở Thái Bình Dương)
+an issue /æn ˈɪʃuː/: (n) Vấn đề .Ex: Climate change is a major global issue (Biến đổi khí hậu là một vấn đề lớn toàn cầu)
+point in question /pɔɪnt ɪn ˈkwɛstʃən/: (n) Điểm đang được thảo luận .Ex: The point in question is whether we should continue the project (Điểm đang được thảo luận là liệu chúng ta có nên tiếp tục dự án hay không)
+physical harm /ˈfɪzɪkl hɑːrm/: (n) Tổn hại vật lý .Ex: The accident caused significant physical harm (Tai nạn đã gây ra tổn hại vật lý đáng kể)
+bomb /bɑːm/: (n) Bom .Ex: The bomb was safely defused by experts (Quả bom đã được các chuyên gia tháo ngòi an toàn)
+gun /ɡʌn/: (n) Súng .Ex: He was arrested for carrying a loaded gun (Anh ấy bị bắt vì mang theo một khẩu súng đã nạp đạn)
+time long past /taɪm lɔːŋ pæst/: (n) Thời xa xưa .Ex: The ruins are a reminder of a time long past (Những tàn tích là dấu tích của một thời xa xưa)
+faith and worship /feɪθ ənd ˈwɜːrʃɪp/: (n) Đức tin và thờ cúng .Ex: Faith and worship played a significant role in ancient societies (Đức tin và thờ cúng đóng vai trò quan trọng trong các xã hội cổ đại)
+spirit /ˈspɪrɪt/: (n) Tinh thần, linh hồn .Ex: The team played with great spirit and determination (Đội đã chơi với tinh thần và quyết tâm cao độ)
+spiritual nature /ˈspɪrɪtʃuəl ˈneɪtʃər/: (n) Bản chất tâm linh .Ex: The ritual reflects the spiritual nature of the community (Nghi lễ phản ánh bản chất tâm linh của cộng đồng)
+nuclear /ˈnuːkliər/: (adj) Hạt nhân .Ex: Nuclear energy is a powerful source of electricity (Năng lượng hạt nhân là một nguồn điện mạnh mẽ)
+atom /ˈætəm/: (n) Nguyên tử .Ex: Everything around us is made up of atoms (Mọi thứ xung quanh chúng ta đều được cấu tạo từ nguyên tử)
+protons and neutrons /ˈproʊtɑːnz ənd ˈnuːtrɑːnz/: (n) Proton và neutron .Ex: Protons and neutrons are particles found in the nucleus of an atom (Proton và neutron là các hạt được tìm thấy trong hạt nhân của nguyên tử)
+to take control of /tuː teɪk kənˈtroʊl əv/: (v) Kiểm soát .Ex: The company plans to take control of its competitor (Công ty dự định kiểm soát đối thủ của mình)
+to confront /tuː kənˈfrʌnt/: (v) Đối mặt .Ex: They had to confront the challenges ahead (Họ phải đối mặt với những thách thức phía trước)
+defiant /dɪˈfaɪənt/: (adj) Thách thức, ngang ngạnh .Ex: He remained defiant despite the warnings (Anh ấy vẫn ngang ngạnh dù đã được cảnh báo)
+to face defiantly /tuː feɪs dɪˈfaɪəntli/: (v) Đối mặt một cách thách thức .Ex: The protesters faced the authorities defiantly (Những người biểu tình đối mặt với chính quyền một cách thách thức)
+add up /æd ʌp/: (v) Cộng dồn, tính tổng .Ex: Can you add up these numbers for me? (Bạn có thể cộng những con số này giúp tôi không?)
+air ... out ... /ɛr aʊt/: (v) Phơi khô, làm thoáng khí .Ex: I need to air out the blankets before using them (Tôi cần phơi khô chăn trước khi sử dụng)
+block up /blɑːk ʌp/: (v) Làm tắc nghẽn .Ex: The sink is blocked up with food scraps (Bồn rửa bị tắc nghẽn vì thức ăn thừa)
+boil over /bɔɪl ˈoʊvər/: (v) Sôi trào .Ex: Watch the soup so it doesn’t boil over (Canh chừng nồi súp để nó không sôi trào)
+break ... up ... /breɪk ʌp/: (v) Chia tay, giải tán .Ex: The teacher had to break up the fight between the two boys (Giáo viên phải can ngăn cuộc đánh nhau giữa hai cậu bé)
+brush ... off ... /brʌʃ ɔːf/: (v) Phủi sạch, làm ngơ .Ex: He brushed off the criticism and continued with his work (Anh ấy làm ngơ lời chỉ trích và tiếp tục công việc của mình)
+brush ... out ... /brʌʃ aʊt/: (v) Chải sạch .Ex: She brushed out the dirt from her coat (Cô ấy chải sạch bụi khỏi áo khoác của mình)
+burn up /bɜːrn ʌp/: (v) Đốt cháy hoàn toàn, sốt cao .Ex: The fire burned up the entire building (Ngọn lửa thiêu rụi toàn bộ tòa nhà)
+call back /kɔːl bæk/: (v) Gọi lại .Ex: I’ll call you back in a few minutes (Tôi sẽ gọi lại bạn sau vài phút)
+call up /kɔːl ʌp/: (v) Gọi điện .Ex: He called up his friend to invite him to the party (Anh ấy gọi điện cho bạn mình để mời dự tiệc)
+care for /kɛr fɔːr/: (v) Quan tâm, chăm sóc .Ex: She cares for her elderly parents (Cô ấy chăm sóc cha mẹ già của mình)
+chop ... down ... /tʃɑːp daʊn/: (v) Chặt hạ .Ex: They chopped down the tree to make room for the new building (Họ chặt cây để lấy chỗ xây tòa nhà mới)
+chop ... off ... /tʃɑːp ɔːf/: (v) Cắt đứt .Ex: He accidentally chopped off his finger while cooking (Anh ấy vô tình cắt đứt ngón tay khi đang nấu ăn)
+chop ... up ... /tʃɑːp ʌp/: (v) Băm nhỏ .Ex: Please chop up the vegetables for the soup (Làm ơn băm nhỏ rau củ cho món súp)
+clean ... out ... /kliːn aʊt/: (v) Dọn sạch bên trong .Ex: She cleaned out the closet to make space for new clothes (Cô ấy dọn sạch tủ để có chỗ cho quần áo mới)
+clean ... up ... /kliːn ʌp/: (v) Dọn dẹp .Ex: Let’s clean up the kitchen after dinner (Hãy dọn dẹp nhà bếp sau bữa tối)
+clear ... off ... /klɪr ɔːf/: (v) Xóa sạch, dọn đi .Ex: Please clear off the table before we eat (Làm ơn dọn sạch bàn trước khi chúng ta ăn)
+clog up /klɑːɡ ʌp/: (v) Bị tắc nghẽn .Ex: The drain is clogged up with hair (Ống thoát nước bị tắc bởi tóc)
+come across /kʌm əˈkrɔːs/: (v) Tình cờ gặp .Ex: I came across an old friend at the mall yesterday (Tôi tình cờ gặp một người bạn cũ ở trung tâm thương mại hôm qua)
+count up /kaʊnt ʌp/: (v) Đếm tổng .Ex: Let’s count up the money to see how much we have (Hãy đếm tổng tiền xem chúng ta có bao nhiêu)
+cut ... down ... /kʌt daʊn/: (v) Cắt giảm .Ex: He’s trying to cut down on sugar to lose weight (Anh ấy đang cố gắng giảm tiêu thụ đường để giảm cân)
+cut ... off ... /kʌt ɔːf/: (v) Cắt đứt, ngắt .Ex: They cut off the water supply due to unpaid bills (Họ cắt nguồn cung cấp nước vì hóa đơn chưa được thanh toán)
+cut ... up ... /kʌt ʌp/: (v) Cắt nhỏ .Ex: Please cut up the meat before cooking (Làm ơn cắt nhỏ thịt trước khi nấu)
+do without /du wɪˈðaʊt/: (v) Làm mà không có .Ex: We’ll have to do without a car for a while (Chúng ta sẽ phải sống mà không có xe một thời gian)
+doze off /doʊz ɔːf/: (v) Ngủ gật .Ex: She dozed off during the movie (Cô ấy ngủ gật trong khi xem phim)
+dress up /drɛs ʌp/: (v) Ăn mặc chỉnh tề, hóa trang .Ex: The children dressed up as superheroes for the party (Bọn trẻ hóa trang thành siêu anh hùng cho bữa tiệc)
+drink up /drɪŋk ʌp/: (v) Uống hết .Ex: Drink up your milk before it gets warm (Uống hết sữa của bạn trước khi nó bị nguội)
+dust ... off ... /dʌst ɔːf/: (v) Phủi bụi, làm sạch .Ex: He dusted off his old bike and started riding again (Anh ấy phủi bụi chiếc xe đạp cũ và bắt đầu đi lại)
+eat ... up ... /iːt ʌp/: (v) Ăn hết .Ex: The children ate up all the cookies (Bọn trẻ đã ăn hết bánh quy)
+feel like /fiːl laɪk/: (v) Cảm thấy muốn, hứng thú .Ex: I feel like going for a walk (Tôi cảm thấy muốn đi dạo)
+fill ... up ... /fɪl ʌp/: (v) Làm đầy .Ex: Please fill up the gas tank before we leave (Làm ơn đổ đầy xăng trước khi chúng ta rời đi)
+flow over /floʊ ˈoʊvər/: (v) Tràn qua, chảy qua .Ex: The river flowed over its banks after the heavy rain (Con sông tràn qua bờ sau cơn mưa lớn).
+get into /ɡɛt ˈɪntu/: (v) Đi vào, tham gia vào .Ex: She got into the car and drove away (Cô ấy vào xe và lái đi)
+get up /ɡɛt ʌp/: (v) Thức dậy .Ex: I usually get up at 6 AM (Tôi thường thức dậy lúc 6 giờ sáng)
+give ... away ... /ɡɪv əˈweɪ/: (v) Cho đi, tiết lộ .Ex: He gave away all his old clothes to charity (Anh ấy đã cho đi tất cả quần áo cũ của mình cho tổ chức từ thiện)
+go in /ɡoʊ ɪn/: (v) Đi vào .Ex: She went in without knocking (Cô ấy vào mà không gõ cửa)
+go off /ɡoʊ ɔːf/: (v) Nổ, hỏng, đổ chuông .Ex: The alarm went off at 7 AM (Chuông báo thức đổ lúc 7 giờ sáng)
+go on /ɡoʊ ɑːn/: (v) Tiếp tục .Ex: Please go on with your story (Làm ơn tiếp tục câu chuyện của bạn)
+hang up /hæŋ ʌp/: (v) Cúp máy, treo lên .Ex: She hung up the phone after the call (Cô ấy cúp máy sau cuộc gọi)
+have ... on ... /hæv ɑːn/: (v) Mặc, mang, bật .Ex: She has a red dress on today (Cô ấy đang mặc một chiếc váy đỏ hôm nay)
+hunt ... up ... /hʌnt ʌp/: (v) Tìm kiếm .Ex: I’ll hunt up those documents for you (Tôi sẽ tìm những tài liệu đó cho bạn)
+keep on /kiːp ɑːn/: (v) Tiếp tục .Ex: He kept on working despite being tired (Anh ấy tiếp tục làm việc mặc dù mệt mỏi)
+leave ... on ... /liːv ɑːn/: (v) Để nguyên, không tắt .Ex: Please leave the lights on when you leave (Hãy để đèn sáng khi bạn rời đi)
+let ... in /lɛt ɪn/: (v) Cho vào .Ex: Can you let the dog in? (Bạn có thể cho chó vào không?)
+let ... in on ... /lɛt ɪn ɑːn/: (v) Chia sẻ bí mật .Ex: She let me in on her plans for the weekend (Cô ấy chia sẻ với tôi kế hoạch cuối tuần của cô ấy)
+let ... out ... /lɛt aʊt/: (v) Cho ra ngoài, nới rộng .Ex: Don’t forget to let the cat out before we leave (Đừng quên thả mèo ra ngoài trước khi chúng ta rời đi)
+lie down /laɪ daʊn/: (v) Nằm xuống .Ex: He lay down on the sofa to rest (Anh ấy nằm xuống ghế sofa để nghỉ ngơi)
+look at /lʊk æt/: (v) Nhìn vào .Ex: Look at this picture; isn’t it beautiful? (Nhìn vào bức tranh này; nó có đẹp không?)
+look ... over ... /lʊk ˈoʊvər/: (v) Xem xét, kiểm tra .Ex: Please look over the document before signing (Hãy xem xét tài liệu trước khi ký)
+make ... out ... /meɪk aʊt/: (v) Hiểu, phân biệt .Ex: I couldn’t make out what she was saying (Tôi không thể hiểu được cô ấy đang nói gì)
+make ... up ... /meɪk ʌp/: (v) Bịa chuyện, làm hòa, bù đắp .Ex: They finally made up after their argument (Họ cuối cùng đã làm hòa sau cuộc cãi vã)
+mop ... up ... /mɑːp ʌp/: (v) Lau sạch .Ex: She mopped up the spilled coffee on the floor (Cô ấy lau sạch cà phê bị đổ trên sàn)
+open ... up ... /ˈoʊpən ʌp/: (v) Mở ra, khai thác .Ex: This road opens up new opportunities for the village (Con đường này mở ra những cơ hội mới cho ngôi làng)
+pick ... out ... /pɪk aʊt/: (v) Chọn ra .Ex: She picked out a beautiful dress for the party (Cô ấy chọn ra một chiếc váy đẹp cho bữa tiệc)
+pick ... up ... /pɪk ʌp/: (v) Nhặt lên, đón ai, học lỏm .Ex: Can you pick me up at the station? (Bạn có thể đón tôi ở nhà ga không?)
+plug ... in ... /plʌɡ ɪn/: (v) Cắm điện .Ex: Don’t forget to plug in the vacuum cleaner before using it (Đừng quên cắm điện máy hút bụi trước khi sử dụng)
+plug ... up ... /plʌɡ ʌp/: (v) Làm tắc nghẽn .Ex: The pipe is plugged up with leaves (Ống bị tắc nghẽn vì lá cây)
+pop up /pɑːp ʌp/: (v) Xuất hiện bất ngờ .Ex: Ads keep popping up on my screen (Quảng cáo cứ liên tục xuất hiện trên màn hình của tôi)
+put ... away ... /pʊt əˈweɪ/: (v) Cất đi .Ex: Please put away your toys after playing (Hãy cất đồ chơi đi sau khi chơi xong)
+put ... on ... /pʊt ɑːn/: (v) Mặc vào, bật lên .Ex: He put on his jacket before going outside (Anh ấy mặc áo khoác trước khi ra ngoài)
+put ... up ... /pʊt ʌp/: (v) Dựng lên, cho ở nhờ .Ex: We can put you up for a few nights (Chúng tôi có thể cho bạn ở nhờ vài đêm)
+rinse ... off ... /rɪns ɔːf/: (v) Rửa sạch .Ex: Rinse off the soap after washing your hands (Rửa sạch xà phòng sau khi rửa tay)
+rinse ... out ... /rɪns aʊt/: (v) Súc sạch .Ex: Please rinse out the cup before using it again (Hãy súc sạch cái cốc trước khi sử dụng lại)
+rub ... off ... /rʌb ɔːf/: (v) Chà sạch .Ex: She rubbed off the dirt from the table (Cô ấy chà sạch bụi bẩn trên bàn)
+run down /rʌn daʊn/: (v) Cạn kiệt, xuống cấp .Ex: The battery is running down and needs to be replaced (Pin đang cạn kiệt và cần được thay thế)
+run out of /rʌn aʊt əv/: (v) Hết, cạn kiệt .Ex: We’ve run out of milk; can you buy some more? (Chúng ta đã hết sữa; bạn có thể mua thêm không?)
+see about /siː əˈbaʊt/: (v) Lo liệu, sắp xếp .Ex: I’ll see about getting tickets for the concert (Tôi sẽ lo liệu việc lấy vé cho buổi hòa nhạc)
+set out /sɛt aʊt/: (v) Lên đường, bắt đầu .Ex: They set out early to avoid traffic (Họ khởi hành sớm để tránh kẹt xe)
+shut ... out ... /ʃʌt aʊt/: (v) Ngăn không cho vào .Ex: He shut out the noise by closing the window (Anh ấy ngăn tiếng ồn bằng cách đóng cửa sổ lại)
+sit down /sɪt daʊn/: (v) Ngồi xuống .Ex: Please sit down and make yourself comfortable (Hãy ngồi xuống và thoải mái nhé)
+sit up /sɪt ʌp/: (v) Ngồi thẳng dậy .Ex: Sit up straight; don’t slouch! (Ngồi thẳng dậy; đừng ngồi còng lưng!)
+stand up /stænd ʌp/: (v) Đứng lên .Ex: Everyone stood up when the teacher entered the room (Mọi người đứng dậy khi giáo viên bước vào phòng)
+stock up on /stɑːk ʌp ɑːn/: (v) Tích trữ .Ex: We need to stock up on groceries before the storm hits (Chúng ta cần tích trữ thực phẩm trước khi bão tới)
+straighten ... up ... /ˈstreɪtn ʌp/: (v) Dọn dẹp, chỉnh sửa .Ex: She straightened up her room before guests arrived (Cô ấy dọn dẹp phòng trước khi khách đến)
+sweep ... out ... /swiːp aʊt/: (v) Quét sạch .Ex: He swept out the garage to make room for the car (Anh ấy quét sạch nhà xe để có chỗ cho ô tô)
+tear ... up ... /ter ʌp/: (v) Xé vụn .Ex: She tore up the letter after reading it (Cô ấy xé vụn lá thư sau khi đọc xong)
+tie up /taɪ ʌp/: (v) Buộc chặt .Ex: He tied up the package with string (Anh ấy buộc chặt gói hàng bằng dây)
+try ... on ... /traɪ ɑːn/: (v) Thử đồ .Ex: She tried on the dress before buying it (Cô ấy thử chiếc váy trước khi mua)
+tune ... in ... /tuːn ɪn/: (v) Điều chỉnh để nghe hoặc xem .Ex: Make sure to tune in to the radio at 7 PM for the news (Hãy nhớ bật đài lúc 7 giờ tối để nghe tin tức)
+turn ... off ... /tɜːrn ɔːf/: (v) Tắt .Ex: Please turn off the lights before leaving (Hãy tắt đèn trước khi rời đi)
+turn ... on ... /tɜːrn ɑːn/: (v) Bật .Ex: He turned on the TV to watch the game (Anh ấy bật TV để xem trận đấu)
+use ... up ... /juːz ʌp/: (v) Dùng hết .Ex: They used up all the sugar for baking (Họ đã dùng hết đường để làm bánh)
+wash ... off ... /wɑːʃ ɔːf/: (v) Rửa sạch .Ex: She washed off the mud from her shoes (Cô ấy rửa sạch bùn đất trên giày)
+wash ... out ... /wɑːʃ aʊt/: (v) Giặt sạch, rửa sạch .Ex: Please wash out the stains before drying the clothes (Hãy giặt sạch vết bẩn trước khi phơi quần áo)
+wash ... up ... /wɑːʃ ʌp/: (v) Rửa bát đĩa .Ex: He always washes up after dinner (Anh ấy luôn rửa bát sau bữa tối)
+wipe ... off ... /waɪp ɔːf/: (v) Lau sạch .Ex: She wiped off the dust from the table (Cô ấy lau sạch bụi trên bàn)
+wipe ... out ... /waɪp aʊt/: (v) Xóa sổ, tiêu diệt hoàn toàn .Ex: The disease nearly wiped out the entire population (Căn bệnh gần như xóa sổ toàn bộ dân số)
+write up /raɪt ʌp/: (v) Viết lại, ghi chép chi tiết .Ex: He wrote up the report after the meeting (Anh ấy viết lại báo cáo sau cuộc họp)
+stain /steɪn/: (n) Vết bẩn, (v) Làm bẩn .Ex: The red wine left a stain on the carpet (Rượu vang đỏ để lại một vết bẩn trên thảm)
+stove /stoʊv/: (n) Bếp lò .Ex: She cooked dinner on the gas stove (Cô ấy nấu bữa tối trên bếp ga)
+the twins /ðə twɪnz/: (n) Cặp song sinh .Ex: The twins look so much alike (Cặp song sinh trông giống nhau quá)
+the drain /ðə dreɪn/: (n) Cống, lỗ thoát nước .Ex: The water is slow to go down the drain (Nước chảy xuống cống rất chậm)
+washbasin /ˈwɑːʃˌbeɪsn/: (n) Chậu rửa mặt .Ex: He washed his hands in the washbasin (Anh ấy rửa tay trong chậu rửa mặt)
+plunger /ˈplʌndʒər/: (n) Cây thông tắc bồn cầu .Ex: Use the plunger to unclog the toilet (Sử dụng cây thông tắc để thông bồn cầu)
+counters /ˈkaʊntərz/: (n) Quầy, mặt bàn .Ex: The kitchen counters were covered in flour (Mặt bàn bếp bị phủ đầy bột)
+kitchen floor /ˈkɪtʃən flɔːr/: (n) Sàn bếp .Ex: She mopped the kitchen floor after cooking (Cô ấy lau sàn bếp sau khi nấu ăn)
+pantomimes /ˈpæntəˌmaɪmz/: (n) Kịch câm .Ex: The children enjoyed watching the pantomimes at the theater (Bọn trẻ thích thú xem kịch câm ở nhà hát)
+tax relief /tæks rɪˈliːf/: (n) Giảm thuế .Ex: The government introduced tax relief for small businesses (Chính phủ đã đưa ra việc giảm thuế cho các doanh nghiệp nhỏ).
+mortgage /ˈmɔːrɡɪdʒ/: (n) Thế chấp, khoản vay thế chấp .Ex: He took out a mortgage to buy a house (Anh ấy đã vay thế chấp để mua nhà).
+mortgage interest payments /ˈmɔːrɡɪdʒ ˈɪntrəst ˈpeɪmənts/: (n) Thanh toán lãi suất thế chấp .Ex: The couple struggled with their mortgage interest payments (Cặp đôi gặp khó khăn với việc thanh toán lãi suất thế chấp).
+tenant /ˈtenənt/: (n) Người thuê nhà .Ex: The tenant pays rent on the first of every month (Người thuê nhà trả tiền thuê vào ngày đầu tiên của mỗi tháng).
+community house tenants /kəˈmjuːnəti haʊs ˈtenənts/: (n) Người thuê nhà cộng đồng .Ex: Community house tenants often have access to shared facilities (Người thuê nhà cộng đồng thường được sử dụng các tiện ích chung).
+sheltered housing /ˈʃeltərd ˈhaʊzɪŋ/: (n) Nhà ở bảo trợ (dành cho người cao tuổi hoặc cần hỗ trợ đặc biệt) .Ex: Sheltered housing provides safety and assistance for the elderly (Nhà ở bảo trợ mang lại sự an toàn và hỗ trợ cho người già).
+housing association /ˈhaʊzɪŋ əˌsoʊʃiˈeɪʃn/: (n) Hiệp hội nhà ở .Ex: The housing association helps low-income families find affordable homes (Hiệp hội nhà ở giúp các gia đình có thu nhập thấp tìm được nhà ở giá phải chăng).
+non-profit /nɑːn ˈprɑːfɪt/: (adj) Phi lợi nhuận .Ex: The organization operates as a non-profit to assist the homeless (Tổ chức này hoạt động phi lợi nhuận để hỗ trợ người vô gia cư).
+mobile home /ˈmoʊbl hoʊm/: (n) Nhà di động .Ex: They decided to live in a mobile home to travel around the country (Họ quyết định sống trong một nhà di động để đi du lịch khắp đất nước).
+caravan /ˈkærəvæn/: (n) Nhà xe kéo, xe lưu động .Ex: They spent the summer traveling in a caravan (Họ đã dành cả mùa hè để du lịch trong một chiếc xe lưu động).
+caravan-type home /ˈkærəvæn taɪp hoʊm/: (n) Nhà kiểu xe kéo .Ex: Caravan-type homes are popular among travelers and adventurers (Nhà kiểu xe kéo phổ biến đối với những người du lịch và thám hiểm).
+pragmatic /præɡˈmætɪk/: (adj) Thực dụng .Ex: She took a pragmatic approach to solving the problem (Cô ấy tiếp cận giải quyết vấn đề một cách thực dụng).
+direct dialing /dəˈrekt ˈdaɪəlɪŋ/: (n) Gọi điện trực tiếp .Ex: Direct dialing makes it easier to connect with someone without an operator (Gọi điện trực tiếp giúp dễ dàng kết nối với ai đó mà không cần qua tổng đài).
+multiform /ˈmʌltɪˌfɔːrm/: (adj) Đa dạng, nhiều hình thức .Ex: The artist's work is multiform and innovative (Tác phẩm của nghệ sĩ này đa dạng và sáng tạo).
+different rates /ˈdɪfrənt reɪts/: (n) Mức giá khác nhau .Ex: The hotel offers rooms at different rates depending on the season (Khách sạn cung cấp phòng với mức giá khác nhau tùy thuộc vào mùa).
+chauvinism /ˈʃoʊvɪˌnɪzəm/: (n) Chủ nghĩa vị chủng, thái độ cuồng tín .Ex: His chauvinism was evident in his refusal to accept new ideas (Thái độ cuồng tín của anh ấy thể hiện rõ qua việc anh ấy từ chối chấp nhận các ý tưởng mới).
+male chauvinism /meɪl ˈʃoʊvɪˌnɪzəm/: (n) Thái độ trọng nam .Ex: Male chauvinism can be harmful in the workplace (Thái độ trọng nam có thể gây hại tại nơi làm việc).
+liberal /ˈlɪbərəl/: (adj) Tự do, phóng khoáng .Ex: She has liberal views on social issues (Cô ấy có quan điểm phóng khoáng về các vấn đề xã hội).
+formality /fɔːrˈmæləti/: (n) Sự trang trọng, hình thức .Ex: The formality of the event required guests to dress formally (Tính trang trọng của sự kiện yêu cầu khách mặc trang phục lịch sự).
+cereal /ˈsɪriəl/: (n) Ngũ cốc .Ex: He eats cereal with milk every morning (Anh ấy ăn ngũ cốc với sữa mỗi sáng).
+regional dishes /ˈriːdʒənl ˈdɪʃəz/: (n) Các món ăn đặc sản vùng miền .Ex: The restaurant offers a variety of regional dishes (Nhà hàng cung cấp nhiều món ăn đặc sản vùng miền).
+junk food /dʒʌŋk fuːd/: (n) Đồ ăn vặt, thực phẩm không lành mạnh .Ex: Eating too much junk food can be bad for your health (Ăn quá nhiều đồ ăn vặt có thể không tốt cho sức khỏe).
+organic food /ɔːrˈɡænɪk fuːd/: (n) Thực phẩm hữu cơ .Ex: Organic food is often more expensive but healthier (Thực phẩm hữu cơ thường đắt hơn nhưng tốt cho sức khỏe hơn).
+exotic /ɪɡˈzɑːtɪk/: (adj) Kỳ lạ, ngoại lai .Ex: The garden was filled with exotic plants from around the world (Khu vườn đầy cây cối kỳ lạ từ khắp nơi trên thế giới).
+exotic dishes /ɪɡˈzɑːtɪk ˈdɪʃəz/: (n) Các món ăn lạ, độc đáo .Ex: She loves trying exotic dishes when traveling (Cô ấy thích thử các món ăn lạ khi đi du lịch).
+globalization /ˌɡloʊbələˈzeɪʃn/: (n) Toàn cầu hóa .Ex: Globalization has connected economies worldwide (Toàn cầu hóa đã kết nối các nền kinh tế trên toàn thế giới).
+energy pills /ˈenərdʒi pɪlz/: (n) Viên thuốc tăng cường năng lượng .Ex: Athletes sometimes use energy pills to enhance performance (Vận động viên đôi khi sử dụng viên thuốc tăng cường năng lượng để cải thiện hiệu suất).
+woolen /ˈwʊlən/: (adj) Làm bằng len .Ex: She wore a woolen sweater to stay warm (Cô ấy mặc áo len để giữ ấm).
+potteries /ˈpɑːtəriz/: (n) Đồ gốm .Ex: The museum showcases ancient potteries from different cultures (Bảo tàng trưng bày các đồ gốm cổ từ các nền văn hóa khác nhau).
+cotton spinning /ˈkɑːtn ˈspɪnɪŋ/: (n) Dệt sợi bông .Ex: Cotton spinning was an important industry during the Industrial Revolution (Dệt sợi bông là một ngành công nghiệp quan trọng trong Cách mạng Công nghiệp).
+mechanical engineering /məˈkænɪkl ˌendʒɪˈnɪrɪŋ/: (n) Kỹ thuật cơ khí .Ex: He studied mechanical engineering at university (Anh ấy học ngành kỹ thuật cơ khí tại đại học).
+shipbuilding /ˈʃɪpbɪldɪŋ/: (n) Đóng tàu .Ex: The town's economy relied heavily on shipbuilding (Nền kinh tế của thị trấn phụ thuộc nhiều vào ngành đóng tàu).
+steel manufacture /stiːl ˌmænjuˈfæktʃər/: (n) Sản xuất thép .Ex: Steel manufacture is a crucial industry for construction (Sản xuất thép là ngành quan trọng trong lĩnh vực xây dựng).
+foundries /ˈfaʊndrɪz/: (n) Xưởng đúc .Ex: The foundries produce metal parts for machinery (Các xưởng đúc sản xuất các bộ phận kim loại cho máy móc).
+colonies /ˈkɑːləniz/: (n) Thuộc địa .Ex: The country gained independence from its colonies in the 20th century (Quốc gia này giành được độc lập từ các thuộc địa vào thế kỷ 20).
+manufacturing industry /ˌmænjuˈfæktʃərɪŋ ˈɪndəstri/: (n) Ngành công nghiệp sản xuất .Ex: The manufacturing industry employs thousands of workers (Ngành công nghiệp sản xuất tạo việc làm cho hàng nghìn công nhân).
+aeronautics /ˌerəˈnɔːtɪks/: (n) Hàng không .Ex: She is studying aeronautics to become an aerospace engineer (Cô ấy đang học hàng không để trở thành kỹ sư hàng không vũ trụ).
+offshore /ˌɔːfˈʃɔːr/: (adj) Ngoài khơi .Ex: The company has several offshore oil rigs (Công ty có một số giàn khoan dầu ngoài khơi).
+offshore oil /ˌɔːfˈʃɔːr ɔɪl/: (n) Dầu ngoài khơi .Ex: Offshore oil exploration is an expensive but necessary venture (Khai thác dầu ngoài khơi là một dự án đắt đỏ nhưng cần thiết).
+major /ˈmeɪdʒər/: (adj) Quan trọng, lớn .Ex: The company is a major player in the tech industry (Công ty này là một đối thủ lớn trong ngành công nghệ).
+major industries /ˈmeɪdʒər ˈɪndəstriz/: (n) Các ngành công nghiệp chính .Ex: Tourism and agriculture are the region’s major industries (Du lịch và nông nghiệp là các ngành công nghiệp chính của khu vực).
+leisure /ˈleʒər/ hoặc /ˈliːʒər/: (n) Thời gian rảnh rỗi .Ex: She spends her leisure time reading and painting (Cô ấy dành thời gian rảnh để đọc sách và vẽ tranh).
+choral work /ˈkɔːrəl wɜːrk/: (n) Tác phẩm hợp xướng .Ex: The concert featured several choral works by Mozart (Buổi hòa nhạc trình diễn một số tác phẩm hợp xướng của Mozart).
+secular /ˈsekjələr/: (adj) Thế tục, không tôn giáo .Ex: The school teaches secular subjects alongside religious studies (Trường dạy các môn học thế tục cùng với môn học tôn giáo).
+secular music /ˈsekjələr ˈmjuːzɪk/: (n) Âm nhạc thế tục .Ex: Secular music was popular during the Renaissance period (Âm nhạc thế tục phổ biến trong thời kỳ Phục hưng).
+madrigal /ˈmædrɪɡl/: (n) Bài hát hợp xướng không nhạc đệm (thời kỳ Phục hưng) .Ex: The choir performed a madrigal by a 16th-century composer (Đội hợp xướng biểu diễn một bài madrigal của nhà soạn nhạc thế kỷ 16).
+flourishing /ˈflɜːrɪʃɪŋ/: (adj) Phát triển mạnh, thịnh vượng .Ex: The city has a flourishing arts community (Thành phố có một cộng đồng nghệ thuật phát triển mạnh).
+orchestra /ˈɔːrkɪstrə/: (n) Dàn nhạc giao hưởng .Ex: The orchestra played a symphony by Beethoven (Dàn nhạc giao hưởng đã chơi một bản giao hưởng của Beethoven).
+choral society /ˈkɔːrəl səˈsaɪəti/: (n) Hội hợp xướng .Ex: She joined the local choral society to sing in concerts (Cô ấy tham gia hội hợp xướng địa phương để hát trong các buổi hòa nhạc).
+dominate /ˈdɑːmɪneɪt/: (v) Chi phối, thống trị .Ex: The company continues to dominate the smartphone market (Công ty tiếp tục chi phối thị trường điện thoại thông minh).
+viewpoint /ˈvjuːpɔɪnt/: (n) Quan điểm, cách nhìn .Ex: The film presents a unique viewpoint on history (Bộ phim trình bày một quan điểm độc đáo về lịch sử).
+composer’s viewpoints /kəmˈpoʊzərz ˈvjuːpɔɪnts/: (n) Quan điểm của nhà soạn nhạc .Ex: The piece reflects the composer’s viewpoints on human emotions (Tác phẩm phản ánh quan điểm của nhà soạn nhạc về cảm xúc con người).
+civil rights /ˌsɪvl ˈraɪts/: (n) Quyền công dân .Ex: The movement fought for civil rights for all citizens (Phong trào đấu tranh cho quyền công dân của tất cả mọi người).
+circulation /ˌsɜːrkjəˈleɪʃn/: (n) Sự lưu hành, sự tuần hoàn .Ex: The newspaper has a large circulation in urban areas (Tờ báo có lượng phát hành lớn ở các khu vực đô thị).
+quality press /ˈkwɑːləti pres/: (n) Báo chất lượng cao .Ex: The quality press focuses on in-depth analysis rather than sensational news (Báo chất lượng cao tập trung vào phân tích chuyên sâu hơn là tin tức giật gân).
+popular press /ˈpɑːpjələr pres/: (n) Báo đại chúng .Ex: The popular press often covers celebrity news (Báo đại chúng thường đưa tin về các ngôi sao).
+aid /eɪd/: (n) Sự hỗ trợ, sự giúp đỡ .Ex: The organization provides aid to communities affected by natural disasters (Tổ chức này cung cấp viện trợ cho các cộng đồng bị ảnh hưởng bởi thiên tai).
+electrical aids /ɪˈlektrɪkl eɪdz/: (n) Thiết bị điện hỗ trợ .Ex: Electrical aids like hearing devices help improve daily life for the elderly (Các thiết bị điện hỗ trợ như máy trợ thính giúp cải thiện cuộc sống hàng ngày cho người cao tuổi).
+domestic appliances /dəˈmestɪk əˈplaɪənsɪz/: (n) Thiết bị gia dụng .Ex: Domestic appliances like refrigerators and washing machines are essential in modern homes (Các thiết bị gia dụng như tủ lạnh và máy giặt là thiết yếu trong các gia đình hiện đại).
+tele-shopping /ˈteli ˈʃɑːpɪŋ/: (n) Mua sắm qua truyền hình .Ex: Tele-shopping allows people to buy products without leaving their homes (Mua sắm qua truyền hình cho phép mọi người mua sản phẩm mà không cần rời khỏi nhà).
+burden /ˈbɜːrdn/: (n) Gánh nặng .Ex: The financial burden of education can be overwhelming for many families (Gánh nặng tài chính của giáo dục có thể là rất lớn đối với nhiều gia đình).
+discrimination /dɪˌskrɪmɪˈneɪʃn/: (n) Sự phân biệt đối xử .Ex: The company has a strict policy against discrimination in the workplace (Công ty có chính sách nghiêm ngặt chống phân biệt đối xử tại nơi làm việc).
+occupy /ˈɑːkjupaɪ/: (v) Chiếm, giữ .Ex: The students occupy the first two rows of the lecture hall (Các sinh viên chiếm hai hàng ghế đầu của giảng đường).
+monotonous /məˈnɑːtənəs/: (adj) Đơn điệu, nhàm chán .Ex: The work became monotonous after doing it for several months (Công việc trở nên đơn điệu sau khi làm trong vài tháng).
+slogan /ˈsloʊɡən/: (n) Khẩu hiệu .Ex: The company’s new slogan emphasizes sustainability (Khẩu hiệu mới của công ty nhấn mạnh vào tính bền vững).
+commercials /kəˈmɜːrʃlz/: (n) Quảng cáo (trên truyền hình hoặc đài phát thanh) .Ex: I usually skip commercials when watching TV (Tôi thường bỏ qua quảng cáo khi xem TV).
+TV commercials /ˌtiːˈviː kəˈmɜːrʃlz/: (n) Quảng cáo trên truyền hình .Ex: TV commercials are often aired during prime time (Quảng cáo trên truyền hình thường phát vào giờ vàng).
+catchphrases /ˈkætʃfreɪzɪz/: (n) Câu nói phổ biến, khẩu hiệu .Ex: The company’s catchphrases are easy to remember (Những câu khẩu hiệu của công ty rất dễ nhớ).
+sponsor /ˈspɑːnsər/: (n) Nhà tài trợ .Ex: The event was organized with the help of several sponsors (Sự kiện được tổ chức với sự giúp đỡ của nhiều nhà tài trợ).
+stricter regulation /ˈstrɪktər ˌreɡjuˈleɪʃn/: (n) Quy định nghiêm ngặt hơn .Ex: Stricter regulations were introduced to control air pollution (Các quy định nghiêm ngặt hơn đã được đưa ra để kiểm soát ô nhiễm không khí).
+decent /ˈdiːsnt/: (adj) Đàng hoàng, tử tế .Ex: Everyone deserves to live in a decent home (Ai cũng xứng đáng được sống trong một ngôi nhà đàng hoàng).
+slums /slʌmz/: (n) Khu ổ chuột .Ex: Many people in slums lack access to clean water and healthcare (Nhiều người sống trong các khu ổ chuột không có nước sạch và dịch vụ y tế).
+national costumes /ˈnæʃnəl ˈkɑːstuːmz/: (n) Trang phục truyền thống quốc gia .Ex: The performers wore national costumes during the festival (Các nghệ sĩ mặc trang phục truyền thống quốc gia trong lễ hội).
+lengthen /ˈleŋkθən/: (v) Làm dài ra .Ex: She decided to lengthen the dress by adding extra fabric (Cô ấy quyết định làm dài chiếc váy bằng cách thêm vải).
+ceremonial occasions /ˌserɪˈmoʊniəl əˈkeɪʒnz/: (n) Các dịp mang tính nghi lễ .Ex: The traditional outfit is usually worn on ceremonial occasions (Trang phục truyền thống thường được mặc vào các dịp nghi lễ).
+raglan /ˈræɡlən/: (adj) Áo tay raglan (thiết kế tay áo nối từ cổ áo) .Ex: He prefers wearing raglan-sleeve shirts for casual outings (Anh ấy thích mặc áo tay raglan cho các buổi đi chơi thường ngày).
+raglan sleeves /ˈræɡlən sliːvz/: (n) Tay áo raglan .Ex: The sweater with raglan sleeves fits perfectly (Chiếc áo len có tay raglan rất vừa vặn).
+body-hugging /ˈbɑːdi ˌhʌɡɪŋ/: (adj) Ôm sát cơ thể .Ex: She wore a body-hugging dress to the party (Cô ấy mặc một chiếc váy ôm sát cơ thể đến bữa tiệc).
+trouser /ˈtraʊzər/: (n) Quần dài .Ex: The tailor altered the length of the trouser (Thợ may đã chỉnh sửa chiều dài của chiếc quần).
+demure /dɪˈmjʊr/: (adj) Nghiêm trang, kín đáo .Ex: Her demure outfit was perfect for the formal event (Trang phục kín đáo của cô ấy rất phù hợp với sự kiện trang trọng).
+revised /rɪˈvaɪzd/: (adj) Được chỉnh sửa, được sửa đổi .Ex: The revised version of the book includes new chapters (Phiên bản chỉnh sửa của cuốn sách bao gồm các chương mới).
+mass /mæs/: (n) Hàng loạt, đại chúng .Ex: The product was designed for mass production (Sản phẩm này được thiết kế để sản xuất hàng loạt).
+revised, mass produced /rɪˈvaɪzd mæs prəˈduːst/: (adj) Được sửa đổi và sản xuất hàng loạt .Ex: The revised, mass-produced model was launched last year (Mẫu được sửa đổi và sản xuất hàng loạt đã ra mắt vào năm ngoái).
