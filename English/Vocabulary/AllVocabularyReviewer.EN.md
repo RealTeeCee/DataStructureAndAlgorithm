@@ -5147,3 +5147,7 @@ demure:
 revised:  
 mass: 
 revised, mass produced:  
+rebel (n): 
+rebel (v): 
+rebellion: 
+hijack: 

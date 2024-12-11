@@ -1,0 +1,11 @@
+# Nguyen
+# Lesson 9 
+
+# Topic 17: Interview
+Interviews are opportunities to present skills, knowledge, or personality in front of evaluators. While job interviews, oral exams, and pageant contests share the goal of assessment, they differ significantly in purpose, setting, and criteria. Each type of interview tests candidates in unique ways, requiring different preparation and performance styles.
+
+When talking about questions, job interview questions focus on skills, experience, and problem-solving, requiring candidates to formulate clear and concise answers. Oral exams prioritize knowledge, with questions often demanding in-depth explanations or arguments. Pageant questions, however, are designed to assess personality and instinct, encouraging contestants to share opinions or ideas creatively. In all cases, staying calm and avoiding the temptation to ramble or digress is crucial.
+When talking about examiner, in job interviews, examiners are typically hiring managers or HR professionals who evaluate candidates based on specific job requirements. Oral exams are conducted by professors or academic experts who take an objective approach, assessing the candidate’s understanding of the subject. Pageant contest judges, on the other hand, include a mix of experts and celebrities who critique not only answers but also charm, poise, and overall presence. Each examiner’s focus and criteria differ significantly.
+When talking about result, the results of a job interview determine whether the candidate secures employment, often accompanied by constructive criticism. Oral exams result in a grade or qualification, reflecting how well the candidate demonstrated their knowledge. In pageants, results are based on overall impression, with contestants ranked for their ability to charm and perform under pressure. While job interviews and exams are more objective, pageant results often depend on instinct and subjective evaluation.
+
+Outfits, questions, examiners, and results vary greatly across job interviews, oral exams, and pageant contests. Each type of interview requires unique preparation and the ability to adapt, focusing on professionalism, knowledge, or personality. Success comes from staying calm, focused, and prepared, regardless of the situation.

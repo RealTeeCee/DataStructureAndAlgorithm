@@ -5147,3 +5147,7 @@ xin cứ tự nhiên:
 (adj) Được chỉnh sửa, được sửa đổi: 
 (n) Hàng loạt, đại chúng: 
 (adj) Được sửa đổi và sản xuất hàng loạt: 
+(n) Kẻ nổi loạn, phiến quân: 
+(v) Nổi loạn, chống đối: 
+(n) Cuộc nổi loạn, cuộc khởi nghĩa: 
+(v) Chiếm đoạt, cướp (máy bay, phương tiện giao thông, v.v.); (n) Vụ cướp (máy bay, phương tiện giao thông): 
