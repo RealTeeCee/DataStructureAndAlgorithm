@@ -1,0 +1,1119 @@
+Atomic: 
+Photographer: 
+Contacting: 
+Constructing: 
+Instance: 
+Thrifty: 
+Halting: 
+Portable: 
+Native: 
+Percentage: 
+Intercom: 
+Interstate: 
+Mutually: 
+Posture: 
+Perpetual: 
+Fruitful: 
+Rector: 
+Stuffy: 
+Handful: 
+Frugal: 
+Famine: 
+Dentures: 
+Frontage: 
+Coward: 
+Fancy: 
+Folder: 
+Package: 
+Ashtray: 
+Gloom: 
+Horny:  
+Bossy: 
+Mistress: 
+Giant: 
+Candid: 
+Sticker: 
+Dental: 
+Booklet:  
+Impel:  
+Adapt: 
+Impede: 
+Instruct:  
+Derange:  
+Consume: 
+Retire: 
+Incur: 
+Invent: 
+Involve: 
+Pursue: 
+Rebuff: 
+Locate: 
+Intrude: 
+Dictate: 
+Betray: 
+Dispute: 
+Derail: 
+Defer: 
+Dispatch: 
+Evade: 
+Induct: 
+Obstruct: 
+Perturb: 
+Profess: 
+Disperse: 
+Rejoin: 
+Infect: 
+Infest: 
+Inflict: 
+Precede: 
+Diverge: 
+Eschew: 
+Divert: 
+Obtain: 
+Perplex: 
+Regale: 
+Adore: 
+Confine: 
+Impugn: 
+Predict: 
+Dismay: 
+Esteem: 
+Estrange: 
+Imbue: 
+Repress: 
+Rejoice: 
+Inspect: 
+Swindle: 
+Madden: 
+Winnow: 
+Hinder: 
+Flatter: 
+Handle: 
+Vanish: 
+Mumble: 
+Simmer: 
+Whimper: 
+Mangle: 
+Pester: 
+Deepen: 
+Fondle: 
+Fritter: 
+Gamble: 
+Girdle: 
+Gladden: 
+Glimmer: 
+Jumble: 
+Meddle: 
+Litter: 
+Liven: 
+Quarrel: 
+Conquer: 
+Render: 
+Smother: 
+Skirmish: 
+Vanquish: 
+Banish: 
+Mediate: 
+Radiate: 
+Indicate: 
+Magnify: 
+Irrigate: 
+Incubate: 
+Numerate: 
+Memorize: 
+Standardize: 
+Dramatize: 
+Incorporate: 
+Inundate: 
+Generate: 
+Criticize: 
+Palpitate: 
+Indoctrinate: 
+Litigate: 
+Meditate: 
+Tabulate: 
+Concentrate: 
+Unify: 
+Oxidize: 
+Accelerate: 
+Incriminate: 
+Accentuation: 
+Longevity: 
+Partisan: 
+Negligible: 
+Itemize: 
+Partnership: 
+Peninsula: 
+Philosophy: 
+Pinnacle: 
+Precipitate: 
+Reiterate: 
+Sociology: 
+Supplement: 
+Terminology: 
+Exuberant: 
+Permanent: 
+Renovate: 
+Simplicity: 
+Curiosity: 
+Disarmament: 
+Solidarity: 
+Passionate: 
+Prosperous: 
+Indifferent: 
+Precipitous: 
+Intoxicate: 
+Dominate: 
+Estrangement: 
+Facilitate: 
+Follower: 
+Dominant: 
+Expectorate: 
+Galaxy: 
+Gemology: 
+Duplicity: 
+Germicide:  
+Gesticulate: 
+Immigrate: 
+Illogical: 
+Exodus: 
+Faculty: 
+Glamorous: 
+Glutinous: 
+Honesty: 
+Hurricane: 
+Illegitimate: 
+Immaculate: 
+Capacity: 
+Infiltrate: 
+Expedite: 
+Hospitality: 
+Lassitude: 
+Liberality: 
+Follicle: 
+Institute: 
+Seminary: 
+Ordinary: 
+Necessary: 
+Arbitrary: 
+Contrary: 
+Apology: 
+Arithmetic: 
+Aspiration: 
+Contemporary:  
+Dictionary: 
+Expulsion: 
+Facial: 
+Glacial: 
+Extortion:  
+Geranium: 
+Medallion: 
+Obligation: 
+Obstruction:  
+Orient: 
+Perfection: 
+Propitious: 
+Propulsion: 
+Temptation: 
+Tenacious: 
+Speculation: 
+Starvation: 
+Vicarious:  
+Suspicious: 
+Relation: 
+Linguistics: 
+Panic: 
+Periodic: 
+Toxic: 
+Atomic:  
+Aquatic: 
+Despotic: 
+Tragic: 
+Rustic: 
+Scholastic: 
+Skeptic: 
+Cocoon: 
+Taboo:  
+Lemonade: 
+Kangaroo: 
+Pioneer:  
+Domineer:  
+Analyze: 
+Arcade: 
+Nominee: 
+Maroon: 
+Draftee: 
+Centigrade: 
+Brigade:  
+Lagoon: 
+Inductee: 
+Escapade: 
+Guarantee: 
+Degrade: 
+Cartoon: 
+Frontier: 
+Cascade: 
+Racketeer:  
+Pedigree: 
+Marmalade: 
+Accomplice: 
+Apprentice:  
+Asylum: 
+Afloat: 
+Ashore: 
+Absurd: 
+Archbishop:  
+Astute: 
+Accustom: 
+Affair: 
+Adjacent: 
+Assassin: 
+Adherent: 
+Affront:  
+Assault: 
+Communal: 
+Compartment: 
+Consign: 
+Consignment: 
+Consigned: 
+Consigning:  
+Consist: 
+Consisted: 
+Consisting: 
+Consistent: 
+Constrain: 
+Constraint:  
+Continue: 
+Continued: 
+Continuing:  
+Continuous: 
+Confine: 
+Confinement: 
+Ex-convict:  
+Exact: 
+Exacts: 
+Exacting:  
+Exacted: 
+Exactly: 
+Examine: 
+Examined: 
+Examining: 
+Excess: 
+Excessive: 
+Exclude: 
+Excluded: 
+Excluding: 
+Exclusive: 
+Exclusiveness: 
+Exhibit: 
+Exhibited: 
+Exhibiting: 
+Exist: 
+Existence:  
+Existent: 
+Expect: 
+Expectancy:  
+Expectorant:  
+Explain: 
+Explaining: 
+Explained: 
+Explanatory: 
+Extreme: 
+Extremist: 
+Extremism: 
+Imagine: 
+Inexpert:  
+Inferno:  
+Infernal:  
+Infertile: 
+Insurgent:  
+Illegal: 
+Illicit: 
+Illegible: 
+Imbue: 
+Imbalance: 
+Imbibe: 
+Irrepressible:  
+Recover: 
+Recovering:  
+Recovery:  
+Recovered: 
+Recur: 
+Recurrence:  
+Recurring: 
+Recurred: 
+Regard: 
+Regarding: 
+Regarded: 
+Refine: 
+Refinement: 
+Unlawful:  
+Unpleasant: 
+Uneven: 
+Uneasy: 
+Attain: 
+Attainment: 
+Attained: 
+Attaining:  
+Invest: 
+Invested: 
+Investment: 
+Investing: 
+Investor: 
+Consign: 
+Consignment: 
+Consigned: 
+Consigning: 
+Attend: 
+Attendant: 
+Attendance: 
+Ascend: 
+Ascendant:  
+Ascendancy:  
+Assemble: 
+Assembly: 
+Assure: 
+Assurance:  
+Attract: 
+Attractive:  
+Pure: 
+Pure dialog:  
+Dealership: 
+Buy some auto parts:  
+Juror:  
+PTA meeting:  
+Do business: 
+To make business friends:  
+To lecture: 
+Toothpaste: 
+To wire money: 
+Rent a mailbox: 
+Get a shot for flu: 
+Chairman: 
+Chairwoman: 
+The sky grows dark: 
+The girl turns red: 
+He goes blind: 
+The man runs mad: 
+The plumber repairs the leak:  
+To presume: 
+Defendant: 
+They presume the defendant guilty:  
+Diaper: 
+Baby's diaper: 
+To mob: 
+Splendid: 
+Treasurer: 
+Chauffeur: 
+Carpet: 
+The memo: 
+The auto accident: 
+To disintegrate: 
+Santa: 
+Kingdom: 
+To startle: 
+Originate: 
+Barbary: 
+Legendary: 
+Union: 
+Intelligentsia:  
+Systematic: 
+Atomic: 
+Pharmaceutics: 
+Rhetoric: 
+Lunatic: 
+Assault: 
+Pick up on:  
+Call on: 
+Read it over: 
+Fireplace: 
+A custom: 
+A church service:  
+A supper: 
+Stockings: 
+A mistletoe:  
+A carola: 
+Pocket book: 
+Compound: 
+Dotted lines: 
+Schoolwork: 
+Preposition: 
+Postposition:  
+Pure != Impure: 
+Private: 
+Privacy: 
+Policy: 
+Option: 
+Arrangement: 
+Newlywed: 
+Customary: 
+Unthinkable: 
+Disrespect:  
+Disrespectful:  
+Bustle: 
+Laughter: 
+Grandchildren: 
+Unusual: 
+Kindergarten: 
+Elementary school: 
+Junior high school:  
+Senior high school:  
+The university: 
+Grade 1 to grade 12:  
+Freshman:  
+Sophomore: 
+Junior: 
+Senior student: 
+Graduate student:  
+Plantation: 
+Harvest: 
+Crop: 
+Total yield of produce:  
+Sell by the kilo: 
+Import and export:  
+Machinery: 
+Modern equipment: 
+Processing: 
+Series of operations:  
+Container: 
+Receptacle: 
+New Year Celebrations:  
+Anticipation (of):  
+Parade: 
+Resolution: 
+Lantern:  
+Ancestor: 
+Athletic: 
+Honor: 
+To honor ancestor:  
+Set aside: 
+Celebrate: 
+Athletic competition:  
+To set aside for: 
+Each of the fifteen days:  
+Aspect: 
+Associate: 
+Technology: 
+Presentation: 
+Distance: 
+Invention: 
+Huge: 
+To store: 
+To communicate: 
+To access: 
+Marketing: 
+Advertising: 
+Sacred: 
+Nostalgia: 
+To hand down: 
+The Craft Creator:  
+The Land Genie: 
+The Kitchen God:  
+Deceased:  
+Descendants: 
+Secular: 
+The "five-fruit tray":  
+Ancestral: 
+Altar: 
+Food specialties: 
+Subscriber: 
+Charge: 
+Operator: 
+Peak rate: 
+Standard rate:  
+Cheap rate: 
+Code: 
+Transmitter: 
+Frequency: 
+Facility: 
+Warm climate: 
+Resort: 
+Seaside: 
+Offshore: 
+Popular tourist region:  
+Holidaymaker: 
+Island: 
+Natural: 
+Blast: 
+Terminus: 
+Destination: 
+Notably: 
+Afield: 
+Tourist attraction:  
+Luxurious: 
+Chain: 
+Individually owned:  
+A wide range of goods:  
+To stock: 
+On a large scale:  
+Household goods: 
+Superintendent:  
+Ministry: 
+Ministry of Education:  
+To be in charge: 
+Award: 
+Prove: 
+Proof: 
+Diploma: 
+Proof of successful completion of the Senior high school programs:   
+Conduct an exam: 
+Thesis: 
+The oral defense of a thesis:  
+Dissertation: 
+An outfit: 
+Phoenix: 
+Ash: 
+Rising born again from its ashes:  
+Fortune: 
+Affect: 
+Costume: 
+Silk: 
+Silkworm: 
+Fabric: 
+Woven: 
+Veil: 
+Head-dress: 
+Headdress of flowers: 
+Coat of arms: 
+Crest: 
+Seal: 
+Note paper: 
+Symbol: 
+Emblem: 
+Native: 
+Differ: 
+Sandals: 
+All-white: 
+Abundance: 
+Fertility: 
+Untucked:  
+Embroidered: 
+Robe: 
+Black silk coat worn over a dark blue dragon robe:  
+Edo era: 
+Kimono: 
+Sari: 
+Loose: 
+Sleeve: 
+Long-sleeved shirt:  
+Signify: 
+Purity: 
+Adorned: 
+Sarong: 
+Acceptance: 
+Affirmation: 
+Negation: 
+Refusal: 
+Denial: 
+Positive: 
+Negative: 
+Timid: 
+Orient: 
+Self-confidence:  
+Trend: 
+Dynamic:  
+Tendency: 
+Forceful: 
+Dialect: 
+Accent: 
+Linguistics: 
+Distinction: 
+Dissimilar:  
+Variation:  
+Stilled: 
+Stiffly: 
+Artificially: 
+Renowned: 
+Typify: 
+Slang: 
+Chiefly: 
+Coinage: 
+Deliberately: 
+Standard terms: 
+Raciness: 
+Irreverence:  
+Constituent: 
+Indistinguishable: 
+Calm: 
+Agitated: 
+Knowledgeable: 
+Well-informed: 
+Embellish:  
+Untrue: 
+Amusing: 
+Formulate: 
+To state as or reduce to a formula:  
+Objective: 
+Goal: 
+Criticism: 
+Critical:  
+Instinct: 
+Inborn: 
+Stimuli: 
+Ramble: 
+Digression: 
+Lottery: 
+Prizewinner: 
+Football pool:  
+The holders: 
+Gamble: 
+Gambling: 
+To forecast: 
+Tell in advance: 
+Skate: 
+Card-game: 
+Bet: 
+Doubtful: 
+Greyhound: 
+Casino: 
+Amusement: 
+Arcade:  
+Passage: 
+Arched: 
+Bingo: 
+Called at random: 
+Raffle: 
+Quiz: 
+Article: 
+Stigma: 
+Disgrace: 
+Shameful: 
+Reputation: 
+Small sum: 
+Three-figure number: 
+Bank's financial figures:  
+date back to: 
+era:  
+golden thread:  
+Baccalaureate:  
+pageant:  
+pageant contest:  
+fruit picking: 
+weight-lifting: 
+coal-mining: 
+sheep farming: 
+wind surfing: 
+dining-room: 
+swimming pool: 
+driving license: 
+waiting list: 
+housing committee: 
+reading lamp: 
+skating rink: 
+river bank: 
+church bell: 
+picture frame: 
+street market: 
+coffee cup: 
+chess board: 
+golf club: 
+fish-farm: 
+soccer game: 
+tennis tournament:  
+beauty contest: 
+telephone bill: 
+colossal: 
+colossal sum: 
+double helping: 
+compromise: 
+spare room: 
+strike action:  
+dried milk: 
+sake of: 
+for the sake of peace: 
+refugee: 
+ecology: 
+claw: 
+slug: 
+mock: 
+furnish: 
+mend: 
+dye: 
+henna: 
+palm: 
+flower petal: 
+betel leaf: 
+areca nut: 
+tray: 
+matchmaker: 
+intermediary: 
+proposal of marriage:  
+trousseau: 
+joss stick: 
+to bow: 
+alliance:  
+chaste: 
+banquet: 
+a best man: 
+a bridesmaid: 
+to bedeck: 
+a garland of flowers: 
+solemn: 
+to sip: 
+profound: 
+to enhance:  
+climate of trust and partnership between ... and:  
+be at high risk for sth:  
+social adjustment:  
+maturation: 
+social competence skill:  
+adolescence: 
+to propel: 
+incentive: 
+courtship:  
+to be tied down with:  
+to neglect: 
+the period of fertility:  
+to procreate: 
+the legal marriage ages for registration:  
+marriage certificate:  
+linens: 
+astrological: 
+astrological forecast:  
+ornament:  
+showy: 
+showy fashion:  
+wreath: 
+festoon:  
+draped:  
+plaited: 
+rim: 
+shrub: 
+ovate: 
+veneration: 
+virginal:  
+ceremonial: 
+bridegroom's chief attendant:  
+onset:  
+puberty: 
+the onset of puberty:  
+air fryer:  
+an appliance: 
+a chore: 
+workload:  
+a vacuum cleaner: 
+a toaster: 
+a microwave oven: 
+to do the laundry: 
+to come into existence: 
+routine task:  
+dust: 
+dirt: 
+suction: 
+electromagnetic wave:  
+a resource: 
+a packet switching:  
+a network: 
+a browser: 
+global: 
+console: 
+consolation: 
+to glance: 
+the act of glancing:  
+athlete: 
+hero: 
+heroine:  
+wreath:  
+crown: 
+parade: 
+torch: 
+to march: 
+to light - lit - lit:  
+to put out: 
+to extinguish: 
+historian: 
+Greece: 
+Christmas: 
+Weather in Vietnam:  
+Lifestyles:  
+Educational system:  
+The coffee industry:  
+New Year celebration:  
+Computers:  
+New Year in Vietnam:  
+The cellphone industry:  
+The beaches:  
+The vacation resources:  
+The supermarkets:  
+Graduation Examinations:  
+Wedding Outfits:  
+Students' attitude toward the teachers:   
+Accent and dialect:  
+Interview: 
+Gambling: 
+Wedding customs: 
+Wedding customs in your country:  
+Relationships:  
+Age to get married:  
+The cinema: 
+The history of computers:  
+The automobile: 
+Household appliances:  
+The internet:  
+Olympic Games:  
+curious: 
+interfere: 
+stockbroker:  
+investor: 
+suicide:  
+capital: 
+abandon: 
+electrical outlet: 
+a battle: 
+a system of dots and dashes:  
+morse code: 
+a wire: 
+laser: 
+fiber: 
+fiber optics: 
+by means of: 
+along: 
+surgical devices:  
+glass fiber:  
+telecommunication:  
+fierce: 
+to come into existence:  
+to fax: 
+horizontal strokes: 
+small round mark: 
+a rod: 
+electric current: 
+signal: 
+intense: 
+highly controlled:  
+beam: 
+beam of light: 
+infra-red: 
+telephone line: 
+anywhere anytime:  
+an image: 
+a sitcom:  
+a satellite: 
+man-made: 
+man-made device:  
+orbit: 
+orbit round a planet:  
+instantaneous:  
+to advance: 
+the middle ages: 
+AD: 
+AD 1100 to AD 1400:  
+warfare: 
+a nomad:  
+wander:  
+pasture: 
+fixed home: 
+spear: 
+weapon: 
+metal point: 
+long handle: 
+formerly: 
+horseback: 
+sword: 
+metal blade: 
+protected handle:  
+soldier: 
+missile: 
+fire at a target:  
+aircraft: 
+carrier: 
+an issue: 
+point in question:  
+physical harm: 
+bomb: 
+gun: 
+time long past: 
+faith and worship:  
+spirit: 
+spiritual nature:  
+nuclear: 
+atom: 
+protons and neutrons:  
+to take control of: 
+to confront: 
+defiant: 
+to face defiantly:  
+add up: 
+air ... out ...: 
+block up: 
+boil over: 
+break ... up ...:  
+brush ... off ...:  
+brush ... out ...: 
+burn up: 
+call back: 
+call up: 
+care for: 
+chop ... down ...: 
+chop ... off ...: 
+chop ... up ...: 
+clean ... out ...: 
+clean ... up ...: 
+clear ... off ...: 
+clog up: 
+come across: 
+count up: 
+cut ... down ...: 
+cut ... off ...: 
+cut ... up ...: 
+do without: 
+doze off: 
+dress up: 
+drink up: 
+dust ... off ...: 
+eat ... up ...: 
+feel like: 
+fill ... up ...: 
+flow over: 
+get into: 
+get up: 
+give ... away ...: 
+go in: 
+go off: 
+go on: 
+hang up: 
+have ... on ...: 
+hunt ... up ...: 
+keep on: 
+leave ... on ...: 
+let ... in: 
+let ... in on ...: 
+let ... out ...: 
+lie down: 
+look at: 
+look ... over ...: 
+make ... out ...: 
+make ... up ...: 
+mop ... up ...: 
+open ... up ...: 
+pick ... out ...: 
+pick ... up ...: 
+plug ... in ...: 
+plug ... up ...: 
+pop up: 
+put ... away ...: 
+put ... on ...: 
+put ... up ...: 
+rinse ... off ...: 
+rinse ... out ...: 
+rub ... off ...: 
+run down: 
+run out of: 
+see about: 
+set out: 
+shut ... out ...: 
+sit down: 
+sit up: 
+stand up: 
+stock up on: 
+straighten ... up ...: 
+sweep ... out ...: 
+tear ... up ...: 
+tie up: 
+try ... on ...: 
+tune ... in ...: 
+turn ... off ...: 
+turn ... on ...: 
+use ... up ...: 
+wash ... off ...: 
+wash ... out ...: 
+wash ... up ...: 
+wipe ... off ...: 
+wipe ... out ...: 
+write up: 
+stain: 
+stove: 
+the twins: 
+the drain: 
+washbasin: 
+plunger: 
+counters: 
+kitchen floor: 
+pantomimes: 
+tax relief: 
+mortgage: 
+mortgage interest payments:  
+tenant: 
+community house tenants:  
+sheltered housing:  
+housing association:  
+non-profit:  
+mobile home:  
+caravan: 
+caravan-type home:  
+pragmatic: 
+direct dialing:  
+multiform: 
+different rates:  
+chauvinism:  
+male chauvinism: 
+liberal: 
+formality:  
+cereal: 
+regional dishes:  
+junk food:  
+organic food:  
+exotic: 
+exotic dishes: 
+globalization: 
+energy pills:  
+woolen: 
+potteries: 
+cotton spinning:  
+mechanical engineering:  
+shipbuilding: 
+steel manufacture:  
+foundries: 
+colonies:  
+manufacturing industry:  
+aeronautics:  
+offshore: 
+offshore oil:  
+major: 
+major industries:  
+leisure: 
+choral work:  
+secular:  
+secular music: 
+madrigal:  
+flourishing: 
+orchestra: 
+choral society:  
+dominate:  
+viewpoint: 
+composer’s viewpoints:  
+civil rights:  
+circulation:  
+quality press:  
+popular press: 
+aid:  
+electrical aids:  
+domestic appliances:  
+tele-shopping:  
+burden:  
+discrimination:  
+occupy: 
+monotonous:  
+slogan: 
+commercials:  
+TV commercials:  
+catchphrases: 
+sponsor: 
+stricter regulation:  
+decent: 
+slums:  
+national costumes:  
+lengthen: 
+ceremonial occasions:  
+raglan:  
+raglan sleeves: 
+body-hugging: 
+trouser: 
+demure:  
+revised:  
+mass: 
+revised, mass produced:  
+rebel (n): 
+rebel (v): 
+rebellion: 
+hijack: 

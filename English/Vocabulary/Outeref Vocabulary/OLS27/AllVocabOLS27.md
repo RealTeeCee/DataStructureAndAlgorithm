@@ -1113,3 +1113,7 @@ demure /dɪˈmjʊr/: (adj) Nghiêm trang, kín đáo .Ex: Her demure outfit was 
 revised /rɪˈvaɪzd/: (adj) Được chỉnh sửa, được sửa đổi .Ex: The revised version of the book includes new chapters (Phiên bản chỉnh sửa của cuốn sách bao gồm các chương mới).
 mass /mæs/: (n) Hàng loạt, đại chúng .Ex: The product was designed for mass production (Sản phẩm này được thiết kế để sản xuất hàng loạt).
 revised, mass produced /rɪˈvaɪzd mæs prəˈduːst/: (adj) Được sửa đổi và sản xuất hàng loạt .Ex: The revised, mass-produced model was launched last year (Mẫu được sửa đổi và sản xuất hàng loạt đã ra mắt vào năm ngoái).
+rebel /ˈrebəl/: (n) Kẻ nổi loạn, phiến quân .Ex: The rebels fought against the government forces (Những kẻ nổi loạn chiến đấu chống lại lực lượng chính phủ)
+rebel /rɪˈbel/: (v) Nổi loạn, chống đối .Ex: The citizens rebelled against the unfair laws (Người dân nổi loạn chống lại các luật lệ bất công)
+rebellion /rɪˈbeljən/: (n) Cuộc nổi loạn, cuộc khởi nghĩa .Ex: The rebellion was quickly suppressed by the military (Cuộc nổi loạn đã nhanh chóng bị quân đội đàn áp)
+hijack /ˈhaɪdʒæk/: (v) Chiếm đoạt, cướp (máy bay, phương tiện giao thông, v.v.); (n) Vụ cướp (máy bay, phương tiện giao thông) .Ex: The hijack of the ship shocked the entire nation (Vụ cướp tàu đã làm cả quốc gia chấn động)
