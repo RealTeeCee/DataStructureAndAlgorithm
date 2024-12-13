@@ -16,7 +16,7 @@
 (adj) Thành công, có kết quả: 
 (n) Hiệu trưởng, mục sư: 
 (adj) Ngột ngạt, thiếu không khí: 
-(n) Một nhúm, một í: 
+(n) Một nhúm, một ít: 
 (adj) Tiết kiệm, căn cơ: 
 (n) Nạn đói: 
 (n) Hàm răng giả: 
