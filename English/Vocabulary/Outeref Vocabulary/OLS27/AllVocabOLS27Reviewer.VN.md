@@ -1,381 +1,381 @@
-(adj) Thuộc nguyên tử:  
-(n) Nhiếp ảnh gia:  
-(v) Liên hệ, tiếp xúc:  
-(v) Xây dựng:  
-(n) Ví dụ, trường hợp:  
-(adj) Tiết kiệm:  
-(adj) Ngập ngừng, do dự:  
-(adj) Có thể mang theo, xách tay:  
-(adj) Bản địa, bản xứ:  
-(n) Phần trăm:  
-(n) Hệ thống liên lạc nội bộ:  
-(n) Đường cao tốc liên bang:  
-(adv) Lẫn nhau:  
-(n) Tư thế, dáng điệu:  
-(adj) Vĩnh viễn, liên tục:  
-(adj) Thành công, có kết quả:  
-(n) Hiệu trưởng, mục sư:  
-(adj) Ngột ngạt, thiếu không khí:  
-(n) Một nhúm, một ít:  
-(adj) Tiết kiệm, căn cơ:  
-(n) Nạn đói:  
-(n) Hàm răng giả:  
-(n) Mặt tiền:  
-(n) Kẻ hèn nhát:  
-(adj) Trang trọng, cầu kỳ:  
-(n) Thư mục, bìa kẹp tài liệu:  
-(n) Gói hàng:  
-(n) Gạt tàn thuốc:  
-(n) Sự u ám, buồn rầu:  
-(adj) Gợi cảm, khêu gợi:  
-(adj) Hách dịch, thích ra lệnh:  
-(n) Người tình, bà chủ:  
-(n) Người khổng lồ, khổng lồ:  
-(adj) Thẳng thắn, bộc trực:  
-(n) Hình dán, nhãn dán:  
-(adj) Thuộc về nha khoa:  
-(n) Quyển sách nhỏ, tập sách nhỏ:  
-(v) Thúc đẩy, thúc ép:  
-(v) Thích nghi, điều chỉnh:  
-(v) Cản trở, ngăn chặn:  
-(v) Hướng dẫn, chỉ dẫn:  
-(v) Làm rối loạn, làm hỏng:  
-(v) Tiêu thụ, tiêu dùng:  
-(v) Nghỉ hưu:  
-(v) Gánh chịu, chịu đựng:  
-(v) Phát minh, sáng chế:  
-(v) Liên quan, bao gồm:  
-(v) Theo đuổi:  
-(v) Từ chối, khước từ:  
-(v) Định vị, xác định vị trí:  
-(v) Xâm nhập, làm phiền:  
-(v) Ra lệnh, đọc chính tả:  
-(v) Phản bội:  
-(v) Tranh chấp, tranh luận:  
-(v) Làm chệch hướng:  
-(v) Hoãn lại, trì hoãn:  
-(v) Gửi đi, phái đi:  
-(v) Trốn tránh, lảng tránh:  
-(v) Giới thiệu, đưa vào:  
-(v) Cản trở, ngăn cản:  
-(v) Làm lo lắng, làm bối rối:  
-(v) Tuyên bố, bày tỏ:  
-(v) Phân tán:  
-(v) Gia nhập lại:  
-(v) Lây nhiễm:  
-(v) Tràn vào phá hoại:  
-(v) Gây ra (tổn hại):  
-(v) Đứng trước:  
-(v) Phân ra:  
-(v) Tránh:  
-(v) Chuyển hướng:  
-(v) Đạt được:  
-(v) Làm bối rối:  
-(v) Chiêu đãi:  
-(v) Yêu thích:  
-(v) Giam giữ:  
-(v) Nghi ngờ:  
-(v) Dự đoán:  
-(v) Làm kinh hãi:  
-(v) Quý trọng:  
-(v) Làm xa cách:  
-(v) Thấm nhuần:  
-(v) Kiềm chế:  
-(v) Vui mừng:  
-(v) Kiểm tra:  
-(v) Lừa đảo:  
-(v) Làm phát điên:  
-(v) Sàng lọc:  
-(v) Cản trở:  
-(v) Tâng bốc:  
-(v) Xử lý:  
-(v) Biến mất:  
-(v) Lầm bầm:  
-(v) Sôi lăn tăn:  
-(v) Rên rỉ:  
-(v) Làm hỏng:  
-(v) Quấy rầy:  
-(v) Làm sâu sắc thêm:  
-(v) Vuốt ve:  
-(v) Phung phí:  
-(v) Đánh bạc:  
-(v) Bao quanh:  
-(v) Làm vui vẻ:  
-(v) Le lói:  
-(v) Xáo trộn:  
-(v) Can thiệp:  
-(v) Xả rác:  
-(v) Làm sống động:  
-(v) Cãi nhau:  
-(v) Chinh phục:  
-(v) Đem lại:  
-(v) Làm ngạt thở:  
-(v) Đụng độ:  
-(v) Đánh bại:  
-(v) Đày ải:  
-(v) Hoà giải:  
-(v) Tỏa ra:  
-(v) Chỉ ra:  
-(v) Phóng đại:  
-(v) Tưới tiêu:  
-(v) Ấp (trứng):  
-(v) Đếm được:  
-(v) Ghi nhớ:  
-(v) Tiêu chuẩn hóa:  
-(v) Kịch hóa:  
-(v) Kết hợp:  
-(v) Tràn ngập:  
-(v) Tạo ra:  
-(v) Phê bình:  
-(v) Đập nhanh (tim):  
-(v) Đưa vào tư tưởng:  
-(v) Kiện cáo:  
-(v) Thiền:  
-(v) Lập bảng:  
-(v) Tập trung:  
-(v) Thống nhất:  
-(v) Oxy hóa:  
-(v) Tăng tốc:  
-(v) Buộc tội:  
-(n) Nhấn mạnh:  
-(n) Tuổi thọ:  
-(n) Người ủng hộ:  
-(adj) Không đáng kể:  
-(v) Liệt kê:  
-(n) Đối tác:  
-(n) Bán đảo:  
-(n) Triết học:  
-(n) Đỉnh cao:  
-(v) Kích thích:  
-(v) Nhắc lại:  
-(n) Xã hội học:  
-(v) Bổ sung:  
-(n) Thuật ngữ:  
-(adj) Hào hứng:  
-(adj) Vĩnh viễn:  
-(v) Cải tạo:  
-(n) Sự đơn giản:  
-(n) Sự tò mò:  
-(n) Giải giáp:  
-(n) Đoàn kết:  
-(adj) Đam mê:  
-(adj) Thịnh vượng:  
-(adj) Thờ ơ:  
-(adj) Dốc đứng:  
-(v) Say xỉn:  
-(v) Chiếm ưu thế:  
-(n) Sự xa lạ:  
-(v) Tạo điều kiện:  
-(n) Người theo dõi:  
-(adj) Chiếm ưu thế:  
-(v) Khạc nhổ:  
-(n) Thiên hà:  
-(n) Ngành đá quý:  
-(n) Sự hai mặt:  
-(n) Chất diệt khuẩn:  
-(v) Ra hiệu:  
-(v) Nhập cư:  
-(adj) Phi lý:  
-(n) Cuộc di cư:  
-(n) Khoa (trường đại học):  
-(adj) Lộng lẫy:  
-(adj) Dính:  
-(n) Sự trung thực:  
-(n) Bão:  
-(adj) Bất hợp pháp:  
-(adj) Hoàn hảo:  
-(n) Sức chứa:  
-(v) Thâm nhập:  
-(v) Thúc đẩy:  
-(n) Sự hiếu khách:  
-(n) Sự uể oải:  
-(n) Sự rộng rãi:  
-(n) Nang (tóc):  
-(n) Viện (nghiên cứu):  
-(n) Chủng viện:  
-(adj) Thông thường:  
-(adj) Cần thiết:  
-(adj) Tuỳ ý:  
-(adj) Ngược lại:  
-(n) Lời xin lỗi:  
-(n) Số học:  
-(n) Khát vọng:  
-(adj) Đương đại:  
-(n) Từ điển:  
-(n) Sự trục xuất:  
-(adj) Về mặt:  
-(adj) Băng giá:  
-(n) Sự cưỡng đoạt:  
-(n) Cây phong lữ:  
-(n) Huy chương:  
-(n) Nghĩa vụ:  
-(n) Sự cản trở:  
-(v) Định hướng:  
-(n) Sự hoàn hảo:  
-(adj) Thuận lợi:  
-(n) Sự đẩy:  
-(n) Sự cám dỗ:  
-(adj) Kiên trì:  
-(n) Sự suy đoán:  
-(n) Nạn đói:  
-(adj) Thay thế:  
-(adj) Nghi ngờ:  
-(n) Mối quan hệ:  
-(n) Ngôn ngữ học:  
-(n) Sự hoảng loạn:  
-(adj) Định kỳ:  
-(adj) Độc hại:  
-(adj) Nguyên tử:  
-(adj) Thủy sinh:  
-(adj) Độc tài:  
-(adj) Bi thảm:  
-(adj) Nông thôn:  
-(adj) Học thuật:  
-(n) Người hoài nghi:  
-(n) Kén:  
-(n) Điều cấm kỵ:  
-(n) Nước chanh:  
-(n) Chuột túi:  
-(n) Người tiên phong:  
-(v) Áp bức:  
-(v) Phân tích:  
-(n) Khu vui chơi:  
-(n) Người được đề cử:  
-(v) Để lại một mình:  
-(n) Người bị gọi nhập ngũ:  
-(n) Độ C:  
-(n) Đơn vị quân đội:  
-(n) Đầm phá:  
-(n) Người được nhận vào:  
-(n) Cuộc phiêu lưu:  
-(n) Sự bảo đảm:  
-(v) Giảm sút:  
-(n) Phim hoạt hình:  
-(n) Biên giới:  
-(n) Thác nước:  
-(n) Kẻ lừa đảo:  
-(n) Nguồn gốc:  
-(n) Mứt cam:  
-(n) Đồng phạm:  
-(n) Học nghề:  
-(n) Tị nạn:  
-(adj) Nổi trên mặt nước:  
-(adv) Lên bờ:  
-(adj) Vô lý:  
-(n) Tổng giám mục:  
-(adj) Sắc sảo:  
-(v) Làm quen:  
-(n) Vấn đề:  
-(adj) Gần kề:  
-(n) Kẻ ám sát:  
-(n) Người ủng hộ:  
-(n) Sự xúc phạm:  
-(n) Cuộc tấn công:  
-(adj) Chung:  
-(n) Ngăn:  
-(v) Gửi đi:  
-(n) Lô hàng:  
-(v) Đã gửi đi:  
-(v) Gửi đi (hiện tại tiếp diễn):  
-(v) Bao gồm:  
-(v) Đã bao gồm:  
-(v) Đang bao gồm:  
-(adj) Nhất quán:  
-(v) Hạn chế:  
-(n) Sự hạn chế:  
-(v) Tiếp tục:  
-(v) Đã tiếp tục:  
-(v) Đang tiếp tục:  
-(adj) Liên tục:  
-(v) Hạn chế:  
-(n) Sự giam giữ:  
-(n) Người từng bị kết án:  
-(adj) Chính xác:  
-(v) Yêu cầu chính xác:  
-(adj) Khó khăn:  
-(v) Đã yêu cầu chính xác:  
-(adv) Chính xác:  
-(v) Kiểm tra:  
-(v) Đã kiểm tra:  
-(v) Đang kiểm tra:  
-(n) Sự thừa:  
-(adj) Quá mức:  
-(v) Loại trừ:  
-(v) Đã loại trừ:  
-(v) Đang loại trừ:  
-(adj) Độc quyền:  
-(n) Tính độc quyền:  
-(v) Triển lãm:  
-(v) Đã triển lãm:  
-(v) Đang triển lãm:  
-(v) Tồn tại:  
-(n) Sự tồn tại:  
-(adj) Tồn tại:  
-(v) Mong đợi:  
-(n) Sự mong đợi:  
-(n) Thuốc long đờm:  
-(v) Giải thích:  
-(v) Đang giải thích:  
-(v) Đã giải thích:  
-(adj) Giải thích:  
-(adj) Cực đoan:  
-(n) Người cực đoan:  
-(n) Chủ nghĩa cực đoan:  
-(v) Tưởng tượng:  
-(adj) Thiếu kinh nghiệm:  
-(n) Đám cháy lớn:  
-(adj) Địa ngục:  
-(adj) Khô cằn:  
-(n) Kẻ nổi dậy:  
-(adj) Bất hợp pháp:  
-(adj) Bất hợp pháp:  
-(adj) Không thể đọc được:  
-(v) Thấm nhuần:  
-(n) Sự mất cân bằng:  
-(v) Uống:  
-(adj) Không thể kiềm chế:  
-(v) Khôi phục:  
-(v) Đang khôi phục:  
-(n) Sự khôi phục:  
-(v) Đã khôi phục:  
-(v) Xuất hiện lại:  
-(n) Sự tái diễn:  
-(v) Đang tái diễn:  
-(v) Đã tái diễn:  
-(v) Coi trọng:  
-(prep) Về:  
-(v) Được coi trọng:  
-(v) Tinh chế:  
-(n) Sự tinh chế:  
-(adj) Bất hợp pháp:  
-(adj) Không dễ chịu:  
-(adj) Không đồng đều:  
-(adj) Không thoải mái:  
-(v) Đạt được:  
-(n) Sự đạt được:  
-(v) Đã đạt được:  
-(v) Đang đạt được:  
-(v) Đầu tư:  
-(v) Đã đầu tư:  
-(n) Sự đầu tư:  
-(v) Đang đầu tư:  
-(n) Nhà đầu tư:  
-(v) Ủy thác:  
-(n) Hàng hóa ủy thác:  
-(v) Đã ủy thác:  
-(v) Đang ủy thác:  
-(v) Tham dự:  
-(n) Người tham dự:  
-(n) Sự tham dự:  
-(v) Leo lên:  
-(n) Người chiếm ưu thế:  
-(n) Quyền lực:  
-(v) Tập hợp:  
-(n) Cuộc họp:  
-(v) Đảm bảo:  
-(n) Sự đảm bảo:  
-(v) Thu hút:  
-(adj) Hấp dẫn:  
+(adj) Thuộc nguyên tử: 
+(n) Nhiếp ảnh gia: 
+(v) Liên hệ, tiếp xúc: 
+(v) Xây dựng: 
+(n) Ví dụ, trường hợp: 
+(adj) Tiết kiệm: 
+(adj) Ngập ngừng, do dự: 
+(adj) Có thể mang theo, xách tay: 
+(adj) Bản địa, bản xứ: 
+(n) Phần trăm: 
+(n) Hệ thống liên lạc nội bộ: 
+(n) Đường cao tốc liên bang: 
+(adv) Lẫn nhau: 
+(n) Tư thế, dáng điệu: 
+(adj) Vĩnh viễn, liên tục: 
+(adj) Thành công, có kết quả: 
+(n) Hiệu trưởng, mục sư: 
+(adj) Ngột ngạt, thiếu không khí: 
+(n) Một nhúm, một ít: 
+(adj) Tiết kiệm, căn cơ: 
+(n) Nạn đói: 
+(n) Hàm răng giả: 
+(n) Mặt tiền: 
+(n) Kẻ hèn nhát: 
+(adj) Trang trọng, cầu kỳ: 
+(n) Thư mục, bìa kẹp tài liệu: 
+(n) Gói hàng: 
+(n) Gạt tàn thuốc: 
+(n) Sự u ám, buồn rầu: 
+(adj) Gợi cảm, khêu gợi: 
+(adj) Hách dịch, thích ra lệnh: 
+(n) Người tình, bà chủ: 
+(n) Người khổng lồ, khổng lồ: 
+(adj) Thẳng thắn, bộc trực: 
+(n) Hình dán, nhãn dán: 
+(adj) Thuộc về nha khoa: 
+(n) Quyển sách nhỏ, tập sách nhỏ: 
+(v) Thúc đẩy, thúc ép: 
+(v) Thích nghi, điều chỉnh: 
+(v) Cản trở, ngăn chặn: 
+(v) Hướng dẫn, chỉ dẫn: 
+(v) Làm rối loạn, làm hỏng: 
+(v) Tiêu thụ, tiêu dùng: 
+(v) Nghỉ hưu: 
+(v) Gánh chịu, chịu đựng: 
+(v) Phát minh, sáng chế: 
+(v) Liên quan, bao gồm: 
+(v) Theo đuổi: 
+(v) Từ chối, khước từ: 
+(v) Định vị, xác định vị trí: 
+(v) Xâm nhập, làm phiền: 
+(v) Ra lệnh, đọc chính tả: 
+(v) Phản bội: 
+(v) Tranh chấp, tranh luận: 
+(v) Làm chệch hướng: 
+(v) Hoãn lại, trì hoãn: 
+(v) Gửi đi, phái đi: 
+(v) Trốn tránh, lảng tránh: 
+(v) Giới thiệu, đưa vào: 
+(v) Cản trở, ngăn cản: 
+(v) Làm lo lắng, làm bối rối: 
+(v) Tuyên bố, bày tỏ: 
+(v) Phân tán: 
+(v) Gia nhập lại: 
+(v) Lây nhiễm: 
+(v) Tràn vào phá hoại: 
+(v) Gây ra (tổn hại): 
+(v) Đứng trước: 
+(v) Phân ra: 
+(v) Tránh: 
+(v) Chuyển hướng: 
+(v) Đạt được: 
+(v) Làm bối rối: 
+(v) Chiêu đãi: 
+(v) Yêu thích: 
+(v) Giam giữ: 
+(v) Nghi ngờ: 
+(v) Dự đoán: 
+(v) Làm kinh hãi: 
+(v) Quý trọng: 
+(v) Làm xa cách: 
+(v) Thấm nhuần: 
+(v) Kiềm chế: 
+(v) Vui mừng: 
+(v) Kiểm tra: 
+(v) Lừa đảo: 
+(v) Làm phát điên: 
+(v) Sàng lọc: 
+(v) Cản trở: 
+(v) Tâng bốc: 
+(v) Xử lý: 
+(v) Biến mất: 
+(v) Lầm bầm: 
+(v) Ninh nấu, sôi lăn tăn: 
+(v) Rên rỉ: 
+(v) Làm hỏng: 
+(v) Quấy rầy: 
+(v) Làm sâu sắc thêm: 
+(v) Vuốt ve: 
+(v) Phung phí: 
+(v) Đánh bạc: 
+(v) Bao quanh: 
+(v) Làm vui vẻ: 
+(v) Le lói: 
+(v) Xáo trộn: 
+(v) Can thiệp: 
+(v) Xả rác: 
+(v) Làm sống động: 
+(v) Cãi nhau: 
+(v) Chinh phục: 
+(v) Đem lại: 
+(v) Làm ngạt thở: 
+(v) Đụng độ: 
+(v) Đánh bại: 
+(v) Đày ải: 
+(v) Hoà giải: 
+(v) Tỏa ra: 
+(v) Chỉ ra: 
+(v) Phóng đại: 
+(v) Tưới tiêu: 
+(v) Ấp (trứng): 
+(v) Đếm được: 
+(v) Ghi nhớ: 
+(v) Tiêu chuẩn hóa: 
+(v) Kịch hóa: 
+(v) Kết hợp: 
+(v) Tràn ngập: 
+(v) Tạo ra: 
+(v) Phê bình: 
+(v) Đập nhanh (tim): 
+(v) Đưa vào tư tưởng: 
+(v) Kiện cáo: 
+(v) Thiền: 
+(v) Lập bảng: 
+(v) Tập trung: 
+(v) Thống nhất: 
+(v) Oxy hóa: 
+(v) Tăng tốc: 
+(v) Buộc tội: 
+(n) Nhấn mạnh: 
+(n) Tuổi thọ: 
+(n) Người ủng hộ: 
+(adj) Không đáng kể: 
+(v) Liệt kê: 
+(n) Đối tác: 
+(n) Bán đảo: 
+(n) Triết học: 
+(n) Đỉnh cao: 
+(v) Kích thích: 
+(v) Nhắc lại: 
+(n) Xã hội học: 
+(v) Bổ sung: 
+(n) Thuật ngữ: 
+(adj) Hào hứng: 
+(adj) Vĩnh viễn: 
+(v) Cải tạo: 
+(n) Sự đơn giản: 
+(n) Sự tò mò: 
+(n) Giải giáp: 
+(n) Đoàn kết: 
+(adj) Đam mê: 
+(adj) Thịnh vượng: 
+(adj) Thờ ơ: 
+(adj) Dốc đứng: 
+(v) Say xỉn: 
+(v) Chiếm ưu thế: 
+(n) Sự xa lạ: 
+(v) Tạo điều kiện: 
+(n) Người theo dõi: 
+(adj) Chiếm ưu thế: 
+(v) Khạc nhổ: 
+(n) Thiên hà: 
+(n) Ngành đá quý: 
+(n) Sự hai mặt: 
+(n) Chất diệt khuẩn: 
+(v) Ra hiệu: 
+(v) Nhập cư: 
+(adj) Phi lý: 
+(n) Cuộc di cư: 
+(n) Khoa (trường đại học): 
+(adj) Lộng lẫy: 
+(adj) Dính: 
+(n) Sự trung thực: 
+(n) Bão: 
+(adj) Bất hợp pháp: 
+(adj) Hoàn hảo: 
+(n) Sức chứa: 
+(v) Thâm nhập: 
+(v) Thúc đẩy: 
+(n) Sự hiếu khách: 
+(n) Sự uể oải: 
+(n) Sự rộng rãi: 
+(n) Nang (tóc): 
+(n) Viện (nghiên cứu): 
+(n) Chủng viện: 
+(adj) Thông thường: 
+(adj) Cần thiết: 
+(adj) Tuỳ ý: 
+(adj) Ngược lại: 
+(n) Lời xin lỗi: 
+(n) Số học: 
+(n) Khát vọng: 
+(adj) Đương đại: 
+(n) Từ điển: 
+(n) Sự trục xuất: 
+(adj) Về mặt: 
+(adj) Băng giá: 
+(n) Sự cưỡng đoạt: 
+(n) Cây phong lữ: 
+(n) Huy chương: 
+(n) Nghĩa vụ: 
+(n) Sự cản trở: 
+(v) Định hướng: 
+(n) Sự hoàn hảo: 
+(adj) Thuận lợi: 
+(n) Sự đẩy: 
+(n) Sự cám dỗ: 
+(adj) Kiên trì: 
+(n) Sự suy đoán: 
+(n) Nạn đói: 
+(adj) Thay thế: 
+(adj) Nghi ngờ: 
+(n) Mối quan hệ: 
+(n) Ngôn ngữ học: 
+(n) Sự hoảng loạn: 
+(adj) Định kỳ: 
+(adj) Độc hại: 
+(adj) Nguyên tử: 
+(adj) Thủy sinh: 
+(adj) Độc tài: 
+(adj) Bi thảm: 
+(adj) Nông thôn: 
+(adj) Học thuật: 
+(n) Người hoài nghi: 
+(n) Kén: 
+(n) Điều cấm kỵ: 
+(n) Nước chanh: 
+(n) Chuột túi: 
+(n) Người tiên phong: 
+(v) Áp bức: 
+(v) Phân tích: 
+(n) Khu vui chơi: 
+(n) Người được đề cử: 
+(v) Để lại một mình: 
+(n) Người bị gọi nhập ngũ: 
+(n) Độ C: 
+(n) Đơn vị quân đội: 
+(n) Đầm phá: 
+(n) Người được nhận vào: 
+(n) Cuộc phiêu lưu: 
+(n) Sự bảo đảm: 
+(v) Giảm sút: 
+(n) Phim hoạt hình: 
+(n) Biên giới: 
+(n) Thác nước: 
+(n) Kẻ lừa đảo: 
+(n) Nguồn gốc: 
+(n) Mứt cam: 
+(n) Đồng phạm: 
+(n) Học nghề: 
+(n) Tị nạn: 
+(adj) Nổi trên mặt nước: 
+(adv) Lên bờ: 
+(adj) Vô lý: 
+(n) Tổng giám mục: 
+(adj) Sắc sảo: 
+(v) Làm quen: 
+(n) Vấn đề: 
+(adj) Gần kề: 
+(n) Kẻ ám sát: 
+(n) Người ủng hộ: 
+(n) Sự xúc phạm: 
+(n) Cuộc tấn công: 
+(adj) Chung: 
+(n) Ngăn: 
+(v) Gửi đi: 
+(n) Lô hàng: 
+(v) Đã gửi đi: 
+(v) Gửi đi (hiện tại tiếp diễn): 
+(v) Bao gồm: 
+(v) Đã bao gồm: 
+(v) Đang bao gồm: 
+(adj) Nhất quán: 
+(v) Hạn chế: 
+(n) Sự hạn chế: 
+(v) Tiếp tục: 
+(v) Đã tiếp tục: 
+(v) Đang tiếp tục: 
+(adj) Liên tục: 
+(v) Hạn chế: 
+(n) Sự giam giữ: 
+(n) Người từng bị kết án: 
+(adj) Chính xác: 
+(v) Yêu cầu chính xác: 
+(adj) Khó khăn: 
+(v) Đã yêu cầu chính xác: 
+(adv) Chính xác: 
+(v) Kiểm tra: 
+(v) Đã kiểm tra: 
+(v) Đang kiểm tra: 
+(n) Sự thừa: 
+(adj) Quá mức: 
+(v) Loại trừ: 
+(v) Đã loại trừ: 
+(v) Đang loại trừ: 
+(adj) Độc quyền: 
+(n) Tính độc quyền: 
+(v) Triển lãm: 
+(v) Đã triển lãm: 
+(v) Đang triển lãm: 
+(v) Tồn tại: 
+(n) Sự tồn tại: 
+(adj) Tồn tại: 
+(v) Mong đợi: 
+(n) Sự mong đợi: 
+(n) Thuốc long đờm: 
+(v) Giải thích: 
+(v) Đang giải thích: 
+(v) Đã giải thích: 
+(adj) Giải thích: 
+(adj) Cực đoan: 
+(n) Người cực đoan: 
+(n) Chủ nghĩa cực đoan: 
+(v) Tưởng tượng: 
+(adj) Thiếu kinh nghiệm: 
+(n) Đám cháy lớn: 
+(adj) Địa ngục: 
+(adj) Khô cằn: 
+(n) Kẻ nổi dậy: 
+(adj) Bất hợp pháp: 
+(adj) Bất hợp pháp: 
+(adj) Không thể đọc được: 
+(v) Thấm nhuần: 
+(n) Sự mất cân bằng: 
+(v) Uống: 
+(adj) Không thể kiềm chế: 
+(v) Khôi phục: 
+(v) Đang khôi phục: 
+(n) Sự khôi phục: 
+(v) Đã khôi phục: 
+(v) Xuất hiện lại: 
+(n) Sự tái diễn: 
+(v) Đang tái diễn: 
+(v) Đã tái diễn: 
+(v) Coi trọng: 
+(prep) Về: 
+(v) Được coi trọng: 
+(v) Tinh chế: 
+(n) Sự tinh chế: 
+(adj) Bất hợp pháp: 
+(adj) Không dễ chịu: 
+(adj) Không đồng đều: 
+(adj) Không thoải mái: 
+(v) Đạt được: 
+(n) Sự đạt được: 
+(v) Đã đạt được: 
+(v) Đang đạt được: 
+(v) Đầu tư: 
+(v) Đã đầu tư: 
+(n) Sự đầu tư: 
+(v) Đang đầu tư: 
+(n) Nhà đầu tư: 
+(v) Ủy thác: 
+(n) Hàng hóa ủy thác: 
+(v) Đã ủy thác: 
+(v) Đang ủy thác: 
+(v) Tham dự: 
+(n) Người tham dự: 
+(n) Sự tham dự: 
+(v) Leo lên: 
+(n) Người chiếm ưu thế: 
+(n) Quyền lực: 
+(v) Tập hợp: 
+(n) Cuộc họp: 
+(v) Đảm bảo: 
+(n) Sự đảm bảo: 
+(v) Thu hút: 
+(adj) Hấp dẫn: 
 (adj) Nguyên chất: 
 (n) Cuộc đối thoại thuần túy: 
 (n) Đại lý: 
@@ -452,7 +452,7 @@
 (adj) Thiếu tôn trọng: 
 (n) Sự nhộn nhịp: 
 (n) Tiếng cười: 
-(n) Các cháu (nội/ngoại): 
+(n) Các cháu (nộ: ngoại): 
 (adj) Bất thường: 
 (n) Mẫu giáo: 
 (n) Trường tiểu học: 
@@ -484,7 +484,7 @@
 (n) Đèn lồng: 
 (n) Tổ tiên: 
 (adj) Thuộc về thể thao: 
-(n/v) Danh dự; tôn vinh: 
+(: v) Danh dự; tôn vinh: 
 (v) Tôn kính tổ tiên: 
 (v) Để dành: 
 (v) Ăn mừng: 
@@ -509,7 +509,7 @@
 (n) Vị thần nghề thủ công: 
 (n) Thổ địa: 
 (n) Táo quân: 
-(adj/n) Đã khuất; người đã mất: 
+(ad: n) Đã khuất; người đã mất: 
 (n) Con cháu; hậu duệ: 
 (adj) Thế tục; không thuộc tôn giáo: 
 (n) Mâm ngũ quả: 
@@ -517,7 +517,7 @@
 (n) Bàn thờ: 
 (n) Các món ăn đặc sản: 
 (n) Người đăng ký (dịch vụ): 
-(n/v) Phí; tính phí: 
+(: v) Phí; tính phí: 
 (n) Nhà điều hành; tổng đài viên: 
 (n) Giá cước giờ cao điểm: 
 (n) Giá cước tiêu chuẩn: 
@@ -529,12 +529,12 @@
 (n) Khí hậu ấm áp: 
 (n) Khu nghỉ dưỡng: 
 (n) Bờ biển: 
-(adj/adv) Ngoài khơi: 
+(ad: adv) Ngoài khơi: 
 (n) Khu vực du lịch nổi tiếng: 
 (n) Khách du lịch: 
 (n) Hòn đảo: 
 (adj) Tự nhiên: 
-(n/v) Sự nổ; làm nổ tung: 
+(: v) Sự nổ; làm nổ tung: 
 (n) Điểm cuối; bến cuối: 
 (n) Điểm đến: 
 (adv) Đặc biệt; đáng chú ý: 
@@ -752,7 +752,7 @@
 (v) Nhấp, uống từng ngụm nhỏ: 
 (adj) Sâu sắc, thâm thúy: 
 (v) Nâng cao, tăng cường: 
-(n) Môi trường tin cậy và hợp tác giữa: :  và: : : 
+(n) Môi trường tin cậy và hợp tác giữa: 
 (v) Có nguy cơ cao với điều gì: 
 (n) Sự thích nghi xã hội: 
 (n) Sự trưởng thành: 
@@ -766,27 +766,27 @@
 (n) Thời kỳ sinh sản: 
 (v) Sinh sản: 
 (n) Độ tuổi kết hôn hợp pháp để đăng ký: 
-(n) Giấy chứng nhận kết hôn /
-(n) Đồ vải (ga trải giường, khăn bàn, v: v: ) /
-(adj) Thuộc về chiêm tinh học /
-(n) Dự đoán chiêm tinh /
-(n) Đồ trang trí /
-(adj) Lòe loẹt, phô trương /
-(n) Phong cách lòe loẹt, phô trương /
-(n) Vòng hoa /
-(n) Dây hoa trang trí /
-(adj) Bao phủ, treo lên (theo cách trang trí) /
-(adj) Tết lại, bện lại /
-(n) Vành, mép /
-(n) Bụi cây /
-(adj) Hình trái xoan /
-(n) Sự tôn kính /
-(adj) Thuần khiết, trong sáng /
-(adj) Mang tính nghi lễ /
-(n) Phù rể chính /
-(n) Sự bắt đầu, khởi đầu (thường dùng cho điều gì khó khăn) /
-(n) Tuổi dậy thì /
-(n) Sự bắt đầu của tuổi dậy thì /
+(n) Giấy chứng nhận kết hôn: 
+(n) Đồ vải (ga trải giường, khăn bàn, v.v.): 
+(adj) Thuộc về chiêm tinh học: 
+(n) Dự đoán chiêm tinh: 
+(n) Đồ trang trí: 
+(adj) Lòe loẹt, phô trương: 
+(n) Phong cách lòe loẹt, phô trương: 
+(n) Vòng hoa: 
+(n) Dây hoa trang trí: 
+(adj) Bao phủ, treo lên (theo cách trang trí): 
+(adj) Tết lại, bện lại: 
+(n) Vành, mép: 
+(n) Bụi cây: 
+(adj) Hình trái xoan: 
+(n) Sự tôn kính: 
+(adj) Thuần khiết, trong sáng: 
+(adj) Mang tính nghi lễ: 
+(n) Phù rể chính: 
+(n) Sự bắt đầu, khởi đầu (thường dùng cho điều gì khó khăn): 
+(n) Tuổi dậy thì: 
+(n) Sự bắt đầu của tuổi dậy thì: 
 (n) Nồi chiên không dầu: 
 (n) Thiết bị, dụng cụ: 
 (n) Việc vặt, công việc nhà: 
