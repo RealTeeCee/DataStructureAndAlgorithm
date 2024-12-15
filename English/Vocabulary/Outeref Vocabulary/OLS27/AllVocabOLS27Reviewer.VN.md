@@ -146,7 +146,7 @@
 (n) Bán đảo: 
 (n) Triết học: 
 (n) Đỉnh cao: 
-(v) Kích thích: 
+(v) Kích thích; kết thành, kết tủa: 
 (v) Nhắc lại: 
 (n) Xã hội học: 
 (v) Bổ sung: 
