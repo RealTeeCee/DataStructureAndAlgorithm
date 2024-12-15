@@ -146,7 +146,7 @@ Partnership /ˈpɑːrtənərʃɪp/: (n) Đối tác. Ex: They formed a partnersh
 Peninsula /pəˈnɪnsələ/: (n) Bán đảo. Ex: The peninsula is known for its beautiful beaches (Bán đảo nổi tiếng với những bãi biển đẹp)
 Philosophy /fəˈlɑːsəfi/: (n) Triết học. Ex: His philosophy on life is very inspiring (Triết lý sống của anh ấy rất truyền cảm hứng)
 Pinnacle /ˈpɪnəkl/: (n) Đỉnh cao. Ex: She reached the pinnacle of her career (Cô ấy đạt đến đỉnh cao của sự nghiệp)
-Precipitate /prɪˈsɪpɪteɪt/: (v) Kích thích. Ex: The decision may precipitate a crisis (Quyết định này có thể kích thích một cuộc khủng hoảng)
+Precipitate /prɪˈsɪpɪteɪt/: (v) Kích thích; kết thành, kết tủa. Ex: The decision may precipitate a crisis (Quyết định này có thể kích thích một cuộc khủng hoảng)
 Reiterate /riˈɪtəreɪt/: (v) Nhắc lại. Ex: He reiterated his point during the meeting (Anh ấy đã nhắc lại quan điểm của mình trong cuộc họp)
 Sociology /ˌsoʊsiˈɑːlədʒi/: (n) Xã hội học. Ex: She studied sociology in college (Cô ấy học xã hội học ở đại học)
 Supplement /ˈsʌplɪmənt/: (v) Bổ sung. Ex: They decided to supplement their income with part-time jobs (Họ quyết định bổ sung thu nhập bằng cách làm thêm)
