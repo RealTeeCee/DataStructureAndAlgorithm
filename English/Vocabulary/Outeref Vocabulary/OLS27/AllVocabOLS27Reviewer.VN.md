@@ -213,7 +213,7 @@
 (v) Định hướng: 
 (n) Sự hoàn hảo: 
 (adj) Thuận lợi: 
-(n) Sự đẩy: 
+(n) Động lực đẩy, sự đẩy: 
 (n) Sự cám dỗ: 
 (adj) Kiên trì: 
 (n) Sự suy đoán: 

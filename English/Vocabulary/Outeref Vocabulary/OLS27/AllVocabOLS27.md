@@ -213,7 +213,7 @@ Obstruction /əbˈstrʌkʃən/: (n) Sự cản trở. Ex: The obstruction in the
 Orient /ˈɔːriənt/: (v) Định hướng. Ex: They will orient the new employees during the training session. (Họ sẽ định hướng cho các nhân viên mới trong buổi đào tạo)
 Perfection /pərˈfɛkʃən/: (n) Sự hoàn hảo. Ex: She strives for perfection in all her work. (Cô ấy phấn đấu cho sự hoàn hảo trong tất cả công việc của mình)
 Propitious /prəˈpɪʃəs/: (adj) Thuận lợi. Ex: The weather was propitious for a day at the beach. (Thời tiết rất thuận lợi cho một ngày ở bãi biển)
-Propulsion /prəˈpʌlʃən/: (n) Sự đẩy. Ex: The propulsion system of the rocket is very advanced. (Hệ thống đẩy của tên lửa rất tiên tiến)
+Propulsion /prəˈpʌlʃən/: (n) Động lực đẩy, sự đẩy. Ex: The propulsion system of the rocket is very advanced. (Hệ thống đẩy của tên lửa rất tiên tiến)
 Temptation /tɛmpˈteɪʃən/: (n) Sự cám dỗ. Ex: He struggled against the temptation to eat sweets. (Anh ấy đã đấu tranh với sự cám dỗ ăn đồ ngọt)
 Tenacious /təˈneɪʃəs/: (adj) Kiên trì. Ex: Her tenacious spirit helped her overcome challenges. (Tinh thần kiên trì của cô ấy đã giúp cô vượt qua những thách thức)
 Speculation /ˌspɛkjʊˈleɪʃən/: (n) Sự suy đoán. Ex: There was a lot of speculation about the company's future. (Có rất nhiều sự suy đoán về tương lai của công ty)
