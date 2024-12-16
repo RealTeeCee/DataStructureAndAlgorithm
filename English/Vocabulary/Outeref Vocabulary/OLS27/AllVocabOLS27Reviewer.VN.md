@@ -839,6 +839,14 @@
 (n) Vốn; thủ đô: 
 (v) Từ bỏ, bỏ rơi: 
 (n) Ổ cắm điện: 
+(v) Lẩm bẩm, càu nhàu: 
+(n) Áo choàng tắm: 
+(adj) Xập xệ, tồi tàn, mòn cũ: 
+(v) Cười nhẹ nhàng: 
+(adj) Mơ màng, lảo đảo, chưa tỉnh táo: 
+(n) Móc treo quần áo: 
+(n) Quần áo, y phục: 
+(v) Cào, gãi; (n) Vết trầy xước: 
 (n) Trận chiến: 
 (n) Hệ thống dấu chấm và gạch: 
 (n) Mã Morse: 

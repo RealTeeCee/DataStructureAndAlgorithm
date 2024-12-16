@@ -839,6 +839,14 @@ suicide /ˈsuːɪsaɪd/:
 capital /ˈkæpɪtl/: 
 abandon /əˈbændən/: 
 electrical outlet /ɪˈlɛktrɪkəl ˈaʊtˌlɛt/: 
+mutter /ˈmʌtərd/: 
+bathrobe /ˈbæθroʊb/: 
+shabby /ˈʃæbi/: 
+laugh softly /læf ˈsɔːftli/: 
+groggy /ˈɡrɑːɡi/: 
+hanger /ˈhæŋər/: 
+garment /ˈɡɑːrmənt/: 
+scratch /skrætʃ/: 
 a battle /ə ˈbætl/: 
 a system of dots and dashes /ə ˈsɪstəm əv dɑːts ənd ˈdæʃɪz/: 
 morse code /mɔːrs koʊd/: 
