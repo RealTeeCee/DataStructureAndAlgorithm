@@ -227,7 +227,7 @@ Periodic /ˌpɪəriˈɒdɪk/: (adj) Định kỳ. Ex: The company conducts perio
 Toxic /ˈtɒksɪk/: (adj) Độc hại. Ex: Toxic waste must be disposed of properly. (Chất thải độc hại phải được xử lý đúng cách)
 Atomic /əˈtɒmɪk/: (adj) Nguyên tử. Ex: The atomic structure of an element determines its properties. (Cấu trúc nguyên tử của một nguyên tố xác định các thuộc tính của nó)
 Aquatic /əˈkwætɪk/: (adj) Thủy sinh. Ex: Aquatic plants are essential for a healthy ecosystem. (Thực vật thủy sinh là cần thiết cho một hệ sinh thái lành mạnh)
-Despotic /dɪˈspɒtɪk/: (adj) Độc tài. Ex: The despotic regime was overthrown by a revolution. (Chế độ độc tài đã bị lật đổ bởi một cuộc cách mạng)
+Despotic /dɪˈspɒtɪk/: (adj) Độc tài, chuyên chế. Ex: The despotic regime was overthrown by a revolution. (Chế độ độc tài đã bị lật đổ bởi một cuộc cách mạng)
 Tragic /ˈtrædʒɪk/: (adj) Bi thảm. Ex: The tragic accident left the community in shock. (Tai nạn bi thảm đã khiến cộng đồng bất ngờ)
 Rustic /ˈrʌstɪk/: (adj) Nông thôn. Ex: They enjoyed a rustic lifestyle in the countryside. (Họ tận hưởng một lối sống nông thôn ở vùng nông thôn)
 Scholastic /skəˈlæstɪk/: (adj) Học thuật. Ex: The scholastic achievements of the students were impressive. (Những thành tích học thuật của học sinh thật ấn tượng)
@@ -268,6 +268,7 @@ Accustom /əˈkʌstəm/: (v) Làm quen. Ex: It took time to accustom himself to 
 Affair /əˈfɛr/: (n) Vấn đề. Ex: The affair was handled with great care. (Vấn đề đã được xử lý một cách cẩn thận)
 Adjacent /əˈdʒeɪsənt/: (adj) Gần kề. Ex: The two houses are adjacent to each other. (Hai ngôi nhà nằm gần kề nhau)
 Assassin /əˈsæsɪn/: (n) Kẻ ám sát. Ex: The assassin was hired to eliminate the target. (Kẻ ám sát đã được thuê để tiêu diệt mục tiêu)
+Adhere /əd'hiə/: (v) tuân thủ, bám chặt vào
 Adherent /ədˈhɪrənt/: (n) Người ủng hộ. Ex: He was a strong adherent of the political party. (Anh ấy là một người ủng hộ mạnh mẽ cho đảng chính trị)
 Affront /əˈfrʌnt/: (n) Sự xúc phạm. Ex: His comments were seen as an affront to her character. (Những bình luận của anh ta được xem như một sự xúc phạm đến tính cách của cô ấy)
 Assault /əˈsɔːlt/: (n) Cuộc tấn công. Ex: The assault on the city was swift and brutal. (Cuộc tấn công vào thành phố diễn ra nhanh chóng và tàn bạo)

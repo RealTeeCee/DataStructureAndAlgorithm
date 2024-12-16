@@ -198,36 +198,36 @@
 (adj) Tuỳ ý: 
 (adj) Ngược lại: 
 (n) Lời xin lỗi: 
-(n) Số học: 
-(n) Khát vọng: 
-(adj) Đương đại: 
-(n) Từ điển: 
-(n) Sự trục xuất: 
-(adj) Về (khuôn) mặt: 
-(adj) Băng giá: 
-(n) Sự cưỡng đoạt: 
-(n) Cây phong lữ: 
-(n) Huy chương: 
-(n) Nghĩa vụ: 
-(n) Sự cản trở: 
-(v) Định hướng: 
-(n) Sự hoàn hảo: 
-(adj) Thuận lợi: 
-(n) Động lực đẩy, sự đẩy: 
-(n) Sự cám dỗ: 
-(adj) Kiên trì: 
-(n) Sự suy đoán: 
-(n) Nạn đói: 
-(adj) Thay thế: 
-(adj) Nghi ngờ: 
-(n) Mối quan hệ: 
-(n) Ngôn ngữ học: 
-(n) Sự hoảng loạn: 
+(n) Số học: .
+(n) Khát vọng: .
+(adj) Đương đại: .
+(n) Từ điển: .
+(n) Sự trục xuất: .
+(adj) Về (khuôn) mặt: .
+(adj) Băng giá: .
+(n) Sự cưỡng đoạt: .
+(n) Cây phong lữ: .
+(n) Huy chương: .
+(n) Nghĩa vụ: .
+(n) Sự cản trở:. 
+(v) Định hướng: .
+(n) Sự hoàn hảo:. 
+(adj) Thuận lợi: .
+(n) Động lực đẩy, sự đẩy: .
+(n) Sự cám dỗ: .
+(adj) Kiên trì: .
+(n) Sự suy đoán: .
+(n) Nạn đói: .
+(adj) Thay thế: .
+(adj) Nghi ngờ: .
+(n) Mối quan hệ: .
+(n) Ngôn ngữ học: .
+(n) Sự hoảng loạn: .
 (adj) Định kỳ: 
 (adj) Độc hại: 
 (adj) Nguyên tử: 
 (adj) Thủy sinh: 
-(adj) Độc tài: 
+(adj) Độc tài, chuyên chế: 
 (adj) Bi thảm: 
 (adj) Nông thôn: 
 (adj) Học thuật: 
@@ -268,6 +268,7 @@
 (n) Vấn đề: 
 (adj) Gần kề: 
 (n) Kẻ ám sát: 
+(v) Tuân thủ, bám chặt vào: 
 (n) Người ủng hộ: 
 (n) Sự xúc phạm: 
 (n) Cuộc tấn công: 
