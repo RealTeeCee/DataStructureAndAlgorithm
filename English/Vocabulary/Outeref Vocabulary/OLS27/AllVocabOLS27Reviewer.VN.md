@@ -203,7 +203,7 @@
 (adj) Đương đại: 
 (n) Từ điển: 
 (n) Sự trục xuất: 
-(adj) Về mặt: 
+(adj) Về (khuôn) mặt: 
 (adj) Băng giá: 
 (n) Sự cưỡng đoạt: 
 (n) Cây phong lữ: 
@@ -767,7 +767,7 @@
 (v) Sinh sản: 
 (n) Độ tuổi kết hôn hợp pháp để đăng ký: 
 (n) Giấy chứng nhận kết hôn: 
-(n) Đồ vải (ga trải giường, khăn bàn, v.v.): 
+(n) Đồ vải (ga trải giường, khăn bàn, etc): 
 (adj) Thuộc về chiêm tinh học: 
 (n) Dự đoán chiêm tinh: 
 (n) Đồ trang trí: 

@@ -203,7 +203,7 @@ Aspiration /ˌæspəˈreɪʃən/: (n) Khát vọng. Ex: Her aspiration to become
 Contemporary /kənˈtɛmpərəri/: (adj) Đương đại. Ex: Contemporary art often challenges traditional norms. (Nghệ thuật đương đại thường thách thức các chuẩn mực truyền thống)
 Dictionary /ˈdɪkʃəneri/: (n) Từ điển. Ex: She referred to the dictionary for the correct spelling. (Cô ấy đã tham khảo từ điển để biết cách viết đúng)
 Expulsion /ɪkˈspʌlʃən/: (n) Sự trục xuất. Ex: His expulsion from school was due to poor behavior. (Sự trục xuất của anh ta khỏi trường là do hành vi kém)
-Facial /ˈfeɪʃəl/: (adj) Về mặt. Ex: The facial features of the sculpture were incredibly detailed. (Các đặc điểm về mặt của bức tượng rất tinh xảo)
+Facial /ˈfeɪʃəl/: (adj) Về (khuôn) mặt. Ex: The facial features of the sculpture were incredibly detailed. (Các đặc điểm về mặt của bức tượng rất tinh xảo)
 Glacial /ˈɡleɪʃəl/: (adj) Băng giá. Ex: The glacial landscape was breathtaking in its beauty. (Cảnh quan băng giá thật ngoạn mục trong vẻ đẹp của nó)
 Extortion /ɪkˈstɔːrʃən/: (n) Sự cưỡng đoạt. Ex: He was arrested for extortion after threatening the businessman. (Anh ta đã bị bắt vì tội cưỡng đoạt sau khi đe dọa doanh nhân)
 Geranium /dʒəˈreɪniəm/: (n) Cây phong lữ. Ex: The garden was filled with bright geraniums. (Khu vườn tràn ngập những cây phong lữ sáng màu)
