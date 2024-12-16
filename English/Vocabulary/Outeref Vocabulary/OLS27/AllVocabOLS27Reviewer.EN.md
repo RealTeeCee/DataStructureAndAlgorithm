@@ -268,6 +268,7 @@ Accustom /əˈkʌstəm/:
 Affair /əˈfɛr/:  
 Adjacent /əˈdʒeɪsənt/:  
 Assassin /əˈsæsɪn/:  
+Adhere /əd'hiə/: 
 Adherent /ədˈhɪrənt/:  
 Affront /əˈfrʌnt/:   
 Assault /əˈsɔːlt/:  
