@@ -272,42 +272,29 @@
 (n) Sự xúc phạm: 
 (n) Cuộc tấn công: 
 (adj) Chung: 
-(n) Ngăn: 
+(n) Gian nhà; căn phòng hoặc ngăn trên tàu, xe lửa: 
 (v) Gửi đi: 
 (n) Lô hàng: 
-(v) Đã gửi đi: 
-(v) Gửi đi (hiện tại tiếp diễn): 
 (v) Bao gồm: 
-(v) Đã bao gồm: 
-(v) Đang bao gồm: 
 (adj) Nhất quán: 
 (v) Hạn chế: 
 (n) Sự hạn chế: 
 (v) Tiếp tục: 
-(v) Đã tiếp tục: 
-(v) Đang tiếp tục: 
 (adj) Liên tục: 
-(v) Hạn chế: 
+(v) Giam giữ; Hạn chế: 
 (n) Sự giam giữ: 
 (n) Người từng bị kết án: 
-(adj) Chính xác: 
+(adj) Chính xác; (v) Yêu cầu chính xác: 
 (v) Yêu cầu chính xác: 
 (adj) Khó khăn: 
-(v) Đã yêu cầu chính xác: 
 (adv) Chính xác: 
 (v) Kiểm tra: 
-(v) Đã kiểm tra: 
-(v) Đang kiểm tra: 
 (n) Sự thừa: 
 (adj) Quá mức: 
 (v) Loại trừ: 
-(v) Đã loại trừ: 
-(v) Đang loại trừ: 
 (adj) Độc quyền: 
 (n) Tính độc quyền: 
 (v) Triển lãm: 
-(v) Đã triển lãm: 
-(v) Đang triển lãm: 
 (v) Tồn tại: 
 (n) Sự tồn tại: 
 (adj) Tồn tại: 
@@ -315,8 +302,6 @@
 (n) Sự mong đợi: 
 (n) Thuốc long đờm: 
 (v) Giải thích: 
-(v) Đang giải thích: 
-(v) Đã giải thích: 
 (adj) Giải thích: 
 (adj) Cực đoan: 
 (n) Người cực đoan: 
@@ -335,9 +320,7 @@
 (v) Uống: 
 (adj) Không thể kiềm chế: 
 (v) Khôi phục: 
-(v) Đang khôi phục: 
 (n) Sự khôi phục: 
-(v) Đã khôi phục: 
 (v) Xuất hiện lại: 
 (n) Sự tái diễn: 
 (v) Đang tái diễn: 
@@ -353,17 +336,13 @@
 (adj) Không thoải mái: 
 (v) Đạt được: 
 (n) Sự đạt được: 
-(v) Đã đạt được: 
-(v) Đang đạt được: 
 (v) Đầu tư: 
 (v) Đã đầu tư: 
 (n) Sự đầu tư: 
-(v) Đang đầu tư: 
 (n) Nhà đầu tư: 
 (v) Ủy thác: 
 (n) Hàng hóa ủy thác: 
 (v) Đã ủy thác: 
-(v) Đang ủy thác: 
 (v) Tham dự: 
 (n) Người tham dự: 
 (n) Sự tham dự: 
