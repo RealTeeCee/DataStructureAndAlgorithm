@@ -287,7 +287,6 @@ Confinement /kənˈfaɪnmənt/: (n) Sự giam giữ. Ex: Her confinement lasted 
 Ex-convict /ˈɛks ˈkɒnvɪkt/: (n) Người từng bị kết án. Ex: The ex-convict struggled to find employment after release. (Người từng bị kết án gặp khó khăn trong việc tìm việc làm sau khi được thả)
 Exact /ɪɡˈzækt/: (adj) Chính xác; (v) Yêu cầu chính xác. Ex: Please provide the exact measurements for the project. (Xin hãy cung cấp các số đo chính xác cho dự án). Ex: The law exacts strict penalties for violations. (Luật yêu cầu các hình phạt nghiêm khắc cho các vi phạm)
 Exacting /ɪɡˈzæktɪŋ/: (adj) Khó khăn. Ex: The job is very exacting and requires great attention to detail. (Công việc này rất khó khăn và đòi hỏi sự chú ý lớn đến từng chi tiết)
-Exacted /ɪɡˈzæktɪd/: (v) Đã yêu cầu chính xác. Ex: The contract exacted high standards of quality. (Hợp đồng đã yêu cầu các tiêu chuẩn chất lượng cao)
 Exactly /ɪɡˈzæktli/: (adv) Chính xác. Ex: That’s exactly what I was thinking. (Đó chính xác là điều tôi đang nghĩ)
 Examine /ɪɡˈzæmɪn/: (v) Kiểm tra. Ex: The doctor will examine the patient thoroughly. (Bác sĩ sẽ kiểm tra bệnh nhân một cách kỹ lưỡng)
 Excess /ˈɛksɛs/: (n) Sự thừa. Ex: The excess of food was donated to charity. (Sự thừa thãi thực phẩm đã được quyên góp cho từ thiện)
