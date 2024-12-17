@@ -287,7 +287,6 @@ Confinement /kənˈfaɪnmənt/:
 Ex-convict /ˈɛks ˈkɒnvɪkt/: 
 Exact /ɪɡˈzækt/: 
 Exacting /ɪɡˈzæktɪŋ/: 
-Exacted /ɪɡˈzæktɪd/: 
 Exactly /ɪɡˈzæktli/: 
 Examine /ɪɡˈzæmɪn/: 
 Excess /ˈɛksɛs/: 
