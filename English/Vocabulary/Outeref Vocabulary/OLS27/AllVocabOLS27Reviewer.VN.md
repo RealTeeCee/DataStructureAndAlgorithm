@@ -286,7 +286,6 @@
 (n) Sự giam giữ: 
 (n) Người từng bị kết án: 
 (adj) Chính xác; (v) Yêu cầu chính xác: 
-(v) Yêu cầu chính xác: 
 (adj) Khó khăn: 
 (adv) Chính xác: 
 (v) Kiểm tra: 
