@@ -318,7 +318,7 @@
 (adj) Không thể đọc được: 
 (v) Thấm nhuần: 
 (n) Sự mất cân bằng: 
-(v) Uống: 
+(v) Uống; hấp thụ: 
 (adj) Không thể kiềm chế: 
 (v) Khôi phục: 
 (n) Sự khôi phục: 

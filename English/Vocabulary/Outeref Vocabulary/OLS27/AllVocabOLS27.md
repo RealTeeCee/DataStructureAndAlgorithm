@@ -318,7 +318,7 @@ Illicit /ɪˈlɪsɪt/: (adj) Bất hợp pháp. Ex: The illicit drug trade poses
 Illegible /ɪˈlɛdʒəbl/: (adj) Không thể đọc được. Ex: The handwriting was so illegible that it was hard to understand. (Chữ viết khó đọc đến mức khó hiểu)
 Imbue /ɪmˈbjuː/: (v) Thấm nhuần. Ex: Her teachings imbue students with a love of learning. (Những bài học của cô ấy thấm nhuần cho học sinh tình yêu với việc học)
 Imbalance /ɪmˈbæləns/: (n) Sự mất cân bằng. Ex: The economic imbalance led to social unrest. (Sự mất cân bằng kinh tế dẫn đến bất ổn xã hội)
-Imbibe /ɪmˈbaɪb/: (v) Uống. Ex: He prefers to imbibe herbal tea rather than coffee. (Anh ấy thích uống trà thảo mộc hơn là cà phê)
+Imbibe /ɪmˈbaɪb/: (v) Uống; hấp thụ. Ex: He prefers to imbibe herbal tea rather than coffee. (Anh ấy thích uống trà thảo mộc hơn là cà phê)
 Irrepressible /ˌɪrɪˈprɛsəbl/: (adj) Không thể kiềm chế. Ex: Her irrepressible spirit brought joy to everyone around her. (Tâm hồn không thể kiềm chế của cô ấy mang lại niềm vui cho tất cả mọi người xung quanh)
 Recover /rɪˈkʌvər/: (v) Khôi phục. Ex: She was able to recover from her illness quickly. (Cô ấy đã có thể khôi phục sức khỏe từ bệnh tật một cách nhanh chóng)
 Recovery /rɪˈkʌvəri/: (n) Sự khôi phục. Ex: The recovery from the economic crisis is slow but steady. (Sự khôi phục từ cuộc khủng hoảng kinh tế diễn ra chậm nhưng ổn định)
