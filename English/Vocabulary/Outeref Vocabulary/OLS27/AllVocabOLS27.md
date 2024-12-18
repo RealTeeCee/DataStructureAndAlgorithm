@@ -189,6 +189,7 @@ Infiltrate /ˈɪnfɪltreɪt/: (v) Thâm nhập. Ex: The spies tried to infiltrat
 Expedite /ˈɛkspədaɪt/: (v) Thúc đẩy. Ex: The team worked hard to expedite the project (Đội ngũ đã làm việc chăm chỉ để thúc đẩy dự án)
 Hospitality /ˌhɒspɪˈtæləti/: (n) Sự hiếu khách. Ex: Their hospitality made us feel at home (Sự hiếu khách của họ khiến chúng tôi cảm thấy như ở nhà)
 Lassitude /ˈlæsɪtjuːd/: (n) Sự uể oải. Ex: After the long meeting, he felt a sense of lassitude (Sau cuộc họp dài, anh ấy cảm thấy uể oải)
+lassitudinous /ˌlæsɪˈtuːdənəs/: (adj) Uể oải, mệt mỏi, thiếu năng lượng .Ex: After a long day of work, she felt too lassitudinous to go out (Sau một ngày làm việc dài, cô cảm thấy quá uể oải để đi ra ngoài)
 Liberality /ˌlɪbəˈrælɪti/: (n) Sự rộng rãi. Ex: Her liberality in giving was well-known (Sự rộng rãi của cô ấy trong việc cho đi là điều nổi tiếng)
 Follicle /ˈfɒlɪkəl/: (n) Nang (tóc). Ex: Each hair grows from a follicle in the skin (Mỗi sợi tóc mọc từ một nang trong da)
 Institute /ˈɪnstɪtjuːt/: (n) Viện (nghiên cứu). Ex: The institute focuses on scientific research (Viện tập trung vào nghiên cứu khoa học)

@@ -189,6 +189,7 @@ Infiltrate /ˈɪnfɪltreɪt/:
 Expedite /ˈɛkspədaɪt/: 
 Hospitality /ˌhɒspɪˈtæləti/: 
 Lassitude /ˈlæsɪtjuːd/: 
+lassitudinous /ˌlæsɪˈtuːdənəs/: 
 Liberality /ˌlɪbəˈrælɪti/: 
 Follicle /ˈfɒlɪkəl/: 
 Institute /ˈɪnstɪtjuːt/: 

@@ -189,6 +189,7 @@
 (v) Thúc đẩy: 
 (n) Sự hiếu khách: 
 (n) Sự uể oải: 
+(adj) Uể oải, mệt mỏi, thiếu năng lượng: 
 (n) Sự rộng rãi: 
 (n) Nang (tóc): 
 (n) Viện (nghiên cứu): 
