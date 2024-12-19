@@ -767,6 +767,147 @@ bridegroom's chief attendant /ˈbraɪdɡruːmz tʃiːf əˈtɛndənt/:
 onset /ˈɒnˌsɛt/: 
 puberty /ˈpjuːbərti/: 
 the onset of puberty /ði ˈɒnˌsɛt əv ˈpjuːbərti/: 
+sit on it /sɪt ɒn ɪt/: 
+percentage /pərˈsentɪdʒ/: 
+crate /kreɪt/: 
+lent /lent/: 
+handkerchiefs /ˈhæŋkərˌtʃɪfs/: 
+myths /mɪθs/: 
+cabs /kæbz/: 
+firms /fɜːrmz/: 
+savings /ˈseɪvɪŋz/: 
+mills /mɪlz/: 
+rules grasped /ruːlz ˈɡræspɪd/: 
+misplaced /ˌmɪsˈpleɪst/: 
+grabbed /ɡræbd/: 
+raged /reɪdʒd/: 
+doomed /duːmd/: 
+recited /rɪˈsaɪtɪd/: 
+bolted /ˈboʊltɪd/: 
+crowded /ˈkraʊdɪd/: 
+ragged /ˈræɡɪd/: 
+jagged /ˈdʒæɡɪd/: 
+crooked /ˈkrʊkɪd/: 
+wicked /ˈwɪkɪd/: 
+sacred /ˈseɪkrɪd/: 
+blessed /ˈblesɪd/: 
+beloved /bɪˈlʌvɪd/: 
+guard sb /ɡɑːrd ˈsʌmbədi/: 
+hold sb /hoʊld ˈsʌmbədi/: 
+cuss sb /kʌs ˈsʌmbədi/: 
+ease sb /iːz ˈsʌmbədi/: 
+dig sb up /dɪɡ ˈsʌmbədi ˌʌp/: 
+arm sb /ɑːrm ˈsʌmbədi/: 
+sign sb up /saɪn ˈsʌmbədi ˌʌp/: 
+rub sb hand /rʌb ˈsʌmbədi hænd/: 
+a peephole /ə ˈpiːphoʊl/: 
+a crank /ə kræŋk/: 
+slyly /ˈslaɪli/: 
+cautious /ˈkɔːʃəs/: 
+to-and-fro movement /tə ənd froʊ ˈmuːvmənt/: 
+animation /ˌænɪˈmeɪʃn/: 
+liveliness /ˈlaɪvlinəs/: 
+vivacity /vɪˈvæsəti/: 
+a pastime /ə ˈpæstaɪm/: 
+pleasant /ˈpleznt/: 
+realistic /ˌriːəˈlɪstɪk/: 
+portrayal /pɔːrˈtreɪəl/: 
+idealize /aɪˈdiːəlaɪz/: 
+promising /ˈprɑːmɪsɪŋ/: 
+convey /kənˈveɪ/: 
+broadcast /ˈbrɔːdkæst/: 
+motion picture /ˈmoʊʃn ˈpɪktʃər/: 
+amuse /əˈmjuːz/: 
+progress /ˈprɑːɡres/: 
+punch card /ˈpʌntʃ kɑːrd/: 
+a task /ə tæsk/: 
+arithmetic /əˈrɪθmətɪk/: 
+a vacuum tube /ə ˈvækjuːm tjuːb/: 
+a function /ə ˈfʌŋkʃn/: 
+analytical /ˌænəˈlɪtɪkl/: 
+digital /ˈdɪdʒɪtl/: 
+to pave the way for /tə peɪv ðə weɪ fɔːr/: 
+an odor /ən ˈoʊdər/: 
+an explosion /ən ɪkˈsploʊʒn/: 
+a wreck /ə rek/: 
+a carriage /ə ˈkærɪdʒ/: 
+a pioneer /ə ˌpaɪəˈnɪr/: 
+transportation /ˌtrænspərˈteɪʃn/: 
+efficiency /ɪˈfɪʃnsi/: 
+pollution /pəˈluːʃn/: 
+steam-powered /stiːm ˈpaʊərd/: 
+evolve /ɪˈvɑːlv/: 
+sit on it /sɪt ɒn ɪt/: 
+percentage /pərˈsentɪdʒ/: 
+interstate /ˈɪntərˌsteɪt/: 
+intercom /ˈɪntərkɑːm/: 
+crate /kreɪt/: 
+lent /lent/: 
+handkerchiefs /ˈhæŋkərˌtʃɪfs/: 
+myths /mɪθs/: 
+cabs /kæbz/: 
+firms /fɜːrmz/: 
+savings /ˈseɪvɪŋz/: 
+mills /mɪlz/: 
+rules grasped /ruːlz ˈɡræspɪd/: 
+misplaced /ˌmɪsˈpleɪst/: 
+grabbed /ɡræbd/: 
+raged /reɪdʒd/: 
+doomed /duːmd/: 
+recited /rɪˈsaɪtɪd/: 
+bolted /ˈboʊltɪd/: 
+crowded /ˈkraʊdɪd/: 
+ragged /ˈræɡɪd/: 
+jagged /ˈdʒæɡɪd/: 
+crooked /ˈkrʊkɪd/: 
+wicked /ˈwɪkɪd/: 
+sacred /ˈseɪkrɪd/: 
+blessed /ˈblesɪd/: 
+beloved /bɪˈlʌvɪd/: 
+guard sb /ɡɑːrd ˈsʌmbədi/: 
+hold sb /hoʊld ˈsʌmbədi/: 
+cuss sb /kʌs ˈsʌmbədi/: 
+ease sb /iːz ˈsʌmbədi/: 
+dig sb up /dɪɡ ˈsʌmbədi ˌʌp/: 
+arm sb /ɑːrm ˈsʌmbədi/: 
+sign sb up /saɪn ˈsʌmbədi ˌʌp/: 
+rub sb hand /rʌb ˈsʌmbədi hænd/: 
+a peephole /ə ˈpiːphoʊl/: 
+a crank /ə kræŋk/: 
+slyly /ˈslaɪli/: 
+cautious /ˈkɔːʃəs/: 
+to-and-fro movement /tə ənd froʊ ˈmuːvmənt/: 
+animation /ˌænɪˈmeɪʃn/: 
+liveliness /ˈlaɪvlinəs/: 
+vivacity /vɪˈvæsəti/: 
+a pastime /ə ˈpæstaɪm/: 
+pleasant /ˈpleznt/: 
+realistic /ˌriːəˈlɪstɪk/: 
+portrayal /pɔːrˈtreɪəl/: 
+idealize /aɪˈdiːəlaɪz/: 
+promising /ˈprɑːmɪsɪŋ/: 
+convey /kənˈveɪ/: 
+broadcast /ˈbrɔːdkæst/: 
+amuse /əˈmjuːz/: 
+progress /ˈprɑːɡres/: 
+punch card /ˈpʌntʃ kɑːrd/: 
+a task /ə tæsk/: 
+arithmetic /əˈrɪθmətɪk/: 
+a vacuum tube /ə ˈvækjuːm tjuːb/: 
+a function /ə ˈfʌŋkʃn/: 
+analytical /ˌænəˈlɪtɪkl/: 
+digital /ˈdɪdʒɪtl/: 
+to pave the way for /tə peɪv ðə weɪ fɔːr/: 
+an odor /ən ˈoʊdər/: 
+an explosion /ən ɪkˈsploʊʒn/: 
+a wreck /ə rek/: 
+a carriage /ə ˈkærɪdʒ/: 
+a pioneer /ə ˌpaɪəˈnɪr/: 
+transportation /ˌtrænspərˈteɪʃn/: 
+efficiency /ɪˈfɪʃnsi/: 
+pollution /pəˈluːʃn/: 
+steam-powered /stiːm ˈpaʊərd/: 
+evolve /ɪˈvɑːlv/: 
 air fryer /ˈer ˌfraɪər/: 
 an appliance /ən əˈplaɪəns/: 
 a chore /ə tʃɔːr/: 
@@ -887,6 +1028,12 @@ the middle ages /ðə ˈmɪdl ˈeɪdʒɪz/:
 AD /ˌeɪ ˈdiː/: 
 AD 1100 to AD 1400 //: 
 warfare /ˈwɔːrˌfɛr/: 
+Agent Orange /ˈeɪdʒənt ˈɔːrɪndʒ/: 
+moss /mɔːs/: 
+jet /dʒet/: 
+bomber plane /ˈbɑːmər pleɪn/: 
+battle cruiser /ˈbætl ˈkruːzər/: 
+reunification /ˌriːˌjuːnɪfɪˈkeɪʃn/: 
 a nomad /ə ˈnoʊmæd/: 
 wander /ˈwɑːndər/: 
 pasture /ˈpæstʃər/: 
@@ -930,6 +1077,7 @@ brush ... off ... /brʌʃ ɔːf/:
 brush ... out ... /brʌʃ aʊt/: 
 burn up /bɜːrn ʌp/: 
 call back /kɔːl bæk/: 
+Call on /kɔl ɑn/: 
 call up /kɔːl ʌp/: 
 care for /kɛr fɔːr/: 
 chop ... down ... /tʃɑːp daʊn/: 
@@ -959,7 +1107,8 @@ give ... away ... /ɡɪv əˈweɪ/:
 go in /ɡoʊ ɪn/: 
 go off /ɡoʊ ɔːf/: 
 go on /ɡoʊ ɑːn/: 
-hang up /hæŋ ʌp/: 
+hang up /hæŋ ʌp/:
+hang ... up ... /hæŋ ... ʌp .../: 
 have ... on ... /hæv ɑːn/: 
 hunt ... up ... /hʌnt ʌp/: 
 keep on /kiːp ɑːn/: 
@@ -976,12 +1125,14 @@ mop ... up ... /mɑːp ʌp/:
 open ... up ... /ˈoʊpən ʌp/: 
 pick ... out ... /pɪk aʊt/: 
 pick ... up ... /pɪk ʌp/: 
+Pick up on /pɪk ʌp ɑn/: 
 plug ... in ... /plʌɡ ɪn/: 
 plug ... up ... /plʌɡ ʌp/: 
 pop up /pɑːp ʌp/: 
 put ... away ... /pʊt əˈweɪ/: 
 put ... on ... /pʊt ɑːn/: 
 put ... up ... /pʊt ʌp/: 
+Read ... over ... /riːd ˈoʊvər/: 
 rinse ... off ... /rɪns ɔːf/: 
 rinse ... out ... /rɪns aʊt/: 
 rub ... off ... /rʌb ɔːf/: 
@@ -1008,11 +1159,15 @@ wash ... out ... /wɑːʃ aʊt/:
 wash ... up ... /wɑːʃ ʌp/: 
 wipe ... off ... /waɪp ɔːf/: 
 wipe ... out ... /waɪp aʊt/: 
-write up /raɪt ʌp/: 
+League of Women Voters /liːɡ əv ˈwɪmɪn ˈvoʊtərz/: 
 stain /steɪn/: 
+neat /niːt/: 
 stove /stoʊv/: 
 the twins /ðə twɪnz/: 
 the drain /ðə dreɪn/: 
+pail /peɪl/: 
+sink - sank - sunk /siŋk - saŋk - sʌŋk/: 
+a sink /sɪŋk/: 
 washbasin /ˈwɑːʃˌbeɪsn/: 
 plunger /ˈplʌndʒər/: 
 counters /ˈkaʊntərz/: 

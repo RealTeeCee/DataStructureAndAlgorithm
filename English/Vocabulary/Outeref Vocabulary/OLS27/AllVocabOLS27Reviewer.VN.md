@@ -432,7 +432,7 @@
 (adj) Thiếu tôn trọng: 
 (n) Sự nhộn nhịp: 
 (n) Tiếng cười: 
-(n) Các cháu (nộ: ngoại): 
+(n) Các cháu (nội/ngoại): 
 (adj) Bất thường: 
 (n) Mẫu giáo: 
 (n) Trường tiểu học: 
@@ -464,7 +464,7 @@
 (n) Đèn lồng: 
 (n) Tổ tiên: 
 (adj) Thuộc về thể thao: 
-(: v) Danh dự; tôn vinh: 
+(n/v) Danh dự; tôn vinh: 
 (v) Tôn kính tổ tiên: 
 (v) Để dành: 
 (v) Ăn mừng: 
@@ -489,7 +489,7 @@
 (n) Vị thần nghề thủ công: 
 (n) Thổ địa: 
 (n) Táo quân: 
-(ad: n) Đã khuất; người đã mất: 
+(adj/n) Đã khuất; người đã mất: 
 (n) Con cháu; hậu duệ: 
 (adj) Thế tục; không thuộc tôn giáo: 
 (n) Mâm ngũ quả: 
@@ -497,7 +497,7 @@
 (n) Bàn thờ: 
 (n) Các món ăn đặc sản: 
 (n) Người đăng ký (dịch vụ): 
-(: v) Phí; tính phí: 
+(n/v) Phí; tính phí: 
 (n) Nhà điều hành; tổng đài viên: 
 (n) Giá cước giờ cao điểm: 
 (n) Giá cước tiêu chuẩn: 
@@ -509,12 +509,12 @@
 (n) Khí hậu ấm áp: 
 (n) Khu nghỉ dưỡng: 
 (n) Bờ biển: 
-(ad: adv) Ngoài khơi: 
+(adj/adv) Ngoài khơi: 
 (n) Khu vực du lịch nổi tiếng: 
 (n) Khách du lịch: 
 (n) Hòn đảo: 
 (adj) Tự nhiên: 
-(: v) Sự nổ; làm nổ tung: 
+(n/v) Sự nổ; làm nổ tung: 
 (n) Điểm cuối; bến cuối: 
 (n) Điểm đến: 
 (adv) Đặc biệt; đáng chú ý: 
@@ -732,7 +732,7 @@
 (v) Nhấp, uống từng ngụm nhỏ: 
 (adj) Sâu sắc, thâm thúy: 
 (v) Nâng cao, tăng cường: 
-(n) Môi trường tin cậy và hợp tác giữa: 
+(n) Môi trường tin cậy và hợp tác giữa ... và ...: 
 (v) Có nguy cơ cao với điều gì: 
 (n) Sự thích nghi xã hội: 
 (n) Sự trưởng thành: 
@@ -747,7 +747,7 @@
 (v) Sinh sản: 
 (n) Độ tuổi kết hôn hợp pháp để đăng ký: 
 (n) Giấy chứng nhận kết hôn: 
-(n) Đồ vải (ga trải giường, khăn bàn, etc): 
+(n) Đồ vải (ga trải giường, khăn bàn, v.v.): 
 (adj) Thuộc về chiêm tinh học: 
 (n) Dự đoán chiêm tinh: 
 (n) Đồ trang trí: 
@@ -767,6 +767,147 @@
 (n) Sự bắt đầu, khởi đầu (thường dùng cho điều gì khó khăn): 
 (n) Tuổi dậy thì: 
 (n) Sự bắt đầu của tuổi dậy thì: 
+(v) Trì hoãn, để yên: 
+(n) Tỷ lệ phần trăm: 
+(n) Thùng gỗ, thùng nhựa: 
+(v) (quá khứ của "lend") Cho mượn: 
+(n) Khăn tay: 
+(n) Những huyền thoại, thần thoại: 
+(n) Những chiếc taxi: 
+(n) Các công ty: 
+(n) Tiền tiết kiệm: 
+(n) Các nhà máy xay, xưởng sản xuất: 
+(v) Các quy tắc được nắm bắt: 
+(v) Để nhầm chỗ: 
+(v) Nắm lấy, chộp lấy: 
+(v) Nổi giận, diễn ra dữ dội: 
+(adj) Bị kết án, chịu số phận bi thảm: 
+(v) Đọc thuộc lòng: 
+(v) Chạy vụt đi, đóng chốt: 
+(adj) Đông đúc: 
+(adj) Rách rưới, tả tơi: 
+(adj) Lởm chởm, nhọn hoắt: 
+(adj) Cong, quanh co; gian lận: 
+(adj) Xấu xa, độc ác: 
+(adj) Thiêng liêng, bất khả xâm phạm: 
+(adj) May mắn, được ban phước: 
+(adj) Được yêu quý: 
+(v) Bảo vệ ai đó: 
+(v) Giữ ai đó: 
+(v) Chửi rủa ai đó: 
+(v) Xoa dịu, làm nhẹ lòng ai đó: 
+(v) Tìm ra ai đó: 
+(v) Trang bị vũ khí cho ai đó: 
+(v) Đăng ký cho ai đó: 
+(v) Xoa tay ai đó: 
+(n) Lỗ nhòm: 
+(n) Tay quay, người kỳ quặc: 
+(adv) Một cách ranh mãnh, lén lút: 
+(adj) Thận trọng: 
+(n) Chuyển động qua lại: 
+(n) Hoạt hình; sự sôi động: 
+(n) Sự sống động, sinh động: 
+(n) Sự hoạt bát, nhanh nhẹn: 
+(n) Trò tiêu khiển, sở thích: 
+(adj) Dễ chịu, thú vị: 
+(adj) Thực tế, thực tiễn: 
+(n) Sự khắc họa, miêu tả: 
+(v) Lý tưởng hóa: 
+(adj) Đầy hứa hẹn: 
+(v) Truyền tải, chuyển đạt: 
+(v) Phát sóng, truyền hình: 
+(n) Phim ảnh, bộ phim (dùng để chỉ phim được sản xuất để chiếu trên màn ảnh rộng hoặc trong rạp chiếu phim): 
+(v) Làm cho vui vẻ, giải trí: 
+(n) Sự tiến bộ, tiến triển: 
+(n) Thẻ đục lỗ (dùng trong máy tính cũ): 
+(n) Một nhiệm vụ: 
+(n) Số học: 
+(n) Ống chân không: 
+(n) Chức năng: 
+(adj) Phân tích: 
+(adj) Kỹ thuật số: 
+(v) Mở đường cho, tạo điều kiện cho: 
+(n) Mùi (thường là mùi khó chịu): 
+(n) Sự nổ, vụ nổ: 
+(n) Đống đổ nát, xác tàu: 
+(n) Toa xe lửa; cỗ xe ngựa: 
+(n) Người tiên phong: 
+(n) Vận tải, giao thông: 
+(n) Hiệu suất, sự hiệu quả: 
+(n) Sự ô nhiễm: 
+(adj) Chạy bằng hơi nước: 
+(v) Tiến hóa, phát triển: 
+(v) Trì hoãn, để yên: 
+(n) Tỷ lệ phần trăm: 
+(n) Đường liên bang (Mỹ): 
+(n) Hệ thống liên lạc nội bộ: 
+(n) Thùng gỗ, thùng nhựa: 
+(v) (quá khứ của "lend") Cho mượn: 
+(n) Khăn tay: 
+(n) Những huyền thoại, thần thoại: 
+(n) Những chiếc taxi: 
+(n) Các công ty: 
+(n) Tiền tiết kiệm: 
+(n) Các nhà máy xay, xưởng sản xuất: 
+(v) Các quy tắc được nắm bắt: 
+(v) Để nhầm chỗ: 
+(v) Nắm lấy, chộp lấy: 
+(v) Nổi giận, diễn ra dữ dội: 
+(adj) Bị kết án, chịu số phận bi thảm: 
+(v) Đọc thuộc lòng: 
+(v) Chạy vụt đi, đóng chốt: 
+(adj) Đông đúc: 
+(adj) Rách rưới, tả tơi: 
+(adj) Lởm chởm, nhọn hoắt: 
+(adj) Cong, quanh co; gian lận: 
+(adj) Xấu xa, độc ác: 
+(adj) Thiêng liêng, bất khả xâm phạm: 
+(adj) May mắn, được ban phước: 
+(adj) Được yêu quý: 
+(v) Bảo vệ ai đó: 
+(v) Giữ ai đó: 
+(v) Chửi rủa ai đó: 
+(v) Xoa dịu, làm nhẹ lòng ai đó: 
+(v) Tìm ra ai đó: 
+(v) Trang bị vũ khí cho ai đó: 
+(v) Đăng ký cho ai đó: 
+(v) Xoa tay ai đó: 
+(n) Lỗ nhòm: 
+(n) Tay quay, người kỳ quặc: 
+(adv) Một cách ranh mãnh, lén lút: 
+(adj) Thận trọng: 
+(n) Chuyển động qua lại: 
+(n) Hoạt hình; sự sôi động: 
+(n) Sự sống động, sinh động: 
+(n) Sự hoạt bát, nhanh nhẹn: 
+(n) Trò tiêu khiển, sở thích: 
+(adj) Dễ chịu, thú vị: 
+(adj) Thực tế, thực tiễn: 
+(n) Sự khắc họa, miêu tả: 
+(v) Lý tưởng hóa: 
+(adj) Đầy hứa hẹn: 
+(v) Truyền tải, chuyển đạt: 
+(v) Phát sóng, truyền hình: 
+(v) Làm cho vui vẻ, giải trí: 
+(n) Sự tiến bộ, tiến triển: 
+(n) Thẻ đục lỗ (dùng trong máy tính cũ): 
+(n) Một nhiệm vụ: 
+(n) Số học: 
+(n) Ống chân không: 
+(n) Chức năng: 
+(adj) Phân tích: 
+(adj) Kỹ thuật số: 
+(v) Mở đường cho, tạo điều kiện cho: 
+(n) Mùi (thường là mùi khó chịu): 
+(n) Sự nổ, vụ nổ: 
+(n) Đống đổ nát, xác tàu: 
+(n) Toa xe lửa; cỗ xe ngựa: 
+(n) Người tiên phong: 
+(n) Vận tải, giao thông: 
+(n) Hiệu suất, sự hiệu quả: 
+(n) Sự ô nhiễm: 
+(adj) Chạy bằng hơi nước: 
+(v) Tiến hóa, phát triển: 
 (n) Nồi chiên không dầu: 
 (n) Thiết bị, dụng cụ: 
 (n) Việc vặt, công việc nhà: 
@@ -887,6 +1028,12 @@
 (n) Công Nguyên: 
 (n) Giai đoạn từ năm 1100 đến năm 1400 Công Nguyên: 
 (n) Chiến tranh: 
+(n) Chất độc da cam (hóa chất được sử dụng trong chiến tranh để làm rụng lá  .ây và phá hủy môi trường): 
+(n) Rêu: 
+(n) Máy bay phản lực: 
+(n) Máy bay ném bom: 
+(n) Tàu tuần dương chiến đấu: 
+(n) Sự thống nhất lại, sự tái thống nhất: 
 (n) Người du mục: 
 (v) Đi lang thang: 
 (n) Đồng cỏ: 
@@ -930,6 +1077,7 @@
 (v) Chải sạch: 
 (v) Đốt cháy hoàn toàn, sốt cao: 
 (v) Gọi lại: 
+(v) Thăm: 
 (v) Gọi điện: 
 (v) Quan tâm, chăm sóc: 
 (v) Chặt hạ: 
@@ -959,7 +1107,8 @@
 (v) Đi vào: 
 (v) Nổ, hỏng, đổ chuông: 
 (v) Tiếp tục: 
-(v) Cúp máy, treo lên: 
+(v) Cúp máy: 
+(v) Treo lên, móc lên: 
 (v) Mặc, mang, bật: 
 (v) Tìm kiếm: 
 (v) Tiếp tục: 
@@ -971,17 +1120,19 @@
 (v) Nhìn vào: 
 (v) Xem xét, kiểm tra: 
 (v) Hiểu, phân biệt: 
-(v) Bịa chuyện, làm hòa, bù đắp: 
+(v) Bịa chuyện; làm hòa; bù đắp; xếp mền; (n) trang điểm: 
 (v) Lau sạch: 
 (v) Mở ra, khai thác: 
 (v) Chọn ra: 
 (v) Nhặt lên, đón ai, học lỏm: 
+(v) Nhận ra: 
 (v) Cắm điện: 
 (v) Làm tắc nghẽn: 
 (v) Xuất hiện bất ngờ: 
 (v) Cất đi: 
 (v) Mặc vào, bật lên: 
 (v) Dựng lên, cho ở nhờ: 
+(v) Đọc qua: 
 (v) Rửa sạch: 
 (v) Súc sạch: 
 (v) Chà sạch: 
@@ -1009,10 +1160,15 @@
 (v) Lau sạch: 
 (v) Xóa sổ, tiêu diệt hoàn toàn: 
 (v) Viết lại, ghi chép chi tiết: 
+(n) Liên đoàn Phụ nữ Cử tri (một tổ chức phi đảng phái ở Mỹ, hoạt động để thúc đẩy quyền bầu cử và tham gia chính trị của phụ nữ): 
 (n) Vết bẩn, (v) Làm bẩn: 
+(adj) Gọn gàng, ngăn nắp, chỉnh chu; (adj) (Đồ uống) nguyên chất, không pha: 
 (n) Bếp lò: 
 (n) Cặp song sinh: 
 (n) Cống, lỗ thoát nước: 
+(n) Thùng, xô (đựng chất lỏng hoặc vật liệu): 
+(v) chìm (hành động bị trọng lượng làm chìm xuống dưới bề mặt chất lỏng)
+(n) Bồn rửa (thường dùng trong nhà bếp hoặc nhà tắm để rửa tay, chén bát, v.v): 
 (n) Chậu rửa mặt: 
 (n) Cây thông tắc bồn cầu: 
 (n) Quầy, mặt bàn: 
@@ -1104,4 +1260,4 @@
 (n) Kẻ nổi loạn, phiến quân: 
 (v) Nổi loạn, chống đối: 
 (n) Cuộc nổi loạn, cuộc khởi nghĩa: 
-(v) Chiếm đoạt, cướp (máy bay, phương tiện giao thông); (n) Vụ cướp (máy bay, phương tiện giao thông): 
+(v) Chiếm đoạt, cướp (máy bay, phương tiện giao thông, v.v.); (n) Vụ cướp (máy bay, phương tiện giao thông): 
