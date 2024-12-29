@@ -1261,3 +1261,44 @@ rebel /ˈrebəl/: (n) Kẻ nổi loạn, phiến quân .Ex: The rebels fought ag
 rebel /rɪˈbel/: (v) Nổi loạn, chống đối .Ex: The citizens rebelled against the unfair laws (Người dân nổi loạn chống lại các luật lệ bất công)
 rebellion /rɪˈbeljən/: (n) Cuộc nổi loạn, cuộc khởi nghĩa .Ex: The rebellion was quickly suppressed by the military (Cuộc nổi loạn đã nhanh chóng bị quân đội đàn áp)
 hijack /ˈhaɪdʒæk/: (v) Chiếm đoạt, cướp (máy bay, phương tiện giao thông, v.v.); (n) Vụ cướp (máy bay, phương tiện giao thông) .Ex: The hijack of the ship shocked the entire nation (Vụ cướp tàu đã làm cả quốc gia chấn động)
+
+revolutionize /ˌrevəˈluːʃənaɪz/: (v) Cách mạng hóa, làm thay đổi hoàn toàn .Ex: The invention of the internet revolutionized communication (Việc phát minh ra internet đã cách mạng hóa việc giao tiếp).
+indispensable /ˌɪndɪˈspensəbl/: (adj) Không thể thiếu, rất quan trọng .Ex: A smartphone has become indispensable in modern life (Điện thoại thông minh đã trở thành thứ không thể thiếu trong cuộc sống hiện đại).
+versatile /ˈvɜːrsətl/: (adj) Đa năng, linh hoạt .Ex: This tool is so versatile; it can be used for various purposes (Công cụ này rất đa năng, có thể được sử dụng cho nhiều mục đích).
+versatility /ˌvɜːrsəˈtɪləti/: (n) Sự đa năng, sự linh hoạt .Ex: The versatility of this device makes it a must-have for travelers (Sự đa năng của thiết bị này khiến nó trở thành vật không thể thiếu cho du khách).
+streamline /ˈstriːmlaɪn/: (v) Tinh giản, hợp lý hóa để hiệu quả hơn .Ex: The company streamlined its operations to cut costs (Công ty đã tinh giản hoạt động của mình để giảm chi phí).
+streamlining tasks //: (n phrase) Việc tinh giản nhiệm vụ, làm cho công việc trôi chảy hơn .Ex: Streamlining tasks can save a lot of time in the workplace (Tinh giản nhiệm vụ có thể tiết kiệm nhiều thời gian trong công việc).
+automation /ˌɔːtəˈmeɪʃn/: (n) Sự tự động hóa .Ex: Automation in manufacturing has reduced the need for manual labor (Sự tự động hóa trong sản xuất đã giảm nhu cầu lao động thủ công).
+enable /ɪˈneɪbl/: (v) Cho phép, làm cho có thể .Ex: Technology enables people to work from anywhere (Công nghệ cho phép mọi người làm việc từ bất cứ đâu).
+spreadsheet /ˈspredʃiːt/: (n) Bảng tính (trong phần mềm như Excel) .Ex: I use a spreadsheet to track my expenses (Tôi sử dụng bảng tính để theo dõi các khoản chi tiêu của mình).
+[I] without missing a beat /wɪˈðaʊt ˈmɪsɪŋ ə biːt/: (idiom) Không ngừng nghỉ, không chậm trễ .Ex: She answered the tricky question without missing a beat (Cô ấy trả lời câu hỏi khó mà không chút ngập ngừng).
+reshape /ˌriːˈʃeɪp/: (v) Tái định hình, thay đổi cấu trúc hoặc hình dạng .Ex: This discovery could reshape our understanding of the universe (Phát hiện này có thể tái định hình sự hiểu biết của chúng ta về vũ trụ).
+game-changers /ˈɡeɪm ˌtʃeɪndʒərz/: (n) Những yếu tố thay đổi cuộc chơi, người/vật làm thay đổi cục diện .Ex: Smartphones were true game-changers in the tech industry (Điện thoại thông minh thực sự là yếu tố thay đổi cuộc chơi trong ngành công nghệ).
+Swiss Army knife /ˌswɪs ˈɑːrmi naɪf/: (n) Dao đa năng Thụy Sĩ (nghĩa đen); ẩn dụ: thứ rất đa năng, linh hoạt .Ex: This gadget is like a Swiss Army knife for photographers (Thiết bị này giống như dao đa năng Thụy Sĩ dành cho các nhiếp ảnh gia).
+unwind /ˌʌnˈwaɪnd/: (v) Thư giãn, xả hơi sau một thời gian căng thẳng .Ex: She likes to unwind with a good book after work (Cô ấy thích thư giãn bằng cách đọc một cuốn sách hay sau giờ làm việc).
+engaging /ɪnˈɡeɪdʒɪŋ/: (adj) Hấp dẫn, lôi cuốn, thú vị .Ex: The book has an engaging story that keeps readers hooked (Cuốn sách có một câu chuyện lôi cuốn khiến độc giả bị cuốn hút)
+interactive /ˌɪntərˈæktɪv/: (adj) Mang tính tương tác, cho phép giao tiếp hai chiều .Ex: The website has many interactive features for users (Trang web có nhiều tính năng tương tác dành cho người dùng)
+[I] for sb and sb alike //: (idiom) Dành cho cả hai người (hoặc cả hai nhóm) được đề cập, không phân biệt .Ex: This park is a favorite spot for children and adults alike (Công viên này là địa điểm yêu thích cho cả trẻ em và người lớn)
+dive into /daɪv ˈɪntuː/: (phrasal verb) Lao vào, bắt đầu làm gì đó với sự nhiệt tình hoặc tập trung cao độ; Bắt đầu làm gì đó một cách nhiệt tình hoặc tập trung ngay lập tức .Ex: She dived into her studies to prepare for the final exams (Cô ấy lao vào học tập để chuẩn bị cho kỳ thi cuối kỳ).Khám phá hoặc nghiên cứu sâu về một chủ đề .Ex: Let’s dive into the details of this project in our next meeting (Hãy khám phá chi tiết của dự án này trong cuộc họp tiếp theo)
+keep track of /kiːp ˈtræk əv/: (phrasal verb) Theo dõi, ghi nhớ, hoặc giữ thông tin về một thứ gì đó .Ex: It’s hard to keep track of all my appointments without a calendar (Rất khó để theo dõi tất cả các cuộc hẹn của tôi nếu không có lịch)
+accessible /əkˈsesəbl/: (adj) Dễ tiếp cận, dễ sử dụng, dễ hiểu .Ex: The professor’s lectures are accessible even to beginners (Các bài giảng của giáo sư dễ hiểu ngay cả với người mới bắt đầu)
+[I] be a big part of how we do sth //: (idiom) Là một phần quan trọng trong cách chúng ta thực hiện việc gì đó .Ex: Technology is a big part of how we communicate in the modern world (Công nghệ là một phần quan trọng trong cách chúng ta giao tiếp trong thế giới hiện đại)
+[I] do it all /duː ɪt ɔːl/: (idiom) Làm mọi thứ, đảm đương mọi việc (thường ám chỉ việc đảm nhiệm nhiều vai trò hoặc công việc một cách đa năng) .Ex: She’s a mother, a teacher, and a volunteer—she really does it all (Cô ấy vừa là mẹ, giáo viên, vừa là tình nguyện viên—cô ấy thực sự làm tất cả mọi thứ)
+
+
+[I] lead the charge /liːd ðə tʃɑːrdʒ/: (idiom) Dẫn đầu, tiên phong trong một hoạt động, phong trào hoặc sự thay đổi .Ex: This company leads the charge in developing sustainable energy solutions (Công ty này dẫn đầu trong việc phát triển các giải pháp năng lượng bền vững)
+drive innovation with sth //: (phrasal verb) Thúc đẩy sự đổi mới bằng một yếu tố hoặc công cụ nào đó .Ex: The team drives innovation with cutting-edge technologies (Nhóm thúc đẩy đổi mới bằng các công nghệ tiên tiến)
+premium devices /ˈpriːmiəm dɪˈvaɪsɪz/: (n) Các thiết bị cao cấp, chất lượng cao .Ex: The company is known for its premium devices, which combine style and functionality (Công ty nổi tiếng với các thiết bị cao cấp, kết hợp giữa phong cách và chức năng)
+budget-friendly /ˈbʌdʒɪt ˌfrɛndli/: (adj) Thân thiện với túi tiền, phù hợp với ngân sách, giá cả phải chăng .Ex: This store offers budget-friendly options for all kinds of electronics (Cửa hàng này cung cấp các lựa chọn giá cả phải chăng cho tất cả các loại thiết bị điện tử)
+ever-evolving /ˌevər ɪˈvɑːlvɪŋ/: (adj) Không ngừng phát triển, luôn thay đổi và cải tiến .Ex: The tech industry is an ever-evolving field with constant breakthroughs (Ngành công nghệ là một lĩnh vực không ngừng phát triển với những đột phá liên tục)
+
+apricot blossom: /'eiprikɔt 'blɔsəm/: hoa mai
+peach blossom /pi:tʃ 'blɔsəm/: hòa đào
+kumquat tree /ˈkʌmkwɒt ˌtriː/: (n) Cây quất (thường được trưng bày trong dịp lễ Tết) .Ex: A kumquat tree is a traditional decoration during Tet in Vietnam (Cây quất là một đồ trang trí truyền thống trong dịp Tết ở Việt Nam)
+ancestor worship /ˈænsɛstər ˌwɜːrʃɪp/: (n) Việc thờ cúng tổ tiên .Ex: Ancestor worship is an essential part of Vietnamese culture (Thờ cúng tổ tiên là một phần thiết yếu của văn hóa Việt Nam)
+pickled vegetable /ˈpɪkld ˈvɛdʒtəbl/: (n) Rau củ muối chua .Ex: Pickled vegetables are a common dish during the Lunar New Year (Rau củ muối chua là một món ăn phổ biến trong dịp Tết Nguyên Đán)
+sweets /swiːts/: (n) Kẹo, đồ ngọt .Ex: Sweets are often given to children as treats during the festival (Kẹo thường được tặng cho trẻ em như một món quà trong lễ hội)
+express gratitude at shrine //: (v phrase) Bày tỏ lòng biết ơn tại bàn thờ hoặc đền thờ .Ex: Families gather to express gratitude at the shrine for their blessings (Các gia đình tụ họp để bày tỏ lòng biết ơn tại bàn thờ vì những điều tốt lành)
+festive /ˈfɛstɪv/: (adj) Mang không khí lễ hội, vui tươi .Ex: The streets are decorated with lights and look very festive during the holidays (Các con phố được trang trí bằng đèn và trông rất rực rỡ trong kỳ nghỉ lễ)
+buzz with /bʌz wɪð/: (phrasal verb) Đầy ắp sự nhộn nhịp, hoạt động, hoặc cảm giác phấn khởi .Ex: The market is buzzing with shoppers preparing for Tet (Khu chợ tràn đầy sự nhộn nhịp của người mua sắm chuẩn bị cho Tết)
+adding its own special touch //: (phrase) Thêm vào đó nét đặc biệt riêng, tạo điểm nhấn riêng biệt .Ex: Every family decorates their home differently, adding its own special touch to the celebration (Mỗi gia đình trang trí ngôi nhà theo cách riêng, thêm vào nét đặc biệt của họ cho lễ hội)
