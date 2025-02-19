@@ -1261,7 +1261,6 @@ rebel /ˈrebəl/: (n) Kẻ nổi loạn, phiến quân .Ex: The rebels fought ag
 rebel /rɪˈbel/: (v) Nổi loạn, chống đối .Ex: The citizens rebelled against the unfair laws (Người dân nổi loạn chống lại các luật lệ bất công)
 rebellion /rɪˈbeljən/: (n) Cuộc nổi loạn, cuộc khởi nghĩa .Ex: The rebellion was quickly suppressed by the military (Cuộc nổi loạn đã nhanh chóng bị quân đội đàn áp)
 hijack /ˈhaɪdʒæk/: (v) Chiếm đoạt, cướp (máy bay, phương tiện giao thông, v.v.); (n) Vụ cướp (máy bay, phương tiện giao thông) .Ex: The hijack of the ship shocked the entire nation (Vụ cướp tàu đã làm cả quốc gia chấn động)
-
 revolutionize /ˌrevəˈluːʃənaɪz/: (v) Cách mạng hóa, làm thay đổi hoàn toàn .Ex: The invention of the internet revolutionized communication (Việc phát minh ra internet đã cách mạng hóa việc giao tiếp).
 indispensable /ˌɪndɪˈspensəbl/: (adj) Không thể thiếu, rất quan trọng .Ex: A smartphone has become indispensable in modern life (Điện thoại thông minh đã trở thành thứ không thể thiếu trong cuộc sống hiện đại).
 versatile /ˈvɜːrsətl/: (adj) Đa năng, linh hoạt .Ex: This tool is so versatile; it can be used for various purposes (Công cụ này rất đa năng, có thể được sử dụng cho nhiều mục đích).
@@ -1284,14 +1283,11 @@ keep track of /kiːp ˈtræk əv/: (phrasal verb) Theo dõi, ghi nhớ, hoặc g
 accessible /əkˈsesəbl/: (adj) Dễ tiếp cận, dễ sử dụng, dễ hiểu .Ex: The professor’s lectures are accessible even to beginners (Các bài giảng của giáo sư dễ hiểu ngay cả với người mới bắt đầu)
 [I] be a big part of how we do sth //: (idiom) Là một phần quan trọng trong cách chúng ta thực hiện việc gì đó .Ex: Technology is a big part of how we communicate in the modern world (Công nghệ là một phần quan trọng trong cách chúng ta giao tiếp trong thế giới hiện đại)
 [I] do it all /duː ɪt ɔːl/: (idiom) Làm mọi thứ, đảm đương mọi việc (thường ám chỉ việc đảm nhiệm nhiều vai trò hoặc công việc một cách đa năng) .Ex: She’s a mother, a teacher, and a volunteer—she really does it all (Cô ấy vừa là mẹ, giáo viên, vừa là tình nguyện viên—cô ấy thực sự làm tất cả mọi thứ)
-
-
 [I] lead the charge /liːd ðə tʃɑːrdʒ/: (idiom) Dẫn đầu, tiên phong trong một hoạt động, phong trào hoặc sự thay đổi .Ex: This company leads the charge in developing sustainable energy solutions (Công ty này dẫn đầu trong việc phát triển các giải pháp năng lượng bền vững)
 drive innovation with sth //: (phrasal verb) Thúc đẩy sự đổi mới bằng một yếu tố hoặc công cụ nào đó .Ex: The team drives innovation with cutting-edge technologies (Nhóm thúc đẩy đổi mới bằng các công nghệ tiên tiến)
 premium devices /ˈpriːmiəm dɪˈvaɪsɪz/: (n) Các thiết bị cao cấp, chất lượng cao .Ex: The company is known for its premium devices, which combine style and functionality (Công ty nổi tiếng với các thiết bị cao cấp, kết hợp giữa phong cách và chức năng)
 budget-friendly /ˈbʌdʒɪt ˌfrɛndli/: (adj) Thân thiện với túi tiền, phù hợp với ngân sách, giá cả phải chăng .Ex: This store offers budget-friendly options for all kinds of electronics (Cửa hàng này cung cấp các lựa chọn giá cả phải chăng cho tất cả các loại thiết bị điện tử)
 ever-evolving /ˌevər ɪˈvɑːlvɪŋ/: (adj) Không ngừng phát triển, luôn thay đổi và cải tiến .Ex: The tech industry is an ever-evolving field with constant breakthroughs (Ngành công nghệ là một lĩnh vực không ngừng phát triển với những đột phá liên tục)
-
 apricot blossom: /'eiprikɔt 'blɔsəm/: hoa mai
 peach blossom /pi:tʃ 'blɔsəm/: hòa đào
 kumquat tree /ˈkʌmkwɒt ˌtriː/: (n) Cây quất (thường được trưng bày trong dịp lễ Tết) .Ex: A kumquat tree is a traditional decoration during Tet in Vietnam (Cây quất là một đồ trang trí truyền thống trong dịp Tết ở Việt Nam)
@@ -1309,7 +1305,6 @@ tropical climate /ˈtrɒpɪkəl ˈklaɪmət/: (n) Khí hậu nhiệt đới (nó
 to feature /tuː ˈfiːʧər/: (v) Có, bao gồm, nổi bật với đặc điểm nào đó .Ex: The event will feature traditional music and dance performances (Sự kiện sẽ bao gồm các màn trình diễn âm nhạc và múa truyền thống)
 downpours /ˈdaʊnˌpɔːrz/: (n) Những cơn mưa lớn, mưa như trút nước .Ex: The region often experiences sudden downpours during the rainy season (Khu vực này thường gặp những cơn mưa lớn bất chợt trong mùa mưa)
 year-round /jɪər-raʊnd/: (adv/adj) Suốt cả năm .Ex: This tropical island enjoys warm weather year-round (Hòn đảo nhiệt đới này có thời tiết ấm áp quanh năm)
-
 bulky /ˈbʌlki/: (adj) Cồng kềnh, to lớn, khó di chuyển hoặc xử lý .Ex: The package was too bulky to fit into the car trunk (Gói hàng quá cồng kềnh để đặt vừa vào cốp xe)
 transistors /trænˈzɪstərz/: (n) Transistor (linh kiện bán dẫn được sử dụng để khuếch đại hoặc chuyển đổi tín hiệu điện) .Ex: Transistors revolutionized the electronics industry by enabling smaller and more efficient devices (Transistor đã cách mạng hóa ngành điện tử bằng cách cho phép tạo ra các thiết bị nhỏ gọn và hiệu quả hơn)
 integrated circuits /ˈɪntɪˌɡreɪtɪd ˈsɜːrkɪts/: (n) Mạch tích hợp (IC), tập hợp các linh kiện điện tử trên một chip nhỏ gọn .Ex: Integrated circuits are the building blocks of modern computers and smartphones (Mạch tích hợp là nền tảng của các máy tính và điện thoại thông minh hiện đại)
