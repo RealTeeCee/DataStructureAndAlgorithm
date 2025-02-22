@@ -2126,21 +2126,21 @@ distinguish /dis'tiɳgwiʃ/: phân biệt
 exudes /ig'zju:d/: rò rỉ, ứa; thấm rỉ
 authenticity /,ɔ:θen'tisidi/: tính đúng thật, tính xác thực
 unwavering /ˌənˈwāv(ə)riNG/: không lay chuyển; vững vàng
-well-being /wel'bi:iNG/: sự thịnh vượng; hạnh phúc; phúc lợi
+well-being /wel'bi:iNG/: (n) sự thịnh vượng; hạnh phúc; phúc lợi
 beneath /bi'ni:θ/: ở dưới thấp, ở dưới
 unassuming /'ʌnə'sju:miɳ/: Khiêm tốn, khiêm nhường
-demeanor /dəˈmēnər/: cách xử xự; thái độ
+demeanor /dəˈmēnər/: (n) cách xử xự; thái độ
 wealth /welθ/: sự giàu có, sự giàu sang; sự phong phú
 wealth of knowledge //: sự giàu kiến thức
 insight /'insait/: sự sáng suốt, minh mẩn; có cái nhìn thấu suốt
 coupled with //: kết hợp với, liên kết với
 genuine /'dʤenjuin/: thành thật, chân thật
-thrive /θraiv/: phát triển thịnh vượng, phát đạt; lớn lên
+thrive /θraiv/: (v) phát triển thịnh vượng, phát đạt; lớn lên
 steadfast /'stedfəst/: kiên định, vững chắc
 unparalleled /unparalleled/: vô song; không bì được, ko so sánh được
-consistently /kənˈsistən(t)lē/: nhất quán
+consistently /kənˈsistən(t)lē/: (adv) nhất quán
 be counted on to //: được tính vào
-empathy /'empəθi/: (tâm lý học) sự thấu cảm, sự đồng cảm
+empathy /'empəθi/: (n) (tâm lý học) sự thấu cảm, sự đồng cảm
 compassion /kəm'pæʃn/: lòng thương, lòng trắc ẩn
 empower /im'pauə/: làm cho có thể; trao quyền
 embody /im'bɔdi/: là hiện thân của; là biểu hiện của
@@ -2150,7 +2150,7 @@ invaluable /in'væljuəbl/: vô giá
 mentor /'mentɔ:/: người hướng dẫn, cố vấn; người thầy
 role model /ˈrōl ˌmäd(ə)l/: hình mẫu
 extend far beyond //: mở rộng xa hơn, vượt ra ngoài cái gì đó. Thường được sử dụng để chỉ sự ảnh hưởng hoặc phạm vi của một cái gì đó trải rộng ra ngoài mức độ thông thường hoặc dự kiến. Ex: His influence extends far beyond his immediate circle of friends (Tác động của anh ấy mở rộng ra xa hơn ngoài vòng bạn bè ngay lân cận của mình) The consequences of climate change extend far beyond environmental degradation (Hậu quả của biến đổi khí hậu lan rộng ra ngoài sự suy thoái môi trường)
-tenure /'tenjuə/: nhiệm kỳ; sự chiếm hữu, sự hưởng dụng; sự tại chức
+tenure /'tenjuə/: (n) nhiệm kỳ; sự chiếm hữu, sự hưởng dụng; sự tại chức
 tenure for life //: quyền sở hữu trọn đời
 versatile /'və:sətail/: uyên bác; có nhiều tài năng khác nhau
 cater to /'keitə/: phục vụ cho, cung cấp cho
@@ -2339,7 +2339,7 @@ resilient (a) /rɪˈzɪlyənt/: kiên cường
 aim /eɪm/:  (v) đặt mục tiêu, ám chỉ; nhắm bắn (n) mục tiêu
 proactive (a) /proʊˈæktɪv/: chủ động
 presence (n) /ˈprɛzns/: sự hiện diện
-institution (n) /ˌɪnstəˈtuʃn/: Tổ chức (lớn, ex: educational/financial, etc. )
+institution (n) /ˌɪnstəˈtuʃn/: Tổ chức (lớn, vd: educational/financial, etc. )
 utilize (v) /ˈyut̮lˌaɪz/: sử dụng (to use something, especially for a practical purpose)
 undergo (v) /ˌʌndərˈɡoʊ/: Trải qua, trong quá trình (v_ing), chịu
 revamp (v) /ˌriˈvæmp/: cải tạo, cải tiến
@@ -5188,7 +5188,6 @@ express gratitude at shrine //: (v phrase) Bày tỏ lòng biết ơn tại bàn
 festive /ˈfɛstɪv/: (adj) Mang không khí lễ hội, vui tươi .Ex: The streets are decorated with lights and look very festive during the holidays (Các con phố được trang trí bằng đèn và trông rất rực rỡ trong kỳ nghỉ lễ)
 buzz with /bʌz wɪð/: (phrasal verb) Đầy ắp sự nhộn nhịp, hoạt động, hoặc cảm giác phấn khởi .Ex: The market is buzzing with shoppers preparing for Tet (Khu chợ tràn đầy sự nhộn nhịp của người mua sắm chuẩn bị cho Tết)
 adding its own special touch //: (phrase) Thêm vào đó nét đặc biệt riêng, tạo điểm nhấn riêng biệt .Ex: Every family decorates their home differently, adding its own special touch to the celebration (Mỗi gia đình trang trí ngôi nhà theo cách riêng, thêm vào nét đặc biệt của họ cho lễ hội)
-
 with temperature dropping to //: (phrase) Với nhiệt độ giảm xuống đến mức.. .Ex: In the mountains, winter can be harsh, with temperatures dropping to below freezing (Ở vùng núi, mùa đông có thể khắc nghiệt với nhiệt độ giảm xuống dưới mức đóng băng)
 mild temperatures /maɪld ˈtɛmpərəʧərz/: (n) Nhiệt độ ôn hòa, dễ chịu .Ex: Spring in this region is known for its mild temperatures and blooming flowers (Mùa xuân ở khu vực này nổi tiếng với nhiệt độ ôn hòa và hoa nở rộ)
 tropical climate /ˈtrɒpɪkəl ˈklaɪmət/: (n) Khí hậu nhiệt đới (nóng ẩm quanh năm, thường có mưa lớn theo mùa) .Ex: Vietnam has a tropical climate, characterized by high humidity and heavy rainfall (Việt Nam có khí hậu nhiệt đới, đặc trưng bởi độ ẩm cao và mưa lớn)

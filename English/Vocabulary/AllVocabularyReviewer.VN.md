@@ -106,7 +106,7 @@ giặt ủi:
 giỏ đựng đồ giặt: 
  máy sấy: 
 quạ: 
-hết ... đến ... khác: 
+hết  đến  khác: 
 hết bước này đến bước khác: 
 do dự: 
 đế chế: 
@@ -242,7 +242,7 @@ trong khi:
 
 
 cùng lúc đó: 
-# Emphasizes what is happening at the same time. Can be use for "contrast", "simultaneous", "sequential" but most common use for "contrast" - meanwhile thường dùng nhiều nhất với 2 hành động trái ngược nhau
+# Emphasizes what is happening at the same time Can be use for "contrast", "simultaneous", "sequential" but most common use for "contrast" - meanwhile thường dùng nhiều nhất với 2 hành động trái ngược nhau
 
 
 hợp với (sth), đồng ý với (someone): 
@@ -253,7 +253,7 @@ nhiều, một số; thuộc nhiều loại khác nhau:
 đông lại: 
 hút ráo, làm khô lại: 
 có thể lây lan: 
-đồ ăn phết được (mứt, bơ, ...): 
+đồ ăn phết được (mứt, bơ, ): 
 mang tính cách mạng: 
 mang tính nghi thức: 
 lễ tưởng niệm, nghi lễ: 
@@ -346,7 +346,7 @@ high (cirro-, cirrus), middle (alto-), multi-level (nimbo-, cumulo-, cumulus), a
 mây quyển (high) a type of light cloud that forms high in the sky: 
 mây tích (multi-level - form low to high) a type of thick white cloud: 
 Mây tầng (low): 
-(khí tượng) mây mưa, mây dông. quầng (mặt trăng, mặt trời): 
+(khí tượng) mây mưa, mây dông quầng (mặt trăng, mặt trời): 
 chiếu, thảm: 
 thảm picnic: 
 tấm ga giường: 
@@ -812,7 +812,7 @@ gọt, bóc vỏ, lột:
 vỏ chuối: 
 (v) đánh đu (n) cái đu, sự đu đưa: 
 (v) bắn, ném rổ (basketball), sút (football): 
-(n) phát đạn, phát bắn; viên đạn; sự trả tiền. phiếu tính tiền; phần tiền của mình phải trả: 
+(n) phát đạn, phát bắn; viên đạn; sự trả tiền phiếu tính tiền; phần tiền của mình phải trả: 
 (n) kiểm tra toàn diện, khám nghiệm: 
 (v) vỗ tay hoan nghênh, tán thưởng: 
 (n) tràn vỗ tay, tiếng vỗ tay: 
@@ -873,7 +873,7 @@ quyết định:
 người quyết định đội: 
 sạch sẽ, ngăn nắp, gọn gàng: 
 chiến lược: 
-quan sát, nhận xét, theo dõi; cử hành, làm (lễ kỷ niệm...); (+ on) nhận xét: 
+quan sát, nhận xét, theo dõi; cử hành, làm (lễ kỷ niệm); (+ on) nhận xét: 
 (thể dục,thể thao) cuộc cạnh tranh, giải đấu: 
 toàn bộ, toàn thể, toàn vẹn, hoàn toàn: 
 chôn vùi, tràn, làm ngập; áp đảo, lấn át: 
@@ -890,7 +890,7 @@ hình dáng; sơ đồ; nhân vật:
 tổ ong: 
 huống hồ là, chứ đừng nói đến —used especially to emphasize the improbability of a contrasting example: 
 (n) người đưa thư hoả tốc, công văn hoả tốc (a) rõ ràng; (giống) như hệt, như in: 
-diễn đạt, phát biểu ý kiến (về một vấn đề gì...): 
+diễn đạt, phát biểu ý kiến (về một vấn đề gì): 
 (n) vật thể, đồ vật (v) chống đối, phản đối: 
 (n) sự rời khỏi, sự khởi hành; sự đi trệch (hướng), sự lạc (đề); độ lệch, độ sai: 
 độ lệch tần số: 
@@ -961,7 +961,7 @@ quấn vào nhau, đan xen vào nhau, tréo với nhau, kết với nhau:
 (n) bài hướng dẫn học (a) (thuộc) sự giám hộ, (thuộc) trợ lý học tập: 
 bản thử nghiệm; điều thử thách, gian nan: 
 chống cự, kháng cự, đề kháng; có sức chịu đựng, có sức bền: 
-(v) phổ biến (một vấn đề); làm cho quen (với vấn đề gì, công việc gì...): 
+(v) phổ biến (một vấn đề); làm cho quen (với vấn đề gì, công việc gì): 
 sức ép; áp lực, sự đè nặng; high pressure: áp suất cao: 
 chồi, nụ, lộc; in bud: đang ra nụ, đang ra lộc: 
 (n) cái cưa (v) (V-2) của see (see-saw-seen): 
@@ -980,17 +980,17 @@ che cho ai khỏi mưa:
 (n) sự cố, tai nạn, tai biến; sự gồ ghề, sự khấp khểnh; by accident: tình cờ, ngẫu nhiên: 
 (n) sự cố, việc bất ngờ xảy ra, việc rắc rối (a) (+ to) vốn có; (vật lý) tới - incident ray: tia tới: 
 (n) kết quả (v) (+ from) do bởi, do mà ra; (+ in) dẫn đến, đưa đến, kết quả là: 
-(n) sự thiệt hại; (v) (= endamage /in'dæmidʤ/): gây thiệt hại; làm tổn thương (danh dự...): 
+(n) sự thiệt hại; (v) (= endamage /in'dæmidʤ/): gây thiệt hại; làm tổn thương (danh dự): 
 áp phích; quảng cáo: 
 hạ giá trước khi đóng cửa: 
 sự vận động, sự chuyển đông, sự di động; cử động, cử chỉ, dáng đi; (v) ra hiệu, ra ý: 
 sự mài xát, sự ma xát; sự chà xát; sự xích mích: 
 phần bù, phần bổ sung; bổ ngữ; (toán học) phần bù (góc bù): 
 (v) điều khiển (n) sự cầm lái, sự điều khiển: 
-bộ điều chỉnh; người kiểm soát; (= comptroller) quản lý, trưởng ban quản trị (bệnh viện, trường học, doanh trại quân đội...): 
+bộ điều chỉnh; người kiểm soát; (= comptroller) quản lý, trưởng ban quản trị (bệnh viện, trường học, doanh trại quân đội): 
 tìm ra; tính toán ra được: 
 đường ghi âm (phim, game, ghi âm); nhạc (phim, game, ghi âm): 
-vụ nổ, tiếng nổ; luồng hơi (bễ lò), hơi (bom...); (v) làm nổ tung, phá (bằng mìn); phá hoại, làm tan vỡ (hạnh phúc): 
+vụ nổ, tiếng nổ; luồng hơi (bễ lò), hơi (bom); (v) làm nổ tung, phá (bằng mìn); phá hoại, làm tan vỡ (hạnh phúc): 
 (a) hoài cổ, nhớ nhà, nhớ quê hương; luyến tiếc: 
 hoài cổ đích thực: 
 giả lập, bộ mô phỏng; người giả vờ, người giả cách, vờ vịt: 
@@ -999,7 +999,7 @@ ma quái, như ma quỷ:
 thời niên thiếu, thiếu niên, tuổi trẻ, thanh xuân: 
 công trình kiến trúc, cấu trúc; khoa kiến trúc: 
 vật bỏ đi, rác rưởi; chuyện tầm phào, nhảm nhí: 
-vượt qua, khắc phục (khó khăn...): 
+vượt qua, khắc phục (khó khăn): 
 sự truyền cảm; sự cảm hứng; sự hít vào, sự thở vào: 
 trì hoãn: 
 người quản trị, quản trị viên: 
@@ -1021,7 +1021,7 @@ hít vào:
 thở ra: 
 phổi: 
 xương sống: 
-cái vòng; cái vành, cái đai; vòng váy; (v) đóng đai (thùng...): 
+cái vòng; cái vành, cái đai; vòng váy; (v) đóng đai (thùng): 
 cái vòng bóng rổ, đai sắt bóng rổ: 
 con bọ rùa, bọ cánh cam: 
 ấu trùng: 
@@ -1084,7 +1084,7 @@ lầy lội:
 đầu hàng; giao nộp thân mình;: 
 sinh một đứa con: 
 giao trả, chuyển giao, chuyển nhượng: 
- biểu diễn, trình bày (kịch, điệu nhảy...); làm (công việc...); thực hiện (lời hứa...); thi hành (lệnh); cử hành (lễ); hoàn thành (nhiệm vụ): 
+ biểu diễn, trình bày (kịch, điệu nhảy); làm (công việc); thực hiện (lời hứa); thi hành (lệnh); cử hành (lễ); hoàn thành (nhiệm vụ): 
 hiệu suất; chất lượng: 
 (n) sự nghi ngờ, sự ngờ vực; (v) nghi ngờ, ngờ vực;: 
 tiền nhập học, tiền vào cửa; sự thu nạp vào, sự kết nạp; sự thú nhận: 
@@ -1112,9 +1112,9 @@ bất đồng với; trái lại, trái ngược với:
 ngày nghỉ: 
 hiệu lực, hiệu quả, tác dụng: 
 hiệu ứng đặc biệt: 
-thể loại, loại (nghệ thuật, văn học, âm nhạc, phim ảnh. Ví dụ: thể loại tiểu thuyết kinh điển, thể loại phim hành động, thể loại nhạc jazz.): 
-thể loại, phân loại (phân loại cụ thể hoặc một nhóm nhỏ các đối tượng hoặc sự kiện có các đặc điểm chung. Ví dụ: các loại hình thực vật, các loại hình sản phẩm, các loại hình ngôn ngữ.): 
- Loại, giống loài (phân loại dựa trên các đặc điểm tự nhiên hoặc thuộc tính chung. Ví dụ: các loại hình động vật, các loại hình tự nhiên, các loại hình của ý thức.): 
+thể loại, loại (nghệ thuật, văn học, âm nhạc, phim ảnh Ví dụ: thể loại tiểu thuyết kinh điển, thể loại phim hành động, thể loại nhạc jazz): 
+thể loại, phân loại (phân loại cụ thể hoặc một nhóm nhỏ các đối tượng hoặc sự kiện có các đặc điểm chung Ví dụ: các loại hình thực vật, các loại hình sản phẩm, các loại hình ngôn ngữ): 
+ Loại, giống loài (phân loại dựa trên các đặc điểm tự nhiên hoặc thuộc tính chung Ví dụ: các loại hình động vật, các loại hình tự nhiên, các loại hình của ý thức): 
 địa điểm, chỗ, vị trí; dấu, đốm, vết: 
 cọc đóng, cọc gỗ; cổ phần: 
 cành cây: 
@@ -1134,9 +1134,9 @@ xấp xỉ, gần đúng; (+ to) gần gũi:
 cô ấy gần gũi với tôi: 
 một vài, nhiều; riêng biệt, tách rời; khác nhau, riêng lẻ: 
 di sản (bao gồm ảnh hưởng, đóng góp hoặc tài sản một người để lại sau khi họ qua đời): 
-di sản (bao gồm tài sản, bất động sản, tiền mặt,.. là một phần của legacy): 
+di sản (bao gồm tài sản, bất động sản, tiền mặt, là một phần của legacy): 
 bất động sản riêng biệt: 
-(nghĩa chính) sự kế thừa (pháp lý, sinh học, toán học, ..); di sản (tài sản được kế thừa = estate);: 
+(nghĩa chính) sự kế thừa (pháp lý, sinh học, toán học, ); di sản (tài sản được kế thừa = estate);: 
 di sản (chủ yếu về giá trị, truyền thống và di sản văn hóa kế thừa từ các thế hệ trước đó): 
 dịch vụ; ban, vụ, sở, cục, ngành: 
 sự choáng váng; tình trạng bất tỉnh; sự kinh ngạc (v) làm choáng váng; làm sửng sốt, làm kinh ngạc: 
@@ -1169,7 +1169,7 @@ quả đào:
 sự tổn hại động vật hoang dã: 
 giống, loài: 
 (a) chặt, khít; chật, bó sát (n) áo ôm sát vào mình, đồ bộ bó: 
-(v) nắm chặt, kẹp chặt; nắm vững (kiến thức...); (n) tay phanh; sự nắm chặt; sự nắm vững: 
+(v) nắm chặt, kẹp chặt; nắm vững (kiến thức); (n) tay phanh; sự nắm chặt; sự nắm vững: 
 chống nước; không thấm nước: 
 lỗ phun nước: 
 cá heo mũi chai: 
@@ -1195,36 +1195,36 @@ liên quan; dính líu; (a) involved: rắc rối, phức tạp; bị liên lu
 mảnh vườn hoa, khuôn vườn hoa; giường hoa: 
 cái bình, cái lọ: 
 chất dẻo; nhựa: 
-cái đựng, cái chứa (chai, lọ, bình, thành, hộp...); côngtenơ: 
+cái đựng, cái chứa (chai, lọ, bình, thành, hộp); côngtenơ: 
 vật chứa nhựa; thùng chứa nhựa: 
 bộ cửa kính, bộ kính màu: 
-(v) làm hư, làm hỏng; chiều hư; thối, ươn (quả, cá...) (n) đất đá đào lên, đất bùn nạo vét lên: 
-(a) hư hỏng, bị chiều hư; thối, ươn (quả, cá...), thực phẩm bị hư, hỏng (sữa, ..): 
+(v) làm hư, làm hỏng; chiều hư; thối, ươn (quả, cá) (n) đất đá đào lên, đất bùn nạo vét lên: 
+(a) hư hỏng, bị chiều hư; thối, ươn (quả, cá), thực phẩm bị hư, hỏng (sữa, ): 
 (a) thối rữa, hư thối bốc mùi: 
 hỗn hợp: 
 (v) làm tan chảy: 
 làm phẳng: 
 nghề làm thủy tinh: 
-tầm nhìn. Khả năng nhìn thấy những điều không thể nhìn thấy bằng mắt thường: 
-thị lực, thị giác; quang cảnh. khả năng nhìn thấy của các loài động vật: 
+tầm nhìn Khả năng nhìn thấy những điều không thể nhìn thấy bằng mắt thường: 
+thị lực, thị giác; quang cảnh khả năng nhìn thấy của các loài động vật: 
 làm hoảng sợ, làm sợ: 
 chỉ đạo, thực hiện: 
 khăn trải bàn: 
 tác phẩm nghệ thuật: 
 đồ đạc (trong nhà); phụ tùng đồ gỗ: 
-(v) điêu khắc. Tạo hình ba chiều bằng cách cắt hoặc tạo hình từ vật liệu như đất sét, gỗ hoặc đá: 
-(v) khắc, trổ, chạm. Tạo hình vẽ hoặc văn bản bằng cách cắt sâu vào bề mặt, thường sử dụng trên kim loại hoặc gỗ: 
+(v) điêu khắc Tạo hình ba chiều bằng cách cắt hoặc tạo hình từ vật liệu như đất sét, gỗ hoặc đá: 
+(v) khắc, trổ, chạm Tạo hình vẽ hoặc văn bản bằng cách cắt sâu vào bề mặt, thường sử dụng trên kim loại hoặc gỗ: 
 xứ sở thần tiên; thế giới diệu kì: 
-(a) nổi bật, xuất sắc. Có chất lượng hoặc giá trị đặc biệt, vượt trội so với những cái khác: 
-(a) tuyệt vời, tuyệt diệu. Rất tốt hoặc ấn tượng, thường gây ấn tượng mạnh mẽ và liên quan đến vẻ đẹp, phong cách và sự nổi bật: 
-(a) lộng lẫy, đẹp đẽ. Thường ám chỉ đến vẻ đẹp rất đặc biệt và gây ấn tượng mạnh mẽ. hoặc hấp dẫn về mặt hình thức: 
-(a) đặc biệt, xuất chúng, phi thường. Ngoại lệ hoặc vượt trội so với các trường hợp khác: 
-(a) cực kì ấn tượng; đáng kinh ngạc, rất cừ khôi. Làm cho ai đó hoặc cái gì đó ngạc nhiên hoặc choáng ngợp về mặt trình diễn hoặc hiệu suất: 
-(a) đáng kinh ngạc, tuyệt vời. Rất ấn tượng hoặc gây ấn tượng mạnh mẽ. Thường được sử dụng để diễn đạt sự kinh ngạc và sự ngạc nhiên, thường với ý nghĩa của sự tuyệt vời và đáng kinh ngạc: 
+(a) nổi bật, xuất sắc Có chất lượng hoặc giá trị đặc biệt, vượt trội so với những cái khác: 
+(a) tuyệt vời, tuyệt diệu Rất tốt hoặc ấn tượng, thường gây ấn tượng mạnh mẽ và liên quan đến vẻ đẹp, phong cách và sự nổi bật: 
+(a) lộng lẫy, đẹp đẽ Thường ám chỉ đến vẻ đẹp rất đặc biệt và gây ấn tượng mạnh mẽ hoặc hấp dẫn về mặt hình thức: 
+(a) đặc biệt, xuất chúng, phi thường Ngoại lệ hoặc vượt trội so với các trường hợp khác: 
+(a) cực kì ấn tượng; đáng kinh ngạc, rất cừ khôi Làm cho ai đó hoặc cái gì đó ngạc nhiên hoặc choáng ngợp về mặt trình diễn hoặc hiệu suất: 
+(a) đáng kinh ngạc, tuyệt vời Rất ấn tượng hoặc gây ấn tượng mạnh mẽ Thường được sử dụng để diễn đạt sự kinh ngạc và sự ngạc nhiên, thường với ý nghĩa của sự tuyệt vời và đáng kinh ngạc: 
 phục hồi; hoàn nguyên, xây dựng lại: 
 sự chính xác; tính đúng, tính chính xác;: 
 kiệt tác, tác phẩm lớn: 
-cực kỳ xúc phạm; cực kỳ phóng đại hoặc không thể xảy ra; rất táo bạo, khác thường (ít dùng). thường được sử dụng để diễn đạt sự bất ngờ hoặc phản đối mạnh mẽ: 
+cực kỳ xúc phạm; cực kỳ phóng đại hoặc không thể xảy ra; rất táo bạo, khác thường (ít dùng) thường được sử dụng để diễn đạt sự bất ngờ hoặc phản đối mạnh mẽ: 
 Giá cả ở nhà hàng đó quá mức!: 
 sự biên soạn, sự biên tập: 
 cuộc điều tra; sự điều tra nghiên cứu: 
@@ -1262,7 +1262,7 @@ lửa trại:
 nhận xét, phản hồi; sự liên hệ ngược; (y học) hồi tiếp: 
 người ghi chép; người sao chép bản thảo: 
 Cấp, phát hành (v), vấn đề (n): 
-(v) Trải qua, học hỏi ..., (n) Kinh nghiệm, trải nghiệm, sự từng trải: 
+(v) Trải qua, học hỏi , (n) Kinh nghiệm, trải nghiệm, sự từng trải: 
 Thuốc giải độc: 
 Sự buồn chán: 
 Sự phân công: 
@@ -1308,24 +1308,24 @@ Cắt, ngắt:
 quản lý, làm việc mà không cần có ai đó hoặc cái gì đó hiện diện: 
 Ghé vào: 
  Tìm ra: 
-thích, lựa chọn nghiêng về phía .. Thường được sử dụng để chỉ việc chọn lựa hoặc quyết định thực hiện một hành động hoặc mục tiêu cụ thể: 
-cảm thấy thích. Thường được sử dụng để diễn đạt sự mong muốn hoặc sở thích của bạn vào một thời điểm nhất thờ: 
-thích. Thường được sử dụng để chỉ sự ưa thích hoặc yêu thích một cái gì đó một cách tổng quát, không cần liên kết với một thời điểm cụ thể. Ví dụ: "I like reading books" (Tôi thích đọc sách): 
+thích, lựa chọn nghiêng về phía  Thường được sử dụng để chỉ việc chọn lựa hoặc quyết định thực hiện một hành động hoặc mục tiêu cụ thể: 
+cảm thấy thích Thường được sử dụng để diễn đạt sự mong muốn hoặc sở thích của bạn vào một thời điểm nhất thờ: 
+thích Thường được sử dụng để chỉ sự ưa thích hoặc yêu thích một cái gì đó một cách tổng quát, không cần liên kết với một thời điểm cụ thể Ví dụ: "I like reading books" (Tôi thích đọc sách): 
 
-Tiếp tục. Thường ám chỉ việc tiếp tục một sự kiện hoặc hành động cụ thể: 
-1. Thông thường:
+Tiếp tục Thường ám chỉ việc tiếp tục một sự kiện hoặc hành động cụ thể: 
+1 Thông thường:
 
-2. Đàm thoại: 
+2 Đàm thoại: 
 
 
-Tiếp tục. Thường nhấn mạnh vào việc tiếp tục một hành động một cách kiên nhẫn và quyết tâm: 
-1. Thông thường: 
+Tiếp tục Thường nhấn mạnh vào việc tiếp tục một hành động một cách kiên nhẫn và quyết tâm: 
+1 Thông thường: 
 Even though it was raining, they decided to carry on with their journey (Mặc dù trời đang mưa, họ quyết định tiếp tục hành trình của mình)
-2. Đàm thoại: 
+2 Đàm thoại: 
 
 
-Tiếp tục. Thường ám chỉ việc tiếp tục một hành động trong một khoảng thời gian dài: 
-1. Thông thường: 
+Tiếp tục Thường ám chỉ việc tiếp tục một hành động trong một khoảng thời gian dài: 
+1 Thông thường: 
 
 
 Giao , nộp: 
@@ -1405,7 +1405,7 @@ thợ hàn:
 thợ sơn; họa sĩ: 
 huấn luyện viên; người dạy (súc vật): 
 thợ in; máy in: 
-chiêu đãi viên (trên máy bay, trên tàu thuỷ); uỷ viên ban tổ chức (một cuộc đua ngựa, một cuộc khiêu vũ...): 
+chiêu đãi viên (trên máy bay, trên tàu thuỷ); uỷ viên ban tổ chức (một cuộc đua ngựa, một cuộc khiêu vũ): 
 nhà phẫu thuật, bác sĩ phẫu thuật: 
 vận động viên: 
 người ăn mày, người ăn xin: 
@@ -1493,16 +1493,16 @@ không cần đến; quản lý, làm việc mà không cần có ai đó hoặc
 giống: 
 (1) yêu cầu, cần gì đó: 
 bệnh tật, căn bệnh: 
-khả năng xảy ra. thường được sử dụng để mô tả mức độ tin cậy hoặc khả năng của một sự kiện, thường được diễn đạt bằng cụm từ như "high likelihood" (khả năng cao) hoặc "low likelihood" (khả năng thấp: 
-khả năng, năng lực. thường liên quan đến khả năng kỹ thuật, tài chính hoặc vận động để thực hiện điều gì đó: 
-xác suất. khái niệm toán học để đo lường mức độ mà một sự kiện cụ thể sẽ xảy ra. There is a 70% probability of winning the lottery (Có xác suất 70% để trúng số trong xổ số): 
+khả năng xảy ra thường được sử dụng để mô tả mức độ tin cậy hoặc khả năng của một sự kiện, thường được diễn đạt bằng cụm từ như "high likelihood" (khả năng cao) hoặc "low likelihood" (khả năng thấp: 
+khả năng, năng lực thường liên quan đến khả năng kỹ thuật, tài chính hoặc vận động để thực hiện điều gì đó: 
+xác suất khái niệm toán học để đo lường mức độ mà một sự kiện cụ thể sẽ xảy ra There is a 70% probability of winning the lottery (Có xác suất 70% để trúng số trong xổ số): 
 nhân tố; hệ số: 
 thuốc lá: 
 contract: (n) hợp đồng, giao kèo; khế ước; (v) ký kết, kết ước; làm teo lại; tiêm nhiễm
 (y học) chế độ ăn kiêng; chế độ ăn uống: 
 liên quan đến chế độ ăn uống: 
-làm gián đoạn. Thường gây ra sự gián đoạn hoặc làm rối loạn, làm cho việc tiếp tục trở nên khó khăn hoặc không thể: 
-ngắt, gián đoạn. Thường liên quan đến việc cắt ngang một quá trình hoặc một trạng thái hiện tại bằng cách chen ngang vào: 
+làm gián đoạn Thường gây ra sự gián đoạn hoặc làm rối loạn, làm cho việc tiếp tục trở nên khó khăn hoặc không thể: 
+ngắt, gián đoạn Thường liên quan đến việc cắt ngang một quá trình hoặc một trạng thái hiện tại bằng cách chen ngang vào: 
 (v) chứng minh: 
 (n) bằng chứng, vật chứng; làm chống chịu được (waterproof - chống nước): 
 (n) nhân chứng: 
@@ -1511,18 +1511,18 @@ sẵn sàng trước; Làm trước; đoán trước; biết trước:
 viết hay: 
 bảy môn phối hợp nữ: 
 đài, vòi phun nước (công viên): 
-ngày này qua ngày khác. Thường dùng mô tả các hoạt động hoặc trạng thái kéo dài qua thời gian một cách liên tục: 
-ngày qua ngày. Thường dùng mô tả sự thay đổi từng chút một theo thời gian: 
+ngày này qua ngày khác Thường dùng mô tả các hoạt động hoặc trạng thái kéo dài qua thời gian một cách liên tục: 
+ngày qua ngày Thường dùng mô tả sự thay đổi từng chút một theo thời gian: 
 có năng lực, thông thạo; (pháp lý) có thẩm quyền: 
-người xem, khán giả. thường ám chỉ những người xem một sự kiện cụ thể, như một trận đấu thể thao, một buổi biểu diễn nghệ thuật hoặc một sự kiện trên sân khấu, không tham gia trực tiếp vào sự kiện và thường là người xem từ xa: 
-độc giả, khán giả. thường ám chỉ những người xem một sự kiện hoặc biểu diễn trực tiếp. thường không chỉ đơn thuần là người xem mà còn có thể bao gồm những người tham gia một cách trực tiếp trong sự kiện đó, nhưng vẫn tiếp tục đóng vai trò là người quan sát: 
-người quan sát. một thuật ngữ rộng hơn, ám chỉ đến bất kỳ ai đang quan sát hoặc theo dõi một sự kiện.  có thể là một nhà nghiên cứu, một nhà quan sát xã hội hoặc bất kỳ ai đang thực hiện việc quan sát để thu thập thông tin hoặc hiểu biết. The observers noted the behavior of the animals in their natural habitat (Các nhà quan sát ghi nhận hành vi của các loài động vật trong môi trường sống tự nhiên của chúng): 
+người xem, khán giả thường ám chỉ những người xem một sự kiện cụ thể, như một trận đấu thể thao, một buổi biểu diễn nghệ thuật hoặc một sự kiện trên sân khấu, không tham gia trực tiếp vào sự kiện và thường là người xem từ xa: 
+độc giả, khán giả thường ám chỉ những người xem một sự kiện hoặc biểu diễn trực tiếp thường không chỉ đơn thuần là người xem mà còn có thể bao gồm những người tham gia một cách trực tiếp trong sự kiện đó, nhưng vẫn tiếp tục đóng vai trò là người quan sát: 
+người quan sát một thuật ngữ rộng hơn, ám chỉ đến bất kỳ ai đang quan sát hoặc theo dõi một sự kiện  có thể là một nhà nghiên cứu, một nhà quan sát xã hội hoặc bất kỳ ai đang thực hiện việc quan sát để thu thập thông tin hoặc hiểu biết The observers noted the behavior of the animals in their natural habitat (Các nhà quan sát ghi nhận hành vi của các loài động vật trong môi trường sống tự nhiên của chúng): 
 
 đam mê, say mê; hăng hái, nhiệt tình: 
 ghen tị; ghen tuông; đố kỵ: 
-cơ thể vóc người, vóc dáng người. thường ám chỉ đến hình dáng hoặc cấu trúc cơ thể của một người, đặc biệt là về mặt cơ bắp và thể chất. thường mô tả các đặc điểm về cơ thể, như sức mạnh, thể trạng, hoặc hình dáng tổng thể:: 
-hình dáng, dáng người; sơ đồ; nhân vật. thường ám chỉ đến hình dáng nữ giới, đặc biệt là về tỉ lệ giữa vòng eo, vòng hông và vòng mông. thường được mô tả sự hấp dẫn hoặc tỉ lệ của hình dáng người phụ n: 
-dáng (người), hình dạng. ám chỉ hình dáng tổng thể của một vật thể hoặc một phần của cơ thể không chỉ giới hạn trong ngữ cảnh của con người. Trong ngữ cảnh của con người thường ám chỉ đến hình dáng tổng thể của cơ thể, bao gồm cả cân nặng, chiều cao và tỉ lệ cơ thể: 
+cơ thể vóc người, vóc dáng người thường ám chỉ đến hình dáng hoặc cấu trúc cơ thể của một người, đặc biệt là về mặt cơ bắp và thể chất thường mô tả các đặc điểm về cơ thể, như sức mạnh, thể trạng, hoặc hình dáng tổng thể:: 
+hình dáng, dáng người; sơ đồ; nhân vật thường ám chỉ đến hình dáng nữ giới, đặc biệt là về tỉ lệ giữa vòng eo, vòng hông và vòng mông thường được mô tả sự hấp dẫn hoặc tỉ lệ của hình dáng người phụ n: 
+dáng (người), hình dạng ám chỉ hình dáng tổng thể của một vật thể hoặc một phần của cơ thể không chỉ giới hạn trong ngữ cảnh của con người Trong ngữ cảnh của con người thường ám chỉ đến hình dáng tổng thể của cơ thể, bao gồm cả cân nặng, chiều cao và tỉ lệ cơ thể: 
 áp dụng lên, mang lại (một sức mạnh, ảnh hưởng hoặc chất lượng): 
 cố gắng, rán sức: 
 (y học) chứng ruột rút; (a) bị chuột rút: 
@@ -1530,8 +1530,8 @@ sự bong gân:
 nước máy: 
 (thực vật) nhụy hoa: 
 (thực vật học) thân củ, củ; nấm cục, nấm truýp: 
-sự tiện nghi, thoải mái; sự an nhàn; sự an ủi. thường ám chỉ đến sự thoải mái và tiện lợi trong cảm giác về tinh thần hoặc vật chất: 
-sự thuận tiện. thường ám chỉ đến sự thuận tiện hoặc dễ dàng trong việc thực hiện một nhiệm vụ nào đó mà không gặp phải sự rắc rối hoặc bất tiện: 
+sự tiện nghi, thoải mái; sự an nhàn; sự an ủi thường ám chỉ đến sự thoải mái và tiện lợi trong cảm giác về tinh thần hoặc vật chất: 
+sự thuận tiện thường ám chỉ đến sự thuận tiện hoặc dễ dàng trong việc thực hiện một nhiệm vụ nào đó mà không gặp phải sự rắc rối hoặc bất tiện: 
 công bố; ban bố; xuất bản: 
 (âm nhạc) đàn clavico: 
 (thơ ca) dây đàn; (toán học) dây cung; (giải phẫu) dây, thừng: 
@@ -1544,9 +1544,9 @@ sự phát hiện ra, sự nhận diện ra; sự nhận dạng; nét để nh�
 khía cạnh; mặt; vẻ, bề ngoài; diện mạo: 
 (v) gập lại, gấp nếp lại; (n) nếp gấp: 
 (v) mở ra, trải ra; bày tỏ, để lộ, bộc lộ: 
-chung, công, công cộng; thường, thông thường, phổ thông. mô tả cái gì đó xuất hiện thường xuyên hoặc được gặp phổ biến trong một tình huống hoặc cộng đồng nhất định: 
-bình thường, thông thường. mô tả cái gì đó hoạt động hoặc xuất hiện theo cách mà đa số người xem là phù hợp hoặc không gây bất ngờ: 
-giản dị bình thường, thoải mái. mô tả một phong cách không cầu kỳ hoặc không cảm thấy cứng nhắ: 
+chung, công, công cộng; thường, thông thường, phổ thông mô tả cái gì đó xuất hiện thường xuyên hoặc được gặp phổ biến trong một tình huống hoặc cộng đồng nhất định: 
+bình thường, thông thường mô tả cái gì đó hoạt động hoặc xuất hiện theo cách mà đa số người xem là phù hợp hoặc không gây bất ngờ: 
+giản dị bình thường, thoải mái mô tả một phong cách không cầu kỳ hoặc không cảm thấy cứng nhắ: 
 tôn giáo, đạo; sự tín ngưỡng: 
 sự thử; bản thử nghiệm: 
 sự sai lầm, sự sai sót, lỗi: 
@@ -1561,18 +1561,18 @@ chè; trà ô long:
 (toán học) phép nội suy: 
 ban công: 
 sự dư thừa; (văn) rườm rà: 
-cuộc thảm sát, sự tàn sát . Thường ám chỉ trong một tình huống chiến tranh hoặc một vụ tai nạn lớn, sự cố, sự kiện gây thiệt mạng nhiều người: 
-cuộc thảm sát, sự tàn sát. Thường ám chỉ một lượng lớn người bị giết mà không có sự phòng ngự hoặc có sự phản kháng ít ỏi bởi do hành động của một nhóm hoặc tổ chức: 
-những mảnh gỗ khô nhỏ, v.v. dùng để nhóm lửa: 
+cuộc thảm sát, sự tàn sát  Thường ám chỉ trong một tình huống chiến tranh hoặc một vụ tai nạn lớn, sự cố, sự kiện gây thiệt mạng nhiều người: 
+cuộc thảm sát, sự tàn sát Thường ám chỉ một lượng lớn người bị giết mà không có sự phòng ngự hoặc có sự phản kháng ít ỏi bởi do hành động của một nhóm hoặc tổ chức: 
+những mảnh gỗ khô nhỏ, vv dùng để nhóm lửa: 
 một dòng khí cháy nóng rực phát ra từ vật gì đó đang cháy: 
 rong biển: 
 cái sàng: 
 hình nón: 
 nón giấy: 
 Một chút xíu muối: 
- đồng nghiệp. thường được sử dụng để chỉ đến một người làm việc cùng một tổ chức, công ty, hoặc ngành nghề. Từ này thường được sử dụng trong một bối cảnh chuyên nghiệp: 
-bạn đồng hành, đồng nghiệp. thường được sử dụng để chỉ đến một người có cùng sở thích, quan điểm, hoặc tình cảm với người nói. thường được sử dụng trong một ngữ cảnh cá nhân hoặc gần gũi hơn Colleagu: 
-bạn cùng làm việc với nhau; bạn đồng nghiệp. thường được sử dụng để chỉ đến một người làm việc cùng một nơi làm việc hoặc trong cùng một dự án mà không cần thiết phải là trong cùng một bộ phận hoặc ngành nghề. thường ngụ ý về một mức độ sự hợp tác và tương tác hàng ngày: 
+ đồng nghiệp thường được sử dụng để chỉ đến một người làm việc cùng một tổ chức, công ty, hoặc ngành nghề Từ này thường được sử dụng trong một bối cảnh chuyên nghiệp: 
+bạn đồng hành, đồng nghiệp thường được sử dụng để chỉ đến một người có cùng sở thích, quan điểm, hoặc tình cảm với người nói thường được sử dụng trong một ngữ cảnh cá nhân hoặc gần gũi hơn Colleagu: 
+bạn cùng làm việc với nhau; bạn đồng nghiệp thường được sử dụng để chỉ đến một người làm việc cùng một nơi làm việc hoặc trong cùng một dự án mà không cần thiết phải là trong cùng một bộ phận hoặc ngành nghề thường ngụ ý về một mức độ sự hợp tác và tương tác hàng ngày: 
 điều tiết; chỉnh đốn, điều chỉnh theo mong muốn, chỉnh lại cho đúng (Dựa trên quy tắc); sắp đặt: 
 quy định, quy tắc; sự chỉnh đốn; sự sắp đặt: 
 bản phác họa (n), phác họa (v): 
@@ -1593,13 +1593,13 @@ nấm:
 thói ăn đồ ăn vặt: 
 đồ ăn vặt có đường: 
 universal leaf symbol
-cho đến hết ...  thường được sử dụng để mô tả hành động hoặc sự kiện sẽ tiếp tục xảy ra trong một khoảng thời gian dài sau một điểm nhất định: 
+cho đến hết   thường được sử dụng để mô tả hành động hoặc sự kiện sẽ tiếp tục xảy ra trong một khoảng thời gian dài sau một điểm nhất định: 
 (a) nhiều dầu mỡ; bóng bẩy (greasy smile - Nụ cười bóng bẩy): 
 bánh mì kẹp thịt béo ngậy: 
  âu yếm, ôm ấp, yêu mến: 
 thoát khỏi cơn cuồng nhiệt: 
-toàn bộ, nguyên cái. thường chỉ một cái gì đó không bị chia tách hoặc phân chia thành các phần riêng biệt. ám chỉ đến một thực thể, đối tượng hoặc khía cạnh cụ thể của một cái gì đó: 
-toàn bộ, hoàn toàn, tất cả. thường được sử dụng để nhấn mạnh tính bao phủ hoặc toàn diện của cái gì đó. Nó thường được sử dụng trong các ngữ cảnh trang trọng hoặc hình thức văn viết hơn "whole": 
+toàn bộ, nguyên cái thường chỉ một cái gì đó không bị chia tách hoặc phân chia thành các phần riêng biệt ám chỉ đến một thực thể, đối tượng hoặc khía cạnh cụ thể của một cái gì đó: 
+toàn bộ, hoàn toàn, tất cả thường được sử dụng để nhấn mạnh tính bao phủ hoặc toàn diện của cái gì đó Nó thường được sử dụng trong các ngữ cảnh trang trọng hoặc hình thức văn viết hơn "whole": 
 thực tế ảo: 
 công nghệ tiến bộ gần đây: 
 thoát, trốn khỏi, vượt ngục: 
@@ -1610,7 +1610,7 @@ mặt đối mặt:
 nhận thức, hiểu biết về một sự vật, hành động cụ thể hoặc có kiến thức, kinh nghiệm về một điều gì đó: 
 câu chuyện trước khi đi ngủ: 
 chương: 
-Loạt. thường được sử dụng để mô tả một chuỗi các sự kiện hoặc hiện tượng có liên quan hoặc tuần tự: 
+Loạt thường được sử dụng để mô tả một chuỗi các sự kiện hoặc hiện tượng có liên quan hoặc tuần tự: 
 Dãy núi Alps: 
 người Appalachia: 
 câu chuyện cảm động: 
@@ -1618,10 +1618,10 @@ sự thật:
 côn trùng: 
 gần với các cạnh ,sát mép, gần rìa: 
 ban nhạc chơi nhạc trên những chiếc trống được làm từ những thùng chứa dầu bằng kim loại rỗng: 
-từ đồ dùng đóng hộp, thực phẩm làm từ lon ..: 
-sẵn sàng sử dụng hoặc sẵn sàng để hoạt động ngay lập tức. thường ám chỉ đến tính linh hoạt hoặc khả năng làm việc ngay sau khi được mua hoặc nhận: 
-tư duy đột phá, suy nghĩ khác biệt, nghĩ rộng ra ngoài chiếc hộp. ám chỉ đến việc tìm ra các giải pháp mới, khác biệt và đột phá bằng cách tiếp cận vấn đề từ góc độ không truyền thống: 
-1. ra khỏi; 2. công khai, tiết lộ; 3. ra mắt trong xã hội hoặc trên sân khấu: 
+từ đồ dùng đóng hộp, thực phẩm làm từ lon : 
+sẵn sàng sử dụng hoặc sẵn sàng để hoạt động ngay lập tức thường ám chỉ đến tính linh hoạt hoặc khả năng làm việc ngay sau khi được mua hoặc nhận: 
+tư duy đột phá, suy nghĩ khác biệt, nghĩ rộng ra ngoài chiếc hộp ám chỉ đến việc tìm ra các giải pháp mới, khác biệt và đột phá bằng cách tiếp cận vấn đề từ góc độ không truyền thống: 
+1 ra khỏi; 2 công khai, tiết lộ; 3 ra mắt trong xã hội hoặc trên sân khấu: 
 rộng rãi, hào phóng, quảng đại; rộng lượng, khoan hồng: 
 keo kiệt, bủn xỉn: 
 giàu kinh nghiệm, từng trải, lão luyện != thiếu kinh nghiệm: 
@@ -1718,8 +1718,8 @@ sự ốm yếu bệnh tật:
 tuyệt vời, đẹp một cách ấn tượng (cảm giác ngạc nhiên hoặc thích thú về cái đẹp): 
 ngắm chim: 
 hương vị: 
-người dạy, huấn luyện viên karate. giảng dạy và hướng dẫn kỹ thuật, phù hợp với mọi cấp độ và thường xuyên hơn: 
-huấn luyện viên karate. thường tập trung vào việc huấn luyện học sinh cho các cuộc thi và cải thiện hiệu suất thi đấu. chú trọng đến việc nâng cao khả năng thi đấu, chiến thuật và tâm lý trong bối cảnh thi đấu: 
+người dạy, huấn luyện viên karate giảng dạy và hướng dẫn kỹ thuật, phù hợp với mọi cấp độ và thường xuyên hơn: 
+huấn luyện viên karate thường tập trung vào việc huấn luyện học sinh cho các cuộc thi và cải thiện hiệu suất thi đấu chú trọng đến việc nâng cao khả năng thi đấu, chiến thuật và tâm lý trong bối cảnh thi đấu: 
 bài học đấm bốc (một dạng đấm bốc có thể đá): 
 chất lượng hàng đầu, hiệu suất tốt nhất: 
 xa hơn: 
@@ -1732,7 +1732,7 @@ nhận làm con nuôi; nhận làm bố mẹ nuôi; chấp nhận và thực hi�
 áp dụng vào: 
 ngân sách: 
 sổ theo dõi dự toán: 
-(n) phần thừa lại; phần còn lại; (a) thừa lại; còn thừa; còn lại. phần còn lại hoặc một món đồ cụ thể sau khi một phần của nó đã được sử dụng hoặc tiêu thụ: 
+(n) phần thừa lại; phần còn lại; (a) thừa lại; còn thừa; còn lại phần còn lại hoặc một món đồ cụ thể sau khi một phần của nó đã được sử dụng hoặc tiêu thụ: 
 (số nhiều) thức ăn thừa: 
 loài người, nhân loại: 
 (n) khả năng tưởng tượng; hình ảnh tưởng tượng; sự huyền ảo: 
@@ -1760,7 +1760,7 @@ tận tụy, tận tâm; có tính cách chuyên môn; dành riêng:
 tạp chí; báo hàng ngày; bản ghi, báo cáo: 
 khoảng cách, tầm xa; quãng đường: 
 đề cập đến; tham khảo đến: 
-(n) sự co rúm, sự co quắp (mặt, chân tây...); chứng co giật; sự kéo mạnh, sự giật mạnh: 
+(n) sự co rúm, sự co quắp (mặt, chân tây); chứng co giật; sự kéo mạnh, sự giật mạnh: 
                 (v) giật; gây ra chuyển động giật hoặc co giật đột ngột; co rúm, co quắp
 người; vật bị co giật: 
 xa xôi: 
@@ -1770,7 +1770,7 @@ kỹ năng nấu nướng:
 minh chứng; di chúc; kinh thánh: 
 Mỗi bữa ăn trên bàn ăn của gia đình chúng tôi là minh chứng cho tài nấu nướng điêu luyện của cô: 
 gây ấn tượng mạnh mẽ; oai nghiêm, hùng vĩ, đường bệ, bệ vệ: 
-Ấn tượng bởi, cảm thấy ấn tượng hoặc áp lực bởi một điều gì đó. thường là do kích thước, hình dáng hoặc sự hiện diện mạnh mẽ: 
+Ấn tượng bởi, cảm thấy ấn tượng hoặc áp lực bởi một điều gì đó thường là do kích thước, hình dáng hoặc sự hiện diện mạnh mẽ: 
 tráng kiện, khoẻ mạnh, cường tráng: 
 thân hình cường tráng, tráng kiện: 
 vóc dáng, vóc người: 
@@ -1783,16 +1783,16 @@ nghệ nhân bậc thầy:
 phấn đấu, nỗ lục, rán sức: 
 phấn đấu để đạt thành thông, đạt được sự xuất sắc: 
 có xu hướng: 
-dựa vào. Dựa vào ai đó hoặc điều gì đó để có được sự hỗ trợ hoặc giúp đỡ: 
-phụ thuộc vào, dựa vào. phụ thuộc vào hoặc điều gì đó để có được sự hỗ trợ hoặc đáp ứng nhu cầu: 
-đặt niềm tin vào, dựa vào. Tin tưởng vào ai đó hoặc điều gì đó để có được sự hỗ trợ hoặc kết quả mong muốn: 
-dựa trên cơ sở, dựa vào. Dựa trên một cơ sở hoặc lý do cụ thể: 
+dựa vào Dựa vào ai đó hoặc điều gì đó để có được sự hỗ trợ hoặc giúp đỡ: 
+phụ thuộc vào, dựa vào phụ thuộc vào hoặc điều gì đó để có được sự hỗ trợ hoặc đáp ứng nhu cầu: 
+đặt niềm tin vào, dựa vào Tin tưởng vào ai đó hoặc điều gì đó để có được sự hỗ trợ hoặc kết quả mong muốn: 
+dựa trên cơ sở, dựa vào Dựa trên một cơ sở hoặc lý do cụ thể: 
 một cách dễ dàng: 
 đơn thuần; chỉ là: 
 như thể nó chỉ là một món đồ chơi: 
 trưng bày: 
 (a) tính nhất quán, kiên định, trước sau như một; tính rắn chắc; đặc (ruột): 
-Phù hợp với, nhất quán với. thường được dùng trong các ngữ cảnh chuyên nghiệp, học thuật hoặc kỹ thuật để chỉ ra rằng các yếu tố hoặc dữ liệu không mâu thuẫn và khớp với nhau: 
+Phù hợp với, nhất quán với thường được dùng trong các ngữ cảnh chuyên nghiệp, học thuật hoặc kỹ thuật để chỉ ra rằng các yếu tố hoặc dữ liệu không mâu thuẫn và khớp với nhau: 
 (thuộc) bắt đầu, khởi đầu: 
 vượt ra khỏi, ở xa, ở phía bên kia; cao, xa hơn nữa: 
 luôn nỗ lực hết mình: 
@@ -1801,18 +1801,18 @@ sự cam kết; lời giao kết; sự bảo chứng:
 người làm việc; nghề tự do: 
 nước mặt thoáng; ngoài khơi: 
 người giữ kỷ lục: 
-sự can đảm, sự dũng cảm, dũng khí. thường liên quan đến sức mạnh tinh thần và quyết tâm đối mặt với nỗi sợ hãi, nguy hiểm, hoặc đau khổ bằng sự quyết tâm: 
-sự dũng cảm, gan dạ. Thường nhấn mạnh vào hành động thực tế của sự dũng cảm, đặc biệt là trong các tình huống nguy hiểm hoặc thử thách: 
+sự can đảm, sự dũng cảm, dũng khí thường liên quan đến sức mạnh tinh thần và quyết tâm đối mặt với nỗi sợ hãi, nguy hiểm, hoặc đau khổ bằng sự quyết tâm: 
+sự dũng cảm, gan dạ Thường nhấn mạnh vào hành động thực tế của sự dũng cảm, đặc biệt là trong các tình huống nguy hiểm hoặc thử thách: 
 (a) can đảm: 
 (a) dũng cảm, gan dạ: 
 chiêu trò; biểu diễn kĩ xảo: 
 Một cú sút; đánh bóng xuất chúng độc đáo để thể hiện bản thân hoặc ném một quả bóng không thể thực hiện được: 
 (n) sự di chuyển, sự dời chỗ; sự truyền; sự chuyển cho; (v) dời, chuyển, dọn; (+ to) chuyển tới: 
 đám đông; the crowd: quần chúng; bọn, tụi, lũ, nhóm: 
-Bác sĩ chuyên khoa. thường là bác sĩ nội khoa (bác sĩ nội tiết, bác sĩ tim mạch, bác sĩ nhi khoa, v.v), người chuyên chẩn đoán và điều trị bệnh không phẫu thuật. thường được sử dụng ở Hoa Kỳ: 
-bác sĩ phẫu thuật. là bác sĩ chuyên về phẫu thuật, thực hiện các thủ thuật can thiệp y khoa để điều trị bệnh hoặc chấn thương: 
-bác sĩ; (ngành khác) tiến sĩ. là thuật ngữ rộng, bao gồm tất cả các loại bác sĩ (bao gồm cả physicians và surgeons). Cũng có thể chỉ những người có bằng tiến sĩ (Ph.D.) trong các lĩnh vực khác, nhưng trong ngữ cảnh y tế, nó ám chỉ các bác sĩ y khoa. She is a doctor at the local hospital (Cô ấy là bác sĩ tại bệnh viện địa phương): 
-(n) y sĩ; nhân viên y tế; người cứu thương. thường ám chỉ những người có nhiệm vụ sơ cứu và chăm sóc y tế ban đầu, chẳng hạn như nhân viên y tế quân đội hoặc nhân viên cấp cứu. Không nhất thiết phải là bác sĩ đã qua đào tạo đầy đủ, có thể là y sĩ hoặc nhân viên cấp cứu: 
+Bác sĩ chuyên khoa thường là bác sĩ nội khoa (bác sĩ nội tiết, bác sĩ tim mạch, bác sĩ nhi khoa, vv), người chuyên chẩn đoán và điều trị bệnh không phẫu thuật thường được sử dụng ở Hoa Kỳ: 
+bác sĩ phẫu thuật là bác sĩ chuyên về phẫu thuật, thực hiện các thủ thuật can thiệp y khoa để điều trị bệnh hoặc chấn thương: 
+bác sĩ; (ngành khác) tiến sĩ là thuật ngữ rộng, bao gồm tất cả các loại bác sĩ (bao gồm cả physicians và surgeons) Cũng có thể chỉ những người có bằng tiến sĩ (PhD) trong các lĩnh vực khác, nhưng trong ngữ cảnh y tế, nó ám chỉ các bác sĩ y khoa She is a doctor at the local hospital (Cô ấy là bác sĩ tại bệnh viện địa phương): 
+(n) y sĩ; nhân viên y tế; người cứu thương thường ám chỉ những người có nhiệm vụ sơ cứu và chăm sóc y tế ban đầu, chẳng hạn như nhân viên y tế quân đội hoặc nhân viên cấp cứu Không nhất thiết phải là bác sĩ đã qua đào tạo đầy đủ, có thể là y sĩ hoặc nhân viên cấp cứu: 
 (a) (thuộc) y học: 
 tình trạng sức khỏe: 
 nhớ nhà, nhớ quê hương: 
@@ -1820,11 +1820,11 @@ người nhiều kinh nghiệm hơn; người lớn tuổi; người giữ 
 đội cấp cao: 
 kỷ lục ghi bàn: 
 (n) sự sốc, sự khích động, sự đột xuất; (v) gây sốc, gây kích động, làm chướng tai gai mắt; gây giật điện: 
-lương cố định. thường được trả cho nhân viên chuyên môn hoặc quản lý. lương cố định hàng tháng hoặc hàng năm và thường không thay đổi dựa trên số giờ làm việc: 
-phụ cấp; trợ cấp; tiền tiêu vặt. thường là khoản tiền được cấp thêm bên cạnh lương hoặc tiền công cho các chi phí cụ thể (như đi lại, ăn uống) hoặc tiền tiêu vặt cho trẻ em: 
-tiền lương, tiền công. thường được trả cho lao động phổ thông hoặc công việc tính theo giờ, ngày, hoặc tuần. thường biến động tùy theo số giờ làm việc hoặc số ngày làm việc: 
+lương cố định thường được trả cho nhân viên chuyên môn hoặc quản lý lương cố định hàng tháng hoặc hàng năm và thường không thay đổi dựa trên số giờ làm việc: 
+phụ cấp; trợ cấp; tiền tiêu vặt thường là khoản tiền được cấp thêm bên cạnh lương hoặc tiền công cho các chi phí cụ thể (như đi lại, ăn uống) hoặc tiền tiêu vặt cho trẻ em: 
+tiền lương, tiền công thường được trả cho lao động phổ thông hoặc công việc tính theo giờ, ngày, hoặc tuần thường biến động tùy theo số giờ làm việc hoặc số ngày làm việc: 
 trả lương: 
-đả kích, đáp trả; tấn công. hành động tấn công hoặc phản ứng không kiểm soát được, cho thấy mức độ tức giận hoặc thất vọng cao: 
+đả kích, đáp trả; tấn công hành động tấn công hoặc phản ứng không kiểm soát được, cho thấy mức độ tức giận hoặc thất vọng cao: 
 tàu khách biển khơi, tàu du lịch: 
 chật kín, đông nghẹt, tình trạng có quá nhiều người tại một nơi: 
 sự đối đãi; sự đãi ngộ; (y học) sự điều trị; phép trị bệnh: 
@@ -1859,10 +1859,10 @@ tiết lộ bí mật:
 tán gẫu: 
 cố gắng rất nhiều: 
 đi ngủ: 
-nổi giận đùng đùng, tức giận tột độ. Chỉ sự tức giận bùng phát mạnh mẽ, rõ ràng và thể hiện ra bên ngoài: 
-cảm thấy tức giận hoặc bực bội. Chỉ trạng thái tức giận hoặc bực bội, có thể là nội tâm hoặc bên ngoài, nhưng không nhất thiết phải bùng phát mạnh mẽ có thể chỉ là căng thẳng hoặc khó chị: 
-tức giận, nổi giận đùng đùng. Thành ngữ này cũng diễn tả sự tức giận bùng nổ, thường đột ngột và mạnh mẽ, giống như một cầu chì bị cháy: 
-Mất bình tĩnh, nổi nóng. Thành ngữ này dùng để diễn tả việc ai đó trở nên tức giận và không thể kiểm soát được cảm xúc của mình: 
+nổi giận đùng đùng, tức giận tột độ Chỉ sự tức giận bùng phát mạnh mẽ, rõ ràng và thể hiện ra bên ngoài: 
+cảm thấy tức giận hoặc bực bội Chỉ trạng thái tức giận hoặc bực bội, có thể là nội tâm hoặc bên ngoài, nhưng không nhất thiết phải bùng phát mạnh mẽ có thể chỉ là căng thẳng hoặc khó chị: 
+tức giận, nổi giận đùng đùng Thành ngữ này cũng diễn tả sự tức giận bùng nổ, thường đột ngột và mạnh mẽ, giống như một cầu chì bị cháy: 
+Mất bình tĩnh, nổi nóng Thành ngữ này dùng để diễn tả việc ai đó trở nên tức giận và không thể kiểm soát được cảm xúc của mình: 
 đi chơi chỗ khác, tránh chỗ khác: 
 chết ngủm Die = pass away (qua đời - nên dùng hơn): 
 nợ nần: 
@@ -1872,58 +1872,58 @@ Làm hỏng, xử lý sai hoặc không tận dụng được cơ hội từ vi
 làm mất nhiều tiền; mất phần lớn tài sản hoặc giá trị của một người trong một khoản đầu tư: 
 chạy trốn, bỏ chạy; lẩn trốn; trốn tránh, lẩn tránh: 
 (v) nhuộm (n) thuốc nhuộm: 
-(v) la hét phản đối; huýt sáo chế giễu; (cú) kêu lên 1 tiếng (n) tiếng la hét (phản đối, chế giễu...); tiếng cú kêu;: 
-(v) Hồi phục, làm lành (vết thương, bệnh tật, hoặc cảm xúc); lành lại. thường là quá trình phục hồi tự nhiên hoặc giúp phục hồi (có thể là vết thương thể chất, bệnh tật, hoặc đau khổ tinh thần). không nhất thiết phải là loại bỏ hoàn toàn bệnh tật mà là sự cải thiện hoặc lành lặn dần dần: 
-(n) phương pháp, cách thức, liều thuốc điều trị bệnh tật. (v) chữa, điều trị triệt để bệnh tật.  thường tập trung vào việc loại bỏ hoàn toàn bệnh tật hoặc tình trạng không khỏe và thường có nghĩa là bệnh tật đã được loại bỏ hoàn toàn thông qua một phương pháp điều trị: 
-hơn, trội hơn (người khác về mặt nào...); trội về, xuất sắc về (môn gì...): 
+(v) la hét phản đối; huýt sáo chế giễu; (cú) kêu lên 1 tiếng (n) tiếng la hét (phản đối, chế giễu); tiếng cú kêu;: 
+(v) Hồi phục, làm lành (vết thương, bệnh tật, hoặc cảm xúc); lành lại thường là quá trình phục hồi tự nhiên hoặc giúp phục hồi (có thể là vết thương thể chất, bệnh tật, hoặc đau khổ tinh thần) không nhất thiết phải là loại bỏ hoàn toàn bệnh tật mà là sự cải thiện hoặc lành lặn dần dần: 
+(n) phương pháp, cách thức, liều thuốc điều trị bệnh tật (v) chữa, điều trị triệt để bệnh tật  thường tập trung vào việc loại bỏ hoàn toàn bệnh tật hoặc tình trạng không khỏe và thường có nghĩa là bệnh tật đã được loại bỏ hoàn toàn thông qua một phương pháp điều trị: 
+hơn, trội hơn (người khác về mặt nào); trội về, xuất sắc về (môn gì): 
 (v) buôn bán; giao dịch (n) giao thông: 
-(v) nhại, bắt chước (ai đó); giống hệt (vật gì);(a) tính bắt chước. ám chỉ hành động sao chép hoặc bắt chước, nhưng thường ám chỉ hành động hoặc sự giả dối một cách nhân hóa hơn. đề cập đến việc bắt chước âm thanh, hành động hoặc cảm xúc của người khác một cách đồng dạng hoặc mỉa mai: 
-(v) bắt chước, sao chép hành động. ám chỉ hành động sao chép một hành động, một phong cách hoặc một ngôn ngữ cụ thể của người khác. thường có ý nghĩa tích cực hơn và được thực hiện để học hỏi hoặc hỗ trợ việc học tập và phát triển: 
+(v) nhại, bắt chước (ai đó); giống hệt (vật gì);(a) tính bắt chước ám chỉ hành động sao chép hoặc bắt chước, nhưng thường ám chỉ hành động hoặc sự giả dối một cách nhân hóa hơn đề cập đến việc bắt chước âm thanh, hành động hoặc cảm xúc của người khác một cách đồng dạng hoặc mỉa mai: 
+(v) bắt chước, sao chép hành động ám chỉ hành động sao chép một hành động, một phong cách hoặc một ngôn ngữ cụ thể của người khác thường có ý nghĩa tích cực hơn và được thực hiện để học hỏi hoặc hỗ trợ việc học tập và phát triển: 
 (v) dọa, gây sợ hãi; (n) tình huống, sự sợ hãi: 
-(v) làm hoang mang sợ hãi (n) sự hoang mang, hoảng loạn. thường cảm giác sợ hãi cực độ và đột ngột, thường dẫn đến hành động vội vàng hoặc thiếu kiểm soát: 
-(v) làm hoảng sợ; làm lo lắng. ám chỉ sự sợ hãi gây ra bởi một điều gì đó nghiêm trọng hoặc nguy hiểm hơn. Miêu tả sự sợ hãi sâu sắc và kéo dài hơn so với "scare": 
+(v) làm hoang mang sợ hãi (n) sự hoang mang, hoảng loạn thường cảm giác sợ hãi cực độ và đột ngột, thường dẫn đến hành động vội vàng hoặc thiếu kiểm soát: 
+(v) làm hoảng sợ; làm lo lắng ám chỉ sự sợ hãi gây ra bởi một điều gì đó nghiêm trọng hoặc nguy hiểm hơn Miêu tả sự sợ hãi sâu sắc và kéo dài hơn so với "scare": 
 (a) sợ hãi, hoảng sợ: 
-(a) hoang mang, hoảng loạn. Cảm thấy hoặc biểu hiện sự sợ hãi đột ngột và cực độ; dễ hoảng sợ: 
+(a) hoang mang, hoảng loạn Cảm thấy hoặc biểu hiện sự sợ hãi đột ngột và cực độ; dễ hoảng sợ: 
 (a) hoảng sợ, sợ sệt: 
 (v) sở hữu, là chủ của; thú nhận (a) của chính mình: 
 nợ: 
 thuộc về: 
-(+ of ) gồm, bao gồm. được sử dụng để liệt kê các thành phần chính của một tổng thể: 
-bao gồm, bao hàm. được sử dụng để nói rằng một cái gì đó là một phần của một tổng thể lớn hơn, mà không liệt kê toàn bộ các phần: 
-chứa đựng ,bao gồm; có bên trong. được sử dụng để chỉ ra rằng một vật hay một tập hợp có cái gì đó bên trong nó: 
+(+ of ) gồm, bao gồm được sử dụng để liệt kê các thành phần chính của một tổng thể: 
+bao gồm, bao hàm được sử dụng để nói rằng một cái gì đó là một phần của một tổng thể lớn hơn, mà không liệt kê toàn bộ các phần: 
+chứa đựng ,bao gồm; có bên trong được sử dụng để chỉ ra rằng một vật hay một tập hợp có cái gì đó bên trong nó: 
 cảm xúc, sự cảm động, sự xúc động, sự xúc cảm: 
 (v) thèm muốn; mong muốn, ao ước; đề nghị (n) sự thèm muốn; sự mong muốn, khát khao; lòng thèm muốn; lời đề nghị: 
-yêu mến, ngưỡng mộ. thể hiện sự yêu mến sâu sắc, thường dùng cho người thân, người yêu, hoặc sở thíc: 
-(v) Yêu; (n) tình yêu. thể hiện tình yêu chung chung, có thể mạnh mẽ hoặc nhẹ nhàng tùy ngữ cản: 
-(v) ngưỡng mộ; kính trọng. thể hiện sự ngưỡng mộ, kính trọng, không nhất thiết phải có tình cảm yêu mế: 
-(v) kính trọng; (n) sự kính trọng. thể hiện sự tôn trọng, kính trọng về phẩm chất hoặc thành tự: 
-(a) thân yêu, quý mến. thể hiện sự thân yêu, quý mến, thể hiện sự thân thiết và quý trọng. He is a dear friend (Anh ấy là một người bạn thân): 
-(v) Không thích; (n) sự không thích. Thường dùng khi muốn nói về sự không thích một cách nhẹ nhàng, ít cảm xúc tiêu cự: 
-(v) Ghét, căm ghét. Thường dùng thể hiện sự ghét bỏ mạnh mẽ hơn.: 
-(v) ghét, ghét cay ghét đắng; ghê tởm. Thường dùng để thể hiện sự ghét bỏ rất mạnh mẽ, cảm xúc cực đoa: 
+yêu mến, ngưỡng mộ thể hiện sự yêu mến sâu sắc, thường dùng cho người thân, người yêu, hoặc sở thíc: 
+(v) Yêu; (n) tình yêu thể hiện tình yêu chung chung, có thể mạnh mẽ hoặc nhẹ nhàng tùy ngữ cản: 
+(v) ngưỡng mộ; kính trọng thể hiện sự ngưỡng mộ, kính trọng, không nhất thiết phải có tình cảm yêu mế: 
+(v) kính trọng; (n) sự kính trọng thể hiện sự tôn trọng, kính trọng về phẩm chất hoặc thành tự: 
+(a) thân yêu, quý mến thể hiện sự thân yêu, quý mến, thể hiện sự thân thiết và quý trọng He is a dear friend (Anh ấy là một người bạn thân): 
+(v) Không thích; (n) sự không thích Thường dùng khi muốn nói về sự không thích một cách nhẹ nhàng, ít cảm xúc tiêu cự: 
+(v) Ghét, căm ghét Thường dùng thể hiện sự ghét bỏ mạnh mẽ hơn: 
+(v) ghét, ghét cay ghét đắng; ghê tởm Thường dùng để thể hiện sự ghét bỏ rất mạnh mẽ, cảm xúc cực đoa: 
 (v) cảm kích; đánh giá cao; nâng giá, tăng giá trị (của cái gì): 
 sự sở hữu, quyền sở hữu; sự chiếm hữu; vật sở hữu; tài sản, của cải: 
-sự nhận thức; (triết học) tri giác; (pháp lý) sự thu (thuế...): 
-(v) tin cậy, tín nhiệm (n) lòng tin. mang ý nghĩa tin tưởng ai đó hoặc vật gì đó. thường đi kèm với sự cam kết hoặc trách nhiệm: 
-(v) tin. tin tưởng vào một ý tưởng, một giá trị hoặc một điều gì đó mà không cần chứng cứ cụ th: 
+sự nhận thức; (triết học) tri giác; (pháp lý) sự thu (thuế): 
+(v) tin cậy, tín nhiệm (n) lòng tin mang ý nghĩa tin tưởng ai đó hoặc vật gì đó thường đi kèm với sự cam kết hoặc trách nhiệm: 
+(v) tin tin tưởng vào một ý tưởng, một giá trị hoặc một điều gì đó mà không cần chứng cứ cụ th: 
 (v) chú ý, để ý, nhận biết (n) lời báo, sự báo; thông tri, yết thị, thông cáo: 
-(v) Nhớ, ghi nhớ. Thể hiện khả năng khôi phục thông tin từ trí nhớ: 
-(v) Hồi tưởng, gợi nhớ. Thể hiện khả năng tái tạo lại hoặc gợi lại ký ức từ trí nhớ: 
-(v) để ý, lưu tâm (n) tâm trí, tinh thần. Thể hiện hành động quan tâm hoặc lưu ý đến một vấn đề nào đ: 
-(v) Nhắc nhở, gợi nhớ. Thể hiện hành động nhắc nhở hoặc gợi lại thông tin cho người khác. Can you remind me to buy milk? (Bạn có thể nhắc nhở tôi mua sữa không?): 
-(v) nhớ lại, hồi tưởng lại. Thể hiện hành động nhớ lại hoặc hồi tưởng ký ức từ trí nhớ. She couldn't recollect where she left her phone (Cô ấy không thể nhớ nơi cô ấy để điện thoại): 
+(v) Nhớ, ghi nhớ Thể hiện khả năng khôi phục thông tin từ trí nhớ: 
+(v) Hồi tưởng, gợi nhớ Thể hiện khả năng tái tạo lại hoặc gợi lại ký ức từ trí nhớ: 
+(v) để ý, lưu tâm (n) tâm trí, tinh thần Thể hiện hành động quan tâm hoặc lưu ý đến một vấn đề nào đ: 
+(v) Nhắc nhở, gợi nhớ Thể hiện hành động nhắc nhở hoặc gợi lại thông tin cho người khác Can you remind me to buy milk? (Bạn có thể nhắc nhở tôi mua sữa không?): 
+(v) nhớ lại, hồi tưởng lại Thể hiện hành động nhớ lại hoặc hồi tưởng ký ức từ trí nhớ She couldn't recollect where she left her phone (Cô ấy không thể nhớ nơi cô ấy để điện thoại): 
 nhận thấy; hiểu, nhận thức, lĩnh hội: 
-giả sử, giả thiết, giả định; đề nghị. thường mang ý nghĩa của việc đưa ra một giả định không có thật với mục đích thử nghiệm ý kiến hoặc tình huống: 
-(v) giả định, cho rằng. Thường được sử dụng khi người nói hoặc người viết nhận định một điều gì đó là đúng mà không có bằng chứng cụ thể: 
+giả sử, giả thiết, giả định; đề nghị thường mang ý nghĩa của việc đưa ra một giả định không có thật với mục đích thử nghiệm ý kiến hoặc tình huống: 
+(v) giả định, cho rằng Thường được sử dụng khi người nói hoặc người viết nhận định một điều gì đó là đúng mà không có bằng chứng cụ thể: 
 (v) có ý nghĩa, có tính chất quan trọng (n) chất, vật chất: 
 (v) cân đo (n) sự cân nặng, cái cân: 
 tuyên bố, báo cho biết; biểu thị, biểu hiện; báo hiệu: 
 (v) cầm, nắm, giữ (n) sự cầm, sự nắm giữ: 
-(v) chịu đựng; giữ vững ;(+ for ...) là viết tắt của ...;(+ by) đứng cạnh, đứng bên cạnh: 
+(v) chịu đựng; giữ vững ;(+ for ) là viết tắt của ;(+ by) đứng cạnh, đứng bên cạnh: 
 tượng trưng hoá; ký hiệu hóa: 
 cố gắng làm quá nhiều việc cùng một lúc, dẫn đến việc không thể hoàn thành chúng một cách hiệu quả: 
 quá dễ - too eas: 
-Phương pháp luyện tập thay thế. một phương pháp học ngoại ngữ, đặc biệt phổ biến trong dạy tiếng Anh, nhằm giúp người học thực hành cấu trúc câu và từ vựng thông qua việc thay thế một phần của câu bằng các từ hoặc cụm từ khác nhau: 
+Phương pháp luyện tập thay thế một phương pháp học ngoại ngữ, đặc biệt phổ biến trong dạy tiếng Anh, nhằm giúp người học thực hành cấu trúc câu và từ vựng thông qua việc thay thế một phần của câu bằng các từ hoặc cụm từ khác nhau: 
 
 âm điệu: 
 Bơi nghệ thuật: 
@@ -1950,21 +1950,21 @@ hành vi:
 (a) Hấp dẫn, thu hút: 
 mô tả hấp dẫn, thu hút: 
 sự nhiệt tình, hăng hái, nhiệt tâm: 
-Trại không gian (một trại giáo dục ở Huntsville, Alabama, trong khuôn viên của bảo tàng Trung tâm Tên lửa & Vũ trụ Hoa Kỳ gần Trung tâm Bay Không gian Marshall của NASA.): 
+Trại không gian (một trại giáo dục ở Huntsville, Alabama, trong khuôn viên của bảo tàng Trung tâm Tên lửa & Vũ trụ Hoa Kỳ gần Trung tâm Bay Không gian Marshall của NASA): 
 duy trì, còn lại: 
 Chương trình hộ chiếu của NASA: 
 bảng điều khiển: 
 (a) mang tính đột phá, mang tính tiên phong: 
 sự sống còn, sự tồn tại: 
 tình huống sinh tử dưới nước: 
-huấn luyện lực g, chương trình huấn luyện của phi công. ( g la lực hấp dẫn hoặc gia tốc): 
+huấn luyện lực g, chương trình huấn luyện của phi công ( g la lực hấp dẫn hoặc gia tốc): 
 sinh lý học: 
 sinh vật học vũ trụ: 
 Tập trung vào: 
 thời thơ ấu: 
 mục tiêu, bàn thắng, cửa goal: 
 rực lửa ,sáng rực: 
-cay nồng, nóng rang, rực lửa. thường được sử dụng để mô tả một cái gì đó rất nóng hoặc đầy cảm xúc mạnh mẽ, thường là trong ngữ cảnh của hương vị hoặc cảm xúc: 
+cay nồng, nóng rang, rực lửa thường được sử dụng để mô tả một cái gì đó rất nóng hoặc đầy cảm xúc mạnh mẽ, thường là trong ngữ cảnh của hương vị hoặc cảm xúc: 
 một cách khoa học: 
 tế bào thần kinh: 
 cò súng, kích hoạt: 
@@ -1973,8 +1973,8 @@ C₁₈H₂₇NO₃ hợp chất hóa học làm cho ớt có vị cay:
 thành phần, cấu tạo: 
 ớt: 
 hạt tiêu: 
-thuật ngữ tổng quát chỉ bất kỳ loại ớt nào có thể được sử dụng để làm gia vị. Tùy thuộc vào vùng địa lý có thể bao gồm một loạt các loại ớt từ nhẹ đến cực kỳ cay. thường có hình dạng dài và mảnh, như ớt jalapeno, ớt cayenne, hoặc ớt serrano: 
-thuật ngữ tổng quát thường được sử dụng để chỉ các loại ớt cay, thường là những loại ớt có độ cay mạnh. thuật ngữ rộng hơn không chỉ giới hạn ở các loại ớt có hình dạng dài. thường được sử dụng để mô tả các loại ớt cay như ớt habanero, ớt ghost, hoặc ớt Scotch bonnet: 
+thuật ngữ tổng quát chỉ bất kỳ loại ớt nào có thể được sử dụng để làm gia vị Tùy thuộc vào vùng địa lý có thể bao gồm một loạt các loại ớt từ nhẹ đến cực kỳ cay thường có hình dạng dài và mảnh, như ớt jalapeno, ớt cayenne, hoặc ớt serrano: 
+thuật ngữ tổng quát thường được sử dụng để chỉ các loại ớt cay, thường là những loại ớt có độ cay mạnh thuật ngữ rộng hơn không chỉ giới hạn ở các loại ớt có hình dạng dài thường được sử dụng để mô tả các loại ớt cay như ớt habanero, ớt ghost, hoặc ớt Scotch bonnet: 
 ngứa: 
 (n) sự đốt, sự cháy (a) nóng cháy, nóng rát; mãnh liệt, kịch liệt: 
 cảm giác nóng rát: 
@@ -1994,9 +1994,9 @@ cảm giác hồi hội dồn dập:
 tiếp thêm năng lượng: 
 nhà nghiên cứu: 
 khẳng định, tuyên bố; yêu cầu, nài: 
-cứng rắn; Bền bỉ, kiên cường; khó khăn. Thường ám chỉ tính bền bỉ, khả năng chịu đựng, hoặc kiên cường của con người hoặc vật. cũng có thể ám chỉ tính chất khó khăn của một tình huống hoặc công việc. The steak is very tough (Miếng bít tết rất dai). He went through a tough time after losing his job (Anh ấy đã trải qua một thời gian khó khăn sau khi mất việc). She is a tough competitor" (Cô ấy là một đối thủ cạnh tranh kiên cường): 
-cứng, chắc; khó khăn; chăm chỉ khắc nghiệt. Thường ám chỉ tính chất vật lý cứng rắn hoặc độ khó của một nhiệm vụ. cũng có thể ám chỉ sự nghiêm khắc hoặc đòi hỏi nhiều nỗ lực: 
-cứng, cứng nhắc. thường được sử dụng để mô tả vật không linh hoạt hoặc khó di chuyển.Cũng có thể ám chỉ tính cách cứng nhắc, không linh hoạt: 
+cứng rắn; Bền bỉ, kiên cường; khó khăn Thường ám chỉ tính bền bỉ, khả năng chịu đựng, hoặc kiên cường của con người hoặc vật cũng có thể ám chỉ tính chất khó khăn của một tình huống hoặc công việc The steak is very tough (Miếng bít tết rất dai) He went through a tough time after losing his job (Anh ấy đã trải qua một thời gian khó khăn sau khi mất việc) She is a tough competitor" (Cô ấy là một đối thủ cạnh tranh kiên cường): 
+cứng, chắc; khó khăn; chăm chỉ khắc nghiệt Thường ám chỉ tính chất vật lý cứng rắn hoặc độ khó của một nhiệm vụ cũng có thể ám chỉ sự nghiêm khắc hoặc đòi hỏi nhiều nỗ lực: 
+cứng, cứng nhắc thường được sử dụng để mô tả vật không linh hoạt hoặc khó di chuyểnCũng có thể ám chỉ tính cách cứng nhắc, không linh hoạt: 
 nơi giải trí, chơi game trên máy (trả bằng đồng xu): 
 vườn rau: 
 chuồng ngựa, kho thóc: 
@@ -2027,12 +2027,12 @@ có từ, bắt nguồn từ, xuất hiện từ (thời gian nào đó trong qu
 (n) người đàn ông trong bộ lạc, thành viên nam của bộ lạc: 
 (n) nữ thành viên của bộ lạc: 
 (n) đoạn quảng cáo ngắn, đoạn giới thiệu ngắn; người hay trêu chọc; lời trêu ghẹo: 
-(n) sợi, dải (dây, tóc, sợi chỉ, v.v); thành phần hay khía cạnh của một vấn đề, kế hoạch, câu chuyện; (v): mắc cạn, bỏ rơi (thường dùng trong ngữ cảnh bị mắc kẹt ở đâu đó mà không thể di chuyển hoặc không có sự giúp đỡ): 
-(v) bỏ rơi, rời bỏ. Rời bỏ hoặc bỏ mặc ai đó hoặc cái gì đó trong tình huống khó khăn: 
+(n) sợi, dải (dây, tóc, sợi chỉ, vv); thành phần hay khía cạnh của một vấn đề, kế hoạch, câu chuyện; (v): mắc cạn, bỏ rơi (thường dùng trong ngữ cảnh bị mắc kẹt ở đâu đó mà không thể di chuyển hoặc không có sự giúp đỡ): 
+(v) bỏ rơi, rời bỏ Rời bỏ hoặc bỏ mặc ai đó hoặc cái gì đó trong tình huống khó khăn: 
 (n) sa mạc: 
 (a) hoang vu, hẻo lánh, không có người ở: 
-(n) chữ ký tay của người nổi tiếng, thủ bút; (v) ký tặng. Nghĩa: chữ ký được yêu cầu từ những người nổi tiếng, chẳng hạn như diễn viên, nhạc sĩ, vận động viên, v.v: 
-(n) chữ ký (dùng trong các tài liệu chính thức, giao dịch, hợp đồng, v.v.). Nghĩa: Chữ ký chính thức của một người, được sử dụng để xác nhận danh tính hoặc sự đồng ý trên các văn bản, tài liệu pháp lý: 
+(n) chữ ký tay của người nổi tiếng, thủ bút; (v) ký tặng Nghĩa: chữ ký được yêu cầu từ những người nổi tiếng, chẳng hạn như diễn viên, nhạc sĩ, vận động viên, vv: 
+(n) chữ ký (dùng trong các tài liệu chính thức, giao dịch, hợp đồng, vv) Nghĩa: Chữ ký chính thức của một người, được sử dụng để xác nhận danh tính hoặc sự đồng ý trên các văn bản, tài liệu pháp lý: 
 họa sĩ truyện tranh: 
 hoa (của cây ăn quả): 
 đang ra hoa: 
@@ -2041,11 +2041,11 @@ rượu branđi, rượu mạnh:
 rượu mơ: 
 hoa mai: 
 hòa đào: 
-(v) đối diện, đối mặt. Nghĩa: Đối mặt với một tình huống khó khăn hoặc tranh luận với ai đó về một vấn đề gì đó: 
-(v) thảo luận, bàn bạc. Nghĩa: Thảo luận về một chủ đề cụ thể để trao đổi ý kiến hoặc tìm hiểu thêm thông ti: 
-(v, n) tranh luận, cuộc tranh luận. Nghĩa: Tham gia vào một cuộc tranh luận có cấu trúc hoặc chủ đề cụ thể, thường là để thảo luận về các quan điểm đối lập hoặc giải quyết một vấn đề: 
-(v) tranh luận, cãi nhau. Nghĩa: Tham gia vào một cuộc trao đổi ý kiến hoặc tranh luận với mục tiêu thể hiện quan điểm hoặc tìm ra giải pháp cho một vấn đề: 
-(v) chửi, rầy la, trách mắng, mắng mỏ, quở trách. Nghĩa: Phê phán hoặc chỉ trích ai đó vì hành động sai lầm hoặc không đúng: 
+(v) đối diện, đối mặt Nghĩa: Đối mặt với một tình huống khó khăn hoặc tranh luận với ai đó về một vấn đề gì đó: 
+(v) thảo luận, bàn bạc Nghĩa: Thảo luận về một chủ đề cụ thể để trao đổi ý kiến hoặc tìm hiểu thêm thông ti: 
+(v, n) tranh luận, cuộc tranh luận Nghĩa: Tham gia vào một cuộc tranh luận có cấu trúc hoặc chủ đề cụ thể, thường là để thảo luận về các quan điểm đối lập hoặc giải quyết một vấn đề: 
+(v) tranh luận, cãi nhau Nghĩa: Tham gia vào một cuộc trao đổi ý kiến hoặc tranh luận với mục tiêu thể hiện quan điểm hoặc tìm ra giải pháp cho một vấn đề: 
+(v) chửi, rầy la, trách mắng, mắng mỏ, quở trách Nghĩa: Phê phán hoặc chỉ trích ai đó vì hành động sai lầm hoặc không đúng: 
 cổ áo: 
 nhảy việc: 
 đối với tôi: 
@@ -2083,7 +2083,7 @@ sự xác định, sự định rõ; tính quả quyết; quyết tâm:
 one's problem-solving abilities and determination: khả năng giải quyết vấn đề và sự quyết tâm của someone
 nhìn về phía trước: 
 mường tượng, hình dung: 
-hình dung một tương lai nơi ...: 
+hình dung một tương lai nơi : 
 tận dụng; làm đòn bẩy: 
 dẫn dắt, lãnh đạo: 
 truyền cảm hứng cho (ai); hít vào, thở vào: 
@@ -2126,21 +2126,21 @@ phân biệt:
 rò rỉ, ứa; thấm rỉ: 
 tính đúng thật, tính xác thực: 
 không lay chuyển; vững vàng: 
-sự thịnh vượng; hạnh phúc; phúc lợi: 
+(n) sự thịnh vượng; hạnh phúc; phúc lợi: 
 ở dưới thấp, ở dưới: 
 Khiêm tốn, khiêm nhường: 
-cách xử xự; thái độ: 
+(n) cách xử xự; thái độ: 
 sự giàu có, sự giàu sang; sự phong phú: 
 sự giàu kiến thức: 
 sự sáng suốt, minh mẩn; có cái nhìn thấu suốt: 
 kết hợp với, liên kết với: 
 thành thật, chân thật: 
-phát triển thịnh vượng, phát đạt; lớn lên: 
+(v) phát triển thịnh vượng, phát đạt; lớn lên: 
 kiên định, vững chắc: 
 vô song; không bì được, ko so sánh được: 
-nhất quán: 
+(adv) nhất quán: 
 được tính vào: 
-(tâm lý học) sự thấu cảm, sự đồng cảm: 
+(n) (tâm lý học) sự thấu cảm, sự đồng cảm: 
 lòng thương, lòng trắc ẩn: 
 làm cho có thể; trao quyền: 
 là hiện thân của; là biểu hiện của: 
@@ -2149,8 +2149,8 @@ sự đáng tin cậy:
 vô giá: 
 người hướng dẫn, cố vấn; người thầy: 
 hình mẫu: 
-mở rộng xa hơn, vượt ra ngoài cái gì đó. Thường được sử dụng để chỉ sự ảnh hưởng hoặc phạm vi của một cái gì đó trải rộng ra ngoài mức độ thông thường hoặc dự kiến: 
-nhiệm kỳ; sự chiếm hữu, sự hưởng dụng; sự tại chức: 
+mở rộng xa hơn, vượt ra ngoài cái gì đó Thường được sử dụng để chỉ sự ảnh hưởng hoặc phạm vi của một cái gì đó trải rộng ra ngoài mức độ thông thường hoặc dự kiến: 
+(n) nhiệm kỳ; sự chiếm hữu, sự hưởng dụng; sự tại chức: 
 quyền sở hữu trọn đời: 
 uyên bác; có nhiều tài năng khác nhau: 
 phục vụ cho, cung cấp cho: 
@@ -2178,11 +2178,11 @@ sự ấm áp:
 (n) tính cách khiêm tốn hoặc tư cách khiêm nhường: 
 (a) dài: 
 (n) tuổi thọ, sự kéo dài: 
-kéo dài hàng chục năm.: 
+kéo dài hàng chục năm: 
 (a) cách đây vài thập kỷ: 
 tích lũy: 
 có thể thích nghi: 
-không có giới hạn. nghĩa là không có giới hạn, không bị hạn chế, thường ám chỉ sự mạnh mẽ hoặc to lớn của một cái gì đó: 
+không có giới hạn nghĩa là không có giới hạn, không bị hạn chế, thường ám chỉ sự mạnh mẽ hoặc to lớn của một cái gì đó: 
 đầu tư: 
 cá nhân hóa: 
 không mệt mỏi: 
@@ -2193,57 +2193,57 @@ mẫu mực, gương mẩu:
 (adv) một cách đáng ngưỡng mộ, một cách rất tốt: 
 (n) mẫu, ví dụ điển hình: 
 soi sáng, sự chiếu sáng: 
-Niên kim. một loại hợp đồng bảo hiểm mà người mua bảo hiểm trả một số tiền cho hãng bảo hiểm và sau đó nhận được thanh toán định kỳ trong tương lai: 
-Chuyên gia định phí bảo hiểm. người chuyên tính toán và quản lý rủi ro bảo hiểm bằng các phương pháp thống kê và toán học: 
-Người điều chỉnh bồi thường. người làm việc cho hãng bảo hiểm để định giá và điều chỉnh các yêu cầu bồi thường: 
-Giới hạn tổng cộng. số tiền tối đa mà một hãng bảo hiểm sẽ trả cho tất cả các yêu cầu bồi thường trong một thời kỳ nhất định: 
-Khoản khấu trừ tổng hợp. số tiền mà người mua bảo hiểm phải tự trả trước khi hãng bảo hiểm chi trả phần còn lại: 
-Giá trị tiền mặt thực tế. giá trị của một tài sản khi tính cả khấu hao và tổn thất: 
-Bảo hiểm tai nạn tử vong và thương tật. loại bảo hiểm bổ sung thanh toán tiền đối với sự kiện tử vong hoặc bị thương vô tình: 
-Hành động của Chúa. sự kiện tự nhiên không thể kiểm soát được bởi con người: 
-Người thụ hưởng. người được nhận thanh toán từ hợp đồng bảo hiểm khi một sự kiện được bảo hiểm xảy ra: 
-Môi giới bảo hiểm. người đại diện cho người mua bảo hiểm khi mua và quản lý các hợp đồng bảo hiểm: 
-Yêu cầu bồi thường. khi người bảo hiểm yêu cầu thanh toán từ hãng bảo hiểm sau một sự c: 
-Phạm vi bảo hiểm. các loại rủi ro được bảo hiểm trong một hợp đồng bảo hiểm: 
-Thảm họa. sự kiện gây ra thiệt hại lớn và không mong muốn: 
-Tiền tự trả. một phần của chi phí y tế mà người tham gia bảo hiểm phải trả trước khi hãng bảo hiểm chi trả phần còn lại: 
-Khoản khấu trừ. số tiền mà người mua bảo hiểm phải tự trả trước khi hãng bảo hiểm chi trả phần còn lại: 
-Mức khấu trừ vượt quá. số tiền mà người mua bảo hiểm phải tự trả khi có yêu cầu bồi thường, tương tự như khoản khấu trừ: 
-Phụ lục hợp đồng. một sửa đổi hoặc điều chỉnh được thêm vào hợp đồng bảo hiểm để thay đổi hoặc bổ sung các điều khoản và điều kiện: 
-Hết hạn. ngày cuối cùng của một thời gian định kỳ hoặc một hợp đồng bảo hiểm: 
-Điều khoản loại trừ. các trường hợp mà bảo hiểm không chi trả: 
-Hãng bảo hiểm. tổ chức cung cấp bảo hiểm cho người mua bảo hiểm: 
-Người được bảo hiểm. người hoặc tổ chức được bảo hiểm bảo vệ: 
-Bồi thường. sự bồi thường cho tổn thất hoặc thiệt hại: 
-Quyền lợi có thể bảo hiểm. quyền lợi hợp pháp mà một người hoặc tổ chức có thể bảo hiểm để được bảo vệ tài chính: 
-Tỷ lệ tổn thất. tỷ lệ giữa tổng số tiền bồi thường đã trả và tổng số tiền phí thu được: 
-Trách nhiệm pháp lý. trách nhiệm phải chi trả bồi thường cho thiệt hại hoặc tổn thất gây ra cho người khác: 
-Người điều chỉnh tổn thất. chuyên gia đánh giá tổn thất và quyết định số tiền bồi thường: 
-Phòng ngừa tổn thất. các biện pháp nhằm giảm thiểu nguy cơ và mức độ tổn thất: 
-Dự trữ tổn thất. số tiền dự phòng để chi trả các yêu cầu bồi thường trong tương lai: 
-Rủi ro đạo đức. rủi ro xảy ra khi người được bảo hiểm hành động thiếu trách nhiệm do biết rằng mình được bảo hiểm: 
-Thưởng không yêu cầu bồi thường. khoản giảm giá cho người mua bảo hiểm không có yêu cầu bồi thường trong một khoảng thời gian nhất định: 
-Hợp đồng bảo hiểm. văn bản chi tiết các điều khoản và điều kiện bảo hiểm: 
-Chủ hợp đồng bảo hiểm. người mua bảo hiểm: 
-Phí bảo hiểm. số tiền mà người mua bảo hiểm phải trả định kỳ cho bảo hiểm của họ: 
-Mối nguy hiểm. nguy cơ gây ra tổn thất hoặc thiệt hại mà bảo hiểm bảo vệ: 
-Tỷ lệ phí bảo hiểm. số tiền mà người mua bảo hiểm phải trả cho mỗi đơn vị bảo hiểm: 
-Quản lý rủi ro. quá trình nhận diện, đánh giá và ưu tiên các rủi ro để giảm thiểu và kiểm soát tác động của chúng: 
-Tái bảo hiểm. khi một hãng bảo hiểm mua bảo hiểm từ một hãng bảo hiểm khác để giảm rủi ro của mình: 
-Chia sẻ rủi ro. việc kết hợp rủi ro của nhiều người hoặc tổ chức để giảm thiểu tác động tài chính của rủi ro cá nhân: 
-Đánh giá rủi ro. quá trình xác định và phân tích các rủi ro có thể xảy ra: 
-Gia hạn. việc tiếp tục hợp đồng bảo hiểm sau khi nó đã hết hạn: 
-Quỹ rủi ro. một nhóm người hoặc tổ chức kết hợp các nguồn lực để chia sẻ rủi ro tài chính: 
-Khôi phục. hành động làm mới hoặc khôi phục lại một hợp đồng bảo hiểm sau khi nó đã bị hủy bỏ hoặc hết hiệu lực: 
-Quyền thay thế. quyền của hãng bảo hiểm đòi bồi thường từ bên thứ ba khi đã thanh toán cho người được bảo hiểm: 
-Chuẩn dưới mức. thuật ngữ này dùng để chỉ những người hoặc tài sản có rủi ro cao hơn mức trung bình, thường do tình trạng sức khỏe kém, tiền sử bệnh tật hoặc các yếu tố khác. Do đó, họ có thể phải trả phí bảo hiểm cao hơn hoặc bị hạn chế về phạm vi bảo hiểm: 
-Trách nhiệm pháp lý đối với bên thứ ba. bảo hiểm cho các yêu cầu bồi thường từ người khác do tổn thất hoặc thiệt hại gây ra bởi người được bảo hiểm: 
-Tổn thất toàn bộ. khi tài sản bị hư hỏng hoàn toàn và không thể sửa chữa được hoặc chi phí sửa chữa vượt quá giá trị của nó: 
-Bảo hiểm dưới mức. khi giá trị bảo hiểm thấp hơn giá trị thực tế của tài sản được bảo hiểm: 
-không đủ bảo hiểm. có nghĩa là một người có bảo hiểm, nhưng mức giới hạn có thể không đủ cao để trang trải toàn bộ chi phí yêu cầu bồi thường: 
-Người đánh giá rủi ro. người chịu trách nhiệm đánh giá và quyết định mức độ bảo hiểm và phí bảo hiểm cho các hợp đồng bảo hiểm: 
-Lợi nhuận từ đánh giá rủi ro. lợi nhuận mà hãng bảo hiểm kiếm được từ việc thu phí bảo hiểm sau khi trừ đi các khoản chi phí bồi thường: 
-Bồi thường lao động. bảo hiểm chi trả cho người lao động bị thương hoặc bệnh tật liên quan đến công việc: 
+Niên kim một loại hợp đồng bảo hiểm mà người mua bảo hiểm trả một số tiền cho hãng bảo hiểm và sau đó nhận được thanh toán định kỳ trong tương lai: 
+Chuyên gia định phí bảo hiểm người chuyên tính toán và quản lý rủi ro bảo hiểm bằng các phương pháp thống kê và toán học: 
+Người điều chỉnh bồi thường người làm việc cho hãng bảo hiểm để định giá và điều chỉnh các yêu cầu bồi thường: 
+Giới hạn tổng cộng số tiền tối đa mà một hãng bảo hiểm sẽ trả cho tất cả các yêu cầu bồi thường trong một thời kỳ nhất định: 
+Khoản khấu trừ tổng hợp số tiền mà người mua bảo hiểm phải tự trả trước khi hãng bảo hiểm chi trả phần còn lại: 
+Giá trị tiền mặt thực tế giá trị của một tài sản khi tính cả khấu hao và tổn thất: 
+Bảo hiểm tai nạn tử vong và thương tật loại bảo hiểm bổ sung thanh toán tiền đối với sự kiện tử vong hoặc bị thương vô tình: 
+Hành động của Chúa sự kiện tự nhiên không thể kiểm soát được bởi con người: 
+Người thụ hưởng người được nhận thanh toán từ hợp đồng bảo hiểm khi một sự kiện được bảo hiểm xảy ra: 
+Môi giới bảo hiểm người đại diện cho người mua bảo hiểm khi mua và quản lý các hợp đồng bảo hiểm: 
+Yêu cầu bồi thường khi người bảo hiểm yêu cầu thanh toán từ hãng bảo hiểm sau một sự c: 
+Phạm vi bảo hiểm các loại rủi ro được bảo hiểm trong một hợp đồng bảo hiểm: 
+Thảm họa sự kiện gây ra thiệt hại lớn và không mong muốn: 
+Tiền tự trả một phần của chi phí y tế mà người tham gia bảo hiểm phải trả trước khi hãng bảo hiểm chi trả phần còn lại: 
+Khoản khấu trừ số tiền mà người mua bảo hiểm phải tự trả trước khi hãng bảo hiểm chi trả phần còn lại: 
+Mức khấu trừ vượt quá số tiền mà người mua bảo hiểm phải tự trả khi có yêu cầu bồi thường, tương tự như khoản khấu trừ: 
+Phụ lục hợp đồng một sửa đổi hoặc điều chỉnh được thêm vào hợp đồng bảo hiểm để thay đổi hoặc bổ sung các điều khoản và điều kiện: 
+Hết hạn ngày cuối cùng của một thời gian định kỳ hoặc một hợp đồng bảo hiểm: 
+Điều khoản loại trừ các trường hợp mà bảo hiểm không chi trả: 
+Hãng bảo hiểm tổ chức cung cấp bảo hiểm cho người mua bảo hiểm: 
+Người được bảo hiểm người hoặc tổ chức được bảo hiểm bảo vệ: 
+Bồi thường sự bồi thường cho tổn thất hoặc thiệt hại: 
+Quyền lợi có thể bảo hiểm quyền lợi hợp pháp mà một người hoặc tổ chức có thể bảo hiểm để được bảo vệ tài chính: 
+Tỷ lệ tổn thất tỷ lệ giữa tổng số tiền bồi thường đã trả và tổng số tiền phí thu được: 
+Trách nhiệm pháp lý trách nhiệm phải chi trả bồi thường cho thiệt hại hoặc tổn thất gây ra cho người khác: 
+Người điều chỉnh tổn thất chuyên gia đánh giá tổn thất và quyết định số tiền bồi thường: 
+Phòng ngừa tổn thất các biện pháp nhằm giảm thiểu nguy cơ và mức độ tổn thất: 
+Dự trữ tổn thất số tiền dự phòng để chi trả các yêu cầu bồi thường trong tương lai: 
+Rủi ro đạo đức rủi ro xảy ra khi người được bảo hiểm hành động thiếu trách nhiệm do biết rằng mình được bảo hiểm: 
+Thưởng không yêu cầu bồi thường khoản giảm giá cho người mua bảo hiểm không có yêu cầu bồi thường trong một khoảng thời gian nhất định: 
+Hợp đồng bảo hiểm văn bản chi tiết các điều khoản và điều kiện bảo hiểm: 
+Chủ hợp đồng bảo hiểm người mua bảo hiểm: 
+Phí bảo hiểm số tiền mà người mua bảo hiểm phải trả định kỳ cho bảo hiểm của họ: 
+Mối nguy hiểm nguy cơ gây ra tổn thất hoặc thiệt hại mà bảo hiểm bảo vệ: 
+Tỷ lệ phí bảo hiểm số tiền mà người mua bảo hiểm phải trả cho mỗi đơn vị bảo hiểm: 
+Quản lý rủi ro quá trình nhận diện, đánh giá và ưu tiên các rủi ro để giảm thiểu và kiểm soát tác động của chúng: 
+Tái bảo hiểm khi một hãng bảo hiểm mua bảo hiểm từ một hãng bảo hiểm khác để giảm rủi ro của mình: 
+Chia sẻ rủi ro việc kết hợp rủi ro của nhiều người hoặc tổ chức để giảm thiểu tác động tài chính của rủi ro cá nhân: 
+Đánh giá rủi ro quá trình xác định và phân tích các rủi ro có thể xảy ra: 
+Gia hạn việc tiếp tục hợp đồng bảo hiểm sau khi nó đã hết hạn: 
+Quỹ rủi ro một nhóm người hoặc tổ chức kết hợp các nguồn lực để chia sẻ rủi ro tài chính: 
+Khôi phục hành động làm mới hoặc khôi phục lại một hợp đồng bảo hiểm sau khi nó đã bị hủy bỏ hoặc hết hiệu lực: 
+Quyền thay thế quyền của hãng bảo hiểm đòi bồi thường từ bên thứ ba khi đã thanh toán cho người được bảo hiểm: 
+Chuẩn dưới mức thuật ngữ này dùng để chỉ những người hoặc tài sản có rủi ro cao hơn mức trung bình, thường do tình trạng sức khỏe kém, tiền sử bệnh tật hoặc các yếu tố khác Do đó, họ có thể phải trả phí bảo hiểm cao hơn hoặc bị hạn chế về phạm vi bảo hiểm: 
+Trách nhiệm pháp lý đối với bên thứ ba bảo hiểm cho các yêu cầu bồi thường từ người khác do tổn thất hoặc thiệt hại gây ra bởi người được bảo hiểm: 
+Tổn thất toàn bộ khi tài sản bị hư hỏng hoàn toàn và không thể sửa chữa được hoặc chi phí sửa chữa vượt quá giá trị của nó: 
+Bảo hiểm dưới mức khi giá trị bảo hiểm thấp hơn giá trị thực tế của tài sản được bảo hiểm: 
+không đủ bảo hiểm có nghĩa là một người có bảo hiểm, nhưng mức giới hạn có thể không đủ cao để trang trải toàn bộ chi phí yêu cầu bồi thường: 
+Người đánh giá rủi ro người chịu trách nhiệm đánh giá và quyết định mức độ bảo hiểm và phí bảo hiểm cho các hợp đồng bảo hiểm: 
+Lợi nhuận từ đánh giá rủi ro lợi nhuận mà hãng bảo hiểm kiếm được từ việc thu phí bảo hiểm sau khi trừ đi các khoản chi phí bồi thường: 
+Bồi thường lao động bảo hiểm chi trả cho người lao động bị thương hoặc bệnh tật liên quan đến công việc: 
 cảm thấy bất ổn; hoài nghi nghi ngờ ai: 
 làm phiền ai đó: 
 lừa ai: 
@@ -2255,10 +2255,10 @@ tiết lộ bí mật:
 tán gẫu: 
 cố gắng rất nhiều: 
 đi ngủ: 
-nổi giận đùng đùng, tức giận tột độ. Chỉ sự tức giận bùng phát mạnh mẽ, rõ ràng và thể hiện ra bên ngoài: 
-cảm thấy tức giận hoặc bực bội. Chỉ trạng thái tức giận hoặc bực bội, có thể là nội tâm hoặc bên ngoài, nhưng không nhất thiết phải bùng phát mạnh mẽ có thể chỉ là căng thẳng hoặc khó chị: 
-tức giận, nổi giận đùng đùng. Thành ngữ này cũng diễn tả sự tức giận bùng nổ, thường đột ngột và mạnh mẽ, giống như một cầu chì bị cháy: 
-Mất bình tĩnh, nổi nóng. Thành ngữ này dùng để diễn tả việc ai đó trở nên tức giận và không thể kiểm soát được cảm xúc của mình: 
+nổi giận đùng đùng, tức giận tột độ Chỉ sự tức giận bùng phát mạnh mẽ, rõ ràng và thể hiện ra bên ngoài: 
+cảm thấy tức giận hoặc bực bội Chỉ trạng thái tức giận hoặc bực bội, có thể là nội tâm hoặc bên ngoài, nhưng không nhất thiết phải bùng phát mạnh mẽ có thể chỉ là căng thẳng hoặc khó chị: 
+tức giận, nổi giận đùng đùng Thành ngữ này cũng diễn tả sự tức giận bùng nổ, thường đột ngột và mạnh mẽ, giống như một cầu chì bị cháy: 
+Mất bình tĩnh, nổi nóng Thành ngữ này dùng để diễn tả việc ai đó trở nên tức giận và không thể kiểm soát được cảm xúc của mình: 
 đi chơi chỗ khác, tránh chỗ khác: 
 chết ngủm Die = pass away (qua đời - nên dùng hơn): 
 nợ nần: 
@@ -2273,7 +2273,7 @@ Cố gắng hết sức:
 Có tiền có sức mạnh, có tiền có tiếng nói: 
 Thay đổi, cải thiện hoặc rời đi (Không làm được thì nghỉ đi): 
 Chăm chú theo dõi, quan sát kỹ: 
-Đã chuẩn bị và sẵn sàng. We are all set for the trip. Let's go! (Chúng ta đã sẵn sàng cho chuyến đi. Hãy đi thôi!): 
+Đã chuẩn bị và sẵn sàng We are all set for the trip Let's go! (Chúng ta đã sẵn sàng cho chuyến đi Hãy đi thôi!): 
 Bồn chồn, lo lắng: 
 Liên tục: 
 Sắp đến: 
@@ -2294,12 +2294,12 @@ Vô dụng, không có ích, ăn hại:
 Mỗi người một sở thích: 
 Mắt to hơn bụng - yêu cầu nhiều thức ăn hơn khả năng ăn của mình: 
 Trâu chậm uống nước đục: 
-Kết thúc tốt đẹp. We had some problems at the start, but all's well that ends well. (Chúng tôi đã gặp một số vấn đề lúc đầu, nhưng kết thúc tốt đẹp): 
+Kết thúc tốt đẹp We had some problems at the start, but all's well that ends well (Chúng tôi đã gặp một số vấn đề lúc đầu, nhưng kết thúc tốt đẹp): 
 Thêm dầu vào lửa: 
 Xát muối vào vết thương: 
 Sợ cả bóng của mình - Rất nhát gan, dễ bị hoảng sợ: 
-Có ai đó đã nói cho tôi biết. Nghĩa: Nghe được thông tin từ một nguồn không tiết lộ: 
-Kiến thức nửa vời thì nguy hiểm. Nghĩa: Biết một chút về một cái gì đó có thể dẫn đến những kết luận sai lầm: 
+Có ai đó đã nói cho tôi biết Nghĩa: Nghe được thông tin từ một nguồn không tiết lộ: 
+Kiến thức nửa vời thì nguy hiểm Nghĩa: Biết một chút về một cái gì đó có thể dẫn đến những kết luận sai lầm: 
 Chăm chú lắng nghe, Rất muốn nghe: 
 Người ngây thơ, thiếu kinh nghiệm: 
 (n) Cãi lại, nói hỗn xược: 
@@ -2339,7 +2339,7 @@ kiên cường:
  (v) đặt mục tiêu, ám chỉ; nhắm bắn (n) mục tiêu: 
 chủ động: 
 sự hiện diện: 
-Tổ chức (lớn,: 
+Tổ chức (lớn, vd: ex: educational/financial, etc ) 
 sử dụng (to use something, especially for a practical purpose): 
 Trải qua, trong quá trình (v_ing), chịu: 
 cải tạo, cải tiến: 
@@ -2404,7 +2404,7 @@ thông báo:
 bài phát biểu: 
 chứng chỉ: 
 lễ tung nón: 
-mũ trùm; áo choàng học vị; mui (mui xe, mui bếp hút khói, ...); khuôn nón: 
+mũ trùm; áo choàng học vị; mui (mui xe, mui bếp hút khói, ); khuôn nón: 
 mũ tốt nghiệp: 
 (n) Bằng kiến trúc: 
 (n) Bài phát biểu khai giảng hoặc phát biểu tại lễ tốt nghiệp: 
@@ -2506,7 +2506,7 @@ xấu đi:
 (n) Bánh hamburger phô mai: 
 (n) Bánh hamburger hai lớp thịt: 
 (n) Bánh sandwich giăm bông và phô mai: 
-(n) Bánh cuộn. Nghĩa: Loại bánh mì nhỏ, hình cuộn (tròn): 
+(n) Bánh cuộn Nghĩa: Loại bánh mì nhỏ, hình cuộn (tròn): 
 (n) Một cuộn bánh mì: 
 (n) Trứng chiên: 
 (n) Trứng luộc: 
@@ -2517,9 +2517,9 @@ xấu đi:
 (n) Ống hút: 
 (v) Pha chế đồ uống: 
 (n) Rượu mạnh, đồ uống có cồn có nồng độ cồn cao: 
-rượu mạnh. Ám chỉ rượu có > 90 ABV (Alcohol By Volume - nồng độ cồn): 
-(n) Rượu cognac Pháp. Một loại rượu mạnh được làm từ nho, đặc sản của vùng Cognac, Pháp: 
-(n) Rượu brandy Pháp. Nghĩa: Loại rượu mạnh được làm từ nho hoặc các loại trái cây khác: 
+rượu mạnh Ám chỉ rượu có > 90 ABV (Alcohol By Volume - nồng độ cồn): 
+(n) Rượu cognac Pháp Một loại rượu mạnh được làm từ nho, đặc sản của vùng Cognac, Pháp: 
+(n) Rượu brandy Pháp Nghĩa: Loại rượu mạnh được làm từ nho hoặc các loại trái cây khác: 
 (n) Nước cam: 
 (n) Nước ép cà chua: 
 (n) Trà đá: 
@@ -2530,12 +2530,12 @@ rượu mạnh. Ám chỉ rượu có > 90 ABV (Alcohol By Volume - nồng 
 (n) Cà phê sữa: 
 (n) Sữa lắc: 
 (v) Có hương vị chocolate: 
-(n) Thạch. thực phẩm có kết cấu giống thạch làm từ gelatin: 
+(n) Thạch thực phẩm có kết cấu giống thạch làm từ gelatin: 
 (n) Mứt, thạc: 
-(n) Bánh muffin. Nghĩa: Một loại bánh nhỏ, thường có vị ngọt và có nhiều hương vị khác nhau: 
+(n) Bánh muffin Nghĩa: Một loại bánh nhỏ, thường có vị ngọt và có nhiều hương vị khác nhau: 
 (n) Sữa chua đông lạnh: 
-(n) Kem phủ bánh. kem đặc hơn thường phủ lớp ngoài bánh kem hoặc nhân bánh: 
-(n) Kem phủ bánh. kem mỏng hơn thường dùng để vẽ nét cho bánh: 
+(n) Kem phủ bánh kem đặc hơn thường phủ lớp ngoài bánh kem hoặc nhân bánh: 
+(n) Kem phủ bánh kem mỏng hơn thường dùng để vẽ nét cho bánh: 
 (n) Kem vani: 
 (n) Kem dâu: 
 (n) Kem tươi dâu: 
@@ -2615,7 +2615,7 @@ nhà điều hành khách sạn:
 nhân viên khách sạn: 
 thợ điện: 
 người rao tin trong thị trấn, nhân viên trực tầng: 
-(n) Đội trưởng bộ phận hành lý. Người chịu trách nhiệm quản lý các nhân viên khuân hành lý và đảm bảo dịch vụ hành lý trong khách sạn: 
+(n) Đội trưởng bộ phận hành lý Người chịu trách nhiệm quản lý các nhân viên khuân hành lý và đảm bảo dịch vụ hành lý trong khách sạn: 
 giám đốc bưu điện: 
 quản lý chi nhánh: 
 nhân viên bưa điện: 
@@ -2636,7 +2636,7 @@ nham hiểm:
 (n) sự hoan nghênh, sự tán thưởng: 
 (n) bài hát, lời hô vang (v) hát, hô vang: 
 (n) sự hát, sự hô vang: 
-(n) bài hát lao động. Nghĩa: Một bài hát được hát bởi các thủy thủ hoặc công nhân để đồng bộ hóa công việc của họ: 
+(n) bài hát lao động Nghĩa: Một bài hát được hát bởi các thủy thủ hoặc công nhân để đồng bộ hóa công việc của họ: 
 (v) đối phó với, đương đầu với: 
 (a) đối phó, đương đầu; (n) sự đối phó, sự đương đầu: 
 (v) trục xuất, đuổi, tống ra: 
@@ -2664,7 +2664,7 @@ nham hiểm:
 (n) Người thuê, người mướn: 
 (n) Sự thuê, mướn: 
 (a) Có thể thuê được: 
-(n) Một vật hoặc một phần tử được sử dụng để làm giảm hoặc làm dịu một hiện tượng cụ thể. Nghĩa chính: Cái làm giảm âm thanh hoặc rung động, Cái làm giảm hoặc làm dịu cảm xúc hoặc tình trạng: 
+(n) Một vật hoặc một phần tử được sử dụng để làm giảm hoặc làm dịu một hiện tượng cụ thể Nghĩa chính: Cái làm giảm âm thanh hoặc rung động, Cái làm giảm hoặc làm dịu cảm xúc hoặc tình trạng: 
 (n) Bộ giảm chấn: 
 (n) Bộ giảm tiếng ồn: 
 bịt tai lại bằng 2 bàn tay: 
@@ -2695,19 +2695,19 @@ bịt tai lại bằng 2 bàn tay:
 (n) Sân, bãi: 
 (n) Đường đua, sân chạy: 
 (n) Khán đài chính: 
-(Phrasal Verb) Cổ vũ, khích lệ. Nghĩa: Động viên, khuyến khích ai đó bằng cách hò reo, vỗ tay hoặc nói những lời động viên trong khi họ đang tham gia vào một hoạt động nào đó, đặc biệt là trong thể thao: 
+(Phrasal Verb) Cổ vũ, khích lệ Nghĩa: Động viên, khuyến khích ai đó bằng cách hò reo, vỗ tay hoặc nói những lời động viên trong khi họ đang tham gia vào một hoạt động nào đó, đặc biệt là trong thể thao: 
 (v) Nhìn chằm chằm: 
 (phrasal verb) nhìn chằm chằm cho đến khi đối phương quay đi: 
 (a) (thuộc) nhìn chằm chằm, rõ ràng: 
 (v) Nhìn chằm chằm một cách chăm chú, nhưng thường với sự ngưỡng mộ hoặc suy nghĩ: 
 (v) Liếc nhìn, nhìn thoáng qua: 
 (v) Nhìn trừng trừng, nhìn giận dữ: 
-(v) Hồi phục, khôi phục. Nghĩa: Trở lại trạng thái bình thường hoặc tốt hơn sau khi bị thương, bệnh tật, hoặc trải qua khó khăn: 
+(v) Hồi phục, khôi phục Nghĩa: Trở lại trạng thái bình thường hoặc tốt hơn sau khi bị thương, bệnh tật, hoặc trải qua khó khăn: 
 (n) Sự hồi phục, sự khôi phục: 
 (a) Có thể hồi phục, có thể lấy lại: 
 (v) Hồi phục sức khỏe, lấy lại sức lực: 
-(v) Lấy lại, giành lại. Nghĩa: Lấy lại một cái gì đó đã mất hoặc đã bị tước đoạt: 
-(v) Hồi sinh, làm sống lại. Nghĩa: Làm cho cái gì đó trở lại trạng thái sống động hoặc năng động sau khi đã bị lãng quên hoặc suy yếu: 
+(v) Lấy lại, giành lại Nghĩa: Lấy lại một cái gì đó đã mất hoặc đã bị tước đoạt: 
+(v) Hồi sinh, làm sống lại Nghĩa: Làm cho cái gì đó trở lại trạng thái sống động hoặc năng động sau khi đã bị lãng quên hoặc suy yếu: 
 (n) Người nhập cư: 
 (n) Sự nhập cư: 
 (v) Nhập cư: 
@@ -2737,126 +2737,126 @@ bịt tai lại bằng 2 bàn tay:
 (a) Có thể tiếp cận, dễ tiếp cận: 
 (n) Khả năng tiếp cận: 
 (n) Người đàn ông nhanh nhất thế giới: 
-(v) Chạy (n) Chuyến chạy. Nghĩa: Di chuyển nhanh hơn so với đi bộ, thường với cả hai chân rời khỏi mặt đất trong từng bước chân: 
-(v) Chạy bộ nhẹ nhàng (n) Chuyến chạy bộ nhẹ nhàng. Nghĩa: Hoạt động hoặc quá trình chạy bộ với tốc độ chậ: 
-(v) Chạy nước rút (n) Cuộc chạy nước rút. Nghĩa: Cuộc đua hoặc hành động chạy với tốc độ tối đa trong một khoảng cách ngắn: 
+(v) Chạy (n) Chuyến chạy Nghĩa: Di chuyển nhanh hơn so với đi bộ, thường với cả hai chân rời khỏi mặt đất trong từng bước chân: 
+(v) Chạy bộ nhẹ nhàng (n) Chuyến chạy bộ nhẹ nhàng Nghĩa: Hoạt động hoặc quá trình chạy bộ với tốc độ chậ: 
+(v) Chạy nước rút (n) Cuộc chạy nước rút Nghĩa: Cuộc đua hoặc hành động chạy với tốc độ tối đa trong một khoảng cách ngắn: 
 
-(v) Tiết lộ, phơi bày (n) Sự tiết lộ, sự phơi bày. Nghĩa: Cho thấy, làm sáng tỏ điều gì đó trước đây được giấu kín hoặc không được biết đến: 
+(v) Tiết lộ, phơi bày (n) Sự tiết lộ, sự phơi bày Nghĩa: Cho thấy, làm sáng tỏ điều gì đó trước đây được giấu kín hoặc không được biết đến: 
 (n) Sự tiết lộ, sự phát hiện: 
-(v) Tiết lộ, công bố. Nghĩa: Làm cho điều gì đó trở nên rõ ràng hoặc biết được, thường là một sản phẩm hoặc kế hoạch mới: 
-(n) Sự tiết lộ, sự phơi bày. Nghĩa: Hành động hoặc quá trình tiết lộ thông tin hay sự thật mà trước đây không được biết đến hoặc được giữ kín: 
-(v) Phơi bày, lộ ra. Nghĩa: Làm cho điều gì đó trở nên rõ ràng hoặc biết được, thường là một sự thật hoặc thông tin mà trước đó được giấu kín: 
-(v) Tiết lộ, phơi bày. Nghĩa: Làm cho điều gì đó trở nên rõ ràng hoặc biết được, thường là một điều gì đó không mong muốn hoặc bí mật: 
+(v) Tiết lộ, công bố Nghĩa: Làm cho điều gì đó trở nên rõ ràng hoặc biết được, thường là một sản phẩm hoặc kế hoạch mới: 
+(n) Sự tiết lộ, sự phơi bày Nghĩa: Hành động hoặc quá trình tiết lộ thông tin hay sự thật mà trước đây không được biết đến hoặc được giữ kín: 
+(v) Phơi bày, lộ ra Nghĩa: Làm cho điều gì đó trở nên rõ ràng hoặc biết được, thường là một sự thật hoặc thông tin mà trước đó được giấu kín: 
+(v) Tiết lộ, phơi bày Nghĩa: Làm cho điều gì đó trở nên rõ ràng hoặc biết được, thường là một điều gì đó không mong muốn hoặc bí mật: 
 (v) Vận hành, điều hành: 
 (n) Hoạt động, sự vận hành: 
 (n) Người vận hành, người điều khiển: 
 (a) Hoạt động, vận hành: 
-(n) Sự tăng lương, sự tăng thu nhập. Nghĩa: Một sự tăng lương hoặc tăng thu nhập được cung cấp cho một nhân viên hoặc một nhóm nhân viên trong một khoảng thời gian nhất định, thường là như một phần của việc đánh giá hiệu suất hoặc như một phần của sự điều chỉnh định kỳ: 
+(n) Sự tăng lương, sự tăng thu nhập Nghĩa: Một sự tăng lương hoặc tăng thu nhập được cung cấp cho một nhân viên hoặc một nhóm nhân viên trong một khoảng thời gian nhất định, thường là như một phần của việc đánh giá hiệu suất hoặc như một phần của sự điều chỉnh định kỳ: 
 (n) Sự tăng lương hàng năm: 
 (n) Sự tăng lương hàng năm theo chỉ số chi phí sinh hoạt: 
 (n) Cao su: 
 (a) Có tính chất của cao su, mềm dẻo như cao su: 
 (v) Nảy, bật lại (n) Sự nảy, sự bật lại: 
-(a) Mềm và đàn hồi, có tính chất của sự nảy. Nghĩa: Mềm mại và có khả năng nảy lại nhanh chóng khi chịu áp lực: 
-(a) Đang nảy, đang bật lại. Nghĩa: Trạng thái của việc di chuyển lên và xuống hoặc lùi về phía trước và phía sau một cách nhanh chóng và nhẹ nhàng: 
-(n) sự khéo léo (v) Xử lý khéo léo. Nghĩa: thường liên quan đến sự khéo léo trong cách xử lý tình huống và công việc, với một mức độ tinh tế và tài tình: 
-(a) Thông minh, khéo léo. Nghĩa: ám chỉ sự thông minh và khả năng giải quyết vấn đề một cách nhanh nhẹn và sáng tạo: 
-(a) Khéo tay, tài giỏi. Nghĩa: Có kỹ năng và khả năng làm việc gì đó rất tốt, thường là do được huấn luyện hoặc thực hành nhiều, biểu thị sự thành thạo và tài năng vượt trội: 
-(n) Sự khéo léo. Nghĩa: Kỹ năng và sự nhanh nhạy trong việc sử dụng tay hoặc cơ thể: 
-(a) Thành thạo, giỏi giang. Nghĩa: Có kỹ năng và kiến thức tốt trong một lĩnh vực nào đ: 
-(n) Chuyên gia. Nghĩa: Một người có kiến thức và kỹ năng chuyên sâu về một lĩnh vực cụ th: 
-có năng lực, thông thạo; (pháp lý) có thẩm quyền. Nghĩa: Có đủ kỹ năng và kiến thức để làm một việc gì đó: 
+(a) Mềm và đàn hồi, có tính chất của sự nảy Nghĩa: Mềm mại và có khả năng nảy lại nhanh chóng khi chịu áp lực: 
+(a) Đang nảy, đang bật lại Nghĩa: Trạng thái của việc di chuyển lên và xuống hoặc lùi về phía trước và phía sau một cách nhanh chóng và nhẹ nhàng: 
+(n) sự khéo léo (v) Xử lý khéo léo Nghĩa: thường liên quan đến sự khéo léo trong cách xử lý tình huống và công việc, với một mức độ tinh tế và tài tình: 
+(a) Thông minh, khéo léo Nghĩa: ám chỉ sự thông minh và khả năng giải quyết vấn đề một cách nhanh nhẹn và sáng tạo: 
+(a) Khéo tay, tài giỏi Nghĩa: Có kỹ năng và khả năng làm việc gì đó rất tốt, thường là do được huấn luyện hoặc thực hành nhiều, biểu thị sự thành thạo và tài năng vượt trội: 
+(n) Sự khéo léo Nghĩa: Kỹ năng và sự nhanh nhạy trong việc sử dụng tay hoặc cơ thể: 
+(a) Thành thạo, giỏi giang Nghĩa: Có kỹ năng và kiến thức tốt trong một lĩnh vực nào đ: 
+(n) Chuyên gia Nghĩa: Một người có kiến thức và kỹ năng chuyên sâu về một lĩnh vực cụ th: 
+có năng lực, thông thạo; (pháp lý) có thẩm quyền Nghĩa: Có đủ kỹ năng và kiến thức để làm một việc gì đó: 
 Sự đàm phán: 
 
-(a) Đã thêm muối, có muối. Nghĩa: Thực phẩm đã được thêm muối vào trong quá trình chế biế: 
-(a) Không muối, chưa được muối. Nghĩa: Thực phẩm không có muối hoặc chưa được thêm muối và: 
-(a) Ít natri, ít muối. Nghĩa: Thực phẩm chứa ít muối hoặc ít natri hơn so với thông thường: 
-(a) Không thêm muối. Nghĩa: Thực phẩm không được thêm muối trong quá trình chế biến: 
-(a) Nguyên chất, không thêm gia vị. Nghĩa: Thực phẩm không có gia vị hoặc hương liệu, giữ nguyên hương vị tự nhiên: 
+(a) Đã thêm muối, có muối Nghĩa: Thực phẩm đã được thêm muối vào trong quá trình chế biế: 
+(a) Không muối, chưa được muối Nghĩa: Thực phẩm không có muối hoặc chưa được thêm muối và: 
+(a) Ít natri, ít muối Nghĩa: Thực phẩm chứa ít muối hoặc ít natri hơn so với thông thường: 
+(a) Không thêm muối Nghĩa: Thực phẩm không được thêm muối trong quá trình chế biến: 
+(a) Nguyên chất, không thêm gia vị Nghĩa: Thực phẩm không có gia vị hoặc hương liệu, giữ nguyên hương vị tự nhiên: 
 
-(n) Trang trí, trang hoàng. Nghĩa: Bố trí hoặc phong cách trang trí của một căn phòng, tòa nhà, hoặc một không gian cụ thể: 
-(n) Thiết kế nội thất. Nghĩa: Nghệ thuật và khoa học nâng cao không gian nội thất để tạo ra một môi trường thẩm mỹ và chức năng: 
-(n) Vương cung thánh đường, nhà thờ lớn. Nghĩa: Một kiểu nhà thờ lớn và quan trọng trong Giáo hội Công giáo La Mã, hoặc một tòa nhà công cộng lớn ở La Mã cổ đại: 
-(n) Nhà thờ chính tòa. Nghĩa: Nhà thờ chính của một giáo phận, nơi có ngai giám mục: 
-(n) Nhà nguyện. Nghĩa: Một tòa nhà nhỏ hoặc một phòng trong nhà thờ lớn dùng để cầu nguyện hoặc cử hành l: 
-(n) Tu viện. Nghĩa: Nơi sống và làm việc của các tu sĩ hoặc nữ tu: 
-(n) Thánh địa, nơi tôn nghiêm. Nghĩa: Nơi thiêng liêng trong một nhà thờ, hoặc nơi trú ẩn an toàn: 
+(n) Trang trí, trang hoàng Nghĩa: Bố trí hoặc phong cách trang trí của một căn phòng, tòa nhà, hoặc một không gian cụ thể: 
+(n) Thiết kế nội thất Nghĩa: Nghệ thuật và khoa học nâng cao không gian nội thất để tạo ra một môi trường thẩm mỹ và chức năng: 
+(n) Vương cung thánh đường, nhà thờ lớn Nghĩa: Một kiểu nhà thờ lớn và quan trọng trong Giáo hội Công giáo La Mã, hoặc một tòa nhà công cộng lớn ở La Mã cổ đại: 
+(n) Nhà thờ chính tòa Nghĩa: Nhà thờ chính của một giáo phận, nơi có ngai giám mục: 
+(n) Nhà nguyện Nghĩa: Một tòa nhà nhỏ hoặc một phòng trong nhà thờ lớn dùng để cầu nguyện hoặc cử hành l: 
+(n) Tu viện Nghĩa: Nơi sống và làm việc của các tu sĩ hoặc nữ tu: 
+(n) Thánh địa, nơi tôn nghiêm Nghĩa: Nơi thiêng liêng trong một nhà thờ, hoặc nơi trú ẩn an toàn: 
 (n) Tem, con tem: 
 (n) Bộ sưu tập: 
-(n) Điện báo, bức điện tín. Nghĩa: Một thông điệp được gửi bằng tín hiệu điện tử qua đường dây điện hoặc sóng vô tuyến, sau đó được chuyển thành văn bản và giao đến người nhận: 
-(n) Máy điện báo. Nghĩa: Thiết bị được sử dụng để gửi các thông điệp bằng cách sử dụng mã Morse qua dây điện: 
-(n) Sự gửi đi, phái đi. Nghĩa: Hành động gửi đi một thông điệp hoặc hàng hóa đến một nơi khác: 
+(n) Điện báo, bức điện tín Nghĩa: Một thông điệp được gửi bằng tín hiệu điện tử qua đường dây điện hoặc sóng vô tuyến, sau đó được chuyển thành văn bản và giao đến người nhận: 
+(n) Máy điện báo Nghĩa: Thiết bị được sử dụng để gửi các thông điệp bằng cách sử dụng mã Morse qua dây điện: 
+(n) Sự gửi đi, phái đi Nghĩa: Hành động gửi đi một thông điệp hoặc hàng hóa đến một nơi khác: 
 (n) Dịch vụ truyền tin: 
-(n) Người đưa thư, chuyển phát nhanh. Nghĩa: Người hoặc công ty chuyên gửi và nhận các gói hàng, tài liệ: 
-(n) Cuộc gọi đường dài. Nghĩa: Một cuộc điện thoại được thực hiện giữa hai địa điểm cách xa nhau, thường là giữa các thành phố, tiểu bang hoặc quốc gia khác nhau: 
-(n) Cuộc gọi quốc tế. Nghĩa: Một cuộc gọi được thực hiện từ một quốc gia này đến một quốc gia khác.: 
-(n) Cuộc gọi nội địa. Nghĩa: Một cuộc gọi được thực hiện trong cùng một quốc gia, không phải là cuộc gọi đường dài: 
-(n) Chuyển vùng, cuộc gọi chuyển vùng. Nghĩa: Dịch vụ cho phép điện thoại di động sử dụng mạng khác khi ở ngoài khu vực phủ sóng của nhà cung cấp dịch vụ ban đầu: 
-(n) Thẻ gọi điện. Nghĩa: Một thẻ trả trước cho phép thực hiện các cuộc gọi, thường được sử dụng cho các cuộc gọi đường dài hoặc quốc tế: 
-(n) Mã vùng. Nghĩa: Một mã số gồm ba chữ số được sử dụng để chỉ định một khu vực địa lý cụ thể trong hệ thống điện thoại: 
-(v) Gửi thư. Nghĩa: Hành động gửi một lá thư qua dịch vụ bưu điện: 
-(n) Bưu phí. Nghĩa: Chi phí để gửi thư hoặc bưu kiện qua dịch vụ bưu điện: 
-(n) Phong bì.Nghĩa: Vật dụng để chứa thư hoặc tài liệu trước khi gửi qua bưu điện: 
-(n) Địa chỉ người gửi. Nghĩa: Địa chỉ của người gửi được ghi trên phong bì hoặc bưu kiện để người nhận biết được nơi gửi lại nếu không chuyển phát được: 
-(n) Người đưa thư. Nghĩa: Nhân viên bưu điện chịu trách nhiệm giao thư và bưu kiện đến địa chỉ nhận: 
-(a) Dính, nhão. Nghĩa: Miêu tả một chất có tính chất dính, nhớt, thường là mềm và ẩm: 
-(a) Dính. Nghĩa: Có tính chất bám dính, gây cảm giác bám dính khi chạm vào: 
-(a) Nhớt, sền sệt. Nghĩa: Có độ nhớt cao, chảy chậm và dày: 
-(a) Mềm nhũn. Nghĩa: Có kết cấu mềm, nhão và dễ bị nghiền nát: 
-(a) Hơi dính, dính nhẹ. Nghĩa: Có cảm giác hơi dính khi chạm vào, chưa khô hoàn toàn: 
-(a) Dẻo, nếp. Nghĩa: Có đặc tính giống như chất keo, thường được sử dụng để miêu tả thực phẩm: 
+(n) Người đưa thư, chuyển phát nhanh Nghĩa: Người hoặc công ty chuyên gửi và nhận các gói hàng, tài liệ: 
+(n) Cuộc gọi đường dài Nghĩa: Một cuộc điện thoại được thực hiện giữa hai địa điểm cách xa nhau, thường là giữa các thành phố, tiểu bang hoặc quốc gia khác nhau: 
+(n) Cuộc gọi quốc tế Nghĩa: Một cuộc gọi được thực hiện từ một quốc gia này đến một quốc gia khác: 
+(n) Cuộc gọi nội địa Nghĩa: Một cuộc gọi được thực hiện trong cùng một quốc gia, không phải là cuộc gọi đường dài: 
+(n) Chuyển vùng, cuộc gọi chuyển vùng Nghĩa: Dịch vụ cho phép điện thoại di động sử dụng mạng khác khi ở ngoài khu vực phủ sóng của nhà cung cấp dịch vụ ban đầu: 
+(n) Thẻ gọi điện Nghĩa: Một thẻ trả trước cho phép thực hiện các cuộc gọi, thường được sử dụng cho các cuộc gọi đường dài hoặc quốc tế: 
+(n) Mã vùng Nghĩa: Một mã số gồm ba chữ số được sử dụng để chỉ định một khu vực địa lý cụ thể trong hệ thống điện thoại: 
+(v) Gửi thư Nghĩa: Hành động gửi một lá thư qua dịch vụ bưu điện: 
+(n) Bưu phí Nghĩa: Chi phí để gửi thư hoặc bưu kiện qua dịch vụ bưu điện: 
+(n) Phong bìNghĩa: Vật dụng để chứa thư hoặc tài liệu trước khi gửi qua bưu điện: 
+(n) Địa chỉ người gửi Nghĩa: Địa chỉ của người gửi được ghi trên phong bì hoặc bưu kiện để người nhận biết được nơi gửi lại nếu không chuyển phát được: 
+(n) Người đưa thư Nghĩa: Nhân viên bưu điện chịu trách nhiệm giao thư và bưu kiện đến địa chỉ nhận: 
+(a) Dính, nhão Nghĩa: Miêu tả một chất có tính chất dính, nhớt, thường là mềm và ẩm: 
+(a) Dính Nghĩa: Có tính chất bám dính, gây cảm giác bám dính khi chạm vào: 
+(a) Nhớt, sền sệt Nghĩa: Có độ nhớt cao, chảy chậm và dày: 
+(a) Mềm nhũn Nghĩa: Có kết cấu mềm, nhão và dễ bị nghiền nát: 
+(a) Hơi dính, dính nhẹ Nghĩa: Có cảm giác hơi dính khi chạm vào, chưa khô hoàn toàn: 
+(a) Dẻo, nếp Nghĩa: Có đặc tính giống như chất keo, thường được sử dụng để miêu tả thực phẩm: 
 
-(v) Mở rộng. Nghĩa: Làm cho lớn hơn về kích thước, số lượng hoặc phạm vi; trải rộng ra hoặc tăng trưởng: 
-(n) Sự mở rộng. Nghĩa: Quá trình hoặc hành động mở rộng về kích thước, số lượng hoặc phạm vi: 
-(v) Kéo dài, mở rộng. Nghĩa: Làm cho cái gì đó dài hơn hoặc lớn hơn; tiếp tục trong một khoảng thời gian dài hơn: 
-(v) Mở rộng. Nghĩa: Làm cho rộng hơn về nghĩa đen hoặc nghĩa bóng: 
-(v) Phóng to, mở rộng. Nghĩa: Làm cho cái gì đó lớn hơn về kích thước hoặc số lượng: 
-(v) Thổi phồng, mở rộng. Nghĩa: Làm cho cái gì đó đầy hoặc lớn hơn bằng cách thêm khí hoặc chất lỏn: 
+(v) Mở rộng Nghĩa: Làm cho lớn hơn về kích thước, số lượng hoặc phạm vi; trải rộng ra hoặc tăng trưởng: 
+(n) Sự mở rộng Nghĩa: Quá trình hoặc hành động mở rộng về kích thước, số lượng hoặc phạm vi: 
+(v) Kéo dài, mở rộng Nghĩa: Làm cho cái gì đó dài hơn hoặc lớn hơn; tiếp tục trong một khoảng thời gian dài hơn: 
+(v) Mở rộng Nghĩa: Làm cho rộng hơn về nghĩa đen hoặc nghĩa bóng: 
+(v) Phóng to, mở rộng Nghĩa: Làm cho cái gì đó lớn hơn về kích thước hoặc số lượng: 
+(v) Thổi phồng, mở rộng Nghĩa: Làm cho cái gì đó đầy hoặc lớn hơn bằng cách thêm khí hoặc chất lỏn: 
 
 (n) Thang cuốn: 
 (n) Thang má: 
 (n) Cầu thang bộ: 
-(n) Lối đi chuyển động. Nghĩa: Một băng chuyền phẳng di chuyển người đi bộ dọc theo một khoảng cách dài, thường thấy ở sân bay: 
-(n) Tay vịn. Nghĩa: Một thanh nắm dài được gắn vào thang cuốn, cầu thang hoặc lối đi để hỗ trợ người sử dụng: 
-bậc thang; bước đi. Nghĩa: Một bề mặt phẳng nằm ngang trên thang cuốn hoặc cầu thang, nơi bạn đặt chân để đi lên hoặc xuống: 
+(n) Lối đi chuyển động Nghĩa: Một băng chuyền phẳng di chuyển người đi bộ dọc theo một khoảng cách dài, thường thấy ở sân bay: 
+(n) Tay vịn Nghĩa: Một thanh nắm dài được gắn vào thang cuốn, cầu thang hoặc lối đi để hỗ trợ người sử dụng: 
+bậc thang; bước đi Nghĩa: Một bề mặt phẳng nằm ngang trên thang cuốn hoặc cầu thang, nơi bạn đặt chân để đi lên hoặc xuống: 
 (a) Chống cháy: 
 (a) Chịu nhiệt, kháng lửa: 
-(n) Chống cháy. Nghĩa: Quá trình làm cho một vật liệu hoặc cấu trúc không dễ bắt lửa và có khả năng chịu được nhiệt độ cao: 
-(n) Chất làm chậm cháy; (a) có tính chậm cháy. Nghĩa: Một chất hoặc vật liệu được sử dụng để làm chậm sự phát triển của ngọn lửa: 
-(n) Vật liệu cách nhiệt, cách âm. Nghĩa: Vật liệu được sử dụng để ngăn chặn sự truyền nhiệt hoặc âm thanh: 
-(a) Không cháy được. Nghĩa: Không thể cháy hoặc không dễ bị cháy: 
-(v) Tương tác.: 
+(n) Chống cháy Nghĩa: Quá trình làm cho một vật liệu hoặc cấu trúc không dễ bắt lửa và có khả năng chịu được nhiệt độ cao: 
+(n) Chất làm chậm cháy; (a) có tính chậm cháy Nghĩa: Một chất hoặc vật liệu được sử dụng để làm chậm sự phát triển của ngọn lửa: 
+(n) Vật liệu cách nhiệt, cách âm Nghĩa: Vật liệu được sử dụng để ngăn chặn sự truyền nhiệt hoặc âm thanh: 
+(a) Không cháy được Nghĩa: Không thể cháy hoặc không dễ bị cháy: 
+(v) Tương tác: 
 (n) Sự tương tác: 
 (a) Tương tác: 
-(n) Thiết bị tương tác. Nghĩa: Thiết bị cho phép người dùng giao tiếp và điều khiển thông qua các hoạt động đầu vào, thường có phản hồi trực tiếp hoặc hai chiều: 
-(v) Tham gia, tương tác. Nghĩa: Tham gia vào một hoạt động hoặc bắt đầu một cuộc giao tiếp: 
-(v) Giao tiếp. Nghĩa: Hành động trao đổi thông tin, ý tưởng hoặc cảm xúc giữa người hoặc nhóm: 
-(n) Cảm biến. Nghĩa: Thiết bị phát hiện hoặc đo lường một trạng thái hoặc điều kiện vật lý và chuyển đổi nó thành tín hiệu: 
-(n) Thực tế tăng cường. Nghĩa: Công nghệ phủ lên thế giới thực với các thông tin hoặc hình ảnh kỹ thuật số: 
-(n) Thực tế ảo. Nghĩa: Công nghệ tạo ra một môi trường giả lập mà người dùng có thể tương tác và trải nghiệm như thật: 
-(n) Màn hình cảm ứng. Nghĩa: Màn hình cho phép người dùng điều khiển thiết bị bằng cách chạm vào nó: 
-(n) Bảng trắng tương tác. Nghĩa: Một bảng kỹ thuật số cho phép người dùng viết, vẽ và tương tác với nội dung kỹ thuật số: 
-* contest (n) Cuộc thi, tranh đấu. Nghĩa: Một sự kiện hoặc hoạt động mà ở đó mọi người cạnh tranh để giành chiến thắng hoặc đạt được một mục tiêu cụ thể
-(n) Đối thủ cạnh tranh, người tranh cử. Nghĩa: Người tham gia vào một cuộc thi hoặc một cuộc đấu tranh để giành chiến thắng hoặc đạt được điều gì đó: 
-(n) Thí sinh, người dự thi. Nghĩa: Người tham gia vào một cuộc thi: 
-(n) Sự tranh cãi, sự tranh đấu. Nghĩa: Hành động tranh cãi hoặc đấu tranh để đạt được sự thừa nhận hoặc quyền lợi: 
-(v) Thi đấu, cạnh tranh. Nghĩa: Tham gia vào một cuộc thi hoặc cuộc đấu tranh để giành chiến thắng: 
+(n) Thiết bị tương tác Nghĩa: Thiết bị cho phép người dùng giao tiếp và điều khiển thông qua các hoạt động đầu vào, thường có phản hồi trực tiếp hoặc hai chiều: 
+(v) Tham gia, tương tác Nghĩa: Tham gia vào một hoạt động hoặc bắt đầu một cuộc giao tiếp: 
+(v) Giao tiếp Nghĩa: Hành động trao đổi thông tin, ý tưởng hoặc cảm xúc giữa người hoặc nhóm: 
+(n) Cảm biến Nghĩa: Thiết bị phát hiện hoặc đo lường một trạng thái hoặc điều kiện vật lý và chuyển đổi nó thành tín hiệu: 
+(n) Thực tế tăng cường Nghĩa: Công nghệ phủ lên thế giới thực với các thông tin hoặc hình ảnh kỹ thuật số: 
+(n) Thực tế ảo Nghĩa: Công nghệ tạo ra một môi trường giả lập mà người dùng có thể tương tác và trải nghiệm như thật: 
+(n) Màn hình cảm ứng Nghĩa: Màn hình cho phép người dùng điều khiển thiết bị bằng cách chạm vào nó: 
+(n) Bảng trắng tương tác Nghĩa: Một bảng kỹ thuật số cho phép người dùng viết, vẽ và tương tác với nội dung kỹ thuật số: 
+* contest (n) Cuộc thi, tranh đấu Nghĩa: Một sự kiện hoặc hoạt động mà ở đó mọi người cạnh tranh để giành chiến thắng hoặc đạt được một mục tiêu cụ thể
+(n) Đối thủ cạnh tranh, người tranh cử Nghĩa: Người tham gia vào một cuộc thi hoặc một cuộc đấu tranh để giành chiến thắng hoặc đạt được điều gì đó: 
+(n) Thí sinh, người dự thi Nghĩa: Người tham gia vào một cuộc thi: 
+(n) Sự tranh cãi, sự tranh đấu Nghĩa: Hành động tranh cãi hoặc đấu tranh để đạt được sự thừa nhận hoặc quyền lợi: 
+(v) Thi đấu, cạnh tranh Nghĩa: Tham gia vào một cuộc thi hoặc cuộc đấu tranh để giành chiến thắng: 
 (n) Cuộc thi, sự cạnh tranh: 
 threat
-(v) Kết thúc cuộc họp. Nghĩa: Hoàn thành hoặc kết thúc một cuộc họp bằng cách tóm tắt các điểm chính, đưa ra kết luận hoặc quyết định, và xác định các bước tiếp theo: 
+(v) Kết thúc cuộc họp Nghĩa: Hoàn thành hoặc kết thúc một cuộc họp bằng cách tóm tắt các điểm chính, đưa ra kết luận hoặc quyết định, và xác định các bước tiếp theo: 
 (v) nộp, đệ trình, sắp xếp, lưu trữ: 
 (n) hồ sơ, tài liệu: 
 (n) người nộp đơn, người sắp xếp hồ sơ: 
 (n) sự nộp đơn, sự sắp xếp hồ sơ: 
-(n) Các công việc cần làm. Nghĩa: Các nhiệm vụ hoặc công việc cụ thể được xác định trong cuộc họp để thực hiện sau đó: 
-(n) Biên bản cuộc họp. Nghĩa: Ghi chép chính thức các nội dung đã thảo luận và các quyết định đã đưa ra trong cuộc họp: 
-(a) Rõ ràng, hiển nhiên. Nghĩa: Dễ hiểu, không có sự nghi ngờ, hoặc có thể thấy hoặc nhận ra ngay lập tứ: 
-(adv) Rõ ràng là, một cách hiển nhiên. Nghĩa: Cách thức diễn đạt rằng điều gì đó là dễ hiểu hoặc không cần giải thích thêm: 
+(n) Các công việc cần làm Nghĩa: Các nhiệm vụ hoặc công việc cụ thể được xác định trong cuộc họp để thực hiện sau đó: 
+(n) Biên bản cuộc họp Nghĩa: Ghi chép chính thức các nội dung đã thảo luận và các quyết định đã đưa ra trong cuộc họp: 
+(a) Rõ ràng, hiển nhiên Nghĩa: Dễ hiểu, không có sự nghi ngờ, hoặc có thể thấy hoặc nhận ra ngay lập tứ: 
+(adv) Rõ ràng là, một cách hiển nhiên Nghĩa: Cách thức diễn đạt rằng điều gì đó là dễ hiểu hoặc không cần giải thích thêm: 
 (n) Sự rõ ràng, sự hiển nhiên: 
 thỉnh thoảng, đôi khi: 
 cúp học: 
-(n) Vòng xuyến, bùng binh. Nghĩa: Một khu vực giao thông nơi các con đường gặp nhau và xe cộ di chuyển theo vòng tròn xung quanh một đảo trung tâm: 
-(n) Vòng xuyến, bùng binh. Nghĩa: Một khu vực giao thông nơi các con đường gặp nhau và xe cộ di chuyển theo vòng tròn xung quanh một đảo trung tâm đây là từ đồng nghĩa với "traffic circle": 
+(n) Vòng xuyến, bùng binh Nghĩa: Một khu vực giao thông nơi các con đường gặp nhau và xe cộ di chuyển theo vòng tròn xung quanh một đảo trung tâm: 
+(n) Vòng xuyến, bùng binh Nghĩa: Một khu vực giao thông nơi các con đường gặp nhau và xe cộ di chuyển theo vòng tròn xung quanh một đảo trung tâm đây là từ đồng nghĩa với "traffic circle": 
 (n) Sự nhượng bộ: 
 (n) Cách thức, cách cư xử: 
 (a) To, lớn (âm thanh): 
@@ -2904,263 +2904,263 @@ tóc óng ả:
 # DEFINITION 4
 
 # The Day You Met Her 
-(adv) hơi, một chút. Nghĩa: Một mức độ nhỏ hoặc không hoàn toàn: 
-(adj) đã hơi dè dặt. Nghĩa: Đã có chút giữ kẽ hoặc không cởi m: 
-(v) ổn định vào. Nghĩa: Bắt đầu quen với hoặc cảm thấy thoải mái trong một môi trường mớ: 
-(n) người thích giao tiếp xã hội. Nghĩa: Một người thích tham gia vào các hoạt động xã hội và gặp gỡ người khác: 
-(adj) mải mê với. Nghĩa: Hoàn toàn chú tâm vào một cái gì đó: 
-(adj) ướt sũng từ. Nghĩa: Bị ướt đẫm từ một nguồn hoặc lý do nào đó: 
-(idiom) mắt chúng tôi gặp nhau thoáng qua. Nghĩa: Nhìn thấy nhau trong một khoảng thời gian ngắn: 
-(adj) không thể giải thích được. Nghĩa: Không thể hiểu hoặc giải thích: 
-(v) chảy, trôi chảy. Nghĩa: Di chuyển một cách tự nhiên và dễ dàng: 
-(idiom) cuộc trò chuyện diễn ra trôi chảy. Nghĩa: Cuộc trò chuyện diễn ra một cách tự nhiên và không gặp khó khăn: 
-(v) cảm thấy có sự kết nối. Nghĩa: Cảm giác gần gũi hoặc thấu hiểu với ai đó: 
-(n) tình bạn, sự đồng hành. Nghĩa: Sự gần gũi và đồng hành với ai đó: 
+(adv) hơi, một chút Nghĩa: Một mức độ nhỏ hoặc không hoàn toàn: 
+(adj) đã hơi dè dặt Nghĩa: Đã có chút giữ kẽ hoặc không cởi m: 
+(v) ổn định vào Nghĩa: Bắt đầu quen với hoặc cảm thấy thoải mái trong một môi trường mớ: 
+(n) người thích giao tiếp xã hội Nghĩa: Một người thích tham gia vào các hoạt động xã hội và gặp gỡ người khác: 
+(adj) mải mê với Nghĩa: Hoàn toàn chú tâm vào một cái gì đó: 
+(adj) ướt sũng từ Nghĩa: Bị ướt đẫm từ một nguồn hoặc lý do nào đó: 
+(idiom) mắt chúng tôi gặp nhau thoáng qua Nghĩa: Nhìn thấy nhau trong một khoảng thời gian ngắn: 
+(adj) không thể giải thích được Nghĩa: Không thể hiểu hoặc giải thích: 
+(v) chảy, trôi chảy Nghĩa: Di chuyển một cách tự nhiên và dễ dàng: 
+(idiom) cuộc trò chuyện diễn ra trôi chảy Nghĩa: Cuộc trò chuyện diễn ra một cách tự nhiên và không gặp khó khăn: 
+(v) cảm thấy có sự kết nối Nghĩa: Cảm giác gần gũi hoặc thấu hiểu với ai đó: 
+(n) tình bạn, sự đồng hành Nghĩa: Sự gần gũi và đồng hành với ai đó: 
 
 # A Trip
-(pronoun) không ai trong chúng ta. Nghĩa: Không một ai trong nhóm hoặc tập thể của chúng t: 
-(n) màu xanh nước biển. Nghĩa: Một màu xanh giống như màu của nước biển: 
-(n) lòng hiếu khách. Nghĩa: Sự thân thiện và chào đón khách: 
-(idiom) mọi điều tốt đẹp đều phải kết thúc. Nghĩa: Tất cả những gì tốt đẹp đều có lúc phải chấm dứt: 
-(adj) bị cuốn hút bởi. Nghĩa: Cảm thấy rất hứng thú hoặc hấp dẫn bởi cái gì đ: 
-(v) chủ động làm gì. Nghĩa: Tự mình bắt đầu hoặc thực hiện điều gì đó mà không cần ai đó bảo: 
-(v) tình cờ gặp. Nghĩa: Gặp phải hoặc tìm thấy một cách tình cờ: 
-(idiom) thu dọn hành lý. Nghĩa: Chuẩn bị hoặc gói ghém đồ đạc để đi đâu đó: 
-(v) khởi hành. Nghĩa: Bắt đầu một cuộc hành trình hoặc chuyến đi: 
-(adj) đầy phấn khích. Nghĩa: Rất thú vị và kích thích: 
-(v) tìm đường, điều hướng. Nghĩa: Tìm đường hoặc hướng đi trong một khu vực hoặc qua một tình huốn: 
-(n) rào cản ngôn ngữ. Nghĩa: Những khó khăn hoặc trở ngại khi giao tiếp bằng các ngôn ngữ khác nhau: 
-(v) tiếp tục tiến lên. Nghĩa: Kiên trì tiến lên bất chấp khó khăn: 
-(adj) được thúc đẩy bởi. Nghĩa: Được điều khiển hoặc thúc đẩy bởi một cái gì đó: 
-(n) cảm giác tò mò và kỳ diệu. Nghĩa: Cảm giác hứng thú và ngạc nhiên về thế giới xung quanh: 
-(adj) ngoạn mục. Nghĩa: Rất đẹp hoặc ấn tượng đến mức ngỡ ngàng: 
-(v) kéo dài suốt đời. Nghĩa: Bền bỉ hoặc tồn tại mãi mãi: 
-(adj) tự tin. Nghĩa: Cảm thấy chắc chắn và tin vào khả năng của mình: 
-(n) sự tự tin. Nghĩa: Niềm tin vào khả năng của chính mình hoặc điều gì đó: 
-(adv) một cách tự tin. Nghĩa: Làm điều gì đó với sự tự tin: 
-(v) cảm thấy lạc lõng. Nghĩa: Cảm giác không biết phải làm gì hoặc đi đâu: 
-(v) bắt đầu một hành trình. Nghĩa: Bắt đầu một cuộc hành trình hoặc dự án: 
+(pronoun) không ai trong chúng ta Nghĩa: Không một ai trong nhóm hoặc tập thể của chúng t: 
+(n) màu xanh nước biển Nghĩa: Một màu xanh giống như màu của nước biển: 
+(n) lòng hiếu khách Nghĩa: Sự thân thiện và chào đón khách: 
+(idiom) mọi điều tốt đẹp đều phải kết thúc Nghĩa: Tất cả những gì tốt đẹp đều có lúc phải chấm dứt: 
+(adj) bị cuốn hút bởi Nghĩa: Cảm thấy rất hứng thú hoặc hấp dẫn bởi cái gì đ: 
+(v) chủ động làm gì Nghĩa: Tự mình bắt đầu hoặc thực hiện điều gì đó mà không cần ai đó bảo: 
+(v) tình cờ gặp Nghĩa: Gặp phải hoặc tìm thấy một cách tình cờ: 
+(idiom) thu dọn hành lý Nghĩa: Chuẩn bị hoặc gói ghém đồ đạc để đi đâu đó: 
+(v) khởi hành Nghĩa: Bắt đầu một cuộc hành trình hoặc chuyến đi: 
+(adj) đầy phấn khích Nghĩa: Rất thú vị và kích thích: 
+(v) tìm đường, điều hướng Nghĩa: Tìm đường hoặc hướng đi trong một khu vực hoặc qua một tình huốn: 
+(n) rào cản ngôn ngữ Nghĩa: Những khó khăn hoặc trở ngại khi giao tiếp bằng các ngôn ngữ khác nhau: 
+(v) tiếp tục tiến lên Nghĩa: Kiên trì tiến lên bất chấp khó khăn: 
+(adj) được thúc đẩy bởi Nghĩa: Được điều khiển hoặc thúc đẩy bởi một cái gì đó: 
+(n) cảm giác tò mò và kỳ diệu Nghĩa: Cảm giác hứng thú và ngạc nhiên về thế giới xung quanh: 
+(adj) ngoạn mục Nghĩa: Rất đẹp hoặc ấn tượng đến mức ngỡ ngàng: 
+(v) kéo dài suốt đời Nghĩa: Bền bỉ hoặc tồn tại mãi mãi: 
+(adj) tự tin Nghĩa: Cảm thấy chắc chắn và tin vào khả năng của mình: 
+(n) sự tự tin Nghĩa: Niềm tin vào khả năng của chính mình hoặc điều gì đó: 
+(adv) một cách tự tin Nghĩa: Làm điều gì đó với sự tự tin: 
+(v) cảm thấy lạc lõng Nghĩa: Cảm giác không biết phải làm gì hoặc đi đâu: 
+(v) bắt đầu một hành trình Nghĩa: Bắt đầu một cuộc hành trình hoặc dự án: 
 
 # Your Weekend
-(n) bài báo trực tuyến. Nghĩa: Một bài viết hoặc báo cáo được xuất bản trên mạng: 
-(n) người đam mê. Nghĩa: Một người rất nhiệt tình và đam mê với một hoạt động hoặc chủ đ: 
-(n) người đam mê hoạt động ngoài trời. Nghĩa: Một người rất thích các hoạt động ngoài trời: 
-(v) buộc dây giày. Nghĩa: Thắt hoặc buộc dây giày: 
-(n) giày leo núi. Nghĩa: Giày chuyên dụng cho việc đi bộ đường dài hoặc leo núi: 
-(n) đường mòn. Nghĩa: Một con đường nhỏ hoặc lối đi qua một khu vực tự nhiên: 
-(n) dốc đứng. Nghĩa: Một đoạn đường hoặc leo lên có độ dốc lớn: 
-(n) địa hình gồ ghề. Nghĩa: Khu vực đất đai không bằng phẳng, khó đi: 
-(v) tiếp tục tiến lên. Nghĩa: Kiên trì tiếp tục bất chấp khó khăn: 
-(n) vẻ đẹp của cảnh quan xung quanh. Nghĩa: Sự đẹp đẽ của môi trường xung quanh: 
-(n) đỉnh núi. Nghĩa: Điểm cao nhất của một ngọn núi hoặc đồi: 
-(v) đến đỉnh núi. Nghĩa: Đạt được điểm cao nhất của ngọn núi: 
-(adj) đáng giá. Nghĩa: Đáng để bỏ công sức hoặc thời gian: 
-* If you are talking about the value of doing an activity, use worthwhile. If you are talking about a person or thing (a noun) that deserves respect;attention;recognition;etc, use worthy.
-(adj) tràn đầy năng lượng và tươi mới. Nghĩa: Cảm thấy đầy năng lượng và khỏe khoắn: 
+(n) bài báo trực tuyến Nghĩa: Một bài viết hoặc báo cáo được xuất bản trên mạng: 
+(n) người đam mê Nghĩa: Một người rất nhiệt tình và đam mê với một hoạt động hoặc chủ đ: 
+(n) người đam mê hoạt động ngoài trời Nghĩa: Một người rất thích các hoạt động ngoài trời: 
+(v) buộc dây giày Nghĩa: Thắt hoặc buộc dây giày: 
+(n) giày leo núi Nghĩa: Giày chuyên dụng cho việc đi bộ đường dài hoặc leo núi: 
+(n) đường mòn Nghĩa: Một con đường nhỏ hoặc lối đi qua một khu vực tự nhiên: 
+(n) dốc đứng Nghĩa: Một đoạn đường hoặc leo lên có độ dốc lớn: 
+(n) địa hình gồ ghề Nghĩa: Khu vực đất đai không bằng phẳng, khó đi: 
+(v) tiếp tục tiến lên Nghĩa: Kiên trì tiếp tục bất chấp khó khăn: 
+(n) vẻ đẹp của cảnh quan xung quanh Nghĩa: Sự đẹp đẽ của môi trường xung quanh: 
+(n) đỉnh núi Nghĩa: Điểm cao nhất của một ngọn núi hoặc đồi: 
+(v) đến đỉnh núi Nghĩa: Đạt được điểm cao nhất của ngọn núi: 
+(adj) đáng giá Nghĩa: Đáng để bỏ công sức hoặc thời gian: 
+* If you are talking about the value of doing an activity, use worthwhile If you are talking about a person or thing (a noun) that deserves respect;attention;recognition;etc, use worthy
+(adj) tràn đầy năng lượng và tươi mới Nghĩa: Cảm thấy đầy năng lượng và khỏe khoắn: 
 
 # First Day At Work
-(n) dây thần kinh, sự can đảm. Nghĩa: Một phần của hệ thần kinh, hoặc sự dũng cảm để làm gì đó: 
-(v) cảm thấy lo lắng. Nghĩa: Cảm giác bất an hoặc lo lắng đột ngột: 
-(adv) tỉ mỉ. Nghĩa: Làm việc một cách cẩn thận và chi tiết: 
-(n) tài liệu của công ty. Nghĩa: Các tài liệu liên quan đến công ty: 
-(v) xem xét tất cả tài liệu của công ty. Nghĩa: Đã xem xét hoặc kiểm tra tất cả các tài liệu liên quan đến công ty: 
-(adj) đáng sợ, làm nản lòng. Nghĩa: Gây cảm giác khó khăn hoặc sợ hãi: 
-(adj) đầy phấn khích và đáng sợ. Nghĩa: Gây cảm giác hào hứng và sợ hãi cùng lúc: 
-(v) nhộn nhịp với. Nghĩa: Tràn đầy hoạt động và sự sống động: 
-(v) thấy mình đang làm gì đó. Nghĩa: Nhận ra mình đang trong tình huống hoặc hoạt động nào đ: 
-(v) tìm bàn làm việc của tôi. Nghĩa: Tìm ra vị trí bàn làm việc của mình: 
-(n) buổi định hướng. Nghĩa: Buổi giới thiệu và hướng dẫn ban đầu cho người mới: 
-(n) sự bối rối. Nghĩa: Trạng thái không chắc chắn hoặc lẫn lộn: 
-(n) sự bối rối ban đầu. Nghĩa: Trạng thái không chắc chắn hoặc lẫn lộn khi mới bắt đầu: 
-(idiom) đặc biệt chú ý làm điều gì. Nghĩa: Cố gắng chắc chắn sẽ làm điều gì đó, thường vì nó quan trọng: 
-(v) hòa nhập vào. Nghĩa: Trở thành một phần của cái gì đó hoặc được kết hợp và: 
-(v) giải quyết, đương đầu. Nghĩa: Đối mặt và xử lý vấn đề hoặc công việc khó khăn: 
-(v) đương đầu với các thử thách mới. Nghĩa: Đối mặt và xử lý các vấn đề hoặc công việc mới và khó khăn: 
+(n) dây thần kinh, sự can đảm Nghĩa: Một phần của hệ thần kinh, hoặc sự dũng cảm để làm gì đó: 
+(v) cảm thấy lo lắng Nghĩa: Cảm giác bất an hoặc lo lắng đột ngột: 
+(adv) tỉ mỉ Nghĩa: Làm việc một cách cẩn thận và chi tiết: 
+(n) tài liệu của công ty Nghĩa: Các tài liệu liên quan đến công ty: 
+(v) xem xét tất cả tài liệu của công ty Nghĩa: Đã xem xét hoặc kiểm tra tất cả các tài liệu liên quan đến công ty: 
+(adj) đáng sợ, làm nản lòng Nghĩa: Gây cảm giác khó khăn hoặc sợ hãi: 
+(adj) đầy phấn khích và đáng sợ Nghĩa: Gây cảm giác hào hứng và sợ hãi cùng lúc: 
+(v) nhộn nhịp với Nghĩa: Tràn đầy hoạt động và sự sống động: 
+(v) thấy mình đang làm gì đó Nghĩa: Nhận ra mình đang trong tình huống hoặc hoạt động nào đ: 
+(v) tìm bàn làm việc của tôi Nghĩa: Tìm ra vị trí bàn làm việc của mình: 
+(n) buổi định hướng Nghĩa: Buổi giới thiệu và hướng dẫn ban đầu cho người mới: 
+(n) sự bối rối Nghĩa: Trạng thái không chắc chắn hoặc lẫn lộn: 
+(n) sự bối rối ban đầu Nghĩa: Trạng thái không chắc chắn hoặc lẫn lộn khi mới bắt đầu: 
+(idiom) đặc biệt chú ý làm điều gì Nghĩa: Cố gắng chắc chắn sẽ làm điều gì đó, thường vì nó quan trọng: 
+(v) hòa nhập vào Nghĩa: Trở thành một phần của cái gì đó hoặc được kết hợp và: 
+(v) giải quyết, đương đầu Nghĩa: Đối mặt và xử lý vấn đề hoặc công việc khó khăn: 
+(v) đương đầu với các thử thách mới Nghĩa: Đối mặt và xử lý các vấn đề hoặc công việc mới và khó khăn: 
 
 # Trip To The Beach
-(v) thu hút đến. Nghĩa: Hấp dẫn hoặc làm cho ai đó đến gần: 
-(v) làm say đắm. Nghĩa: Làm ai đó say mê hoặc bị cuốn hút: 
-(n) cuốn sách ảnh hấp dẫn. Nghĩa: Cuốn sách ảnh rất thu hút và thú vị: 
-(v) trưng bày. Nghĩa: Trình bày hoặc giới thiệu điều gì đó một cách nổi bật: 
-(n) bờ biển. Nghĩa: Vùng đất dọc theo biển: 
-(n) người đi biển. Nghĩa: Người thường xuyên đến bãi biển: 
-(v) gói đầy đủ những thứ cần thiết. Nghĩa: Chuẩn bị và đóng gói tất cả những vật dụng cần thiết: 
-(adj) dài và mệt mỏi. Nghĩa: Kéo dài và gây mệt mỏi: 
-(v) mờ dần thành. Nghĩa: Trở nên mờ nhạt hoặc biến thành một trạng thái khác: 
-(v) mờ dần thành kiệt sức. Nghĩa: Trở nên mệt mỏi đến mức kiệt sức: 
-(adj) bất tận. Nghĩa: Không có điểm dừng hoặc không bao giờ kết thúc: 
-(n) dải cát vàng bất tận. Nghĩa: Một khu vực cát vàng rộng lớn và không có điểm dừng: 
-(n) âm thanh dịu êm của sóng biển. Nghĩa: Âm thanh nhẹ nhàng và êm dịu của sóng biển: 
-(adj) trẻ lại, tươi mới. Nghĩa: Cảm thấy khỏe khoắn và đầy năng lượng trở lại: 
-(v) nhặt vỏ sò. Nghĩa: Tìm và nhặt những vỏ sò trên bãi biển: 
-(v) mang theo. Nghĩa: Đưa theo hoặc mang theo cái gì đó: 
-(v) cảm thấy tại. Nghĩa: Cảm thấy thoải mái hoặc hài lòng tại một nơi nào đó: 
-(n) hòa bình và kết nối với thiên nhiên. Nghĩa: Cảm giác yên bình và hòa hợp với môi trường tự nhiên: 
-(n) kỳ nghỉ ngắn. Nghĩa: Một chuyến đi ngắn để nghỉ ngơi và thư giãn: 
-(n) kỳ nghỉ ở biển. Nghĩa: Một chuyến đi ngắn để nghỉ ngơi và thư giãn tại bãi biể: 
+(v) thu hút đến Nghĩa: Hấp dẫn hoặc làm cho ai đó đến gần: 
+(v) làm say đắm Nghĩa: Làm ai đó say mê hoặc bị cuốn hút: 
+(n) cuốn sách ảnh hấp dẫn Nghĩa: Cuốn sách ảnh rất thu hút và thú vị: 
+(v) trưng bày Nghĩa: Trình bày hoặc giới thiệu điều gì đó một cách nổi bật: 
+(n) bờ biển Nghĩa: Vùng đất dọc theo biển: 
+(n) người đi biển Nghĩa: Người thường xuyên đến bãi biển: 
+(v) gói đầy đủ những thứ cần thiết Nghĩa: Chuẩn bị và đóng gói tất cả những vật dụng cần thiết: 
+(adj) dài và mệt mỏi Nghĩa: Kéo dài và gây mệt mỏi: 
+(v) mờ dần thành Nghĩa: Trở nên mờ nhạt hoặc biến thành một trạng thái khác: 
+(v) mờ dần thành kiệt sức Nghĩa: Trở nên mệt mỏi đến mức kiệt sức: 
+(adj) bất tận Nghĩa: Không có điểm dừng hoặc không bao giờ kết thúc: 
+(n) dải cát vàng bất tận Nghĩa: Một khu vực cát vàng rộng lớn và không có điểm dừng: 
+(n) âm thanh dịu êm của sóng biển Nghĩa: Âm thanh nhẹ nhàng và êm dịu của sóng biển: 
+(adj) trẻ lại, tươi mới Nghĩa: Cảm thấy khỏe khoắn và đầy năng lượng trở lại: 
+(v) nhặt vỏ sò Nghĩa: Tìm và nhặt những vỏ sò trên bãi biển: 
+(v) mang theo Nghĩa: Đưa theo hoặc mang theo cái gì đó: 
+(v) cảm thấy tại Nghĩa: Cảm thấy thoải mái hoặc hài lòng tại một nơi nào đó: 
+(n) hòa bình và kết nối với thiên nhiên Nghĩa: Cảm giác yên bình và hòa hợp với môi trường tự nhiên: 
+(n) kỳ nghỉ ngắn Nghĩa: Một chuyến đi ngắn để nghỉ ngơi và thư giãn: 
+(n) kỳ nghỉ ở biển Nghĩa: Một chuyến đi ngắn để nghỉ ngơi và thư giãn tại bãi biể: 
 
 # First Day At School
-(idiom) bắt đầu một chương mới trong cuộc đời. Nghĩa: Bắt đầu một giai đoạn mới hoặc một sự thay đổi quan trọng trong cuộc sống: 
-(n) không ngoại lệ. Nghĩa: Không có ngoại lệ nào: 
-(idiom) dẫn đến điều đó; trước đó. Nghĩa: Các sự kiện hoặc hành động xảy ra trước và chuẩn bị cho một sự kiện chính: 
-(idiom) có mọi thứ ai đó cần. Nghĩa: Sở hữu tất cả các thành phần cần thiết của một cái gì đó được tập hợp lại với nhau ở một vị trí: 
-(v) đập mạnh với. Nghĩa: Đập mạnh hoặc cảm thấy nhịp tim mạnh mẽ: 
-(idiom) tim đập mạnh vì háo hức. Nghĩa: Cảm thấy nhịp tim mạnh mẽ do sự háo hức hoặc mong đợi: 
-(n) hành lang. Nghĩa: Những lối đi dài trong các tòa nhà hoặc nhà: 
-(idiom) mờ nhạt. Nghĩa: Một hình ảnh không rõ ràng hoặc ký ức không rõ ràng: 
-(v) giữ riêng tư. Nghĩa: Giữ bí mật hoặc không chia sẻ với người khác: 
-(idiom) bên cạnh. Nghĩa: Ở gần hoặc kế bên: 
-(v) giảm bớt lo lắng. Nghĩa: Làm giảm cảm giác lo lắng hoặc căng thẳng: 
-(adv) dần dần. Nghĩa: Xảy ra từ từ và liên tục theo thời gian: 
-(n) bạn đồng trang lứa. Nghĩa: Những người cùng độ tuổi hoặc vị trí xã hội: 
+(idiom) bắt đầu một chương mới trong cuộc đời Nghĩa: Bắt đầu một giai đoạn mới hoặc một sự thay đổi quan trọng trong cuộc sống: 
+(n) không ngoại lệ Nghĩa: Không có ngoại lệ nào: 
+(idiom) dẫn đến điều đó; trước đó Nghĩa: Các sự kiện hoặc hành động xảy ra trước và chuẩn bị cho một sự kiện chính: 
+(idiom) có mọi thứ ai đó cần Nghĩa: Sở hữu tất cả các thành phần cần thiết của một cái gì đó được tập hợp lại với nhau ở một vị trí: 
+(v) đập mạnh với Nghĩa: Đập mạnh hoặc cảm thấy nhịp tim mạnh mẽ: 
+(idiom) tim đập mạnh vì háo hức Nghĩa: Cảm thấy nhịp tim mạnh mẽ do sự háo hức hoặc mong đợi: 
+(n) hành lang Nghĩa: Những lối đi dài trong các tòa nhà hoặc nhà: 
+(idiom) mờ nhạt Nghĩa: Một hình ảnh không rõ ràng hoặc ký ức không rõ ràng: 
+(v) giữ riêng tư Nghĩa: Giữ bí mật hoặc không chia sẻ với người khác: 
+(idiom) bên cạnh Nghĩa: Ở gần hoặc kế bên: 
+(v) giảm bớt lo lắng Nghĩa: Làm giảm cảm giác lo lắng hoặc căng thẳng: 
+(adv) dần dần Nghĩa: Xảy ra từ từ và liên tục theo thời gian: 
+(n) bạn đồng trang lứa Nghĩa: Những người cùng độ tuổi hoặc vị trí xã hội: 
 
 =========================== 
 # DEFINITION 3
 
 # Why Like To Listening To Music
-(n) giai điệu. Nghĩa: Một đoạn nhạc hoặc bài hát: 
-(v) bật giai điệu yêu thích của tôi. Nghĩa: Bật bài hát hoặc đoạn nhạc mà mình thíc: 
-(v) thư giãn. Nghĩa: Thư giãn và giảm căng thẳng: 
-(phrase) từ nhạc pop đến nhạc cổ điển. Nghĩa: Bao gồm nhiều thể loại âm nhạc khác nhau, từ nhạc pop hiện đại đến nhạc cổ điển: 
-(n) ứng dụng phát trực tuyến. Nghĩa: Ứng dụng cho phép người dùng xem hoặc nghe nội dung qua internet: 
-(idiom) ra ngoài và đi lại. Nghĩa: Ra ngoài và di chuyển, thường là để làm việc hoặc giải trí: 
-(idiom) đang di chuyển. Nghĩa: Luôn bận rộn và di chuyển từ nơi này đến nơi khác: 
-(n) buổi hòa nhạc. Nghĩa: Một buổi biểu diễn âm nhạc trực tiếp: 
-(n) lễ hội. Nghĩa: Sự kiện văn hóa, thường kéo dài nhiều ngày, bao gồm nhiều hoạt động giải trí và biểu diễn: 
-(n) các buổi hòa nhạc và lễ hội âm nhạc. Nghĩa: Các sự kiện âm nhạc trực tiếp và các lễ hội tổ chức nhiều hoạt động liên quan đến âm nhạc: 
-(v) có sự tham gia. Nghĩa: Bao gồm hoặc có mặt trong một sự kiện: 
-(n) sự kiện có sự tham gia của các ban nhạc địa phương và nghệ sĩ quốc tế. Nghĩa: Một sự kiện âm nhạc có sự tham gia của các ban nhạc từ khu vực địa phương và các nghệ sĩ nổi tiếng quốc tế: 
-(n) buổi biểu diễn trực tiếp. Nghĩa: Buổi biểu diễn trước khán giả mà không qua ghi âm hay phát lại: 
-(phrase) khắp thế giới. Nghĩa: Mọi nơi trên thế giới: 
-(n) danh sách phát nhạc. Nghĩa: Tập hợp các bài hát được chọn lọc để phát liên tục: 
-(n) tâm trạng. Nghĩa: Cảm xúc hoặc trạng thái tinh thần của một người: 
-(v) tập thể dục. Nghĩa: Thực hiện các bài tập thể dục để rèn luyện cơ thể: 
-(n) bảng xếp hạng âm nhạc. Nghĩa: Danh sách các bài hát hoặc album phổ biến nhất trong một khoảng thời gian nhất định: 
-(v) nâng cao tinh thần. Nghĩa: Làm ai đó cảm thấy vui vẻ và phấn chấn hơn: 
-(n) ngôn ngữ toàn cầu. Nghĩa: Một phương tiện giao tiếp được hiểu và chấp nhận rộng rãi trên khắp thế giới: 
+(n) giai điệu Nghĩa: Một đoạn nhạc hoặc bài hát: 
+(v) bật giai điệu yêu thích của tôi Nghĩa: Bật bài hát hoặc đoạn nhạc mà mình thíc: 
+(v) thư giãn Nghĩa: Thư giãn và giảm căng thẳng: 
+(phrase) từ nhạc pop đến nhạc cổ điển Nghĩa: Bao gồm nhiều thể loại âm nhạc khác nhau, từ nhạc pop hiện đại đến nhạc cổ điển: 
+(n) ứng dụng phát trực tuyến Nghĩa: Ứng dụng cho phép người dùng xem hoặc nghe nội dung qua internet: 
+(idiom) ra ngoài và đi lại Nghĩa: Ra ngoài và di chuyển, thường là để làm việc hoặc giải trí: 
+(idiom) đang di chuyển Nghĩa: Luôn bận rộn và di chuyển từ nơi này đến nơi khác: 
+(n) buổi hòa nhạc Nghĩa: Một buổi biểu diễn âm nhạc trực tiếp: 
+(n) lễ hội Nghĩa: Sự kiện văn hóa, thường kéo dài nhiều ngày, bao gồm nhiều hoạt động giải trí và biểu diễn: 
+(n) các buổi hòa nhạc và lễ hội âm nhạc Nghĩa: Các sự kiện âm nhạc trực tiếp và các lễ hội tổ chức nhiều hoạt động liên quan đến âm nhạc: 
+(v) có sự tham gia Nghĩa: Bao gồm hoặc có mặt trong một sự kiện: 
+(n) sự kiện có sự tham gia của các ban nhạc địa phương và nghệ sĩ quốc tế Nghĩa: Một sự kiện âm nhạc có sự tham gia của các ban nhạc từ khu vực địa phương và các nghệ sĩ nổi tiếng quốc tế: 
+(n) buổi biểu diễn trực tiếp Nghĩa: Buổi biểu diễn trước khán giả mà không qua ghi âm hay phát lại: 
+(phrase) khắp thế giới Nghĩa: Mọi nơi trên thế giới: 
+(n) danh sách phát nhạc Nghĩa: Tập hợp các bài hát được chọn lọc để phát liên tục: 
+(n) tâm trạng Nghĩa: Cảm xúc hoặc trạng thái tinh thần của một người: 
+(v) tập thể dục Nghĩa: Thực hiện các bài tập thể dục để rèn luyện cơ thể: 
+(n) bảng xếp hạng âm nhạc Nghĩa: Danh sách các bài hát hoặc album phổ biến nhất trong một khoảng thời gian nhất định: 
+(v) nâng cao tinh thần Nghĩa: Làm ai đó cảm thấy vui vẻ và phấn chấn hơn: 
+(n) ngôn ngữ toàn cầu Nghĩa: Một phương tiện giao tiếp được hiểu và chấp nhận rộng rãi trên khắp thế giới: 
 
 =============================================
 # Definition 1
 # Describe HCM City
-(phrase) trước đây được gọi là. Nghĩa: Được biết đến với tên khác trong quá khứ: 
-(phrase) về mặt. Nghĩa: Liên quan đến một khía cạnh cụ thể: 
-(phrase) dân số và hoạt động kinh tế. Nghĩa: Số lượng người và các hoạt động kinh tế trong một khu vực: 
-(v) đóng vai trò như. Nghĩa: Có chức năng hoặc nhiệm vụ như: 
-(n) trung tâm kinh tế và văn hóa. Nghĩa: Một địa điểm quan trọng cho các hoạt động kinh tế và văn hóa: 
-(adj) đông nam. Nghĩa: Liên quan đến khu vực phía đông nam: 
-(n) Đồng bằng sông Cửu Long. Nghĩa: Vùng đất phía nam Việt Nam, nơi sông Mekong chảy ra biển: 
-(adj) người Sài Gòn, thuộc về Sài Gòn. Nghĩa: Người dân hoặc các đặc điểm liên quan đến Sài Gòn (Thành phố Hồ Chí Minh): 
-(n) Dinh Độc Lập. Nghĩa: Một địa danh lịch sử nổi tiếng tại Thành phố Hồ Chí Minh: 
-(n) Nhà thờ Đức Bà. Nghĩa: Một nhà thờ nổi tiếng tại trung tâm Thành phố Hồ Chí Minh: 
-(n) Tháp Tài chính Bitexco. Nghĩa: Một tòa nhà chọc trời nổi bật tại Thành phố Hồ Chí Minh: 
-(n) hàng hóa xa xỉ. Nghĩa: Các sản phẩm đắt tiền và cao cấp: 
-(n) công viên giải trí trong nhà. Nghĩa: Khu vực giải trí được xây dựng trong nhà: 
-(n) người nghiện mua sắm. Nghĩa: Người thích mua sắm và thường mua rất nhiều đồ: 
-(n) thiên đường. Nghĩa: Nơi rất đẹp và lý tưởng: 
-(n) thiên đường. Nghĩa: Nơi hoàn hảo và hạnh phúc, thường được dùng để miêu tả cảm giác tuyệt vờ: 
-(n) vỉa hè. Nghĩa: Lối đi bộ bên cạnh đường phố: 
-(n) người bán hàng rong. Nghĩa: Những người bán hàng trên vỉa hè: 
-(n) món ăn giá rẻ. Nghĩa: Món ăn có giá cả phải chăng: 
-(adj) dân tộc. Nghĩa: Liên quan đến một nhóm người có cùng văn hóa, ngôn ngữ, hoặc tôn giáo: 
-(n) người nước ngoài sinh sống ở nước khác. Nghĩa: Người đang sống ở một nước khác với nước mình sinh ra: 
-(phrase) tính đến. Nghĩa: Tại một thời điểm cụ thể trong quá khứ hoặc tương lai: 
-(phrase) theo ước tính gần đây. Nghĩa: Dựa trên các con số hoặc thông tin ước tính mới nhất: 
-(adj) sôi động. Nghĩa: Đầy năng lượng và sự sống động: 
-(n) bánh xèo. Nghĩa: Một loại bánh mỏng, giòn, thường có nhân thịt, tôm và gi: 
+(phrase) trước đây được gọi là Nghĩa: Được biết đến với tên khác trong quá khứ: 
+(phrase) về mặt Nghĩa: Liên quan đến một khía cạnh cụ thể: 
+(phrase) dân số và hoạt động kinh tế Nghĩa: Số lượng người và các hoạt động kinh tế trong một khu vực: 
+(v) đóng vai trò như Nghĩa: Có chức năng hoặc nhiệm vụ như: 
+(n) trung tâm kinh tế và văn hóa Nghĩa: Một địa điểm quan trọng cho các hoạt động kinh tế và văn hóa: 
+(adj) đông nam Nghĩa: Liên quan đến khu vực phía đông nam: 
+(n) Đồng bằng sông Cửu Long Nghĩa: Vùng đất phía nam Việt Nam, nơi sông Mekong chảy ra biển: 
+(adj) người Sài Gòn, thuộc về Sài Gòn Nghĩa: Người dân hoặc các đặc điểm liên quan đến Sài Gòn (Thành phố Hồ Chí Minh): 
+(n) Dinh Độc Lập Nghĩa: Một địa danh lịch sử nổi tiếng tại Thành phố Hồ Chí Minh: 
+(n) Nhà thờ Đức Bà Nghĩa: Một nhà thờ nổi tiếng tại trung tâm Thành phố Hồ Chí Minh: 
+(n) Tháp Tài chính Bitexco Nghĩa: Một tòa nhà chọc trời nổi bật tại Thành phố Hồ Chí Minh: 
+(n) hàng hóa xa xỉ Nghĩa: Các sản phẩm đắt tiền và cao cấp: 
+(n) công viên giải trí trong nhà Nghĩa: Khu vực giải trí được xây dựng trong nhà: 
+(n) người nghiện mua sắm Nghĩa: Người thích mua sắm và thường mua rất nhiều đồ: 
+(n) thiên đường Nghĩa: Nơi rất đẹp và lý tưởng: 
+(n) thiên đường Nghĩa: Nơi hoàn hảo và hạnh phúc, thường được dùng để miêu tả cảm giác tuyệt vờ: 
+(n) vỉa hè Nghĩa: Lối đi bộ bên cạnh đường phố: 
+(n) người bán hàng rong Nghĩa: Những người bán hàng trên vỉa hè: 
+(n) món ăn giá rẻ Nghĩa: Món ăn có giá cả phải chăng: 
+(adj) dân tộc Nghĩa: Liên quan đến một nhóm người có cùng văn hóa, ngôn ngữ, hoặc tôn giáo: 
+(n) người nước ngoài sinh sống ở nước khác Nghĩa: Người đang sống ở một nước khác với nước mình sinh ra: 
+(phrase) tính đến Nghĩa: Tại một thời điểm cụ thể trong quá khứ hoặc tương lai: 
+(phrase) theo ước tính gần đây Nghĩa: Dựa trên các con số hoặc thông tin ước tính mới nhất: 
+(adj) sôi động Nghĩa: Đầy năng lượng và sự sống động: 
+(n) bánh xèo Nghĩa: Một loại bánh mỏng, giòn, thường có nhân thịt, tôm và gi: 
 
 # Describe Hometown
-(n) tỉnh. Nghĩa: Một đơn vị hành chính lớn trong một quốc gia: 
-(phrase) sự pha trộn độc đáo của. Nghĩa: Sự kết hợp độc đáo của nhiều yếu tố khác nhau: 
-(phrase) được hình thành bởi. Nghĩa: Được tạo ra hoặc ảnh hưởng bởi một yếu tố nào đó: 
-(adj) thuộc sông ngòi. Nghĩa: Liên quan đến sông ngòi: 
-(phrase) tham gia vào nông nghiệp. Nghĩa: Thực hiện các hoạt động liên quan đến trồng trọt và chăn nuôi: 
-(n) trồng lúa. Nghĩa: Hoạt động canh tác và sản xuất lúa gạo: 
-(n) trồng trái cây. Nghĩa: Hoạt động trồng và thu hoạch các loại trái cây: 
-(adj, adv) trực tiếp. Nghĩa: Tận mắt chứng kiến hoặc tự mình trải nghiệm: 
-(n) sự hào phóng. Nghĩa: Tính cách rộng lượng, sẵn sàng chia sẻ và giúp đỡ người khác: 
-(adj) màu mỡ. Nghĩa: Đất đai tốt, phù hợp cho canh tác nông nghiệp: 
-(n) cảnh quan màu mỡ của khu vực. Nghĩa: Vùng đất có đất đai phì nhiêu và phong phú: 
-(n) sự phong phú. Nghĩa: Sự nhiều, dư dả: 
-(n) sự phong phú của nguồn nước ngọt. Nghĩa: Sự dư dả và đa dạng của các nguồn nước ngọt: 
-(n) cá nước ngọt. Nghĩa: Các loài cá sống trong môi trường nước ngọt: 
-(n) cá tra. Nghĩa: Một loại cá nước ngọt phổ biến trong ẩm thực Việt Nam: 
-(n) cá lóc. Nghĩa: Một loại cá nước ngọt, được sử dụng trong nhiều món ăn Việt Nam: 
-(n) lương thực chính. Nghĩa: Thực phẩm chính hoặc cơ bản trong chế độ ăn: 
-(adj) hầm. Nghĩa: Nấu chín từ từ trong nước: 
-(n) nồi đất. Nghĩa: Một loại nồi làm từ đất sét, thường dùng để nấu ăn: 
-(v) kèm theo. Nghĩa: Đi cùng hoặc bổ sung cho cái gì đó: 
-(n) nhiều món ăn kèm. Nghĩa: Nhiều loại thực phẩm hoặc món ăn kèm theo món chính: 
-(n) thịt kho nước dừa. Nghĩa: Món thịt heo nấu với nước dừa: 
-(n) tôm. Nghĩa: Một loại hải sản phổ biến: 
-(n) giá đỗ. Nghĩa: Mầm của hạt đậu: 
-(n) bánh xèo. Nghĩa: Một loại bánh mỏng, giòn, thường có nhân thịt, tôm và giá: 
-(n) bưởi. Nghĩa: Một loại trái cây họ cam quýt có vị ngọt và hơi chua: 
-(n) nhãn. Nghĩa: Một loại trái cây nhiệt đới có vỏ mỏng và thịt ngọt: 
-(adj) phong phú. Nghĩa: Có nhiều, dư thừa: 
-(n) chè. Nghĩa: Các món tráng miệng dạng súp ngọt: 
-(adj) tươi tốt. Nghĩa: Thực vật phát triển mạnh mẽ, xanh tươi: 
-(n) cánh đồng lúa xanh tươi tốt. Nghĩa: Những cánh đồng lúa có màu xanh và phát triển tốt: 
-(phrase) xen kẽ với. Nghĩa: Bố trí hoặc xuất hiện giữa những cái khác: 
-(n) lùm cây. Nghĩa: Một nhóm cây nhỏ mọc gần nhau: 
-(n) vườn cây ăn quả. Nghĩa: Khu vực trồng nhiều loại cây cho trái: 
-(n) ao. Nghĩa: Một vùng nước nhỏ, thường do con người tạo ra: 
-(adj) đẹp, có cảnh quan đẹp. Nghĩa: Đẹp về cảnh quan, thường dùng để miêu tả phong cảnh: 
-(n) các tour du thuyền ngắm cảnh. Nghĩa: Chuyến tham quan bằng thuyền để ngắm cảnh đẹp: 
-(adj) phức tạp. Nghĩa: Có nhiều chi tiết và khó hiểu: 
-(n) hệ sinh thái phức tạp của đồng bằng. Nghĩa: Hệ sinh thái của vùng đồng bằng, có nhiều chi tiết và đa dạng: 
-(n) chợ nổi. Nghĩa: Chợ họp trên thuyền, thường trên sông: 
-(n) nông sản tươi. Nghĩa: Các loại rau, quả tươi được sản xuất từ nông trại: 
-(n) thủ công mỹ nghệ. Nghĩa: Các sản phẩm làm bằng tay, thường mang tính truyền thống: 
-(n) địa hình bằng phẳng. Nghĩa: Khu vực đất đai không có đồi núi, phẳng lặng: 
-(n) thảm thực vật. Nghĩa: Các loại cây cỏ và thực vật mọc tự nhiên trong một khu vực: 
-(n) du lịch sinh thái. Nghĩa: Hình thức du lịch chú trọng bảo vệ môi trường và văn hóa địa phương: 
-(n) sự hài hòa. Nghĩa: Tình trạng hòa hợp và đồng nhất: 
-(adj) hài hòa. Nghĩa: Có sự hòa hợp và đồng nhất: 
-(n) di sản văn hóa. Nghĩa: Các giá trị văn hóa được truyền lại qua các thế hệ: 
-(n) sự phong phú về nông sản. Nghĩa: Sự dư dả và phong phú của các sản phẩm nông nghiệp: 
-(n) cái nhìn thoáng qua. Nghĩa: Nhìn thấy một cách nhanh chóng và không rõ ràng: 
-(n) lòng hiếu khách nồng hậu. Nghĩa: Sự tiếp đón và hiếu khách với sự ấm áp và thân thiện: 
+(n) tỉnh Nghĩa: Một đơn vị hành chính lớn trong một quốc gia: 
+(phrase) sự pha trộn độc đáo của Nghĩa: Sự kết hợp độc đáo của nhiều yếu tố khác nhau: 
+(phrase) được hình thành bởi Nghĩa: Được tạo ra hoặc ảnh hưởng bởi một yếu tố nào đó: 
+(adj) thuộc sông ngòi Nghĩa: Liên quan đến sông ngòi: 
+(phrase) tham gia vào nông nghiệp Nghĩa: Thực hiện các hoạt động liên quan đến trồng trọt và chăn nuôi: 
+(n) trồng lúa Nghĩa: Hoạt động canh tác và sản xuất lúa gạo: 
+(n) trồng trái cây Nghĩa: Hoạt động trồng và thu hoạch các loại trái cây: 
+(adj, adv) trực tiếp Nghĩa: Tận mắt chứng kiến hoặc tự mình trải nghiệm: 
+(n) sự hào phóng Nghĩa: Tính cách rộng lượng, sẵn sàng chia sẻ và giúp đỡ người khác: 
+(adj) màu mỡ Nghĩa: Đất đai tốt, phù hợp cho canh tác nông nghiệp: 
+(n) cảnh quan màu mỡ của khu vực Nghĩa: Vùng đất có đất đai phì nhiêu và phong phú: 
+(n) sự phong phú Nghĩa: Sự nhiều, dư dả: 
+(n) sự phong phú của nguồn nước ngọt Nghĩa: Sự dư dả và đa dạng của các nguồn nước ngọt: 
+(n) cá nước ngọt Nghĩa: Các loài cá sống trong môi trường nước ngọt: 
+(n) cá tra Nghĩa: Một loại cá nước ngọt phổ biến trong ẩm thực Việt Nam: 
+(n) cá lóc Nghĩa: Một loại cá nước ngọt, được sử dụng trong nhiều món ăn Việt Nam: 
+(n) lương thực chính Nghĩa: Thực phẩm chính hoặc cơ bản trong chế độ ăn: 
+(adj) hầm Nghĩa: Nấu chín từ từ trong nước: 
+(n) nồi đất Nghĩa: Một loại nồi làm từ đất sét, thường dùng để nấu ăn: 
+(v) kèm theo Nghĩa: Đi cùng hoặc bổ sung cho cái gì đó: 
+(n) nhiều món ăn kèm Nghĩa: Nhiều loại thực phẩm hoặc món ăn kèm theo món chính: 
+(n) thịt kho nước dừa Nghĩa: Món thịt heo nấu với nước dừa: 
+(n) tôm Nghĩa: Một loại hải sản phổ biến: 
+(n) giá đỗ Nghĩa: Mầm của hạt đậu: 
+(n) bánh xèo Nghĩa: Một loại bánh mỏng, giòn, thường có nhân thịt, tôm và giá: 
+(n) bưởi Nghĩa: Một loại trái cây họ cam quýt có vị ngọt và hơi chua: 
+(n) nhãn Nghĩa: Một loại trái cây nhiệt đới có vỏ mỏng và thịt ngọt: 
+(adj) phong phú Nghĩa: Có nhiều, dư thừa: 
+(n) chè Nghĩa: Các món tráng miệng dạng súp ngọt: 
+(adj) tươi tốt Nghĩa: Thực vật phát triển mạnh mẽ, xanh tươi: 
+(n) cánh đồng lúa xanh tươi tốt Nghĩa: Những cánh đồng lúa có màu xanh và phát triển tốt: 
+(phrase) xen kẽ với Nghĩa: Bố trí hoặc xuất hiện giữa những cái khác: 
+(n) lùm cây Nghĩa: Một nhóm cây nhỏ mọc gần nhau: 
+(n) vườn cây ăn quả Nghĩa: Khu vực trồng nhiều loại cây cho trái: 
+(n) ao Nghĩa: Một vùng nước nhỏ, thường do con người tạo ra: 
+(adj) đẹp, có cảnh quan đẹp Nghĩa: Đẹp về cảnh quan, thường dùng để miêu tả phong cảnh: 
+(n) các tour du thuyền ngắm cảnh Nghĩa: Chuyến tham quan bằng thuyền để ngắm cảnh đẹp: 
+(adj) phức tạp Nghĩa: Có nhiều chi tiết và khó hiểu: 
+(n) hệ sinh thái phức tạp của đồng bằng Nghĩa: Hệ sinh thái của vùng đồng bằng, có nhiều chi tiết và đa dạng: 
+(n) chợ nổi Nghĩa: Chợ họp trên thuyền, thường trên sông: 
+(n) nông sản tươi Nghĩa: Các loại rau, quả tươi được sản xuất từ nông trại: 
+(n) thủ công mỹ nghệ Nghĩa: Các sản phẩm làm bằng tay, thường mang tính truyền thống: 
+(n) địa hình bằng phẳng Nghĩa: Khu vực đất đai không có đồi núi, phẳng lặng: 
+(n) thảm thực vật Nghĩa: Các loại cây cỏ và thực vật mọc tự nhiên trong một khu vực: 
+(n) du lịch sinh thái Nghĩa: Hình thức du lịch chú trọng bảo vệ môi trường và văn hóa địa phương: 
+(n) sự hài hòa Nghĩa: Tình trạng hòa hợp và đồng nhất: 
+(adj) hài hòa Nghĩa: Có sự hòa hợp và đồng nhất: 
+(n) di sản văn hóa Nghĩa: Các giá trị văn hóa được truyền lại qua các thế hệ: 
+(n) sự phong phú về nông sản Nghĩa: Sự dư dả và phong phú của các sản phẩm nông nghiệp: 
+(n) cái nhìn thoáng qua Nghĩa: Nhìn thấy một cách nhanh chóng và không rõ ràng: 
+(n) lòng hiếu khách nồng hậu Nghĩa: Sự tiếp đón và hiếu khách với sự ấm áp và thân thiện: 
 # Describe Your School
-(n) cơ sở uy tín. Nghĩa: Một tổ chức hoặc cơ sở giáo dục có danh tiếng ca: 
-(n) quản trị kinh doanh. Nghĩa: Ngành học về quản lý và điều hành doanh nghiệp: 
-(n) các khía cạnh chính. Nghĩa: Những phần quan trọng của một vấn đề: 
-(n) các học giả có trình độ cao. Nghĩa: Những người giảng dạy và nghiên cứu có trình độ và kinh nghiệm cao trong lĩnh vực của họ: 
-(adv) thường. Nghĩa: Thường là, theo cách điển hình: 
-(n) các bằng cấp cao. Nghĩa: Các bằng cấp sau cử nhân, như thạc sĩ hoặc tiến sĩ: 
-(n) tiến sĩ. Nghĩa: Bằng cấp cao nhất trong hầu hết các lĩnh vực học thuật: 
-(adj) rộng rãi. Nghĩa: Bao phủ hoặc kéo dài trên một khu vực hoặc phạm vi rộng lớn: 
-(v) truyền đạt. Nghĩa: Chia sẻ hoặc truyền đạt thông tin, kiến thức: 
-(v) thúc đẩy. Nghĩa: Khuyến khích hoặc nuôi dưỡng sự phát triển của một cái gì đó: 
-(n) lĩnh vực. Nghĩa: Một phần hoặc phân khúc của nền kinh tế hoặc xã hội: 
-(n) sự theo đuổi. Nghĩa: Hành động hoặc quá trình theo đuổi một mục tiêu hoặc sở thích: 
-(adj) ngoại khóa. Nghĩa: Các hoạt động ngoài chương trình học chính: 
-(v) hiểu. Nghĩa: Nắm bắt hoặc hiểu biết đầy đủ về một điều gì đó: 
-(adj) toàn diện. Nghĩa: Bao gồm tất cả hoặc gần như tất cả các yếu tố hoặc khía cạnh: 
-(adj) cơ bản. Nghĩa: Cơ sở hoặc căn bản, tạo nền tảng cho những điều khác: 
-(n) kinh tế vi mô. Nghĩa: Ngành kinh tế học nghiên cứu các hành vi của các đơn vị kinh tế cá nhân như hộ gia đình và doanh nghiệp: 
-(n) kinh tế vĩ mô. Nghĩa: Ngành kinh tế học nghiên cứu nền kinh tế tổng thể và các yếu tố ảnh hưởng đến nó: 
-(n) kế toán. Nghĩa: Quá trình ghi chép, phân loại và báo cáo các giao dịch tài chính: 
-(n) tiếp thị. Nghĩa: Quá trình quảng bá và bán sản phẩm hoặc dịch vụ: 
-(n) môn tự chọn. Nghĩa: Khóa học hoặc môn học mà học sinh có thể chọn để học, không bắt buộc: 
-(phrase) được điều chỉnh phù hợp với. Nghĩa: Điều chỉnh hoặc thiết kế để phù hợp với nhu cầu hoặc sở thích cụ thể: 
-(n) khởi nghiệp. Nghĩa: Hành động hoặc quá trình bắt đầu và điều hành một doanh nghiệp mới: 
-(n) phân tích tài chính. Nghĩa: Quá trình đánh giá các dữ liệu tài chính để đưa ra quyết định kinh doanh: 
-(phrase) phù hợp với. Nghĩa: Được đồng nhất hoặc điều chỉnh để phù hợp với một mục tiêu hoặc tiêu chuẩn nào đó: 
-(n) xu hướng ngành. Nghĩa: Những xu hướng hiện tại và tương lai trong một ngành cụ thể: 
-(n) thị trường việc làm cạnh tranh. Nghĩa: Thị trường lao động có nhiều ứng viên cạnh tranh cho cùng một công việc: 
-(v) làm phong phú. Nghĩa: Làm cho phong phú hơn hoặc có giá trị hơn: 
-(n) hiệp hội. Nghĩa: Một nhóm người hoặc tổ chức cùng hoạt động trong một lĩnh vực cụ thể: 
-(n) buổi tụ tập xã hội. Nghĩa: Cuộc gặp gỡ hoặc sự kiện nơi mọi người đến với nhau để tương tác xã hội: 
-(n) tình đồng đội. Nghĩa: Tình bạn và sự thân thiết giữa những người chia sẻ cùng một hoạt động hoặc môi trường: 
-(v) trau dồi. Nghĩa: Phát triển hoặc cải thiện kỹ năng, phẩm chất hoặc mối quan hệ: 
-(n) Biên bản cuộc họp. Nghĩa: Ghi chép chính thức các nội dung đã thảo luận và các quyết định đã đưa ra trong cuộc họp: 
-(a) Rõ ràng, hiển nhiên. Nghĩa: Dễ hiểu, không có sự nghi ngờ, hoặc có thể thấy hoặc nhận ra ngay lập tứ: 
-(adv) Rõ ràng là, một cách hiển nhiên. Nghĩa: Cách thức diễn đạt rằng điều gì đó là dễ hiểu hoặc không cần giải thích thêm: 
+(n) cơ sở uy tín Nghĩa: Một tổ chức hoặc cơ sở giáo dục có danh tiếng ca: 
+(n) quản trị kinh doanh Nghĩa: Ngành học về quản lý và điều hành doanh nghiệp: 
+(n) các khía cạnh chính Nghĩa: Những phần quan trọng của một vấn đề: 
+(n) các học giả có trình độ cao Nghĩa: Những người giảng dạy và nghiên cứu có trình độ và kinh nghiệm cao trong lĩnh vực của họ: 
+(adv) thường Nghĩa: Thường là, theo cách điển hình: 
+(n) các bằng cấp cao Nghĩa: Các bằng cấp sau cử nhân, như thạc sĩ hoặc tiến sĩ: 
+(n) tiến sĩ Nghĩa: Bằng cấp cao nhất trong hầu hết các lĩnh vực học thuật: 
+(adj) rộng rãi Nghĩa: Bao phủ hoặc kéo dài trên một khu vực hoặc phạm vi rộng lớn: 
+(v) truyền đạt Nghĩa: Chia sẻ hoặc truyền đạt thông tin, kiến thức: 
+(v) thúc đẩy Nghĩa: Khuyến khích hoặc nuôi dưỡng sự phát triển của một cái gì đó: 
+(n) lĩnh vực Nghĩa: Một phần hoặc phân khúc của nền kinh tế hoặc xã hội: 
+(n) sự theo đuổi Nghĩa: Hành động hoặc quá trình theo đuổi một mục tiêu hoặc sở thích: 
+(adj) ngoại khóa Nghĩa: Các hoạt động ngoài chương trình học chính: 
+(v) hiểu Nghĩa: Nắm bắt hoặc hiểu biết đầy đủ về một điều gì đó: 
+(adj) toàn diện Nghĩa: Bao gồm tất cả hoặc gần như tất cả các yếu tố hoặc khía cạnh: 
+(adj) cơ bản Nghĩa: Cơ sở hoặc căn bản, tạo nền tảng cho những điều khác: 
+(n) kinh tế vi mô Nghĩa: Ngành kinh tế học nghiên cứu các hành vi của các đơn vị kinh tế cá nhân như hộ gia đình và doanh nghiệp: 
+(n) kinh tế vĩ mô Nghĩa: Ngành kinh tế học nghiên cứu nền kinh tế tổng thể và các yếu tố ảnh hưởng đến nó: 
+(n) kế toán Nghĩa: Quá trình ghi chép, phân loại và báo cáo các giao dịch tài chính: 
+(n) tiếp thị Nghĩa: Quá trình quảng bá và bán sản phẩm hoặc dịch vụ: 
+(n) môn tự chọn Nghĩa: Khóa học hoặc môn học mà học sinh có thể chọn để học, không bắt buộc: 
+(phrase) được điều chỉnh phù hợp với Nghĩa: Điều chỉnh hoặc thiết kế để phù hợp với nhu cầu hoặc sở thích cụ thể: 
+(n) khởi nghiệp Nghĩa: Hành động hoặc quá trình bắt đầu và điều hành một doanh nghiệp mới: 
+(n) phân tích tài chính Nghĩa: Quá trình đánh giá các dữ liệu tài chính để đưa ra quyết định kinh doanh: 
+(phrase) phù hợp với Nghĩa: Được đồng nhất hoặc điều chỉnh để phù hợp với một mục tiêu hoặc tiêu chuẩn nào đó: 
+(n) xu hướng ngành Nghĩa: Những xu hướng hiện tại và tương lai trong một ngành cụ thể: 
+(n) thị trường việc làm cạnh tranh Nghĩa: Thị trường lao động có nhiều ứng viên cạnh tranh cho cùng một công việc: 
+(v) làm phong phú Nghĩa: Làm cho phong phú hơn hoặc có giá trị hơn: 
+(n) hiệp hội Nghĩa: Một nhóm người hoặc tổ chức cùng hoạt động trong một lĩnh vực cụ thể: 
+(n) buổi tụ tập xã hội Nghĩa: Cuộc gặp gỡ hoặc sự kiện nơi mọi người đến với nhau để tương tác xã hội: 
+(n) tình đồng đội Nghĩa: Tình bạn và sự thân thiết giữa những người chia sẻ cùng một hoạt động hoặc môi trường: 
+(v) trau dồi Nghĩa: Phát triển hoặc cải thiện kỹ năng, phẩm chất hoặc mối quan hệ: 
+(n) Biên bản cuộc họp Nghĩa: Ghi chép chính thức các nội dung đã thảo luận và các quyết định đã đưa ra trong cuộc họp: 
+(a) Rõ ràng, hiển nhiên Nghĩa: Dễ hiểu, không có sự nghi ngờ, hoặc có thể thấy hoặc nhận ra ngay lập tứ: 
+(adv) Rõ ràng là, một cách hiển nhiên Nghĩa: Cách thức diễn đạt rằng điều gì đó là dễ hiểu hoặc không cần giải thích thêm: 
 (n) Sự rõ ràng, sự hiển nhiên: 
 thỉnh thoảng, đôi khi: 
 cúp học: 
-(n) Vòng xuyến, bùng binh. Nghĩa: Một khu vực giao thông nơi các con đường gặp nhau và xe cộ di chuyển theo vòng tròn xung quanh một đảo trung tâm: 
-(n) Vòng xuyến, bùng binh. Nghĩa: Một khu vực giao thông nơi các con đường gặp nhau và xe cộ di chuyển theo vòng tròn xung quanh một đảo trung tâm đây là từ đồng nghĩa với "traffic circle": 
+(n) Vòng xuyến, bùng binh Nghĩa: Một khu vực giao thông nơi các con đường gặp nhau và xe cộ di chuyển theo vòng tròn xung quanh một đảo trung tâm: 
+(n) Vòng xuyến, bùng binh Nghĩa: Một khu vực giao thông nơi các con đường gặp nhau và xe cộ di chuyển theo vòng tròn xung quanh một đảo trung tâm đây là từ đồng nghĩa với "traffic circle": 
 (n) Sự nhượng bộ: 
 (n) Cách thức, cách cư xử: 
 (a) To, lớn (âm thanh): 
@@ -3284,7 +3284,7 @@ Nghĩa: Vật liệu dựng đứng hỗ trợ cấu trúc
 (v) Bắt chước, noi gương: 
 (adj) Sang trọng, xa hoa: 
 (n) Sự xa hoa, sự sang trọng: 
-* Luxurious is a related term of luxury. As adjectives the difference between luxury and luxurious is that luxury is very expensive while luxurious is enjoying pleasures of luxury.
+* Luxurious is a related term of luxury As adjectives the difference between luxury and luxurious is that luxury is very expensive while luxurious is enjoying pleasures of luxury
 (n) Đồ bơi: 
 (n) Bờ biển, bờ sông: 
 (n) Đô thị lớn: 
@@ -3293,7 +3293,7 @@ Nghĩa: Vật liệu dựng đứng hỗ trợ cấu trúc
 (adj) Hợp lý, phải chăng: 
 (n) Giá cả hợp lý: 
 không lay chuyển; vững vàng: 
-Sự kết hợp giữa ... và: 
+Sự kết hợp giữa  và: 
 hơn nữa: 
 thêm vào: 
 hơn thế: 
@@ -3446,7 +3446,7 @@ trả bằng thẻ tín dụng:
 trả bằng thẻ thu ngân: 
 phòng thương mại: 
 lấy thông tin: 
-danh bạ doanh nghiệp hàng năm; quyển niên giám về thương mại. Nghĩa: Danh bạ liệt kê các doanh nghiệp trong một ngành hoặc khu vực cụ thể: 
+danh bạ doanh nghiệp hàng năm; quyển niên giám về thương mại Nghĩa: Danh bạ liệt kê các doanh nghiệp trong một ngành hoặc khu vực cụ thể: 
 phòng nhân sự: 
 phòng tuyển dụng: 
 viên chức tuyển dụng: 
@@ -3462,17 +3462,17 @@ chuyên nghiệp hay thiếu chuyên nghiệp:
 một buổi hội thảo: 
 chủ đề thảo luận: 
 
-(n) Tờ rơi ưu đãi. Nghĩa: Một tờ giấy nhỏ cung cấp thông tin hoặc quảng cáo, thường được phân phát miễn phí: 
-(n) Tờ rơi quảng cáo. Nghĩa: Một tờ giấy hoặc tài liệu nhỏ được thiết kế để thu hút sự chú ý, thường phát ở nơi công cộng: 
-(n) Áp phích, poster. Nghĩa: Một tờ giấy lớn với hình ảnh hoặc thông điệp quảng cáo, thường được dán ở nơi công cộng: 
-(n) Tập tài liệu quảng cáo. Nghĩa: Một cuốn sách nhỏ hoặc tập tài liệu chứa thông tin chi tiết về sản phẩm hoặc dịch vụ: 
-(n) Sách mỏng, cuốn sách nhỏ. Nghĩa: Một cuốn sách nhỏ chứa thông tin hoặc quan điểm về một chủ đề cụ thể: 
+(n) Tờ rơi ưu đãi Nghĩa: Một tờ giấy nhỏ cung cấp thông tin hoặc quảng cáo, thường được phân phát miễn phí: 
+(n) Tờ rơi quảng cáo Nghĩa: Một tờ giấy hoặc tài liệu nhỏ được thiết kế để thu hút sự chú ý, thường phát ở nơi công cộng: 
+(n) Áp phích, poster Nghĩa: Một tờ giấy lớn với hình ảnh hoặc thông điệp quảng cáo, thường được dán ở nơi công cộng: 
+(n) Tập tài liệu quảng cáo Nghĩa: Một cuốn sách nhỏ hoặc tập tài liệu chứa thông tin chi tiết về sản phẩm hoặc dịch vụ: 
+(n) Sách mỏng, cuốn sách nhỏ Nghĩa: Một cuốn sách nhỏ chứa thông tin hoặc quan điểm về một chủ đề cụ thể: 
 
 * So sánh các từ:
-- Leaflet và flyer thường nhỏ và đơn giản, nhưng flyer có xu hướng thu hút sự chú ý hơn và được dùng nhiều trong các sự kiện hoặc chương trình khuyến mãi.
-- Poster lớn hơn, thường dùng để thu hút sự chú ý từ xa và hay được dán ở nơi công cộng.
-- Brochure là tập tài liệu nhiều trang với nội dung chi tiết hơn, thường dùng trong các ngành du lịch, bất động sản, hoặc dịch vụ cao cấp.
-- Pamphlet có mục đích giáo dục hoặc cung cấp thông tin cụ thể về một chủ đề, thường được phát tại các hội nghị hoặc sự kiện nâng cao nhận thức.
+- Leaflet và flyer thường nhỏ và đơn giản, nhưng flyer có xu hướng thu hút sự chú ý hơn và được dùng nhiều trong các sự kiện hoặc chương trình khuyến mãi
+- Poster lớn hơn, thường dùng để thu hút sự chú ý từ xa và hay được dán ở nơi công cộng
+- Brochure là tập tài liệu nhiều trang với nội dung chi tiết hơn, thường dùng trong các ngành du lịch, bất động sản, hoặc dịch vụ cao cấp
+- Pamphlet có mục đích giáo dục hoặc cung cấp thông tin cụ thể về một chủ đề, thường được phát tại các hội nghị hoặc sự kiện nâng cao nhận thức
 
 giấy quảng bá buổi hội thảo: 
 phòng hội thảo: 
@@ -3503,8 +3503,8 @@ gia hạn hộ chiếu:
 gửi gói đồ: 
 khám bệnh: 
 khám bệnh tổng quát: 
-(v) Điền vào, điền thông tin (VÀO Ô TRỐNG HOẶC VỊ TRÍ CHỈ ĐỈNH). Nghĩa: Dùng khi điền thông tin vào các ô hoặc chỗ trống trong một biểu mẫu hoặc tài liệu: 
-(v) Điền đầy đủ, hoàn thành biểu mẫu. Nghĩa: Dùng khi hoàn thành toàn bộ một biểu mẫu hoặc tài liệu bằng cách điền vào tất cả các thông tin cần thiết: 
+(v) Điền vào, điền thông tin (VÀO Ô TRỐNG HOẶC VỊ TRÍ CHỈ ĐỈNH) Nghĩa: Dùng khi điền thông tin vào các ô hoặc chỗ trống trong một biểu mẫu hoặc tài liệu: 
+(v) Điền đầy đủ, hoàn thành biểu mẫu Nghĩa: Dùng khi hoàn thành toàn bộ một biểu mẫu hoặc tài liệu bằng cách điền vào tất cả các thông tin cần thiết: 
 điền vào đơn của bệnh nhân: 
 được bảo hiểm chi trả: 
 bác sĩ gia đình: 
@@ -3543,467 +3543,467 @@ con gấu:
 cấm: 
 giết: 
 săn để lấy thịt ăn hay bán: 
-(n) Luật sư. Nghĩa: Người được đào tạo để tư vấn và đại diện cho khách hàng trong các vấn đề pháp lý: 
-(n) Luật sư trẻ tuổi nữ. Nghĩa: Một nữ luật sư còn trẻ tuổi: 
-(v) Giữ lại. Nghĩa: Duy trì sự sở hữu hoặc giữ cho một cái gì đó không bị mất đi: 
-(n) Văn phòng luật sư. Nghĩa: Nơi làm việc của luật sư hoặc công ty luật: 
-(v) Cầu hôn. Nghĩa: Đề nghị kết hôn với ai đó: 
-(n) Đàn (gia súc, chim, etc.) Nghĩa: Một nhóm động vật cùng loại di chuyển hoặc sống chung với nha: 
-(prep) Khi đến nơi. Nghĩa: Ngay lúc đến một địa điểm cụ thể: 
-(prep) Khi về nhà. Nghĩa: Ngay lúc về đến nhà: 
-(n) Hoàng hôn. Nghĩa: Thời điểm mặt trời lặn: 
-(n) Chập tối. Nghĩa: Thời điểm trời tối hẳn: 
-(n) Sườn đồi. Nghĩa: Phần dốc của ngọn đồi: 
-(v) Cảm thấy buồn. Nghĩa: Cảm thấy u sầu hoặc không vui: 
-(a) Phụ thuộc. Nghĩa: Có vai trò làm cho một điều gì đó phụ thuộc vào điều khác: 
-(n) Liên từ phụ thuộc. Nghĩa: Từ dùng để kết nối mệnh đề phụ với mệnh đề chính: 
-(n) Bóng bàn. Nghĩa: Trò chơi hoặc môn thể thao trong đó các người chơi đánh qua lại một quả bóng nhỏ trên bàn bằng vợt: 
-(n) Kèn saxophone. Nghĩa: Một loại nhạc cụ hơi thuộc họ kèn: 
-(n) Đàn mandolin. Nghĩa: Một loại nhạc cụ dây có nguồn gốc từ châu Âu: 
-(n) Đàn organ. Nghĩa: Một loại nhạc cụ bàn phím, thường dùng trong nhà thờ: 
-(n) Đại số. Nghĩa: Một nhánh của toán học nghiên cứu về phương trình và biến số: 
-(n) Viết bài luận. Nghĩa: Kỹ năng hoặc quá trình viết các bài luận: 
-(n) Xăng không chì. Nghĩa: Loại nhiên liệu không chứa chì dùng cho ô tô: 
-(n) Lao động. Nghĩa: Công việc hoặc quá trình làm việc, thường là lao động chân tay: 
-(n) Hóa đơn linh kiện và công lao động. Nghĩa: Một tài liệu liệt kê các chi phí của linh kiện và công lao động trong quá trình sửa chữa hoặc dịch vụ: 
-(n) Khung. Nghĩa: Vật cấu trúc giữ hoặc bao quanh một vật thể khác: 
-(n) Giám thị. Nghĩa: Người giám sát trong các kỳ thi: 
-(n) Quầy làm thủ tục. Nghĩa: Nơi hành khách làm thủ tục trước khi lên máy bay: 
-(n) Quầy thanh toán. Nghĩa: Nơi khách hàng thanh toán sau khi mua sắ: 
-(n) Nhân viên đăng ký. Nghĩa: Người phụ trách việc ghi nhận thông tin đăng ký tại các văn phòng, bệnh viện hoặc sự kiện: 
-(n) Người hầu. Nghĩa: Người làm việc cho một gia đình hoặc cá nhân, thường là trong các công việc nội tr: 
-(n) Nhân viên phục vụ phòng. Nghĩa: Người phục vụ phòng trong khách sạn, chịu trách nhiệm dọn dẹp và chăm sóc các phòng: 
-(n) Vụ kiện. Nghĩa: Quá trình pháp lý mà một bên kiện bên khác ra tòa: 
-(v) Đệ đơn kiện ai đó. Nghĩa: Bắt đầu quá trình kiện ai đó ra tòa: 
-(v) Kiện ai đó. Nghĩa: Bắt đầu hành động pháp lý chống lại ai đó để đòi quyền lợi hoặc bồi thường: 
-(v) Sủa. Nghĩa: Tiếng kêu của ch: 
-(a) Quan trọng. Nghĩa: Cực kỳ quan trọng hoặc thiết yếu trong một tình huống nào đó: 
-(v) Bắt giữ. Nghĩa: Hành động của cảnh sát hoặc cơ quan pháp luật khi tạm giữ một người vì nghi ngờ vi phạm pháp luật: 
-(n) Dấu phẩy ",". Nghĩa: Ký hiệu ngắt câu dùng để tách các phần của câu: 
-(n) Cảnh sát sân bay. Nghĩa: Nhân viên cảnh sát phụ trách an ninh tại sân bay: 
-(n) Nhân viên an ninh. Nghĩa: Người chịu trách nhiệm bảo vệ an ninh cho một khu vực, tòa nhà, hoặc sự kiện: 
-(n) Cán bộ văn hóa. Nghĩa: Người chịu trách nhiệm thúc đẩy và quản lý các hoạt động văn hóa trong cộng đồng hoặc tổ chức: 
-(n) Quầy bán vé. Nghĩa: Nơi bán vé cho các sự kiện, chuyến bay, hoặc phương tiện giao thông: 
-(n) Bảng khởi hành. Nghĩa: Bảng thông báo thời gian và địa điểm các chuyến bay khởi hành tại sân bay: 
-(n) Bảng điểm đến. Nghĩa: Bảng thông báo thời gian và địa điểm các chuyến bay đến tại sân bay: 
-(n) Số hiệu chuyến bay. Nghĩa: Mã số cụ thể của một chuyến bay: 
-(v) Nhận nhiệm vụ đã được giao. Nghĩa: Được giao một công việc hoặc nhiệm vụ cụ thể: 
-(v) Đi qua cửa kiểm soát nhập cảnh. Nghĩa: Quá trình kiểm tra giấy tờ và hồ sơ khi nhập cảnh vào một quốc gia: 
-(v) Lên tàu hoặc máy bay. Nghĩa: Hành động lên một phương tiện di chuyển như tàu hoặc máy ba: 
-(v) Vẫy tay. Nghĩa: Cử động tay để chào hoặc tạm biệt ai đó: 
-(n) Hàng hóa vận chuyển. Nghĩa: Hàng hóa vận chuyển bằng tàu, xe hoặc máy bay: 
-(n) Cảng biển. Nghĩa: Cảng nằm trên bờ biển, nơi các tàu cập bến để bốc dỡ hàng hóa hoặc đón khách: 
-(n) Hàng hóa, sản phẩm; mặt hàng. Nghĩa: Các sản phẩm được mua và bán: 
-(v) Xác định hàng hóa. Nghĩa: Kiểm tra hoặc xác nhận sản phẩm hoặc hàng hóa: 
-(n) Thuế nhập khẩu. Nghĩa: Thuế đánh vào hàng hóa khi nhập khẩu vào một quốc gia: 
-(n) Chi phí vận chuyển. Nghĩa: Số tiền cần trả để vận chuyển hàng hóa từ nơi này đến nơi khác: 
-(n) Công-tơ-nơ cao 20 feet. Nghĩa: Một thùng chứa hàng có chiều dài 20 feet, thường dùng để vận chuyển hàng hóa: 
-(n) Nhà kho. Nghĩa: Tòa nhà nơi hàng hóa được lưu trữ trước khi phân phối hoặc bán: 
-(v) Thuê mướn. Nghĩa: Mượn hoặc trả tiền để sử dụng dịch vụ hoặc công việc của ai đó: 
-(v) Quyết định. Nghĩa: Đưa ra quyết định hoặc lựa chọn sau khi cân nhắ: 
-(n) Chủ nhà. Nghĩa: Người sở hữu một tòa nhà hoặc bất động sản và cho người khác thuê: 
-(n) Nhân viên cứu hộ. Nghĩa: Người làm việc tại hồ bơi hoặc bãi biển để đảm bảo an toàn cho người tắm: 
-(n) Văn phòng bất động sản. Nghĩa: Nơi cung cấp dịch vụ mua, bán, và cho thuê bất động sản: 
-(n) Cơ quan nhà ở. Nghĩa: Cơ quan quản lý nhà ở công cộng hoặc các vấn đề liên quan đến nhà ở: 
-(n) Trưởng khu phố hoặc trưởng phường. Nghĩa: Người đứng đầu một khu vực hoặc phường trong thành phố, quản lý các vấn đề địa phương: 
-(n) Trưởng quận. Nghĩa: Người đứng đầu một quận hoặc khu vực hành chính: 
-(n) Công chứng viên. Nghĩa: Người có thẩm quyền chứng thực các văn bản và tài liệu pháp lý: 
-(n) Cơ quan thuế. Nghĩa: Cơ quan chịu trách nhiệm thu thuế và quản lý các quy định liên quan đến thuế: 
-(n) Nhà hai tầng. Nghĩa: Nhà có hai tầng, thường là nhà ở: 
-(v) Chụp ảnh. Nghĩa: Sử dụng máy ảnh hoặc điện thoại để chụp ảnh: 
-(v) Thưởng thức ánh nắng vàng vào lúc mặt trời lặn. Nghĩa: Cảm nhận và tận hưởng vẻ đẹp của ánh nắng chiều khi mặt trời lặn: 
-(n) So sánh hơn. Nghĩa: Dạng của tính từ hoặc trạng từ được sử dụng để so sánh sự khác biệt giữa hai đối tượng: 
-(n) So sánh nhất. Nghĩa: Dạng của tính từ hoặc trạng từ để chỉ mức độ cao nhất hoặc thấp nhất của một tính chất: 
-(a) Nhẹ nhàng, dịu dàng. Nghĩa: Mang tính cách hoặc hành động không hung hăng, mềm mỏng: 
-(a) Hẹp. Nghĩa: Có chiều rộng nhỏ, không rộng: 
-(a) Rỗng. Nghĩa: Có không gian bên trong, không đầy: 
-(v) Chủ tọa, điều hành. Nghĩa: Dẫn dắt hoặc điều hành một cuộc họp hoặc sự kiện: 
-(v) Chủ trì một cuộc họp. Nghĩa: Điều hành cuộc họp, dẫn dắt cuộc họ: 
-(v) Chấm công vào. Nghĩa: Ghi lại giờ bắt đầu làm việc bằng cách chấm công trên máy hoặc hệ thốn: 
-(v) Chấm công ra. Nghĩa: Ghi lại giờ kết thúc làm việc bằng cách chấm công trên máy hoặc hệ thống: 
-(v) Chấm công vào và ra. Nghĩa: Ghi nhận thời gian vào và ra làm việc bằng máy chấm côn: 
-(v) Nhấn mạnh. Nghĩa: Làm nổi bật hoặc chú trọng một điểm: 
-(v) Đổ lỗi. Nghĩa: Chỉ trích ai đó vì một điều không tốt xảy ra: 
-(n) Tủ hồ sơ. Nghĩa: Tủ dùng để lưu trữ các tài liệu, hồ sơ: 
-(n) Bìa hồ sơ. Nghĩa: Dụng cụ để đựng và phân loại giấy tờ: 
-(n) Tai nghe có mic. Nghĩa: Thiết bị đeo tai có thể nghe và nói qua mic: 
-(n) Máy xử lý văn bản. Nghĩa: Thiết bị hoặc phần mềm được sử dụng để tạo và chỉnh sửa văn bản: 
-(n) Máy photocopy. Nghĩa: Máy sao chép tài liệu: 
-(n) Bảng thông báo. Nghĩa: Bảng dùng để đăng thông tin: 
-(n) Buồng làm việc nhỏ. Nghĩa: Khu vực làm việc nhỏ có vách ngăn trong văn phòng: 
-(n) Nhân viên tổng đài. Nghĩa: Người điều phối các cuộc gọi điện thoạ: 
-(n) Dụng cụ gỡ ghim. Nghĩa: Dụng cụ dùng để lấy ghim ra khỏi giấy tờ: 
-(n) Cái bấm ghim. Nghĩa: Dụng cụ dùng để ghim giấy tờ lại với nhau: 
-(n) Kẹp giấy. Nghĩa: Dụng cụ dùng để kẹp giấy tờ lại với nhau: 
-(n) Băng dính trong. Nghĩa: Loại băng keo trong suốt dùng để dán giấy hoặc vật dụng nh: 
-(n) Cơ sở kinh doanh, tòa nhà. Nghĩa: Khu vực hoặc tòa nhà thuộc sở hữu hoặc cho thuê để kinh doan: 
-(v) Thuê cơ sở. Nghĩa: Thuê tòa nhà hoặc không gian để kinh doanh: 
-(n) Giấy phép kinh doanh. Nghĩa: Giấy tờ cho phép một doanh nghiệp hoạt động hợp phá: 
-(n) Bán buôn. Nghĩa: Hoạt động mua bán hàng hóa với số lượng lớn: 
-(n) Doanh nghiệp bán buôn. Nghĩa: Công ty hoặc doanh nghiệp chuyên bán hàng số lượng lớ: 
-(n) Bán lẻ. Nghĩa: Bán hàng trực tiếp cho khách hàng cuối cùng: 
-(n) Doanh nghiệp bán lẻ. Nghĩa: Doanh nghiệp bán hàng trực tiếp cho người tiêu dùng cuố: 
-(v) Xác định, quyết định. Nghĩa: Đưa ra kết luận hoặc quyết định sau khi xem xét kỹ lưỡn: 
-(n) Cảnh sát giao thông. Nghĩa: Cảnh sát điều khiển hoặc giám sát giao thông: 
-(n) Vạch qua đường. Nghĩa: Đoạn đường dành cho người đi bộ băng qua đường: 
-(n) Người đi bộ. Nghĩa: Người đi bộ trên đường: 
-(n) Sạp báo. Nghĩa: Nơi bán báo và tạp chí ngoài đường: 
-(n) Buồng điện thoại. Nghĩa: Một buồng nhỏ trên đường phố có điện thoại công cộn: 
-(n) Tòa nhà văn phòng. Nghĩa: Tòa nhà nơi nhiều văn phòng được đặt: 
-(n) Nhà thuốc. Nghĩa: Cửa hàng bán thuốc, thường có thêm các sản phẩm khác như mỹ phẩm, thực phẩm chức năng: 
-(n) Xưởng sửa xe. Nghĩa: Nơi sửa chữa thân vỏ xe và các hư hỏng khác của ô tô: 
-(n) Tiệm may. Nghĩa: Nơi cung cấp dịch vụ cắt may quần áo theo yêu cầu: 
-(n) Tiệm cắt tóc nam. Nghĩa: Nơi cung cấp dịch vụ cắt tóc cho nam giới: 
-(n) Tiệm làm tóc. Nghĩa: Nơi cung cấp dịch vụ cắt, làm tóc, chủ yếu cho phụ n: 
-(n) Tiệm bán thịt. Nghĩa: Cửa hàng bán thịt tươi: 
-(n) Tiệm kính; cửa hàng mắt kính. Nghĩa: Nơi bán kính và cung cấp dịch vụ kiểm tra mắ: 
-(n) Tiệm trang sức. Nghĩa: Cửa hàng bán trang sức, đồ kim hoàn: 
-(n) Tiệm bán hoa. Nghĩa: Cửa hàng chuyên bán hoa tươi: 
-(n) Trực thăng. Nghĩa: Phương tiện bay có cánh quạt trên, có thể cất cánh và hạ cánh thẳng đứng: 
-(n) Vòng quay ngựa gỗ. Nghĩa: Trò chơi trong công viên giải trí với các ghế ngồi trên các con ngựa quay tròn: 
-(n) Đường chạy bộ. Nghĩa: Lối đi trong công viên hoặc ngoài trời dành cho việc chạy b: 
-(n) Thùng rác. Nghĩa: Dụng cụ đựng rác thải: 
-(n) Hệ thống phun nước. Nghĩa: Thiết bị dùng để tưới nước cho cây cối hoặc phun nước để chữa chá: 
-(n) Bập bênh. Nghĩa: Trò chơi bập bênh dành cho trẻ em, với một tấm ván cân bằng ở giữa: 
-(v) Làm tóc. Nghĩa: Đi làm kiểu tóc mới ở tiệm: 
-(n) Dầu gội. Nghĩa: Sản phẩm làm sạch tóc: 
+(n) Luật sư Nghĩa: Người được đào tạo để tư vấn và đại diện cho khách hàng trong các vấn đề pháp lý: 
+(n) Luật sư trẻ tuổi nữ Nghĩa: Một nữ luật sư còn trẻ tuổi: 
+(v) Giữ lại Nghĩa: Duy trì sự sở hữu hoặc giữ cho một cái gì đó không bị mất đi: 
+(n) Văn phòng luật sư Nghĩa: Nơi làm việc của luật sư hoặc công ty luật: 
+(v) Cầu hôn Nghĩa: Đề nghị kết hôn với ai đó: 
+(n) Đàn (gia súc, chim, etc) Nghĩa: Một nhóm động vật cùng loại di chuyển hoặc sống chung với nha: 
+(prep) Khi đến nơi Nghĩa: Ngay lúc đến một địa điểm cụ thể: 
+(prep) Khi về nhà Nghĩa: Ngay lúc về đến nhà: 
+(n) Hoàng hôn Nghĩa: Thời điểm mặt trời lặn: 
+(n) Chập tối Nghĩa: Thời điểm trời tối hẳn: 
+(n) Sườn đồi Nghĩa: Phần dốc của ngọn đồi: 
+(v) Cảm thấy buồn Nghĩa: Cảm thấy u sầu hoặc không vui: 
+(a) Phụ thuộc Nghĩa: Có vai trò làm cho một điều gì đó phụ thuộc vào điều khác: 
+(n) Liên từ phụ thuộc Nghĩa: Từ dùng để kết nối mệnh đề phụ với mệnh đề chính: 
+(n) Bóng bàn Nghĩa: Trò chơi hoặc môn thể thao trong đó các người chơi đánh qua lại một quả bóng nhỏ trên bàn bằng vợt: 
+(n) Kèn saxophone Nghĩa: Một loại nhạc cụ hơi thuộc họ kèn: 
+(n) Đàn mandolin Nghĩa: Một loại nhạc cụ dây có nguồn gốc từ châu Âu: 
+(n) Đàn organ Nghĩa: Một loại nhạc cụ bàn phím, thường dùng trong nhà thờ: 
+(n) Đại số Nghĩa: Một nhánh của toán học nghiên cứu về phương trình và biến số: 
+(n) Viết bài luận Nghĩa: Kỹ năng hoặc quá trình viết các bài luận: 
+(n) Xăng không chì Nghĩa: Loại nhiên liệu không chứa chì dùng cho ô tô: 
+(n) Lao động Nghĩa: Công việc hoặc quá trình làm việc, thường là lao động chân tay: 
+(n) Hóa đơn linh kiện và công lao động Nghĩa: Một tài liệu liệt kê các chi phí của linh kiện và công lao động trong quá trình sửa chữa hoặc dịch vụ: 
+(n) Khung Nghĩa: Vật cấu trúc giữ hoặc bao quanh một vật thể khác: 
+(n) Giám thị Nghĩa: Người giám sát trong các kỳ thi: 
+(n) Quầy làm thủ tục Nghĩa: Nơi hành khách làm thủ tục trước khi lên máy bay: 
+(n) Quầy thanh toán Nghĩa: Nơi khách hàng thanh toán sau khi mua sắ: 
+(n) Nhân viên đăng ký Nghĩa: Người phụ trách việc ghi nhận thông tin đăng ký tại các văn phòng, bệnh viện hoặc sự kiện: 
+(n) Người hầu Nghĩa: Người làm việc cho một gia đình hoặc cá nhân, thường là trong các công việc nội tr: 
+(n) Nhân viên phục vụ phòng Nghĩa: Người phục vụ phòng trong khách sạn, chịu trách nhiệm dọn dẹp và chăm sóc các phòng: 
+(n) Vụ kiện Nghĩa: Quá trình pháp lý mà một bên kiện bên khác ra tòa: 
+(v) Đệ đơn kiện ai đó Nghĩa: Bắt đầu quá trình kiện ai đó ra tòa: 
+(v) Kiện ai đó Nghĩa: Bắt đầu hành động pháp lý chống lại ai đó để đòi quyền lợi hoặc bồi thường: 
+(v) Sủa Nghĩa: Tiếng kêu của ch: 
+(a) Quan trọng Nghĩa: Cực kỳ quan trọng hoặc thiết yếu trong một tình huống nào đó: 
+(v) Bắt giữ Nghĩa: Hành động của cảnh sát hoặc cơ quan pháp luật khi tạm giữ một người vì nghi ngờ vi phạm pháp luật: 
+(n) Dấu phẩy "," Nghĩa: Ký hiệu ngắt câu dùng để tách các phần của câu: 
+(n) Cảnh sát sân bay Nghĩa: Nhân viên cảnh sát phụ trách an ninh tại sân bay: 
+(n) Nhân viên an ninh Nghĩa: Người chịu trách nhiệm bảo vệ an ninh cho một khu vực, tòa nhà, hoặc sự kiện: 
+(n) Cán bộ văn hóa Nghĩa: Người chịu trách nhiệm thúc đẩy và quản lý các hoạt động văn hóa trong cộng đồng hoặc tổ chức: 
+(n) Quầy bán vé Nghĩa: Nơi bán vé cho các sự kiện, chuyến bay, hoặc phương tiện giao thông: 
+(n) Bảng khởi hành Nghĩa: Bảng thông báo thời gian và địa điểm các chuyến bay khởi hành tại sân bay: 
+(n) Bảng điểm đến Nghĩa: Bảng thông báo thời gian và địa điểm các chuyến bay đến tại sân bay: 
+(n) Số hiệu chuyến bay Nghĩa: Mã số cụ thể của một chuyến bay: 
+(v) Nhận nhiệm vụ đã được giao Nghĩa: Được giao một công việc hoặc nhiệm vụ cụ thể: 
+(v) Đi qua cửa kiểm soát nhập cảnh Nghĩa: Quá trình kiểm tra giấy tờ và hồ sơ khi nhập cảnh vào một quốc gia: 
+(v) Lên tàu hoặc máy bay Nghĩa: Hành động lên một phương tiện di chuyển như tàu hoặc máy ba: 
+(v) Vẫy tay Nghĩa: Cử động tay để chào hoặc tạm biệt ai đó: 
+(n) Hàng hóa vận chuyển Nghĩa: Hàng hóa vận chuyển bằng tàu, xe hoặc máy bay: 
+(n) Cảng biển Nghĩa: Cảng nằm trên bờ biển, nơi các tàu cập bến để bốc dỡ hàng hóa hoặc đón khách: 
+(n) Hàng hóa, sản phẩm; mặt hàng Nghĩa: Các sản phẩm được mua và bán: 
+(v) Xác định hàng hóa Nghĩa: Kiểm tra hoặc xác nhận sản phẩm hoặc hàng hóa: 
+(n) Thuế nhập khẩu Nghĩa: Thuế đánh vào hàng hóa khi nhập khẩu vào một quốc gia: 
+(n) Chi phí vận chuyển Nghĩa: Số tiền cần trả để vận chuyển hàng hóa từ nơi này đến nơi khác: 
+(n) Công-tơ-nơ cao 20 feet Nghĩa: Một thùng chứa hàng có chiều dài 20 feet, thường dùng để vận chuyển hàng hóa: 
+(n) Nhà kho Nghĩa: Tòa nhà nơi hàng hóa được lưu trữ trước khi phân phối hoặc bán: 
+(v) Thuê mướn Nghĩa: Mượn hoặc trả tiền để sử dụng dịch vụ hoặc công việc của ai đó: 
+(v) Quyết định Nghĩa: Đưa ra quyết định hoặc lựa chọn sau khi cân nhắ: 
+(n) Chủ nhà Nghĩa: Người sở hữu một tòa nhà hoặc bất động sản và cho người khác thuê: 
+(n) Nhân viên cứu hộ Nghĩa: Người làm việc tại hồ bơi hoặc bãi biển để đảm bảo an toàn cho người tắm: 
+(n) Văn phòng bất động sản Nghĩa: Nơi cung cấp dịch vụ mua, bán, và cho thuê bất động sản: 
+(n) Cơ quan nhà ở Nghĩa: Cơ quan quản lý nhà ở công cộng hoặc các vấn đề liên quan đến nhà ở: 
+(n) Trưởng khu phố hoặc trưởng phường Nghĩa: Người đứng đầu một khu vực hoặc phường trong thành phố, quản lý các vấn đề địa phương: 
+(n) Trưởng quận Nghĩa: Người đứng đầu một quận hoặc khu vực hành chính: 
+(n) Công chứng viên Nghĩa: Người có thẩm quyền chứng thực các văn bản và tài liệu pháp lý: 
+(n) Cơ quan thuế Nghĩa: Cơ quan chịu trách nhiệm thu thuế và quản lý các quy định liên quan đến thuế: 
+(n) Nhà hai tầng Nghĩa: Nhà có hai tầng, thường là nhà ở: 
+(v) Chụp ảnh Nghĩa: Sử dụng máy ảnh hoặc điện thoại để chụp ảnh: 
+(v) Thưởng thức ánh nắng vàng vào lúc mặt trời lặn Nghĩa: Cảm nhận và tận hưởng vẻ đẹp của ánh nắng chiều khi mặt trời lặn: 
+(n) So sánh hơn Nghĩa: Dạng của tính từ hoặc trạng từ được sử dụng để so sánh sự khác biệt giữa hai đối tượng: 
+(n) So sánh nhất Nghĩa: Dạng của tính từ hoặc trạng từ để chỉ mức độ cao nhất hoặc thấp nhất của một tính chất: 
+(a) Nhẹ nhàng, dịu dàng Nghĩa: Mang tính cách hoặc hành động không hung hăng, mềm mỏng: 
+(a) Hẹp Nghĩa: Có chiều rộng nhỏ, không rộng: 
+(a) Rỗng Nghĩa: Có không gian bên trong, không đầy: 
+(v) Chủ tọa, điều hành Nghĩa: Dẫn dắt hoặc điều hành một cuộc họp hoặc sự kiện: 
+(v) Chủ trì một cuộc họp Nghĩa: Điều hành cuộc họp, dẫn dắt cuộc họ: 
+(v) Chấm công vào Nghĩa: Ghi lại giờ bắt đầu làm việc bằng cách chấm công trên máy hoặc hệ thốn: 
+(v) Chấm công ra Nghĩa: Ghi lại giờ kết thúc làm việc bằng cách chấm công trên máy hoặc hệ thống: 
+(v) Chấm công vào và ra Nghĩa: Ghi nhận thời gian vào và ra làm việc bằng máy chấm côn: 
+(v) Nhấn mạnh Nghĩa: Làm nổi bật hoặc chú trọng một điểm: 
+(v) Đổ lỗi Nghĩa: Chỉ trích ai đó vì một điều không tốt xảy ra: 
+(n) Tủ hồ sơ Nghĩa: Tủ dùng để lưu trữ các tài liệu, hồ sơ: 
+(n) Bìa hồ sơ Nghĩa: Dụng cụ để đựng và phân loại giấy tờ: 
+(n) Tai nghe có mic Nghĩa: Thiết bị đeo tai có thể nghe và nói qua mic: 
+(n) Máy xử lý văn bản Nghĩa: Thiết bị hoặc phần mềm được sử dụng để tạo và chỉnh sửa văn bản: 
+(n) Máy photocopy Nghĩa: Máy sao chép tài liệu: 
+(n) Bảng thông báo Nghĩa: Bảng dùng để đăng thông tin: 
+(n) Buồng làm việc nhỏ Nghĩa: Khu vực làm việc nhỏ có vách ngăn trong văn phòng: 
+(n) Nhân viên tổng đài Nghĩa: Người điều phối các cuộc gọi điện thoạ: 
+(n) Dụng cụ gỡ ghim Nghĩa: Dụng cụ dùng để lấy ghim ra khỏi giấy tờ: 
+(n) Cái bấm ghim Nghĩa: Dụng cụ dùng để ghim giấy tờ lại với nhau: 
+(n) Kẹp giấy Nghĩa: Dụng cụ dùng để kẹp giấy tờ lại với nhau: 
+(n) Băng dính trong Nghĩa: Loại băng keo trong suốt dùng để dán giấy hoặc vật dụng nh: 
+(n) Cơ sở kinh doanh, tòa nhà Nghĩa: Khu vực hoặc tòa nhà thuộc sở hữu hoặc cho thuê để kinh doan: 
+(v) Thuê cơ sở Nghĩa: Thuê tòa nhà hoặc không gian để kinh doanh: 
+(n) Giấy phép kinh doanh Nghĩa: Giấy tờ cho phép một doanh nghiệp hoạt động hợp phá: 
+(n) Bán buôn Nghĩa: Hoạt động mua bán hàng hóa với số lượng lớn: 
+(n) Doanh nghiệp bán buôn Nghĩa: Công ty hoặc doanh nghiệp chuyên bán hàng số lượng lớ: 
+(n) Bán lẻ Nghĩa: Bán hàng trực tiếp cho khách hàng cuối cùng: 
+(n) Doanh nghiệp bán lẻ Nghĩa: Doanh nghiệp bán hàng trực tiếp cho người tiêu dùng cuố: 
+(v) Xác định, quyết định Nghĩa: Đưa ra kết luận hoặc quyết định sau khi xem xét kỹ lưỡn: 
+(n) Cảnh sát giao thông Nghĩa: Cảnh sát điều khiển hoặc giám sát giao thông: 
+(n) Vạch qua đường Nghĩa: Đoạn đường dành cho người đi bộ băng qua đường: 
+(n) Người đi bộ Nghĩa: Người đi bộ trên đường: 
+(n) Sạp báo Nghĩa: Nơi bán báo và tạp chí ngoài đường: 
+(n) Buồng điện thoại Nghĩa: Một buồng nhỏ trên đường phố có điện thoại công cộn: 
+(n) Tòa nhà văn phòng Nghĩa: Tòa nhà nơi nhiều văn phòng được đặt: 
+(n) Nhà thuốc Nghĩa: Cửa hàng bán thuốc, thường có thêm các sản phẩm khác như mỹ phẩm, thực phẩm chức năng: 
+(n) Xưởng sửa xe Nghĩa: Nơi sửa chữa thân vỏ xe và các hư hỏng khác của ô tô: 
+(n) Tiệm may Nghĩa: Nơi cung cấp dịch vụ cắt may quần áo theo yêu cầu: 
+(n) Tiệm cắt tóc nam Nghĩa: Nơi cung cấp dịch vụ cắt tóc cho nam giới: 
+(n) Tiệm làm tóc Nghĩa: Nơi cung cấp dịch vụ cắt, làm tóc, chủ yếu cho phụ n: 
+(n) Tiệm bán thịt Nghĩa: Cửa hàng bán thịt tươi: 
+(n) Tiệm kính; cửa hàng mắt kính Nghĩa: Nơi bán kính và cung cấp dịch vụ kiểm tra mắ: 
+(n) Tiệm trang sức Nghĩa: Cửa hàng bán trang sức, đồ kim hoàn: 
+(n) Tiệm bán hoa Nghĩa: Cửa hàng chuyên bán hoa tươi: 
+(n) Trực thăng Nghĩa: Phương tiện bay có cánh quạt trên, có thể cất cánh và hạ cánh thẳng đứng: 
+(n) Vòng quay ngựa gỗ Nghĩa: Trò chơi trong công viên giải trí với các ghế ngồi trên các con ngựa quay tròn: 
+(n) Đường chạy bộ Nghĩa: Lối đi trong công viên hoặc ngoài trời dành cho việc chạy b: 
+(n) Thùng rác Nghĩa: Dụng cụ đựng rác thải: 
+(n) Hệ thống phun nước Nghĩa: Thiết bị dùng để tưới nước cho cây cối hoặc phun nước để chữa chá: 
+(n) Bập bênh Nghĩa: Trò chơi bập bênh dành cho trẻ em, với một tấm ván cân bằng ở giữa: 
+(v) Làm tóc Nghĩa: Đi làm kiểu tóc mới ở tiệm: 
+(n) Dầu gội Nghĩa: Sản phẩm làm sạch tóc: 
                    (v) Gội đầ
-(v) Uốn tóc. Nghĩa: Làm xoăn tóc bằng các dụng cụ hoặc phương pháp uốn tóc: 
-(v) Tỉa tóc. Nghĩa: Cắt bỏ phần thừa của tóc để gọn gàng hơn: 
-(v) Cạo râu. Nghĩa: Đi cạo râu tại tiệm cắt tóc hoặc làm tại nhà: 
-(v) Cắt móng tay. Nghĩa: Cắt ngắn móng tay: 
-(n) Kem dưỡng da. Nghĩa: Sản phẩm dùng để dưỡng ẩm hoặc chăm sóc da: 
-(n) Kem dưỡng sau khi cạo râu. Nghĩa: Sản phẩm dùng sau khi cạo râu để làm dịu và bảo vệ da: 
-(n) Dao cạo. Nghĩa: Dụng cụ dùng để cạo râu hoặc lông: 
-(n) Kem cạo râu. Nghĩa: Sản phẩm dùng để bôi lên da trước khi cạo râu: 
-(n) Dụng cụ dũa móng tay. Nghĩa: Tấm dũa nhám dùng để mài và làm mịn móng tay: 
-(n) Son môi. Nghĩa: Sản phẩm dùng để tô màu môi: 
-(n) Trang điểm. Nghĩa: Sản phẩm và quá trình làm đẹp khuôn mặt bằng mỹ phẩm: 
-(n) Bấm móng tay. Nghĩa: Dụng cụ dùng để cắt móng tay: 
-(n) Kẻ mắt. Nghĩa: Sản phẩm dùng để kẻ đường viền xung quanh mắt: 
-(n) Bút kẻ chân mày. Nghĩa: Sản phẩm dùng để tô và định hình lông mày: 
-(n) Nước hoa. Nghĩa: Sản phẩm dùng để tạo hương thơm cho cơ thể: 
-(n) Động cơ. Nghĩa: Bộ phận của xe hoặc máy móc giúp vận hành: 
-(n) Dầu máy. Nghĩa: Chất lỏng dùng để bôi trơn và bảo vệ động cơ: 
-(n) Bơm. Nghĩa: Thiết bị dùng để bơm chất lỏng hoặc khí: 
-(n) Pin, ắc quy. Nghĩa: Nguồn điện di động cung cấp năng lượng cho các thiết bị: 
-(n) Bugi (trong ô tô), phích cắm (điện). Nghĩa: Dụng cụ truyền điện hoặc tia lửa trong động cơ: 
-(n) Đèn hậu (ô tô). Nghĩa: Đèn ở phía sau xe, dùng để báo hiệu khi phanh hoặc di chuyển vào ban đê: 
-(n) Đèn pha. Nghĩa: Đèn ở phía trước xe, dùng để chiếu sáng đường đi: 
-(n) Kính chắn gió. Nghĩa: Tấm kính ở phía trước xe, giúp chắn gió và bảo vệ người lá: 
-(n) Cần gạt nước kính chắn gió. Nghĩa: Dụng cụ giúp làm sạch kính chắn gió của xe khi có mưa hoặc bụi bẩn: 
-(n) Vô lăng. Nghĩa: Bộ phận dùng để điều khiển hướng đi của xe: 
-(n) Đồng hồ đo tốc độ. Nghĩa: Thiết bị đo tốc độ của xe trong khi di chuyển: 
-(n) Phanh, thắng xe. Nghĩa: Hệ thống dùng để giảm tốc độ hoặc dừng xe: 
-(n) Hộp số sàn. Nghĩa: Loại hộp số mà người lái phải chuyển đổi bánh răng thủ côn: 
-(n) Hộp số tự động. Nghĩa: Hệ thống số tự động chuyển bánh răng mà không cần sự can thiệp của người lái: 
-(n) Biển số xe. Nghĩa: Tấm biển ghi số đăng ký của xe: 
-(v) Sơn lại xe. Nghĩa: Thực hiện việc sơn xe để đổi màu hoặc sửa chữa lớp sơn bị hỏn: 
-(v) Sửa chữa mái nhà. Nghĩa: Thực hiện việc sửa chữa phần mái nhà bị hỏng: 
-(n) Khóa cửa. Nghĩa: Hệ thống giúp khóa và mở cửa xe hoặc nhà: 
-(n) Gương chiếu hậu bên hông. Nghĩa: Gương nằm ở hai bên cửa xe giúp người lái quan sát phía sau: 
-(v) Cài đặt radio trong xe. Nghĩa: Lắp đặt hệ thống radio trên xe hơi: 
-(v) Thay lốp xe. Nghĩa: Thay mới lốp xe khi chúng bị mòn hoặc hỏng: 
-(v) Sửa chữa tổng thể. Nghĩa: Kiểm tra và sửa chữa toàn bộ hệ thống hoặc động cơ: 
+(v) Uốn tóc Nghĩa: Làm xoăn tóc bằng các dụng cụ hoặc phương pháp uốn tóc: 
+(v) Tỉa tóc Nghĩa: Cắt bỏ phần thừa của tóc để gọn gàng hơn: 
+(v) Cạo râu Nghĩa: Đi cạo râu tại tiệm cắt tóc hoặc làm tại nhà: 
+(v) Cắt móng tay Nghĩa: Cắt ngắn móng tay: 
+(n) Kem dưỡng da Nghĩa: Sản phẩm dùng để dưỡng ẩm hoặc chăm sóc da: 
+(n) Kem dưỡng sau khi cạo râu Nghĩa: Sản phẩm dùng sau khi cạo râu để làm dịu và bảo vệ da: 
+(n) Dao cạo Nghĩa: Dụng cụ dùng để cạo râu hoặc lông: 
+(n) Kem cạo râu Nghĩa: Sản phẩm dùng để bôi lên da trước khi cạo râu: 
+(n) Dụng cụ dũa móng tay Nghĩa: Tấm dũa nhám dùng để mài và làm mịn móng tay: 
+(n) Son môi Nghĩa: Sản phẩm dùng để tô màu môi: 
+(n) Trang điểm Nghĩa: Sản phẩm và quá trình làm đẹp khuôn mặt bằng mỹ phẩm: 
+(n) Bấm móng tay Nghĩa: Dụng cụ dùng để cắt móng tay: 
+(n) Kẻ mắt Nghĩa: Sản phẩm dùng để kẻ đường viền xung quanh mắt: 
+(n) Bút kẻ chân mày Nghĩa: Sản phẩm dùng để tô và định hình lông mày: 
+(n) Nước hoa Nghĩa: Sản phẩm dùng để tạo hương thơm cho cơ thể: 
+(n) Động cơ Nghĩa: Bộ phận của xe hoặc máy móc giúp vận hành: 
+(n) Dầu máy Nghĩa: Chất lỏng dùng để bôi trơn và bảo vệ động cơ: 
+(n) Bơm Nghĩa: Thiết bị dùng để bơm chất lỏng hoặc khí: 
+(n) Pin, ắc quy Nghĩa: Nguồn điện di động cung cấp năng lượng cho các thiết bị: 
+(n) Bugi (trong ô tô), phích cắm (điện) Nghĩa: Dụng cụ truyền điện hoặc tia lửa trong động cơ: 
+(n) Đèn hậu (ô tô) Nghĩa: Đèn ở phía sau xe, dùng để báo hiệu khi phanh hoặc di chuyển vào ban đê: 
+(n) Đèn pha Nghĩa: Đèn ở phía trước xe, dùng để chiếu sáng đường đi: 
+(n) Kính chắn gió Nghĩa: Tấm kính ở phía trước xe, giúp chắn gió và bảo vệ người lá: 
+(n) Cần gạt nước kính chắn gió Nghĩa: Dụng cụ giúp làm sạch kính chắn gió của xe khi có mưa hoặc bụi bẩn: 
+(n) Vô lăng Nghĩa: Bộ phận dùng để điều khiển hướng đi của xe: 
+(n) Đồng hồ đo tốc độ Nghĩa: Thiết bị đo tốc độ của xe trong khi di chuyển: 
+(n) Phanh, thắng xe Nghĩa: Hệ thống dùng để giảm tốc độ hoặc dừng xe: 
+(n) Hộp số sàn Nghĩa: Loại hộp số mà người lái phải chuyển đổi bánh răng thủ côn: 
+(n) Hộp số tự động Nghĩa: Hệ thống số tự động chuyển bánh răng mà không cần sự can thiệp của người lái: 
+(n) Biển số xe Nghĩa: Tấm biển ghi số đăng ký của xe: 
+(v) Sơn lại xe Nghĩa: Thực hiện việc sơn xe để đổi màu hoặc sửa chữa lớp sơn bị hỏn: 
+(v) Sửa chữa mái nhà Nghĩa: Thực hiện việc sửa chữa phần mái nhà bị hỏng: 
+(n) Khóa cửa Nghĩa: Hệ thống giúp khóa và mở cửa xe hoặc nhà: 
+(n) Gương chiếu hậu bên hông Nghĩa: Gương nằm ở hai bên cửa xe giúp người lái quan sát phía sau: 
+(v) Cài đặt radio trong xe Nghĩa: Lắp đặt hệ thống radio trên xe hơi: 
+(v) Thay lốp xe Nghĩa: Thay mới lốp xe khi chúng bị mòn hoặc hỏng: 
+(v) Sửa chữa tổng thể Nghĩa: Kiểm tra và sửa chữa toàn bộ hệ thống hoặc động cơ: 
 (v) Thực hiện sửa chữa toàn bộ hệ thống hoặc động cơ: 
-(v) Bị thủng lốp. Nghĩa: Lốp xe bị xì hơi hoặc thủng: 
-(n) Va li. Nghĩa: Hành lý xách tay có dạng hộp dùng để đựng quần áo, đồ dùng khi đi du lịc: 
-(n) Tiểu hành tinh. Nghĩa: Các thiên thể nhỏ di chuyển quanh mặt trời, thường là đá hoặc kim loại: 
-(n) Thể giả định. Nghĩa: Thể trong tiếng Anh được sử dụng để diễn tả tình huống giả định, mong muốn, hoặc đề nghị: 
-(v) Yêu cầu, đòi hỏi. Nghĩa: Đòi hỏi một cách khẩn cấp hoặc cần thiết: 
-(a) Cấp bách, khẩn thiết. Nghĩa: Điều gì đó rất quan trọng và cần thiết: 
-(n) Thành phố nghỉ dưỡng. Nghĩa: Một thành phố nổi tiếng với các dịch vụ du lịch và nghỉ dưỡng: 
-(n) Thành phố du lịch. Nghĩa: Thành phố thu hút nhiều du khách: 
-(n) Người bán hàng rong. Nghĩa: Người bán hàng dạo trên phố hoặc tại các khu vực du lịc: 
-(n) Tăng áp. Nghĩa: Thiết bị sử dụng để tăng công suất động cơ thông qua việc nén khí: 
-(n) Tàu cao tốc sử dụng động cơ phản lực. Nghĩa: Loại tàu di chuyển nhanh nhờ động cơ phản lực: 
-(n) Cái xẻng. Nghĩa: Dụng cụ dùng để đào đất hoặc cát: 
-(n) Cái xô. Nghĩa: Dụng cụ để đựng nước, cát hoặc các chất lỏng khác: 
-(n) Kem chống nắng dưỡng da rám nắng. Nghĩa: Sản phẩm dùng để bảo vệ da khỏi tác hại của ánh nắng mặt trời: 
-(n) Đồ bơi. Nghĩa: Trang phục mặc khi đi bơi: 
-(n) Bình khí lặn. Nghĩa: Bình chứa khí oxy dùng khi lặn dưới nước: 
-(n) Chân vịt. Nghĩa: Dụng cụ giúp bơi dễ dàng và nhanh hơn khi lặn: 
-(n) Phao cứu sinh. Nghĩa: Dụng cụ nổi dùng để cứu người trong tình huống khẩn cấp dưới nước: 
-(v) Đào cát. Nghĩa: Thực hiện hành động đào cát, thường dùng trong việc vui chơi trên bãi biển: 
-(v) Phơi khô mình dưới nắng. Nghĩa: Để cơ thể khô tự nhiên dưới ánh mặt trời: 
-(v) Lướt sóng. Nghĩa: Hoạt động đứng trên ván và lướt trên mặt nước nhờ sóng biển: 
-(v) Lặn. Nghĩa: Hành động nhảy xuống nước và lặn dưới nước: 
-(v) Lặn với bình khí. Nghĩa: Hoạt động lặn dưới nước với bình khí: 
-(n) Thủ đô. Nghĩa: Thành phố chính, nơi đặt trung tâm hành chính của một quốc gi: 
-(n) Thành phố thương mại. Nghĩa: Thành phố có hoạt động thương mại và kinh doanh phát triển mạnh: 
+(v) Bị thủng lốp Nghĩa: Lốp xe bị xì hơi hoặc thủng: 
+(n) Va li Nghĩa: Hành lý xách tay có dạng hộp dùng để đựng quần áo, đồ dùng khi đi du lịc: 
+(n) Tiểu hành tinh Nghĩa: Các thiên thể nhỏ di chuyển quanh mặt trời, thường là đá hoặc kim loại: 
+(n) Thể giả định Nghĩa: Thể trong tiếng Anh được sử dụng để diễn tả tình huống giả định, mong muốn, hoặc đề nghị: 
+(v) Yêu cầu, đòi hỏi Nghĩa: Đòi hỏi một cách khẩn cấp hoặc cần thiết: 
+(a) Cấp bách, khẩn thiết Nghĩa: Điều gì đó rất quan trọng và cần thiết: 
+(n) Thành phố nghỉ dưỡng Nghĩa: Một thành phố nổi tiếng với các dịch vụ du lịch và nghỉ dưỡng: 
+(n) Thành phố du lịch Nghĩa: Thành phố thu hút nhiều du khách: 
+(n) Người bán hàng rong Nghĩa: Người bán hàng dạo trên phố hoặc tại các khu vực du lịc: 
+(n) Tăng áp Nghĩa: Thiết bị sử dụng để tăng công suất động cơ thông qua việc nén khí: 
+(n) Tàu cao tốc sử dụng động cơ phản lực Nghĩa: Loại tàu di chuyển nhanh nhờ động cơ phản lực: 
+(n) Cái xẻng Nghĩa: Dụng cụ dùng để đào đất hoặc cát: 
+(n) Cái xô Nghĩa: Dụng cụ để đựng nước, cát hoặc các chất lỏng khác: 
+(n) Kem chống nắng dưỡng da rám nắng Nghĩa: Sản phẩm dùng để bảo vệ da khỏi tác hại của ánh nắng mặt trời: 
+(n) Đồ bơi Nghĩa: Trang phục mặc khi đi bơi: 
+(n) Bình khí lặn Nghĩa: Bình chứa khí oxy dùng khi lặn dưới nước: 
+(n) Chân vịt Nghĩa: Dụng cụ giúp bơi dễ dàng và nhanh hơn khi lặn: 
+(n) Phao cứu sinh Nghĩa: Dụng cụ nổi dùng để cứu người trong tình huống khẩn cấp dưới nước: 
+(v) Đào cát Nghĩa: Thực hiện hành động đào cát, thường dùng trong việc vui chơi trên bãi biển: 
+(v) Phơi khô mình dưới nắng Nghĩa: Để cơ thể khô tự nhiên dưới ánh mặt trời: 
+(v) Lướt sóng Nghĩa: Hoạt động đứng trên ván và lướt trên mặt nước nhờ sóng biển: 
+(v) Lặn Nghĩa: Hành động nhảy xuống nước và lặn dưới nước: 
+(v) Lặn với bình khí Nghĩa: Hoạt động lặn dưới nước với bình khí: 
+(n) Thủ đô Nghĩa: Thành phố chính, nơi đặt trung tâm hành chính của một quốc gi: 
+(n) Thành phố thương mại Nghĩa: Thành phố có hoạt động thương mại và kinh doanh phát triển mạnh: 
 Sách hướng dẫn: 
 Các điểm thu hút khách du lịch: 
 Di tích lịch sử: 
 Gợi nhớ về: 
 Bản đồ: 
-(n) Kem chống nắng. Nghĩa: Sản phẩm bảo vệ da khỏi tác hại của tia UV từ ánh nắng mặt trời: 
-(n) Kem chống nắng mạnh (sunblock). Nghĩa: Loại kem chống nắng với khả năng ngăn chặn hoàn toàn tia UV, tạo một lớp bảo vệ trên da: 
-(v) Thoa kem chống nắng cho ai đó. Nghĩa: Giúp người khác thoa kem chống nắng: 
-(a) Bị cháy nắng. Nghĩa: Da bị bỏng do tiếp xúc với ánh nắng mặt trời quá mức: 
+(n) Kem chống nắng Nghĩa: Sản phẩm bảo vệ da khỏi tác hại của tia UV từ ánh nắng mặt trời: 
+(n) Kem chống nắng mạnh (sunblock) Nghĩa: Loại kem chống nắng với khả năng ngăn chặn hoàn toàn tia UV, tạo một lớp bảo vệ trên da: 
+(v) Thoa kem chống nắng cho ai đó Nghĩa: Giúp người khác thoa kem chống nắng: 
+(a) Bị cháy nắng Nghĩa: Da bị bỏng do tiếp xúc với ánh nắng mặt trời quá mức: 
 Quầy thông tin: 
-(v) Trưng bày, triển lãm. Nghĩa: Đưa ra hoặc trưng bày một vật gì đó trong một buổi triển lãm: 
-(n) Con sóc. Nghĩa: Một loài động vật nhỏ có đuôi rậm, thường sống trên cây: 
-(v) Bị cháy nắng, bị bỏng. Nghĩa: Bị tổn thương da do ánh nắng mặt trời hoặc nhiệt độ cao: 
-(v) Đăng ký lớp học. Nghĩa: Tham gia đăng ký để học một hoặc nhiều lớp tại trường học: 
-(n) Cố vấn. Nghĩa: Người đưa ra lời khuyên hoặc chỉ dẫn, thường là về học tập hoặc tư vấn tâm lý: 
-(v) Gặp cố vấn hoặc tư vấn viên. Nghĩa: Tham vấn hoặc gặp gỡ người có chuyên môn để được chỉ dẫn: 
-(n) Văn phòng đăng ký. Nghĩa: Nơi làm thủ tục đăng ký nhập học hoặc các lớp học: 
-(n) Sách khóa học của trường đại học. Nghĩa: Sách hoặc tài liệu liệt kê các khóa học được cung cấp bởi trường đại học: 
-(n) Danh mục. Nghĩa: Danh sách hoặc cuốn sách liệt kê các khóa học hoặc sản phẩm: 
-(n) Danh mục trường đại học. Nghĩa: Tài liệu chính thức của trường đại học liệt kê các chương trình học, quy định và thông tin liên quan: 
-(n) Khoa, giảng viên. Nghĩa: Tập hợp các giáo sư và giảng viên trong một trường đại học hoặc một khoa cụ thể: 
-(n) Các khoa khác nhau. Nghĩa: Các bộ phận hoặc đơn vị học thuật khác nhau trong trường đại học: 
-(n) Hiệu trưởng trường đại học; (tôn giáo) giám mục. Nghĩa: Người đứng đầu một trường đại học hoặc viện nghiên cứu hoặc tổ chức tôn giáo, xử lý các quyết định chiến lược: 
-(n) Các môn học. Nghĩa: Những lĩnh vực hoặc môn học mà sinh viên có thể học tại trườn: 
-(n) Bằng cấp. Nghĩa: Các loại bằng chứng nhận trình độ học vấn: 
-(n) Cử nhân nghệ thuật. Nghĩa: Bằng đại học trong lĩnh vực nhân văn hoặc khoa học xã hội: 
-(n) Cử nhân khoa học. Nghĩa: Bằng đại học trong lĩnh vực khoa học tự nhiên hoặc kỹ thuật: 
-(n) Thạc sĩ văn chương. Nghĩa: Bằng sau đại học trong lĩnh vực nghệ thuật hoặc nhân văn: 
-(n) Thạc sĩ khoa học. Nghĩa: Bằng sau đại học trong lĩnh vực khoa học tự nhiên hoặc kỹ thuật: 
-(n) Bằng tiến sĩ. Nghĩa: Bằng cao học dành cho các lĩnh vực nghiên cứu: 
-(n) Thị thực. Nghĩa: Giấy phép nhập cảnh hoặc lưu trú tạm thời tại một quốc gia: 
-(n) Gia hạn visa. Nghĩa: Quá trình kéo dài thời hạn của thị thực: 
-(v) Nộp đơn xin gia hạn visa. Nghĩa: Thực hiện quá trình gia hạn thị thực: 
-(v) Trục xuất. Nghĩa: Buộc người nước ngoài phải rời khỏi một quốc gia: 
-(n) Hộ chiếu. Nghĩa: Giấy tờ nhận dạng quốc tế dùng để xuất cảnh hoặc nhập cảnh: 
-(n) Hộ chiếu hợp lệ. Nghĩa: Hộ chiếu còn hạn sử dụng: 
-(n) Nhân viên nhập cư. Nghĩa: Người chịu trách nhiệm giám sát và xử lý các vấn đề nhập cư: 
-(v) Trải ra. Nghĩa: Mở rộng hoặc phân tán một vật thể: 
-(n) Giỏ dã ngoại. Nghĩa: Giỏ đựng thức ăn và đồ dùng khi đi dã ngoại: 
-(n) Văn phòng du lịch. Nghĩa: Nơi cung cấp thông tin và dịch vụ cho du khác: 
-(n) Cháu gái và cháu trai. Nghĩa: Con của anh chị em: 
-(v) Lấy mẫu đơn. Nghĩa: Nhận các biểu mẫu cần thiết từ một nơi nào đó: 
-(n) Nhà hát. Nghĩa: Địa điểm dành cho các buổi biểu diễn kịch, nhạc, hoặc múa: 
-(n) Khán giả. Nghĩa: Những người xem hoặc nghe một buổi biểu diễn hoặc bài phát biểu: 
-(n) Rèm. Nghĩa: Mảnh vải dùng để che chắn hoặc tạo không gian riêng trong nhà hát: 
-(n) Sân khấu. Nghĩa: Khu vực trong nhà hát nơi các diễn viên biểu diễn: 
-(n) Bục phát biểu. Nghĩa: Nền tảng cao hơn được dùng để nói chuyện trước khán giả: 
-(n) Nhạc trưởng. Nghĩa: Người chỉ huy dàn nhạc hoặc hợp xướng: 
-(n) Ghế hộp. Nghĩa: Ghế đặc biệt trong nhà hát hoặc sân vận động, thường là vị trí tốt hơ: 
-(n) Ghế khu vực dàn nhạc. Nghĩa: Vị trí ngồi gần dàn nhạc trong nhà hát: 
-(n) Tầng lửng. Nghĩa: Tầng ở giữa các tầng chính của một tòa nhà, thường là nơi có ghế xem: 
-(n) Ban công. Nghĩa: Tầng trên cùng trong nhà hát hoặc rạp chiếu phim, nơi có ghế ngồi: 
-(n) Nhân viên dẫn chỗ (trong nhà hát, rạp phim). Nghĩa: Người giúp khách vào chỗ ngồi trong nhà hát hoặc rạp chiếu phim: 
-(n) Dàn hợp xướng. Nghĩa: Nhóm người hát cùng nhau trong một buổi biểu diễn: 
-(n) Synthesizer (nhạc cụ tổng hợp). Nghĩa: Nhạc cụ điện tử tạo ra âm thanh bằng cách kết hợp tín hiệu điện: 
-(n) Người chơi keyboard (nhạc cụ bấm phím). Nghĩa: Người chơi nhạc cụ keyboard như synthesizer, piano hoặc organ: 
-(n) Nghệ sĩ guitar bass. Nghĩa: Người chơi guitar bass, thường tạo ra các giai điệu nền trong ban nhạc: 
-(n) Nghệ sĩ guitar chính. Nghĩa: Người chơi guitar chính, thường đảm nhận các phần solo hoặc đoạn riff nổi bật: 
-(n) Guitar điện. Nghĩa: Guitar sử dụng điện để khuếch đại âm thanh: 
-(v) Bị ốm. Nghĩa: Trở nên không khỏe, thường do bệnh tật: 
-(v) Gặp tai nạn. Nghĩa: Trở thành nạn nhân của một sự cố không mong muố: 
-(v) Bị ngất. Nghĩa: Mất ý thức tạm thời do sức khỏe hoặc môi trường: 
-(v) Bị côn trùng cắn. Nghĩa: Bị cắn bởi một loại côn trùng: 
-(v) Khám. Nghĩa: Kiểm tra sức khỏe hoặc một vấn đề cụ thể: 
-(v) Phẫu thuật. Nghĩa: Thực hiện một ca phẫu thuật để điều trị bệnh hoặc chấn thương: 
-(v) Kéo dãn. Nghĩa: Giãn cơ hoặc làm cho cơ thể linh hoạt hơn: 
-(v) Gửi đi chụp X-quang. Nghĩa: Đưa bệnh nhân đi thực hiện chẩn đoán bằng máy chụp X-quang: 
-(v) Làm xét nghiệm nước tiểu. Nghĩa: Thực hiện kiểm tra phân tích mẫu nước tiểu để chẩn đoán bệnh: 
-(v) Làm xét nghiệm máu. Nghĩa: Thực hiện kiểm tra mẫu máu để xác định tình trạng sức khỏe: 
-(v) Đắp miếng sưởi ấm. Nghĩa: Sử dụng miếng sưởi ấm để giảm đau hoặc căng cơ: 
-(v) Đắp túi đá. Nghĩa: Sử dụng túi đá để giảm sưng hoặc đau: 
-(v) Tiêm. Nghĩa: Đưa thuốc vào cơ thể bằng cách tiêm qua kim: 
-(v) Tiêm thuốc. Nghĩa: Thực hiện hành động tiêm thuốc cho bệnh nhân: 
-(v) Uống thuốc. Nghĩa: Sử dụng thuốc theo chỉ định của bác sĩ: 
-(v) Khuyên nghỉ ngơi. Nghĩa: Đề nghị nghỉ ngơi để phục hồi sức khỏe: 
-(n) Vết thâm quanh mắt. Nghĩa: Tình trạng da quanh mắt bị sưng và đổi màu do chấn thươn: 
-(n) Chấn thương dây chằng; bông gân. Nghĩa: Tình trạng khi dây chằng bị kéo căng quá mức hoặc bị rách: 
-(n) Xương gãy. Nghĩa: Xương bị nứt hoặc gãy do chấn thương: 
-(n) Vết cắt. Nghĩa: Vết thương do vật sắc nhọn cắt vào da: 
-(n) Vết bầm. Nghĩa: Đổi màu da do chấn thương mà không có vết cắt: 
-(n) Vết bỏng. Nghĩa: Tổn thương da do tiếp xúc với nhiệt hoặc hóa chất: 
-(n) Nhiễm trùng. Nghĩa: Tình trạng khi vi khuẩn, virus hoặc nấm xâm nhập vào cơ thể và gây bệnh: 
-(n) Đơn thuốc. Nghĩa: Đơn do bác sĩ viết để yêu cầu thuốc hoặc điều trị: 
-(n) Viên nang. Nghĩa: Loại thuốc được đóng trong một lớp vỏ gelatin: 
-(n) Viên thuốc. Nghĩa: Viên thuốc có dạng rắn, thường dùng để uống: 
-(n) Viên thuốc dạng nhỏ tròn. Nghĩa: Thuốc dạng viên nhỏ để uống: 
-(n) Thuốc mỡ. Nghĩa: Sản phẩm bôi lên da để điều trị vết thương hoặc da khô: 
-(n) Thuốc nhỏ mắt. Nghĩa: Dung dịch dùng để nhỏ vào mắt để điều trị hoặc làm sạch: 
-(n) Ca phẫu thuật; khoa giải phẫu. Nghĩa: Quy trình y tế để điều trị bệnh hoặc chấn thương bằng cách can thiệp phẫu thuật: 
-(n) Thủ môn. Nghĩa: Người giữ cầu môn trong một trận đấu thể thao như bóng đá hoặc hockey: 
-(n) Cầu môn, mục tiêu. Nghĩa: Khu vực mà đội bóng cố gắng ghi điểm bằng cách đưa bóng vào đó; hoặc điểm mà đội chơi hướng tới trong một trận đấu: 
-(n) Trọng tài. Nghĩa: Người điều hành và giám sát trận đấu để đảm bảo các quy tắc được tuân thủ: 
-(n) Cúp Thế giới. Nghĩa: Giải đấu thể thao quốc tế lớn nhất cho một môn thể thao cụ thể, chẳng hạn như bóng đá: 
-(v) Bắt bóng. Nghĩa: Nắm bắt bóng khi nó đang bay về phía bạn: 
-(n) Tấm bảng sau rổ. Nghĩa: Mảnh tấm gỗ hoặc nhựa đặt sau rổ trong bóng rổ, giúp bóng vào rổ dễ hơn: 
-(v) Chuyền bóng. Nghĩa: Đưa bóng cho đồng đội trong một trận đấu: 
-(v) Nảy. Nghĩa: Hành động của bóng khi chạm mặt đất và bật lên: 
-(n) Lưới. Nghĩa: Cấu trúc lưới được đặt giữa các khung cửa trong thể thao như bóng chuyền hoặc tenni: 
-(v) Phát bóng. Nghĩa: Hành động bắt đầu một lượt chơi bằng cách ném bóng vào cuộc trong một trận đấu: 
-(v) Chuyền. Nghĩa: Đưa bóng hoặc vật dụng khác cho một người chơi khác: 
-(v) Đánh. Nghĩa: Đập hoặc tiếp xúc với một vật thể bằng lực: 
-(n) Cây vợt. Nghĩa: Cây vợt dùng để chơi các môn thể thao như tennis hoặc badminton: 
-(n) Sân chơi. Nghĩa: Khu vực được đánh dấu để chơi các môn thể thao như tennis hoặc bóng r: 
-(n) Đường phát bóng. Nghĩa: Đường trên sân tennis hoặc cầu lông mà người chơi phải đứng sau khi phát bóng: 
-(n) Khu vực phát bóng. Nghĩa: Khu vực trên sân tennis mà người chơi phải nhắm đến khi phát bóng: 
-(n) Đường cơ bản. Nghĩa: Đường nằm ở cuối sân tennis, nơi các trận đấu thường bắt đầu: 
-(n) Rãnh. Nghĩa: Vùng bên cạnh đường bowling nơi bóng có thể rơi ra ngoài khi không trúng pi: 
-(n) Làn chơi. Nghĩa: Khu vực dài hẹp dùng để chơi bowling: 
-(n) Chốt bowling. Nghĩa: Các chốt đứng được đổ trong trò chơi bowling, mục tiêu để đánh gục: 
-(v) Chọn quả bóng bowling. Nghĩa: Lựa chọn quả bóng để chơi bowling dựa trên kích thước và trọng lượng: 
-(v) Thanh toán cho 3 lượt chơi. Nghĩa: Trả tiền cho ba lượt chơi bowlin: 
-(v) Đánh gục tất cả các chốt. Nghĩa: Đánh gục tất cả các chốt trong một lượt chơi bowlin: 
-(v) Đạt điểm cao. Nghĩa: Ghi được số điểm cao trong một trận đấu hoặc trò chơi: 
-(n) Bảo vệ đầu. Nghĩa: Thiết bị bảo vệ đầu để tránh chấn thương trong các môn thể thao như boxing: 
-(n) Đấu trường, sàn đấu. Nghĩa: Khu vực hình tròn dùng để đấu võ, như trong boxing hoặc đấu vậ: 
-(n) Găng tay. Nghĩa: Đồ bảo vệ tay, thường được sử dụng trong thể thao hoặc các hoạt động khác: 
-(v) Hạ gục. Nghĩa: Đánh bại đối thủ đến mức không thể tiếp tục thi đấu: 
-(n) vợt bóng bàn. Nghĩa: Đồ dùng trong các trò chơi như ping pong để đánh bóng: 
-(n) Bóng bàn. Nghĩa: Bóng nhỏ dùng trong trò chơi ping pong: 
-(n) Yên ngựa. Nghĩa: Phần để ngồi trên lưng ngựa khi cưỡi: 
-(n) Người cưỡi ngựa đua. Nghĩa: Người điều khiển ngựa trong các cuộc đua ngựa: 
-(n) Dây cương. Nghĩa: Dây được sử dụng để kiểm soát và hướng dẫn ngựa: 
-(n) Cổng xuất phát. Nghĩa: Cổng dùng để bắt đầu cuộc đua ngựa: 
-(n) Đích. Nghĩa: Đường kẻ cuối cùng của cuộc đua mà người hoặc động vật phải vượt qua để hoàn thành cuộc đu: 
-(n) Đoạn đường cuối. Nghĩa: Phần cuối của đường đua nơi cuộc đua thường trở nên căng thẳng hơn: 
-(v) Đi lạch bạch. Nghĩa: Hành động đi nhanh hơn đi bộ nhưng không nhanh bằng chạy: 
-(v) Chạy nước rút. Nghĩa: Hành động của ngựa khi chạy nhanh với tốc độ cao: 
-(v) Vượt qua. Nghĩa: Di chuyển qua một người hoặc vật: 
-(n) Sân trượt băng. Nghĩa: Khu vực được thiết kế để trượt băng: 
-(n) Giày trượt băng. Nghĩa: Đôi giày có lưỡi dao để trượt trên băng: 
-(n) Lưỡi dao trượt băng. Nghĩa: Các phần kim loại trên giày trượt băng giúp tạo ma sát với băng: 
-(v) Trượt băng. Nghĩa: Hành động di chuyển trên băng bằng giày trượt băng: 
-(n) Vận động viên chạy. Nghĩa: Người tham gia vào cuộc thi chạy: 
-(n) Đường đua. Nghĩa: Khu vực dành cho các cuộc thi chạy hoặc đua xe: 
-(v) Vượt qua. Nghĩa: Vượt qua người khác trong cuộc đua hoặc thi đấu: 
-(v) Dẫn đầu. Nghĩa: Ở vị trí trước tiên hoặc dẫn đầu trong cuộc thi hoặc trò chơi: 
-(a) Giả thuyết. Nghĩa: Dựa trên giả thuyết hoặc tưởng tượng, không phải là thực tế: 
-(v) Đối chiếu. Nghĩa: Thay đổi dạng của động từ để phù hợp với người, số, hoặc thì: 
-(n) Khoa cấp cứu. Nghĩa: Phòng hoặc khu vực trong bệnh viện nơi điều trị các trường hợp khẩn cấp hoặc cấp cứu: 
-(n) Nắp capo (trong ô tô). Nghĩa: Phần nắp bảo vệ động cơ của ô tô ở phía trước: 
-(n) Đầm lầy, vùng đất ngập nước. Nghĩa: Khu vực đất mềm và ẩm ướt, thường có thực vật rậm rạp: 
-(v) Mắc kẹt, bị kẹt lại. Nghĩa: Gặp khó khăn hoặc bị trì hoãn, không thể tiến triển: 
-(n) Tập đoàn. Nghĩa: Một doanh nghiệp hoặc tổ chức lớn, được thành lập bởi nhiều cổ đông: 
-(v) Giữ máy. Nghĩa: Giữ cuộc gọi mà không ngắt máy: 
-(n) Quản lý bán hàng. Nghĩa: Những người chịu trách nhiệm quản lý và giám sát hoạt động bán hàng: 
-(v) Quay số, bấm số. Nghĩa: Gọi điện thoại bằng cách bấm các con số trên thiết bị điện thoạ: 
-(n) Số máy nhánh. Nghĩa: Một số nội bộ được dùng trong một hệ thống điện thoại: 
-(v) Để lại lời nhắn. Nghĩa: Gửi thông điệp cho ai đó khi họ không có mặt: 
-(v) Giới thiệu ai đó với ai đó. Nghĩa: Giới thiệu một người với người khác: 
-(n) Phó chủ tịch điều hành. Nghĩa: Người chịu trách nhiệm quản lý các hoạt động của công ty: 
-(n) Giám đốc điều hành. Nghĩa: Người có quyền điều hành cao nhất trong một công ty: 
-(v) Nhận bản fax. Nghĩa: Nhận được một tài liệu truyền qua máy fax: 
-(v) Đang nói chuyện với ai đó qua điện thoại. Nghĩa: Đang kết nối cuộc gọi với một người: 
-(n) Cuộc hẹn. Nghĩa: Một cuộc gặp gỡ hoặc sắp xếp với ai đó vào thời gian cụ thể: 
-(v) Chào mừng gia nhập. Nghĩa: Lời chào mừng khi ai đó gia nhập vào tổ chức hoặc công ty: 
-(n) Thời gian thử việc. Nghĩa: Khoảng thời gian để đánh giá nhân viên trước khi ký hợp đồng chính thức: 
-(n) Lương hàng tháng. Nghĩa: Số tiền lương mà người lao động nhận được hàng tháng: 
-(v) Chấm dứt hợp đồng. Nghĩa: Hủy bỏ hoặc kết thúc một thỏa thuận hợp đồng: 
-(n) Trả lương công bằng cho công việc tương đương. Nghĩa: Nguyên tắc trả lương ngang nhau cho công việc có giá trị như nhau: 
-(n) Nghỉ thai sản. Nghĩa: Khoảng thời gian nghỉ việc mà phụ nữ được hưởng sau khi sinh co: 
-(v) Thông báo cho ai đó rằng. Nghĩa: Cung cấp thông tin hoặc thông báo một điều gì đó cho ai: 
-(v) Sa thải ai đó. Nghĩa: Cho người lao động nghỉ việc, thường vì lý do kinh tế: 
-(n) Nấc thang sự nghiệp trong doanh nghiệp. Nghĩa: Hệ thống cấp bậc hoặc sự thăng tiến trong một công ty: 
-(n) Phúc lợi. Nghĩa: Những lợi ích hoặc phần thưởng mà người lao động nhận được ngoài lương: 
-(n) Lương nghỉ ốm. Nghĩa: Tiền lương mà người lao động nhận được khi nghỉ ốm: 
-(n) Kế hoạch tiết kiệm hưu trí. Nghĩa: Chương trình tiết kiệm tiền cho giai đoạn nghỉ hưu: 
-(n) Tài khoản tiết kiệm. Nghĩa: Một loại tài khoản ngân hàng để lưu trữ và sinh lãi từ tiền gửi: 
-(n) Chứng chỉ tiền gửi. Nghĩa: Một tài liệu chính thức xác nhận việc gửi tiền vào ngân hàng trong một khoảng thời gian cố định: 
-(n) Hộp ký gửi an toàn. Nghĩa: Một hộp an toàn được cung cấp tại ngân hàng để lưu trữ vật có giá trị: 
-(n) Máy rút tiền tự động. Nghĩa: Một máy tự động cung cấp dịch vụ ngân hàng như rút tiền mặt: 
-(n) Tài sản thế chấp. Nghĩa: Tài sản được sử dụng để đảm bảo cho một khoản vay: 
-(v) Phát hành. Nghĩa: Cung cấp hoặc phát ra một tài liệu chính thức: 
-(n) Bản sao kê ngân hàng. Nghĩa: Một báo cáo từ ngân hàng liệt kê các giao dịch tài khoản trong một khoảng thời gian: 
-(n) Séc du lịch. Nghĩa: Một loại séc có thể được sử dụng thay tiền mặt khi đi du lịch: 
-(n) Hộ chiếu. Nghĩa: Tài liệu chính thức cấp cho công dân để đi lại quốc tế: 
-(v) Đổi tiền. Nghĩa: Quá trình chuyển đổi tiền tệ từ một loại này sang loại khác: 
-(adj) Giả mạo. Nghĩa: Hàng hóa hoặc tiền giả được tạo ra để lừa đảo: 
-(n) Tỷ giá hối đoái. Nghĩa: Giá trị của một đồng tiền so với một đồng tiền khá: 
-(n) Hoa hồng. Nghĩa: Số tiền trả cho người bán hàng dựa trên doanh số bán: 
-(v) Quyết định. Nghĩa: Đưa ra quyết định sau khi suy nghĩ kỹ: 
-(n) Nhà cung cấp. Nghĩa: Người hoặc công ty cung cấp hàng hóa hoặc dịch vụ: 
-(n) Câu trả lời thẳng thắn. Nghĩa: Một câu trả lời trực tiếp, không vòng vo: 
-(n) Lô hàng. Nghĩa: Hàng hóa được vận chuyển từ nơi này đến nơi khác: 
-(v) Hợp lý. Nghĩa: Điều gì đó rõ ràng hoặc dễ hiểu: 
-(adj) Thiếu kinh nghiệm. Nghĩa: Không có nhiều kinh nghiệm trong một lĩnh vực: 
-(n) Công tắc. Nghĩa: Thiết bị điều khiển để bật hoặc tắt máy móc, đèn: 
-(n) Giấy phép. Nghĩa: Tài liệu cho phép làm điều gì đó một cách hợp pháp: 
-(n) Hàng hóa. Nghĩa: Các sản phẩm được mua bán: 
-(adj) Miễn thuế. Nghĩa: Hàng hóa được miễn thuế khi mua tại sân bay hoặc các khu vực đặc biệ: 
-(n) Thuế nhập khẩu. Nghĩa: Một khoản phí do chính phủ áp đặt khi hàng hóa được nhập khẩu: 
-(v) Được lưu trữ. Nghĩa: Hàng hóa hoặc vật phẩm được giữ lại tại một nơi nào đó để bảo quản: 
-(n) Kho ngoại quan. Nghĩa: Kho lưu trữ hàng hóa chưa nộp thuế nhập khẩu: 
-(n) Thanh toán khi giao hàng. Nghĩa: Thanh toán tiền hàng khi nhận được hàng: 
-(n) Vận đơn hàng không. Nghĩa: Chứng từ đi kèm với lô hàng vận chuyển bằng đường hàng khôn: 
-(adv) Càng sớm càng tốt. Nghĩa: Nhanh chóng thực hiện một việc nào đ: 
-(n) Vận đơn. Nghĩa: Chứng từ vận chuyển hàng hóa bằng đường biển: 
-(n) Thư tín dụng. Nghĩa: Một chứng từ tài chính do ngân hàng phát hành đảm bảo thanh toán cho người bán: 
-(n) Quy chế Tối huệ quốc. Nghĩa: Tình trạng ưu đãi thương mại được cấp cho quốc gia được đối xử như quốc gia được ưu tiên: 
-(v) Vận chuyển. Nghĩa: Chuyển hàng hóa từ nơi này đến nơi khác: 
-(n) Hàng hóa (trong cửa hàng). Nghĩa: Sản phẩm được mua bán: 
-(v) Xóa nợ. Nghĩa: Xóa bỏ khoản nợ không thể thu hồi: 
-(n) Chi phí. Nghĩa: Số tiền phải chi trả để mua hàng hóa, dịch vụ: 
-(n) Ban giám đốc. Nghĩa: Nhóm người quản lý điều hành công ty: 
-(v) Ăn mừng. Nghĩa: Tổ chức một sự kiện để kỷ niệm: 
-(n) Sự kết thúc hợp đồng này. Nghĩa: Thời điểm hoàn thành các điều khoản hợp đồng: 
-(n) Chi tiết. Nghĩa: Các thông tin cụ thể về một vấn đề: 
-(n) Đồ uống cocktail. Nghĩa: Đồ uống pha chế từ rượu và các nguyên liệu khác: 
-(n) Quyền sở hữu độc lập. Nghĩa: Hình thức kinh doanh do một cá nhân sở hữu: 
-(n) Hợp danh, quan hệ đối tác. Nghĩa: Hình thức kinh doanh trong đó hai hoặc nhiều người chia sẻ quyền sở hữu: 
-(n) Tập đoàn. Nghĩa: Một doanh nghiệp lớn được điều hành bởi các cổ đông: 
-(n) Đối tác. Nghĩa: Những người hoặc tổ chức hợp tác trong một dự án kinh doanh: 
-(n) Cổ đông. Nghĩa: Người sở hữu cổ phần trong một công ty: 
-(v) Đầu tư. Nghĩa: Bỏ tiền vào một dự án với hy vọng thu lợi nhuận: 
-(n) Cổ phiếu. Nghĩa: Phần vốn sở hữu trong một công ty: 
-(n) Trái phiếu. Nghĩa: Chứng khoán nợ do chính phủ hoặc doanh nghiệp phát hành: 
-(n) Liên doanh. Nghĩa: Sự hợp tác kinh doanh giữa hai hoặc nhiều bên: 
-(n) Cổ phần. Nghĩa: Phần sở hữu trong một công ty, được mua bán trên thị trường chứng khoán: 
-(n) Tập đoàn General Motors. Nghĩa: Một trong những công ty sản xuất ô tô lớn nhất thế giới: 
-(n) Ngày đáo hạn. Nghĩa: Ngày mà khoản vay hoặc trái phiếu đến hạn thanh toá: 
-(n) Lãi suất hiện tại. Nghĩa: Lãi suất áp dụng tại thời điểm hiện tại: 
-(n) Trái phiếu kho bạc. Nghĩa: Trái phiếu do chính phủ phát hành để huy động vốn: 
-(n) Công ty 100% vốn nước ngoài. Nghĩa: Doanh nghiệp mà toàn bộ vốn đầu tư là của nước ngoài: 
-(n) Biên bản cuộc họp. Nghĩa: Tài liệu ghi lại các điểm chính của một cuộc họp: 
-(n) Chương trình nghị sự. Nghĩa: Danh sách các vấn đề sẽ được thảo luận trong một cuộc họ: 
-(v) Chậm tiến độ. Nghĩa: Trễ so với kế hoạch hoặc thời gian dự kiế: 
-(n) Bài thuyết trình. Nghĩa: Một buổi trình bày thông tin, ý tưởng trước một nhóm người: 
-(n) Kế hoạch tiếp thị. Nghĩa: Chiến lược quảng bá sản phẩm hoặc dịch vụ ra thị trường: 
-(v) Bị hoãn lại. Nghĩa: Dừng lại tạm thời và sẽ tiếp tục sau: 
-(v) Đính kèm; ghim vào (lá thư). Nghĩa: Gửi kèm một tài liệu hoặc vật phẩm nào đó: 
-(n) Danh mục sản phẩm. Nghĩa: Một tài liệu liệt kê các sản phẩm hoặc dịch vụ được cung cấ: 
-(n) Sự cân nhắc. Nghĩa: Quá trình suy nghĩ kỹ trước khi đưa ra quyết định: 
-(n) Sự lựa chọn. Nghĩa: Một lựa chọn trong số các khả năng khác nhau: 
-(n) Bảng giá. Nghĩa: Danh sách các sản phẩm hoặc dịch vụ cùng với giá tương ứng: 
-(n) Giá cả cạnh tranh. Nghĩa: Giá thấp hơn hoặc tương đương với các đối thủ cạnh tranh: 
-(n) Giao hàng. Nghĩa: Quá trình chuyển hàng hóa đến người nhận: 
-(n) Việc lắp đặt. Nghĩa: Quá trình đặt thiết bị hoặc hệ thống vào vị trí hoạt động: 
-(v) Được bao gồm. Nghĩa: Được tính gộp vào một cái gì đó: 
-(n) Câu hỏi, thắc mắc. Nghĩa: Câu hỏi về thông tin hoặc giải thích: 
-(n) Phản hồi. Nghĩa: Sự trả lời hoặc phản ứng trước một câu hỏi hoặc tình huống: 
-(n) Đơn xin việc. Nghĩa: Tài liệu gửi đến nhà tuyển dụng để xin việc là: 
-(n) Vị trí tuyển dụng. Nghĩa: Một vị trí công việc đang cần người: 
-(v) Được lên lịch. Nghĩa: Được lên kế hoạch để diễn ra vào thời gian cụ thể: 
-(n) Lợi ích, lãi suất. Nghĩa: Sự quan tâm hoặc lãi suất trong tài chính: 
-(v) Xác nhận. Nghĩa: Khẳng định rằng điều gì đó là chính xác hoặc sẽ diễn ra: 
-(n) Sự đồng thuận chung. Nghĩa: Sự đồng ý giữa hai bên: 
-(v) Từ chối. Nghĩa: Không chấp nhận một lời mời hoặc đề xuất: 
-(n) Lời đề nghị. Nghĩa: Đề xuất về một thỏa thuận hoặc sự giao dịch: 
-(v) Bị sập, không hoạt động. Nghĩa: Hệ thống hoặc dịch vụ bị ngừng hoạt động: 
-(v) Khởi động lại. Nghĩa: Tắt và khởi động lại hệ thống hoặc thiết bị: 
-(n) Phần mềm. Nghĩa: Chương trình máy tính giúp thực hiện các chức năng khác nhau: 
-(n) Ổ USB. Nghĩa: Thiết bị lưu trữ nhỏ dùng để lưu trữ dữ liệu: 
-(n) Nhà phân tích. Nghĩa: Người chuyên phân tích thông tin hoặc dữ liệu để đưa ra dự đoán hoặc khuyến nghị: 
-(n) Cửa hàng văn phòng phẩm. Nghĩa: Cửa hàng bán các vật dụng văn phòng như giấy, bút, v.v: 
-(n) Virus. Nghĩa: Phần mềm độc hại gây hại cho máy tính hoặc hệ thống: 
-(n) Máy in. Nghĩa: Thiết bị dùng để in tài liệu từ máy tính ra giấy: 
-(n) Cơ hội bình đẳng. Nghĩa: Nguyên tắc đảm bảo rằng mọi người đều có quyền truy cập vào các cơ hội như nhau mà không phân biệt đối xử dựa trên giới tính, chủng tộc, tôn giáo, v.v: 
-(n) Nhà tuyển dụng bình đẳng. Nghĩa: Một tổ chức cam kết không phân biệt đối xử và đối xử công bằng với tất cả các ứng viên và nhân viên: 
-(n) Thuật ngữ. Nghĩa: Tập hợp các từ hoặc cụm từ chuyên môn được sử dụng trong một lĩnh vực cụ thể: 
-(n) Thuật ngữ trong thư tín kinh doanh. Nghĩa: Các thuật ngữ cụ thể thường được sử dụng trong các thư tín kinh doanh như lời mở đầu, câu kết thúc, và các từ ngữ chính thức: 
-(n) Quán ăn. Nghĩa: Một nhà hàng nhỏ, thường phục vụ các món ăn đơn giản, truyền thống: 
-(n) Quán ăn địa phương. Nghĩa: Một quán ăn nhỏ thuộc khu vực địa phương, phục vụ người dân trong vùng: 
-(n) Biển động. Nghĩa: Biển có sóng lớn và thời tiết xấu, khiến việc di chuyển trên biển trở nên nguy hiể: 
-(n) Khăn tắm biển. Nghĩa: Khăn lớn dùng để nằm hoặc lau khô sau khi tắm biển: 
-(n) Bào ngư. Nghĩa: Một loại động vật thân mềm, có vỏ cứng, sống ở biển, được coi là món ăn quý hiếm: 
-Mang theo một tuýp. Nghĩa: Lấy hoặc mang theo một tuýp sản phẩm (thường là kem chống nắng, kem dưỡng da): 
-(v) Lao đi, chạy nhanh. Nghĩa: Di chuyển với tốc độ nhanh trong thời gian ngắn: 
-(v) Cầm lấy và chạy đi. Nghĩa: Lấy nhanh thứ gì đó và chạy khỏi nơi đó: 
-Nhận được điều may mắn đến từ thiên nhiên. Nghĩa: Cách thiên nhiên hoặc môi trường xung quanh giúp mang đến điều may mắn hoặc tốt đẹp: 
-(adj) Thịnh vượng, phát đạt. Nghĩa: Một tình trạng giàu có, thành công hoặc phát triển mạnh về tài chính: 
-(n) Xà cừ. Nghĩa: Một vật liệu sáng bóng, óng ánh được lấy từ lớp vỏ bên trong của một số loài nhuyễn thể: 
-(v) Giới thiệu hoặc kết nối ai đó với thứ họ cần. Nghĩa: Giúp ai đó có được một thứ gì đó, thường là qua các mối quan hệ hoặc kết nối cá nhân: 
-(n) Đường bờ biển. Nghĩa: Vùng tiếp giáp giữa mặt nước biển và đất liền: 
-(n) Gió biển. Nghĩa: Luồng gió thổi từ biển vào đất liền, thường mát mẻ và dễ chị: 
+(v) Trưng bày, triển lãm Nghĩa: Đưa ra hoặc trưng bày một vật gì đó trong một buổi triển lãm: 
+(n) Con sóc Nghĩa: Một loài động vật nhỏ có đuôi rậm, thường sống trên cây: 
+(v) Bị cháy nắng, bị bỏng Nghĩa: Bị tổn thương da do ánh nắng mặt trời hoặc nhiệt độ cao: 
+(v) Đăng ký lớp học Nghĩa: Tham gia đăng ký để học một hoặc nhiều lớp tại trường học: 
+(n) Cố vấn Nghĩa: Người đưa ra lời khuyên hoặc chỉ dẫn, thường là về học tập hoặc tư vấn tâm lý: 
+(v) Gặp cố vấn hoặc tư vấn viên Nghĩa: Tham vấn hoặc gặp gỡ người có chuyên môn để được chỉ dẫn: 
+(n) Văn phòng đăng ký Nghĩa: Nơi làm thủ tục đăng ký nhập học hoặc các lớp học: 
+(n) Sách khóa học của trường đại học Nghĩa: Sách hoặc tài liệu liệt kê các khóa học được cung cấp bởi trường đại học: 
+(n) Danh mục Nghĩa: Danh sách hoặc cuốn sách liệt kê các khóa học hoặc sản phẩm: 
+(n) Danh mục trường đại học Nghĩa: Tài liệu chính thức của trường đại học liệt kê các chương trình học, quy định và thông tin liên quan: 
+(n) Khoa, giảng viên Nghĩa: Tập hợp các giáo sư và giảng viên trong một trường đại học hoặc một khoa cụ thể: 
+(n) Các khoa khác nhau Nghĩa: Các bộ phận hoặc đơn vị học thuật khác nhau trong trường đại học: 
+(n) Hiệu trưởng trường đại học; (tôn giáo) giám mục Nghĩa: Người đứng đầu một trường đại học hoặc viện nghiên cứu hoặc tổ chức tôn giáo, xử lý các quyết định chiến lược: 
+(n) Các môn học Nghĩa: Những lĩnh vực hoặc môn học mà sinh viên có thể học tại trườn: 
+(n) Bằng cấp Nghĩa: Các loại bằng chứng nhận trình độ học vấn: 
+(n) Cử nhân nghệ thuật Nghĩa: Bằng đại học trong lĩnh vực nhân văn hoặc khoa học xã hội: 
+(n) Cử nhân khoa học Nghĩa: Bằng đại học trong lĩnh vực khoa học tự nhiên hoặc kỹ thuật: 
+(n) Thạc sĩ văn chương Nghĩa: Bằng sau đại học trong lĩnh vực nghệ thuật hoặc nhân văn: 
+(n) Thạc sĩ khoa học Nghĩa: Bằng sau đại học trong lĩnh vực khoa học tự nhiên hoặc kỹ thuật: 
+(n) Bằng tiến sĩ Nghĩa: Bằng cao học dành cho các lĩnh vực nghiên cứu: 
+(n) Thị thực Nghĩa: Giấy phép nhập cảnh hoặc lưu trú tạm thời tại một quốc gia: 
+(n) Gia hạn visa Nghĩa: Quá trình kéo dài thời hạn của thị thực: 
+(v) Nộp đơn xin gia hạn visa Nghĩa: Thực hiện quá trình gia hạn thị thực: 
+(v) Trục xuất Nghĩa: Buộc người nước ngoài phải rời khỏi một quốc gia: 
+(n) Hộ chiếu Nghĩa: Giấy tờ nhận dạng quốc tế dùng để xuất cảnh hoặc nhập cảnh: 
+(n) Hộ chiếu hợp lệ Nghĩa: Hộ chiếu còn hạn sử dụng: 
+(n) Nhân viên nhập cư Nghĩa: Người chịu trách nhiệm giám sát và xử lý các vấn đề nhập cư: 
+(v) Trải ra Nghĩa: Mở rộng hoặc phân tán một vật thể: 
+(n) Giỏ dã ngoại Nghĩa: Giỏ đựng thức ăn và đồ dùng khi đi dã ngoại: 
+(n) Văn phòng du lịch Nghĩa: Nơi cung cấp thông tin và dịch vụ cho du khác: 
+(n) Cháu gái và cháu trai Nghĩa: Con của anh chị em: 
+(v) Lấy mẫu đơn Nghĩa: Nhận các biểu mẫu cần thiết từ một nơi nào đó: 
+(n) Nhà hát Nghĩa: Địa điểm dành cho các buổi biểu diễn kịch, nhạc, hoặc múa: 
+(n) Khán giả Nghĩa: Những người xem hoặc nghe một buổi biểu diễn hoặc bài phát biểu: 
+(n) Rèm Nghĩa: Mảnh vải dùng để che chắn hoặc tạo không gian riêng trong nhà hát: 
+(n) Sân khấu Nghĩa: Khu vực trong nhà hát nơi các diễn viên biểu diễn: 
+(n) Bục phát biểu Nghĩa: Nền tảng cao hơn được dùng để nói chuyện trước khán giả: 
+(n) Nhạc trưởng Nghĩa: Người chỉ huy dàn nhạc hoặc hợp xướng: 
+(n) Ghế hộp Nghĩa: Ghế đặc biệt trong nhà hát hoặc sân vận động, thường là vị trí tốt hơ: 
+(n) Ghế khu vực dàn nhạc Nghĩa: Vị trí ngồi gần dàn nhạc trong nhà hát: 
+(n) Tầng lửng Nghĩa: Tầng ở giữa các tầng chính của một tòa nhà, thường là nơi có ghế xem: 
+(n) Ban công Nghĩa: Tầng trên cùng trong nhà hát hoặc rạp chiếu phim, nơi có ghế ngồi: 
+(n) Nhân viên dẫn chỗ (trong nhà hát, rạp phim) Nghĩa: Người giúp khách vào chỗ ngồi trong nhà hát hoặc rạp chiếu phim: 
+(n) Dàn hợp xướng Nghĩa: Nhóm người hát cùng nhau trong một buổi biểu diễn: 
+(n) Synthesizer (nhạc cụ tổng hợp) Nghĩa: Nhạc cụ điện tử tạo ra âm thanh bằng cách kết hợp tín hiệu điện: 
+(n) Người chơi keyboard (nhạc cụ bấm phím) Nghĩa: Người chơi nhạc cụ keyboard như synthesizer, piano hoặc organ: 
+(n) Nghệ sĩ guitar bass Nghĩa: Người chơi guitar bass, thường tạo ra các giai điệu nền trong ban nhạc: 
+(n) Nghệ sĩ guitar chính Nghĩa: Người chơi guitar chính, thường đảm nhận các phần solo hoặc đoạn riff nổi bật: 
+(n) Guitar điện Nghĩa: Guitar sử dụng điện để khuếch đại âm thanh: 
+(v) Bị ốm Nghĩa: Trở nên không khỏe, thường do bệnh tật: 
+(v) Gặp tai nạn Nghĩa: Trở thành nạn nhân của một sự cố không mong muố: 
+(v) Bị ngất Nghĩa: Mất ý thức tạm thời do sức khỏe hoặc môi trường: 
+(v) Bị côn trùng cắn Nghĩa: Bị cắn bởi một loại côn trùng: 
+(v) Khám Nghĩa: Kiểm tra sức khỏe hoặc một vấn đề cụ thể: 
+(v) Phẫu thuật Nghĩa: Thực hiện một ca phẫu thuật để điều trị bệnh hoặc chấn thương: 
+(v) Kéo dãn Nghĩa: Giãn cơ hoặc làm cho cơ thể linh hoạt hơn: 
+(v) Gửi đi chụp X-quang Nghĩa: Đưa bệnh nhân đi thực hiện chẩn đoán bằng máy chụp X-quang: 
+(v) Làm xét nghiệm nước tiểu Nghĩa: Thực hiện kiểm tra phân tích mẫu nước tiểu để chẩn đoán bệnh: 
+(v) Làm xét nghiệm máu Nghĩa: Thực hiện kiểm tra mẫu máu để xác định tình trạng sức khỏe: 
+(v) Đắp miếng sưởi ấm Nghĩa: Sử dụng miếng sưởi ấm để giảm đau hoặc căng cơ: 
+(v) Đắp túi đá Nghĩa: Sử dụng túi đá để giảm sưng hoặc đau: 
+(v) Tiêm Nghĩa: Đưa thuốc vào cơ thể bằng cách tiêm qua kim: 
+(v) Tiêm thuốc Nghĩa: Thực hiện hành động tiêm thuốc cho bệnh nhân: 
+(v) Uống thuốc Nghĩa: Sử dụng thuốc theo chỉ định của bác sĩ: 
+(v) Khuyên nghỉ ngơi Nghĩa: Đề nghị nghỉ ngơi để phục hồi sức khỏe: 
+(n) Vết thâm quanh mắt Nghĩa: Tình trạng da quanh mắt bị sưng và đổi màu do chấn thươn: 
+(n) Chấn thương dây chằng; bông gân Nghĩa: Tình trạng khi dây chằng bị kéo căng quá mức hoặc bị rách: 
+(n) Xương gãy Nghĩa: Xương bị nứt hoặc gãy do chấn thương: 
+(n) Vết cắt Nghĩa: Vết thương do vật sắc nhọn cắt vào da: 
+(n) Vết bầm Nghĩa: Đổi màu da do chấn thương mà không có vết cắt: 
+(n) Vết bỏng Nghĩa: Tổn thương da do tiếp xúc với nhiệt hoặc hóa chất: 
+(n) Nhiễm trùng Nghĩa: Tình trạng khi vi khuẩn, virus hoặc nấm xâm nhập vào cơ thể và gây bệnh: 
+(n) Đơn thuốc Nghĩa: Đơn do bác sĩ viết để yêu cầu thuốc hoặc điều trị: 
+(n) Viên nang Nghĩa: Loại thuốc được đóng trong một lớp vỏ gelatin: 
+(n) Viên thuốc Nghĩa: Viên thuốc có dạng rắn, thường dùng để uống: 
+(n) Viên thuốc dạng nhỏ tròn Nghĩa: Thuốc dạng viên nhỏ để uống: 
+(n) Thuốc mỡ Nghĩa: Sản phẩm bôi lên da để điều trị vết thương hoặc da khô: 
+(n) Thuốc nhỏ mắt Nghĩa: Dung dịch dùng để nhỏ vào mắt để điều trị hoặc làm sạch: 
+(n) Ca phẫu thuật; khoa giải phẫu Nghĩa: Quy trình y tế để điều trị bệnh hoặc chấn thương bằng cách can thiệp phẫu thuật: 
+(n) Thủ môn Nghĩa: Người giữ cầu môn trong một trận đấu thể thao như bóng đá hoặc hockey: 
+(n) Cầu môn, mục tiêu Nghĩa: Khu vực mà đội bóng cố gắng ghi điểm bằng cách đưa bóng vào đó; hoặc điểm mà đội chơi hướng tới trong một trận đấu: 
+(n) Trọng tài Nghĩa: Người điều hành và giám sát trận đấu để đảm bảo các quy tắc được tuân thủ: 
+(n) Cúp Thế giới Nghĩa: Giải đấu thể thao quốc tế lớn nhất cho một môn thể thao cụ thể, chẳng hạn như bóng đá: 
+(v) Bắt bóng Nghĩa: Nắm bắt bóng khi nó đang bay về phía bạn: 
+(n) Tấm bảng sau rổ Nghĩa: Mảnh tấm gỗ hoặc nhựa đặt sau rổ trong bóng rổ, giúp bóng vào rổ dễ hơn: 
+(v) Chuyền bóng Nghĩa: Đưa bóng cho đồng đội trong một trận đấu: 
+(v) Nảy Nghĩa: Hành động của bóng khi chạm mặt đất và bật lên: 
+(n) Lưới Nghĩa: Cấu trúc lưới được đặt giữa các khung cửa trong thể thao như bóng chuyền hoặc tenni: 
+(v) Phát bóng Nghĩa: Hành động bắt đầu một lượt chơi bằng cách ném bóng vào cuộc trong một trận đấu: 
+(v) Chuyền Nghĩa: Đưa bóng hoặc vật dụng khác cho một người chơi khác: 
+(v) Đánh Nghĩa: Đập hoặc tiếp xúc với một vật thể bằng lực: 
+(n) Cây vợt Nghĩa: Cây vợt dùng để chơi các môn thể thao như tennis hoặc badminton: 
+(n) Sân chơi Nghĩa: Khu vực được đánh dấu để chơi các môn thể thao như tennis hoặc bóng r: 
+(n) Đường phát bóng Nghĩa: Đường trên sân tennis hoặc cầu lông mà người chơi phải đứng sau khi phát bóng: 
+(n) Khu vực phát bóng Nghĩa: Khu vực trên sân tennis mà người chơi phải nhắm đến khi phát bóng: 
+(n) Đường cơ bản Nghĩa: Đường nằm ở cuối sân tennis, nơi các trận đấu thường bắt đầu: 
+(n) Rãnh Nghĩa: Vùng bên cạnh đường bowling nơi bóng có thể rơi ra ngoài khi không trúng pi: 
+(n) Làn chơi Nghĩa: Khu vực dài hẹp dùng để chơi bowling: 
+(n) Chốt bowling Nghĩa: Các chốt đứng được đổ trong trò chơi bowling, mục tiêu để đánh gục: 
+(v) Chọn quả bóng bowling Nghĩa: Lựa chọn quả bóng để chơi bowling dựa trên kích thước và trọng lượng: 
+(v) Thanh toán cho 3 lượt chơi Nghĩa: Trả tiền cho ba lượt chơi bowlin: 
+(v) Đánh gục tất cả các chốt Nghĩa: Đánh gục tất cả các chốt trong một lượt chơi bowlin: 
+(v) Đạt điểm cao Nghĩa: Ghi được số điểm cao trong một trận đấu hoặc trò chơi: 
+(n) Bảo vệ đầu Nghĩa: Thiết bị bảo vệ đầu để tránh chấn thương trong các môn thể thao như boxing: 
+(n) Đấu trường, sàn đấu Nghĩa: Khu vực hình tròn dùng để đấu võ, như trong boxing hoặc đấu vậ: 
+(n) Găng tay Nghĩa: Đồ bảo vệ tay, thường được sử dụng trong thể thao hoặc các hoạt động khác: 
+(v) Hạ gục Nghĩa: Đánh bại đối thủ đến mức không thể tiếp tục thi đấu: 
+(n) vợt bóng bàn Nghĩa: Đồ dùng trong các trò chơi như ping pong để đánh bóng: 
+(n) Bóng bàn Nghĩa: Bóng nhỏ dùng trong trò chơi ping pong: 
+(n) Yên ngựa Nghĩa: Phần để ngồi trên lưng ngựa khi cưỡi: 
+(n) Người cưỡi ngựa đua Nghĩa: Người điều khiển ngựa trong các cuộc đua ngựa: 
+(n) Dây cương Nghĩa: Dây được sử dụng để kiểm soát và hướng dẫn ngựa: 
+(n) Cổng xuất phát Nghĩa: Cổng dùng để bắt đầu cuộc đua ngựa: 
+(n) Đích Nghĩa: Đường kẻ cuối cùng của cuộc đua mà người hoặc động vật phải vượt qua để hoàn thành cuộc đu: 
+(n) Đoạn đường cuối Nghĩa: Phần cuối của đường đua nơi cuộc đua thường trở nên căng thẳng hơn: 
+(v) Đi lạch bạch Nghĩa: Hành động đi nhanh hơn đi bộ nhưng không nhanh bằng chạy: 
+(v) Chạy nước rút Nghĩa: Hành động của ngựa khi chạy nhanh với tốc độ cao: 
+(v) Vượt qua Nghĩa: Di chuyển qua một người hoặc vật: 
+(n) Sân trượt băng Nghĩa: Khu vực được thiết kế để trượt băng: 
+(n) Giày trượt băng Nghĩa: Đôi giày có lưỡi dao để trượt trên băng: 
+(n) Lưỡi dao trượt băng Nghĩa: Các phần kim loại trên giày trượt băng giúp tạo ma sát với băng: 
+(v) Trượt băng Nghĩa: Hành động di chuyển trên băng bằng giày trượt băng: 
+(n) Vận động viên chạy Nghĩa: Người tham gia vào cuộc thi chạy: 
+(n) Đường đua Nghĩa: Khu vực dành cho các cuộc thi chạy hoặc đua xe: 
+(v) Vượt qua Nghĩa: Vượt qua người khác trong cuộc đua hoặc thi đấu: 
+(v) Dẫn đầu Nghĩa: Ở vị trí trước tiên hoặc dẫn đầu trong cuộc thi hoặc trò chơi: 
+(a) Giả thuyết Nghĩa: Dựa trên giả thuyết hoặc tưởng tượng, không phải là thực tế: 
+(v) Đối chiếu Nghĩa: Thay đổi dạng của động từ để phù hợp với người, số, hoặc thì: 
+(n) Khoa cấp cứu Nghĩa: Phòng hoặc khu vực trong bệnh viện nơi điều trị các trường hợp khẩn cấp hoặc cấp cứu: 
+(n) Nắp capo (trong ô tô) Nghĩa: Phần nắp bảo vệ động cơ của ô tô ở phía trước: 
+(n) Đầm lầy, vùng đất ngập nước Nghĩa: Khu vực đất mềm và ẩm ướt, thường có thực vật rậm rạp: 
+(v) Mắc kẹt, bị kẹt lại Nghĩa: Gặp khó khăn hoặc bị trì hoãn, không thể tiến triển: 
+(n) Tập đoàn Nghĩa: Một doanh nghiệp hoặc tổ chức lớn, được thành lập bởi nhiều cổ đông: 
+(v) Giữ máy Nghĩa: Giữ cuộc gọi mà không ngắt máy: 
+(n) Quản lý bán hàng Nghĩa: Những người chịu trách nhiệm quản lý và giám sát hoạt động bán hàng: 
+(v) Quay số, bấm số Nghĩa: Gọi điện thoại bằng cách bấm các con số trên thiết bị điện thoạ: 
+(n) Số máy nhánh Nghĩa: Một số nội bộ được dùng trong một hệ thống điện thoại: 
+(v) Để lại lời nhắn Nghĩa: Gửi thông điệp cho ai đó khi họ không có mặt: 
+(v) Giới thiệu ai đó với ai đó Nghĩa: Giới thiệu một người với người khác: 
+(n) Phó chủ tịch điều hành Nghĩa: Người chịu trách nhiệm quản lý các hoạt động của công ty: 
+(n) Giám đốc điều hành Nghĩa: Người có quyền điều hành cao nhất trong một công ty: 
+(v) Nhận bản fax Nghĩa: Nhận được một tài liệu truyền qua máy fax: 
+(v) Đang nói chuyện với ai đó qua điện thoại Nghĩa: Đang kết nối cuộc gọi với một người: 
+(n) Cuộc hẹn Nghĩa: Một cuộc gặp gỡ hoặc sắp xếp với ai đó vào thời gian cụ thể: 
+(v) Chào mừng gia nhập Nghĩa: Lời chào mừng khi ai đó gia nhập vào tổ chức hoặc công ty: 
+(n) Thời gian thử việc Nghĩa: Khoảng thời gian để đánh giá nhân viên trước khi ký hợp đồng chính thức: 
+(n) Lương hàng tháng Nghĩa: Số tiền lương mà người lao động nhận được hàng tháng: 
+(v) Chấm dứt hợp đồng Nghĩa: Hủy bỏ hoặc kết thúc một thỏa thuận hợp đồng: 
+(n) Trả lương công bằng cho công việc tương đương Nghĩa: Nguyên tắc trả lương ngang nhau cho công việc có giá trị như nhau: 
+(n) Nghỉ thai sản Nghĩa: Khoảng thời gian nghỉ việc mà phụ nữ được hưởng sau khi sinh co: 
+(v) Thông báo cho ai đó rằng Nghĩa: Cung cấp thông tin hoặc thông báo một điều gì đó cho ai: 
+(v) Sa thải ai đó Nghĩa: Cho người lao động nghỉ việc, thường vì lý do kinh tế: 
+(n) Nấc thang sự nghiệp trong doanh nghiệp Nghĩa: Hệ thống cấp bậc hoặc sự thăng tiến trong một công ty: 
+(n) Phúc lợi Nghĩa: Những lợi ích hoặc phần thưởng mà người lao động nhận được ngoài lương: 
+(n) Lương nghỉ ốm Nghĩa: Tiền lương mà người lao động nhận được khi nghỉ ốm: 
+(n) Kế hoạch tiết kiệm hưu trí Nghĩa: Chương trình tiết kiệm tiền cho giai đoạn nghỉ hưu: 
+(n) Tài khoản tiết kiệm Nghĩa: Một loại tài khoản ngân hàng để lưu trữ và sinh lãi từ tiền gửi: 
+(n) Chứng chỉ tiền gửi Nghĩa: Một tài liệu chính thức xác nhận việc gửi tiền vào ngân hàng trong một khoảng thời gian cố định: 
+(n) Hộp ký gửi an toàn Nghĩa: Một hộp an toàn được cung cấp tại ngân hàng để lưu trữ vật có giá trị: 
+(n) Máy rút tiền tự động Nghĩa: Một máy tự động cung cấp dịch vụ ngân hàng như rút tiền mặt: 
+(n) Tài sản thế chấp Nghĩa: Tài sản được sử dụng để đảm bảo cho một khoản vay: 
+(v) Phát hành Nghĩa: Cung cấp hoặc phát ra một tài liệu chính thức: 
+(n) Bản sao kê ngân hàng Nghĩa: Một báo cáo từ ngân hàng liệt kê các giao dịch tài khoản trong một khoảng thời gian: 
+(n) Séc du lịch Nghĩa: Một loại séc có thể được sử dụng thay tiền mặt khi đi du lịch: 
+(n) Hộ chiếu Nghĩa: Tài liệu chính thức cấp cho công dân để đi lại quốc tế: 
+(v) Đổi tiền Nghĩa: Quá trình chuyển đổi tiền tệ từ một loại này sang loại khác: 
+(adj) Giả mạo Nghĩa: Hàng hóa hoặc tiền giả được tạo ra để lừa đảo: 
+(n) Tỷ giá hối đoái Nghĩa: Giá trị của một đồng tiền so với một đồng tiền khá: 
+(n) Hoa hồng Nghĩa: Số tiền trả cho người bán hàng dựa trên doanh số bán: 
+(v) Quyết định Nghĩa: Đưa ra quyết định sau khi suy nghĩ kỹ: 
+(n) Nhà cung cấp Nghĩa: Người hoặc công ty cung cấp hàng hóa hoặc dịch vụ: 
+(n) Câu trả lời thẳng thắn Nghĩa: Một câu trả lời trực tiếp, không vòng vo: 
+(n) Lô hàng Nghĩa: Hàng hóa được vận chuyển từ nơi này đến nơi khác: 
+(v) Hợp lý Nghĩa: Điều gì đó rõ ràng hoặc dễ hiểu: 
+(adj) Thiếu kinh nghiệm Nghĩa: Không có nhiều kinh nghiệm trong một lĩnh vực: 
+(n) Công tắc Nghĩa: Thiết bị điều khiển để bật hoặc tắt máy móc, đèn: 
+(n) Giấy phép Nghĩa: Tài liệu cho phép làm điều gì đó một cách hợp pháp: 
+(n) Hàng hóa Nghĩa: Các sản phẩm được mua bán: 
+(adj) Miễn thuế Nghĩa: Hàng hóa được miễn thuế khi mua tại sân bay hoặc các khu vực đặc biệ: 
+(n) Thuế nhập khẩu Nghĩa: Một khoản phí do chính phủ áp đặt khi hàng hóa được nhập khẩu: 
+(v) Được lưu trữ Nghĩa: Hàng hóa hoặc vật phẩm được giữ lại tại một nơi nào đó để bảo quản: 
+(n) Kho ngoại quan Nghĩa: Kho lưu trữ hàng hóa chưa nộp thuế nhập khẩu: 
+(n) Thanh toán khi giao hàng Nghĩa: Thanh toán tiền hàng khi nhận được hàng: 
+(n) Vận đơn hàng không Nghĩa: Chứng từ đi kèm với lô hàng vận chuyển bằng đường hàng khôn: 
+(adv) Càng sớm càng tốt Nghĩa: Nhanh chóng thực hiện một việc nào đ: 
+(n) Vận đơn Nghĩa: Chứng từ vận chuyển hàng hóa bằng đường biển: 
+(n) Thư tín dụng Nghĩa: Một chứng từ tài chính do ngân hàng phát hành đảm bảo thanh toán cho người bán: 
+(n) Quy chế Tối huệ quốc Nghĩa: Tình trạng ưu đãi thương mại được cấp cho quốc gia được đối xử như quốc gia được ưu tiên: 
+(v) Vận chuyển Nghĩa: Chuyển hàng hóa từ nơi này đến nơi khác: 
+(n) Hàng hóa (trong cửa hàng) Nghĩa: Sản phẩm được mua bán: 
+(v) Xóa nợ Nghĩa: Xóa bỏ khoản nợ không thể thu hồi: 
+(n) Chi phí Nghĩa: Số tiền phải chi trả để mua hàng hóa, dịch vụ: 
+(n) Ban giám đốc Nghĩa: Nhóm người quản lý điều hành công ty: 
+(v) Ăn mừng Nghĩa: Tổ chức một sự kiện để kỷ niệm: 
+(n) Sự kết thúc hợp đồng này Nghĩa: Thời điểm hoàn thành các điều khoản hợp đồng: 
+(n) Chi tiết Nghĩa: Các thông tin cụ thể về một vấn đề: 
+(n) Đồ uống cocktail Nghĩa: Đồ uống pha chế từ rượu và các nguyên liệu khác: 
+(n) Quyền sở hữu độc lập Nghĩa: Hình thức kinh doanh do một cá nhân sở hữu: 
+(n) Hợp danh, quan hệ đối tác Nghĩa: Hình thức kinh doanh trong đó hai hoặc nhiều người chia sẻ quyền sở hữu: 
+(n) Tập đoàn Nghĩa: Một doanh nghiệp lớn được điều hành bởi các cổ đông: 
+(n) Đối tác Nghĩa: Những người hoặc tổ chức hợp tác trong một dự án kinh doanh: 
+(n) Cổ đông Nghĩa: Người sở hữu cổ phần trong một công ty: 
+(v) Đầu tư Nghĩa: Bỏ tiền vào một dự án với hy vọng thu lợi nhuận: 
+(n) Cổ phiếu Nghĩa: Phần vốn sở hữu trong một công ty: 
+(n) Trái phiếu Nghĩa: Chứng khoán nợ do chính phủ hoặc doanh nghiệp phát hành: 
+(n) Liên doanh Nghĩa: Sự hợp tác kinh doanh giữa hai hoặc nhiều bên: 
+(n) Cổ phần Nghĩa: Phần sở hữu trong một công ty, được mua bán trên thị trường chứng khoán: 
+(n) Tập đoàn General Motors Nghĩa: Một trong những công ty sản xuất ô tô lớn nhất thế giới: 
+(n) Ngày đáo hạn Nghĩa: Ngày mà khoản vay hoặc trái phiếu đến hạn thanh toá: 
+(n) Lãi suất hiện tại Nghĩa: Lãi suất áp dụng tại thời điểm hiện tại: 
+(n) Trái phiếu kho bạc Nghĩa: Trái phiếu do chính phủ phát hành để huy động vốn: 
+(n) Công ty 100% vốn nước ngoài Nghĩa: Doanh nghiệp mà toàn bộ vốn đầu tư là của nước ngoài: 
+(n) Biên bản cuộc họp Nghĩa: Tài liệu ghi lại các điểm chính của một cuộc họp: 
+(n) Chương trình nghị sự Nghĩa: Danh sách các vấn đề sẽ được thảo luận trong một cuộc họ: 
+(v) Chậm tiến độ Nghĩa: Trễ so với kế hoạch hoặc thời gian dự kiế: 
+(n) Bài thuyết trình Nghĩa: Một buổi trình bày thông tin, ý tưởng trước một nhóm người: 
+(n) Kế hoạch tiếp thị Nghĩa: Chiến lược quảng bá sản phẩm hoặc dịch vụ ra thị trường: 
+(v) Bị hoãn lại Nghĩa: Dừng lại tạm thời và sẽ tiếp tục sau: 
+(v) Đính kèm; ghim vào (lá thư) Nghĩa: Gửi kèm một tài liệu hoặc vật phẩm nào đó: 
+(n) Danh mục sản phẩm Nghĩa: Một tài liệu liệt kê các sản phẩm hoặc dịch vụ được cung cấ: 
+(n) Sự cân nhắc Nghĩa: Quá trình suy nghĩ kỹ trước khi đưa ra quyết định: 
+(n) Sự lựa chọn Nghĩa: Một lựa chọn trong số các khả năng khác nhau: 
+(n) Bảng giá Nghĩa: Danh sách các sản phẩm hoặc dịch vụ cùng với giá tương ứng: 
+(n) Giá cả cạnh tranh Nghĩa: Giá thấp hơn hoặc tương đương với các đối thủ cạnh tranh: 
+(n) Giao hàng Nghĩa: Quá trình chuyển hàng hóa đến người nhận: 
+(n) Việc lắp đặt Nghĩa: Quá trình đặt thiết bị hoặc hệ thống vào vị trí hoạt động: 
+(v) Được bao gồm Nghĩa: Được tính gộp vào một cái gì đó: 
+(n) Câu hỏi, thắc mắc Nghĩa: Câu hỏi về thông tin hoặc giải thích: 
+(n) Phản hồi Nghĩa: Sự trả lời hoặc phản ứng trước một câu hỏi hoặc tình huống: 
+(n) Đơn xin việc Nghĩa: Tài liệu gửi đến nhà tuyển dụng để xin việc là: 
+(n) Vị trí tuyển dụng Nghĩa: Một vị trí công việc đang cần người: 
+(v) Được lên lịch Nghĩa: Được lên kế hoạch để diễn ra vào thời gian cụ thể: 
+(n) Lợi ích, lãi suất Nghĩa: Sự quan tâm hoặc lãi suất trong tài chính: 
+(v) Xác nhận Nghĩa: Khẳng định rằng điều gì đó là chính xác hoặc sẽ diễn ra: 
+(n) Sự đồng thuận chung Nghĩa: Sự đồng ý giữa hai bên: 
+(v) Từ chối Nghĩa: Không chấp nhận một lời mời hoặc đề xuất: 
+(n) Lời đề nghị Nghĩa: Đề xuất về một thỏa thuận hoặc sự giao dịch: 
+(v) Bị sập, không hoạt động Nghĩa: Hệ thống hoặc dịch vụ bị ngừng hoạt động: 
+(v) Khởi động lại Nghĩa: Tắt và khởi động lại hệ thống hoặc thiết bị: 
+(n) Phần mềm Nghĩa: Chương trình máy tính giúp thực hiện các chức năng khác nhau: 
+(n) Ổ USB Nghĩa: Thiết bị lưu trữ nhỏ dùng để lưu trữ dữ liệu: 
+(n) Nhà phân tích Nghĩa: Người chuyên phân tích thông tin hoặc dữ liệu để đưa ra dự đoán hoặc khuyến nghị: 
+(n) Cửa hàng văn phòng phẩm Nghĩa: Cửa hàng bán các vật dụng văn phòng như giấy, bút, vv: 
+(n) Virus Nghĩa: Phần mềm độc hại gây hại cho máy tính hoặc hệ thống: 
+(n) Máy in Nghĩa: Thiết bị dùng để in tài liệu từ máy tính ra giấy: 
+(n) Cơ hội bình đẳng Nghĩa: Nguyên tắc đảm bảo rằng mọi người đều có quyền truy cập vào các cơ hội như nhau mà không phân biệt đối xử dựa trên giới tính, chủng tộc, tôn giáo, vv: 
+(n) Nhà tuyển dụng bình đẳng Nghĩa: Một tổ chức cam kết không phân biệt đối xử và đối xử công bằng với tất cả các ứng viên và nhân viên: 
+(n) Thuật ngữ Nghĩa: Tập hợp các từ hoặc cụm từ chuyên môn được sử dụng trong một lĩnh vực cụ thể: 
+(n) Thuật ngữ trong thư tín kinh doanh Nghĩa: Các thuật ngữ cụ thể thường được sử dụng trong các thư tín kinh doanh như lời mở đầu, câu kết thúc, và các từ ngữ chính thức: 
+(n) Quán ăn Nghĩa: Một nhà hàng nhỏ, thường phục vụ các món ăn đơn giản, truyền thống: 
+(n) Quán ăn địa phương Nghĩa: Một quán ăn nhỏ thuộc khu vực địa phương, phục vụ người dân trong vùng: 
+(n) Biển động Nghĩa: Biển có sóng lớn và thời tiết xấu, khiến việc di chuyển trên biển trở nên nguy hiể: 
+(n) Khăn tắm biển Nghĩa: Khăn lớn dùng để nằm hoặc lau khô sau khi tắm biển: 
+(n) Bào ngư Nghĩa: Một loại động vật thân mềm, có vỏ cứng, sống ở biển, được coi là món ăn quý hiếm: 
+Mang theo một tuýp Nghĩa: Lấy hoặc mang theo một tuýp sản phẩm (thường là kem chống nắng, kem dưỡng da): 
+(v) Lao đi, chạy nhanh Nghĩa: Di chuyển với tốc độ nhanh trong thời gian ngắn: 
+(v) Cầm lấy và chạy đi Nghĩa: Lấy nhanh thứ gì đó và chạy khỏi nơi đó: 
+Nhận được điều may mắn đến từ thiên nhiên Nghĩa: Cách thiên nhiên hoặc môi trường xung quanh giúp mang đến điều may mắn hoặc tốt đẹp: 
+(adj) Thịnh vượng, phát đạt Nghĩa: Một tình trạng giàu có, thành công hoặc phát triển mạnh về tài chính: 
+(n) Xà cừ Nghĩa: Một vật liệu sáng bóng, óng ánh được lấy từ lớp vỏ bên trong của một số loài nhuyễn thể: 
+(v) Giới thiệu hoặc kết nối ai đó với thứ họ cần Nghĩa: Giúp ai đó có được một thứ gì đó, thường là qua các mối quan hệ hoặc kết nối cá nhân: 
+(n) Đường bờ biển Nghĩa: Vùng tiếp giáp giữa mặt nước biển và đất liền: 
+(n) Gió biển Nghĩa: Luồng gió thổi từ biển vào đất liền, thường mát mẻ và dễ chị: 
 đời sống sung túc dễ dàng: 
 tin vào những gì bạn thấy, thường diễn tả sự ngạc nhiên: 
 xin cứ tự nhiên: 
@@ -4786,7 +4786,7 @@ xin cứ tự nhiên:
 (v) Nhấp, uống từng ngụm nhỏ: 
 (adj) Sâu sắc, thâm thúy: 
 (v) Nâng cao, tăng cường: 
-(n) Môi trường tin cậy và hợp tác giữa ... và ...: 
+(n) Môi trường tin cậy và hợp tác giữa  và : 
 (v) Có nguy cơ cao với điều gì: 
 (n) Sự thích nghi xã hội: 
 (n) Sự trưởng thành: 
@@ -4801,7 +4801,7 @@ xin cứ tự nhiên:
 (v) Sinh sản: 
 (n) Độ tuổi kết hôn hợp pháp để đăng ký: 
 (n) Giấy chứng nhận kết hôn: 
-(n) Đồ vải (ga trải giường, khăn bàn, v.v.): 
+(n) Đồ vải (ga trải giường, khăn bàn, vv): 
 (adj) Thuộc về chiêm tinh học: 
 (n) Dự đoán chiêm tinh: 
 (n) Đồ trang trí: 
@@ -5150,4 +5150,53 @@ xin cứ tự nhiên:
 (n) Kẻ nổi loạn, phiến quân: 
 (v) Nổi loạn, chống đối: 
 (n) Cuộc nổi loạn, cuộc khởi nghĩa: 
-(v) Chiếm đoạt, cướp (máy bay, phương tiện giao thông, v.v.); (n) Vụ cướp (máy bay, phương tiện giao thông): 
+(v) Chiếm đoạt, cướp (máy bay, phương tiện giao thông, vv); (n) Vụ cướp (máy bay, phương tiện giao thông): 
+(v) Cách mạng hóa, làm thay đổi hoàn toàn: 
+(adj) Không thể thiếu, rất quan trọng: 
+(adj) Đa năng, linh hoạt: 
+(n) Sự đa năng, sự linh hoạt: 
+(v) Tinh giản, hợp lý hóa để hiệu quả hơn: 
+(n phrase) Việc tinh giản nhiệm vụ, làm cho công việc trôi chảy hơn: 
+(n) Sự tự động hóa: 
+(v) Cho phép, làm cho có thể: 
+(n) Bảng tính (trong phần mềm như Excel): 
+(idiom) Không ngừng nghỉ, không chậm trễ: 
+(v) Tái định hình, thay đổi cấu trúc hoặc hình dạng: 
+(n) Những yếu tố thay đổi cuộc chơi, người/vật làm thay đổi cục diện: 
+(n) Dao đa năng Thụy Sĩ (nghĩa đen); ẩn dụ: thứ rất đa năng, linh hoạt: 
+(v) Thư giãn, xả hơi sau một thời gian căng thẳng: 
+(adj) Hấp dẫn, lôi cuốn, thú vị: 
+(adj) Mang tính tương tác, cho phép giao tiếp hai chiều: 
+(idiom) Dành cho cả hai người (hoặc cả hai nhóm) được đề cập, không phân biệt: 
+(phrasal verb) Lao vào, bắt đầu làm gì đó với sự nhiệt tình hoặc tập trung cao độ; Bắt đầu làm gì đó một cách nhiệt tình hoặc tập trung ngay lập tức: 
+(phrasal verb) Theo dõi, ghi nhớ, hoặc giữ thông tin về một thứ gì đó: 
+(adj) Dễ tiếp cận, dễ sử dụng, dễ hiểu: 
+(idiom) Là một phần quan trọng trong cách chúng ta thực hiện việc gì đó: 
+(idiom) Làm mọi thứ, đảm đương mọi việc (thường ám chỉ việc đảm nhiệm nhiều vai trò hoặc công việc một cách đa năng): 
+(idiom) Dẫn đầu, tiên phong trong một hoạt động, phong trào hoặc sự thay đổi: 
+(phrasal verb) Thúc đẩy sự đổi mới bằng một yếu tố hoặc công cụ nào đó: 
+(n) Các thiết bị cao cấp, chất lượng cao: 
+(adj) Thân thiện với túi tiền, phù hợp với ngân sách, giá cả phải chăng: 
+(adj) Không ngừng phát triển, luôn thay đổi và cải tiến: 
+hoa mai
+hòa đào
+(n) Cây quất (thường được trưng bày trong dịp lễ Tết): 
+(n) Việc thờ cúng tổ tiên: 
+(n) Rau củ muối chua: 
+(n) Kẹo, đồ ngọt: 
+(v phrase) Bày tỏ lòng biết ơn tại bàn thờ hoặc đền thờ: 
+(adj) Mang không khí lễ hội, vui tươi: 
+(phrasal verb) Đầy ắp sự nhộn nhịp, hoạt động, hoặc cảm giác phấn khởi: 
+(phrase) Thêm vào đó nét đặc biệt riêng, tạo điểm nhấn riêng biệt: 
+(phrase) Với nhiệt độ giảm xuống đến mức: 
+(n) Nhiệt độ ôn hòa, dễ chịu: 
+(n) Khí hậu nhiệt đới (nóng ẩm quanh năm, thường có mưa lớn theo mùa): 
+(v) Có, bao gồm, nổi bật với đặc điểm nào đó: 
+(n) Những cơn mưa lớn, mưa như trút nước: 
+(adv/adj) Suốt cả năm: 
+(adj) Cồng kềnh, to lớn, khó di chuyển hoặc xử lý: 
+(n) Transistor (linh kiện bán dẫn được sử dụng để khuếch đại hoặc chuyển đổi tín hiệu điện): 
+(n) Mạch tích hợp (IC), tập hợp các linh kiện điện tử trên một chip nhỏ gọn: 
+(n) Máy tính lượng tử (máy tính sử dụng các nguyên lý cơ học lượng tử để xử lý dữ liệu): 
+(n) Thiết bị cấy ghép (các thiết bị y tế được đặt trong cơ thể để hỗ trợ hoặc thay thế chức năng sinh học): 
+(adj) Quan trọng, không thể thiếu; hoặc liên quan đến tích phân (toán học): 
