@@ -2139,7 +2139,7 @@ thrive:
 steadfast: 
 unparalleled: 
 consistently: 
-be counted on to: 
+Count on: 
 empathy: 
 compassion: 
 empower: 
@@ -2289,7 +2289,6 @@ shine - shone - shone:
 [I] generation gap: 
 [I] to get down to business/ get down to work: 
 [I] to get stuck: 
-# ===================== VERSION 1 =====================
 [I] good-for-nothing:  
 [I] different strokes for diffrent folks:  
 [I] eyes are bigger than one's stomach:  
@@ -2305,23 +2304,6 @@ shine - shone - shone:
 [I] back talk:  
 [I] back-to-back: 
 [I] to beat around the bush:  
-# ===================== VESION 2 =====================
-[I] good-for-nothing//:  
-[I] different strokes for diffrent folks//:  
-[I] eyes are bigger than one's stomach//:  
-[I] the early bird catches the worm: 
-[I] all's well that ends well: 
-[I] to add fuel to the flame: 
-[I] to add insult to injury: 
-[I] to be afraid of one's shadow//:  
-[I] a little bird told me: 
-[I] a little knowledge is a dangerous thing: 
-[I] to be all ears//:	Hăm hở nghe
-[I] a babe in the woods//:  
-[I] back talk//:  
-[I] back-to-back: 
-[I] to beat around the bush//:  
-======================================================
 daffodil: 
 shelter (n): 
 overhang (n): 

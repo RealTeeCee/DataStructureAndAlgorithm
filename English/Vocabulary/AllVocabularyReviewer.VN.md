@@ -2139,7 +2139,7 @@ thành thật, chân thật:
 kiên định, vững chắc: 
 vô song; không bì được, ko so sánh được: 
 (adv) nhất quán: 
-được tính vào: 
+Dựa vào, tin tưởng ai đó; Mong đợi, dự đoán điều gì sẽ xảy ra: 
 (n) (tâm lý học) sự thấu cảm, sự đồng cảm: 
 lòng thương, lòng trắc ẩn: 
 làm cho có thể; trao quyền: 
@@ -2289,7 +2289,6 @@ Thỉnh thoảng, đôi khi:
 sự thiếu thông hiểu giữa các thế hệ: 
 tập trung vào công việc: 
 bế tắt: 
-# ===================== VERSION 1 =====================
 Vô dụng, không có ích, ăn hại: 
 Mỗi người một sở thích: 
 Mắt to hơn bụng - yêu cầu nhiều thức ăn hơn khả năng ăn của mình: 
@@ -2305,23 +2304,6 @@ Người ngây thơ, thiếu kinh nghiệm:
 (n) Cãi lại, nói hỗn xược: 
 (adj) Liên tiếp, kế tiếp nhau: 
 Nói vòng vo, không đi vào vấn đề chính: 
-# ===================== VESION 2 =====================
-vô dụng, người không đáng tin cậy: 
-Mỗi người một ý: 
-take more food  than one can eat: 
-Đến trước thì có lợi: 
-successful outcome is worth the effort: 
-Do st to worsen a bad situation: 
-tăng sự tổn thương: 
-dễ sợ sệt những điều không đâu: 
-biết được điều gì một cách bí mật: 
-when a person has some knowlegde, they often act as if they know it all, causing trouble: 
-Hăm hở nghe: 
-người khờ dại, cả tin: 
-nói hỗn: 
-liên tục, sát nhau: 
-nói lòng vòng: 
-======================================================
 Hoa thủy tiên: 
 nơi trú ẩn,: 
 phần nhô ra (of st,sb): 

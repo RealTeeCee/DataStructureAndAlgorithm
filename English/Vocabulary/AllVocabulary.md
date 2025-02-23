@@ -2139,7 +2139,7 @@ thrive /θraiv/: (v) phát triển thịnh vượng, phát đạt; lớn lên
 steadfast /'stedfəst/: kiên định, vững chắc
 unparalleled /unparalleled/: vô song; không bì được, ko so sánh được
 consistently /kənˈsistən(t)lē/: (adv) nhất quán
-be counted on to //: được tính vào
+Count on //: (Phrasal Verb) Dựa vào, tin tưởng ai đó; Mong đợi, dự đoán điều gì sẽ xảy ra. Ex: You can always count on me for support (Bạn luôn có thể tin tưởng vào tôi để được hỗ trợ). Ex: We didn’t count on the heavy traffic, so we were late (Chúng tôi không lường trước được giao thông đông đúc, nên đã bị trễ)
 empathy /'empəθi/: (n) (tâm lý học) sự thấu cảm, sự đồng cảm
 compassion /kəm'pæʃn/: lòng thương, lòng trắc ẩn
 empower /im'pauə/: làm cho có thể; trao quyền
@@ -2289,7 +2289,6 @@ shine - shone - shone /ʃaɪn/: soi sáng, sự chiếu sáng
 [I] generation gap //: sự thiếu thông hiểu giữa các thế hệ
 [I] to get down to business/ get down to work //: tập trung vào công việc
 [I] to get stuck //: bế tắt
-# ===================== VERSION 1 =====================
 [I] good-for-nothing //: Vô dụng, không có ích, ăn hại. Ex: He’s a good-for-nothing who never helps around the house (Anh ta là một người vô dụng, không bao giờ giúp đỡ việc nhà)
 [I] different strokes for diffrent folks //: Mỗi người một sở thích. Ex: I like to get up early, but my brother prefers to stay up late. Different strokes for different folks (Tôi thích dậy sớm, nhưng anh trai tôi thích thức khuya Mỗi người một sở thích.)
 [I] eyes are bigger than one's stomach //: Mắt to hơn bụng - yêu cầu nhiều thức ăn hơn khả năng ăn của mình. Ex: She couldn’t finish her meal because her eyes were bigger than her stomach (Cô ấy không thể ăn hết bữa ăn vì cô ấy lấy quá nhiều thức ăn)
@@ -2305,23 +2304,6 @@ shine - shone - shone /ʃaɪn/: soi sáng, sự chiếu sáng
 [I] back talk //: (n) Cãi lại, nói hỗn xược. Ex: The teacher didn’t tolerate any back talk from the students. (Giáo viên không chịu đựng bất kỳ lời cãi lại nào từ học sinh.)
 [I] back-to-back //: (adj) Liên tiếp, kế tiếp nhau. Ex: We had back-to-back meetings all day. (Chúng tôi có các cuộc họp liên tiếp suốt cả ngày)
 [I] to beat around the bush //: Nói vòng vo, không đi vào vấn đề chính. Ex: Stop beating around the bush and tell me what happened. (Đừng nói vòng vo nữa và hãy nói cho tôi biết chuyện gì đã xảy ra)
-# ===================== VESION 2 =====================
-[I] good-for-nothing//: vô dụng, người không đáng tin cậy
-[I] different strokes for diffrent folks//: Mỗi người một ý
-[I] eyes are bigger than one's stomach//: take more food  than one can eat
-[I] the early bird catches the worm //: Đến trước thì có lợi
-[I] all's well that ends well //: successful outcome is worth the effort
-[I] to add fuel to the flame //: Do st to worsen a bad situation
-[I] to add insult to injury //: tăng sự tổn thương
-[I] to be afraid of one's shadow//: dễ sợ sệt những điều không đâu
-[I] a little bird told me //: biết được điều gì một cách bí mật
-[I] a little knowledge is a dangerous thing //: when a person has some knowlegde, they often act as if they know it all, causing trouble.
-[I] to be all ears//:	Hăm hở nghe
-[I] a babe in the woods//: người khờ dại, cả tin
-[I] back talk//: nói hỗn
-[I] back-to-back //: liên tục, sát nhau
-[I] to beat around the bush//: nói lòng vòng
-======================================================
 daffodil /ˈdæfədɪl/: Hoa thủy tiên
 shelter (n) /ˈʃɛltər/: nơi trú ẩn, 
 overhang (n) /ˈoʊvərˌhæŋ/: phần nhô ra (of st,sb)
