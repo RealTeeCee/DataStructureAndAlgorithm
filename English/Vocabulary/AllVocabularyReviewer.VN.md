@@ -2182,7 +2182,7 @@ kéo dài hàng chục năm:
 (a) cách đây vài thập kỷ: 
 tích lũy: 
 có thể thích nghi: 
-không có giới hạn nghĩa là không có giới hạn, không bị hạn chế, thường ám chỉ sự mạnh mẽ hoặc to lớn của một cái gì đó: 
+không có giới hạn: 
 đầu tư: 
 cá nhân hóa: 
 không mệt mỏi: 
