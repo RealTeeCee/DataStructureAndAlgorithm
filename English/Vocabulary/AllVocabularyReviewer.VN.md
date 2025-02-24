@@ -2293,12 +2293,12 @@ Vô dụng, không có ích, ăn hại:
 Mỗi người một sở thích: 
 Mắt to hơn bụng - yêu cầu nhiều thức ăn hơn khả năng ăn của mình: 
 Trâu chậm uống nước đục: 
-Kết thúc tốt đẹp We had some problems at the start, but all's well that ends well (Chúng tôi đã gặp một số vấn đề lúc đầu, nhưng kết thúc tốt đẹp): 
+Kết thúc tốt đẹp: 
 Thêm dầu vào lửa: 
 Xát muối vào vết thương: 
 Sợ cả bóng của mình - Rất nhát gan, dễ bị hoảng sợ: 
-Có ai đó đã nói cho tôi biết Nghĩa: Nghe được thông tin từ một nguồn không tiết lộ: 
-Kiến thức nửa vời thì nguy hiểm Nghĩa: Biết một chút về một cái gì đó có thể dẫn đến những kết luận sai lầm: 
+Có ai đó đã nói cho tôi biết: 
+Kiến thức nửa vời thì nguy hiểm: 
 Chăm chú lắng nghe, Rất muốn nghe: 
 Người ngây thơ, thiếu kinh nghiệm: 
 (n) Cãi lại, nói hỗn xược: 
