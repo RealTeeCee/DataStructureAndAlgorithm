@@ -2183,7 +2183,7 @@ decades-old:
 accumulate: 
 adaptable: 
 knows no bound:   
-invests: 
+invest: 
 personalized: 
 tireless: 
 punctuality: 

@@ -2168,7 +2168,7 @@ devotion /dɪˈvoʊʃn/: sự tận tâm
 reverence /ˈrɛvərəns/: sự tôn kính, sự sùng kính
 reservoir /ˈrɛzərˌvwɑr/: Hồ chứa (Tự nhiên hoặc  nhân tạo)
 simplicity /sɪmˈplɪsət̮i/: sự đơn giản
-sophistication /səˌfɪstəˈkeɪʃn/: sự phức tạp, khoa trương.
+sophistication /səˌfɪstəˈkeɪʃn/: sự khai sáng; sự tinh vi, tinh tế.
 warmth /wɔrmθ/: sự ấm áp
 humiliate /hjuːˈmɪlieɪt/: (v) làm nhục, làm bẽ mặt. Ex: She refused to humiliate her opponent, preferring to win with grace and dignity (Cô ấy từ chối làm nhục đối thủ của mình, ưa thích chiến thắng với sự duyên dáng và phẩm giá)
 humiliation /hjuːˌmɪliˈeɪʃən/: (n) sự làm nhục, sự khiếm nhã. Ex: He felt a deep sense of humiliation after making a mistake in front of his colleagues (Anh ấy cảm thấy một cảm giác sâu sắc của sự khiếm nhã sau khi mắc lỗi trước đồng nghiệp của mình)
@@ -2183,7 +2183,7 @@ decades-old /ˈdɛkeɪdz oʊld/: (a) cách đây vài thập kỷ. Ex: They disc
 accumulate /əˈkyumyəˌleɪt/: tích lũy
 adaptable /əˈdæptəbl/: có thể thích nghi
 knows no bound //: không có giới hạn. nghĩa là không có giới hạn, không bị hạn chế, thường ám chỉ sự mạnh mẽ hoặc to lớn của một cái gì đó. Ex: Her love for her children knows no bounds (Tình yêu của cô ấy dành cho con cái không có giới hạn) The potential of human creativity knows no bounds (Tiềm năng của sự sáng tạo của con người không có giới hạn)
-invests /ɪnˈvɛst/: đầu tư
+invest /ɪnˈvɛst/: đầu tư
 personalized /ˈpərsənəˌlaɪz/: cá nhân hóa
 tireless /ˈtaɪərləs/: không mệt mỏi
 punctuality /ˌpʌŋktʃuˈælət̮i/: sự đúng giờ

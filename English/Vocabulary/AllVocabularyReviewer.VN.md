@@ -2168,7 +2168,7 @@ sự tận tâm:
 sự tôn kính, sự sùng kính: 
 Hồ chứa (Tự nhiên hoặc  nhân tạo): 
 sự đơn giản: 
-sự phức tạp, khoa trương: 
+sự khai sáng; sự tinh vi, tinh tế: 
 sự ấm áp: 
 (v) làm nhục, làm bẽ mặt: 
 (n) sự làm nhục, sự khiếm nhã: 
@@ -2182,7 +2182,7 @@ kéo dài hàng chục năm:
 (a) cách đây vài thập kỷ: 
 tích lũy: 
 có thể thích nghi: 
-không có giới hạn nghĩa là không có giới hạn, không bị hạn chế, thường ám chỉ sự mạnh mẽ hoặc to lớn của một cái gì đó: 
+không có giới hạn: 
 đầu tư: 
 cá nhân hóa: 
 không mệt mỏi: 
@@ -2203,7 +2203,7 @@ Bảo hiểm tai nạn tử vong và thương tật loại bảo hiểm bổ sun
 Hành động của Chúa sự kiện tự nhiên không thể kiểm soát được bởi con người: 
 Người thụ hưởng người được nhận thanh toán từ hợp đồng bảo hiểm khi một sự kiện được bảo hiểm xảy ra: 
 Môi giới bảo hiểm người đại diện cho người mua bảo hiểm khi mua và quản lý các hợp đồng bảo hiểm: 
-Yêu cầu bồi thường khi người bảo hiểm yêu cầu thanh toán từ hãng bảo hiểm sau một sự c: 
+Yêu cầu bồi thường khi người bảo hiểm yêu cầu thanh toán từ hãng bảo hiểm sau một sự cố: 
 Phạm vi bảo hiểm các loại rủi ro được bảo hiểm trong một hợp đồng bảo hiểm: 
 Thảm họa sự kiện gây ra thiệt hại lớn và không mong muốn: 
 Tiền tự trả một phần của chi phí y tế mà người tham gia bảo hiểm phải trả trước khi hãng bảo hiểm chi trả phần còn lại: 
