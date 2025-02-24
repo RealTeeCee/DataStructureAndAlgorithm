@@ -2168,7 +2168,7 @@ sự tận tâm:
 sự tôn kính, sự sùng kính: 
 Hồ chứa (Tự nhiên hoặc  nhân tạo): 
 sự đơn giản: 
-sự phức tạp, khoa trương: 
+sự khai sáng; sự tinh vi, tinh tế: 
 sự ấm áp: 
 (v) làm nhục, làm bẽ mặt: 
 (n) sự làm nhục, sự khiếm nhã: 

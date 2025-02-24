@@ -2168,7 +2168,7 @@ devotion /dɪˈvoʊʃn/: sự tận tâm
 reverence /ˈrɛvərəns/: sự tôn kính, sự sùng kính
 reservoir /ˈrɛzərˌvwɑr/: Hồ chứa (Tự nhiên hoặc  nhân tạo)
 simplicity /sɪmˈplɪsət̮i/: sự đơn giản
-sophistication /səˌfɪstəˈkeɪʃn/: sự phức tạp, khoa trương.
+sophistication /səˌfɪstəˈkeɪʃn/: sự khai sáng; sự tinh vi, tinh tế.
 warmth /wɔrmθ/: sự ấm áp
 humiliate /hjuːˈmɪlieɪt/: (v) làm nhục, làm bẽ mặt. Ex: She refused to humiliate her opponent, preferring to win with grace and dignity (Cô ấy từ chối làm nhục đối thủ của mình, ưa thích chiến thắng với sự duyên dáng và phẩm giá)
 humiliation /hjuːˌmɪliˈeɪʃən/: (n) sự làm nhục, sự khiếm nhã. Ex: He felt a deep sense of humiliation after making a mistake in front of his colleagues (Anh ấy cảm thấy một cảm giác sâu sắc của sự khiếm nhã sau khi mắc lỗi trước đồng nghiệp của mình)
