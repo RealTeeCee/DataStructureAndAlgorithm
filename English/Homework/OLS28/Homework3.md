@@ -25,7 +25,7 @@
 
 # Tri
 Blow up – The kids accidentally blew up the balloon until it popped.
-Call for – This situation calls for immediate action.
+Call for – The success of the project calls for a celebration among the team.
 Clear off – The shop owner told the loiterers to clear off.
 Cloud up – The sky started to cloud up, and rain seemed inevitable.
 Come back – I hope you come back soon from your trip.
