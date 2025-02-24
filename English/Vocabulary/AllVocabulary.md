@@ -2183,7 +2183,7 @@ decades-old /ˈdɛkeɪdz oʊld/: (a) cách đây vài thập kỷ. Ex: They disc
 accumulate /əˈkyumyəˌleɪt/: tích lũy
 adaptable /əˈdæptəbl/: có thể thích nghi
 knows no bound //: không có giới hạn. nghĩa là không có giới hạn, không bị hạn chế, thường ám chỉ sự mạnh mẽ hoặc to lớn của một cái gì đó. Ex: Her love for her children knows no bounds (Tình yêu của cô ấy dành cho con cái không có giới hạn) The potential of human creativity knows no bounds (Tiềm năng của sự sáng tạo của con người không có giới hạn)
-invests /ɪnˈvɛst/: đầu tư
+invest /ɪnˈvɛst/: đầu tư
 personalized /ˈpərsənəˌlaɪz/: cá nhân hóa
 tireless /ˈtaɪərləs/: không mệt mỏi
 punctuality /ˌpʌŋktʃuˈælət̮i/: sự đúng giờ
