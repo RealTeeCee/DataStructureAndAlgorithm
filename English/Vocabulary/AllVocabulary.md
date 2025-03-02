@@ -2156,7 +2156,7 @@ versatile /'və:sətl/: uyên bác; có nhiều tài năng khác nhau
 cater to /'keitə/: phục vụ cho, cung cấp cho
 diverse /dai'və:s/: (a) phong phú, đa dạng
 boredom /ˈbôrdəm/: sự buồn chán, sự nhàm chán
-meticulous /mi'tikjuləs/: (a) tỉ mỉ; kỹ càng chi tiết
+meticulous /mə'tikjuləs/: (a) tỉ mỉ; kỹ càng chi tiết
 meticulously /məˈtɪkjʊləsli/: (adv) một cách cẩn thận và chi tiết .Ex: She meticulously planned every aspect of the event (Cô ấy lên kế hoạch mọi khía cạnh của sự kiện một cách cẩn thận và chi tiết)
 meticulousness /məˈtɪkjʊləsnəs/: (n) tính cẩn thận và chi tiết .Ex: The success of the project was due to the team's meticulousness (Sự thành công của dự án là nhờ vào tính cẩn thận và chi tiết của nhóm)
 meticulism /məˈtɪkjʊlɪzəm/: (n) sự cẩn thận và chú ý đến những chi tiết nhỏ .Ex: Her meticulism is evident in the precision of her writing (Sự cẩn thận của cô ấy được thể hiện rõ trong sự chính xác của cách viết của cô ấy)
