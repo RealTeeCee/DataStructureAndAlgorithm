@@ -2152,7 +2152,7 @@ role model /ˈrōl ˌmäd(ə)l/: hình mẫu
 extend far beyond //: mở rộng xa hơn, vượt ra ngoài cái gì đó. Thường được sử dụng để chỉ sự ảnh hưởng hoặc phạm vi của một cái gì đó trải rộng ra ngoài mức độ thông thường hoặc dự kiến .Ex: His influence extends far beyond his immediate circle of friends (Tác động của anh ấy mở rộng ra xa hơn ngoài vòng bạn bè ngay lân cận của mình) The consequences of climate change extend far beyond environmental degradation (Hậu quả của biến đổi khí hậu lan rộng ra ngoài sự suy thoái môi trường)
 tenure /'tenjuə/: (n) nhiệm kỳ; sự chiếm hữu, sự hưởng dụng; sự tại chức
 tenure for life //: quyền sở hữu trọn đời
-versatile /'və:sətail/: uyên bác; có nhiều tài năng khác nhau
+versatile /'və:sətl/: uyên bác; có nhiều tài năng khác nhau
 cater to /'keitə/: phục vụ cho, cung cấp cho
 diverse /dai'və:s/: (a) phong phú, đa dạng
 boredom /ˈbôrdəm/: sự buồn chán, sự nhàm chán
