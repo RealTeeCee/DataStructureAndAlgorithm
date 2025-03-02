@@ -5182,3 +5182,4 @@ hòa đào
 (n) Máy tính lượng tử (máy tính sử dụng các nguyên lý cơ học lượng tử để xử lý dữ liệu): 
 (n) Thiết bị cấy ghép (các thiết bị y tế được đặt trong cơ thể để hỗ trợ hoặc thay thế chức năng sinh học): 
 (adj) Quan trọng, không thể thiếu; hoặc liên quan đến tích phân (toán học): 
+(n) Hà mã: 
