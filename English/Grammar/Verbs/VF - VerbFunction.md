@@ -12,8 +12,24 @@
 # ALL VERB FUNCTIONS
 
 # VF1       S + Vi
+#               14+ words
+                Agree
+                Appear
+                Arrive
+                Climb
+                Cry
+                Dance
+                Disappear
+                Die
+                Fly
+                Rain
+                Sing
+                Sleep
+                Snow
+                Walk      
 + S = Subject: Chủ ngữ.
 + Vi = intransitive Verb: Nội động từ (là động từ tự nó có nghĩa, không cần túc từ)
+[Verb Intransitive](/English/Grammar/Verbs/VerbIntransitive.md) <-- Ctrl + Click
 
 Ex: 
 - It rains. (trời mưa)
@@ -35,11 +51,26 @@ Ex:
 - The author tells a good story.
 
 # VF3       S + Vlk + adj
+# Linking Verb: 13 words
+                Appear 
+                Get
+                Go
+                Become 
+                Grow 
+                Look 
+                Remain 
+                Seem 
+                Smell 
+                Sound 
+                Stay 
+                Taste 
+                Turn 
+
 + S = Subject: Chủ ngữ.
 + Vlk = Linking Verb: Động từ liên kế.
 + Adj: tính từ.
 
-# Linking Verb: Get/Go/Become; Appear; Look; Seem; Sound; Taste; Smell; Turn; Grow; Remain; Stay;
+
 
 Ex: 
 - I feel tired.
@@ -65,12 +96,14 @@ Ex:
 - Pass your ball to me => pass me your ball. (hãy chuyền cho tôi quả bóng)
 
 # VF5   S + V Transitive + Direct Object + V BI (Bare Infinitive)
+#           4 words
             make: bắt
             let: để
             help: giúp
             have: nhờ
 
 # VF6   S + V transitive + Direct Object + Present participle (Ving)
+#           6 words
             catch: bắt gặp, bắt quả tang
             find: phát hiện, tìm thấy
             keep: để cho
@@ -79,6 +112,7 @@ Ex:
             start: khởi động
 
 # VF7   S + V transitive + Direct Object + V BI / Ving (Verb of perception)
+#           10 words
             look at
             see
             notice: chú ý
@@ -91,34 +125,35 @@ Ex:
             taste: cảm thấy vị
 
 # VF8   S + V + DO + Adj (or V3/ed - when object doesnt do action) 
-            have – Ex: They have the issue resolved.
-            get – Ex: They get the issue resolved.
-            want – Ex: They want the issue resolved.
-            need – Ex: They need the issue resolved.
-            require – Ex: They require the issue resolved.
-            prefer – Ex: They prefer the issue resolved.
-            expect – Ex: They expect the issue resolved.
-            wish – Ex: They wish the issue resolved.
-            hope – Ex: They hope the issue resolved.
+#           13 words
             demand – Ex: They demand the issue resolved.
+            expect – Ex: They expect the issue resolved.
+            get – Ex: They get the issue resolved.
+            have – Ex: They have the issue resolved.
+            hope – Ex: They hope the issue resolved.
+            keep – Ex: They keep the issue resolved.
+            need – Ex: They need the issue resolved.
             order – Ex: They order the issue resolved.
-            ask to have – Ex: They ask to have the issue resolved.
-            insist on having – Ex: They insist on having the issue resolved.
-            arrange to have – Ex: They arrange to have the issue resolved.
-            instruct to have – Ex: They instruct to have the issue resolved.
-            permit to have – Ex: They permit to have the issue resolved.
-            authorize to have – Ex: They authorize to have the issue resolved.
-            force to have – Ex: They force to have the issue resolved.
-            request to have – Ex: They request to have the issue resolved.
-            hire someone to have – Ex: They hire someone to have the issue resolved.
-            ...
+            prefer – Ex: They prefer the issue resolved.
+            remain – Ex: They remain the issue resolved.
+            require – Ex: They require the issue resolved.
+            want – Ex: They want the issue resolved.
+            wish – Ex: They wish the issue resolved.
 Ex: 
 - He keeps the door white. - Adj
 - He keeps the door locked. - V3
 
-# VF9   S + V + DO + OC (Object Complement) can use "as", "to be", "for" between DO and OC
-# Call, make, appoint, consider, vote, elect, choose, designate, name
-
+# VF9   S + V List + DO + (as/tobe/for) + OC (Object Complement) can use "as", "to be", "for" between DO and OC
+#           9 words
+            Appoint
+            Call
+            Choose
+            Consider
+            Designate
+            Elect
+            Make
+            Name
+            Vote 
 Ex: 
 - I call her "Lan"
 - They named him "Lucky Luke"
@@ -133,24 +168,49 @@ Ex:
 - I consider her to be my sister
 
 # VF10a:    S + V List + G (Gerund Ving) or Passive Gerund (Being Ving)
-                admit
-                anticipate
-                appreciate
-                avoid
-                consider
-                delay
-                deny
-                dislike
-                enjoy
-                finish
-                keep
-                mind
-                miss
-                postpone
-                practice
-                risk
-                suggest
+#               33 words
+                ALLOW DOING SOMETHING: cho phép làm gì đó
+                ADMIT DOING SOMETHING: thừa nhận làm gì đó
+                AVOID DOING SOMETHING: tránh né làm gì đó
+                BE WORTH DOING SOMETHING: xứng đáng làm gì đó
+                BEGIN DOING SOMETHING: bắt đầu làm gì đó
+                CAN’T BEAR DOING SOMETHING: không chịu đựng được làm gì đó
+                CAN’T STAND DOING SOMETHING = CAN’T BEAR DOING SOMETHING: không chịu đựng được khi làm gì đó
+                CAN’T HELP DOING SOMETHING: không thể không làm gì đó, không thể nín nhịn làm gì đó (thường là không thể nhịn cười)
+                CONSIDER DOING SOMETHING: xem xét, nghĩ đến khả năng sẽ làm gì đó
+                DENY DOING SOMETHING: chối đã làm gì đó
+                DISLIKE DOING SOMETHING: không thích làm gì đó
+                DREAD DOING SOMETHING: rất rất sợ phải làm gì đó
+                ENDURE DOING SOMETHING: chịu đựng phải làm điều gì đó
+                ENJOY DOING SOMETHING: thích thú, có được niềm vui khi làm điều gì đó, thích làm gì đó như là một thú vui
+                FINISH DOING SOMETHING: hoàn tất làm điều gì đó, làm xong việc gì đó
+                GIVE UP DOING SOMETHING = QUIT DOING SOMETHING: từ bỏ làm gì đó
+                GO ON DOING SOMETHING: tiếp tục làm gì đó
+                HATE DOING SOMETHING: ghét làm gì đó
+                IMAGINE DOING SOMETHING: tượng tượng làm gì đó
+                INVOLVE DOING SOMETHING: đòi hỏi phải làm gì đó,đồng nghĩa với việc phải làm gì đó
+                KEEP DOING SOMETHING: mãi làm điều gì đó, liên tục làm điều gì đó
+                LIKE DOING SOMETHING: thích làm gì đó
+                MIND DOING SOMETHING: phiền lòng khi làm gì đó (dùng trong phủ định hoặc nghi vấn xin phép, nhờ vả)
+                MISS DOING SOMETHING: suýt đã làm gì đó
+                POSTPONE DOING SOMETHING: trì hoãn làm gì đó
+                PRACTISE DOING SOMETHING: thực tập, thực hành làm gì đó
+                REMEMBER DOING SOMETHING: nhớ đã làm gì đó (Khi nghĩ về quá khứ)
+                RESENT DOING SOMETHING: ghét làm gì đó
+                RISK DOING SOMETHING: có nguy cơ bị làm gì đó
+                SPEND TIME DOING SOMETHING: bỏ (thời gian) làm gì đó
+                START DOING SOMETHING = BEGIN DOING SOMETHING: bắt đầu làm gì đó
+                SUGGEST DOING SOMETHING: đề nghị làm gì đó
+                TRY DOING SOMETHING: thử làm gì đó
 [Verbs Followed By Gerunds (Verb + Ving)](/English/Grammar/Verbs/VerbFollowedByGerund.md) <-- Ctrl + Click
+Ex:
+- She avoids someone seeing her
+- I enjoy cooking with my family
+- She suggested going to the park.
+Passive: 
+- She avoids being seen in public places
+- They avoided being punished by the teacher
+- She enjoys being praised for her efforts
 
 # VF10b:    S + Expressions List + G (Gerund Ving) or Passive Gerund (Being Ving)
                 to be/get used to
@@ -159,49 +219,52 @@ Ex:
                 to be looking/ to look forward to
 [Gerund Form Of A Verb After "To"](/English/Grammar/Verbs/VerbToGerund.md) <-- Ctrl + Click
 [TO GO + VING](/English/Grammar/Verbs/ToGo_V_ING.md) <-- Ctrl + Click
+Ex: 
+- I'll never get used to getting up at 5AM
 
 # VF11a:    S   +   V List  +   To  +   VF
-                    LIKE
-                    LOVE
+#                   13 words
+                    CAN'T WAIT
+                    DECIDE
+                    EXPECT
                     HAVE
                     HATE
-                    WANT
-                    TRY
-                    NEED
                     INTEND
-                    EXPECT
+                    LIKE
+                    LOVE
+                    NEED
                     PLAN
                     REMEMBER
-                    DECIDE
-                    REMEMBER
-                    CAN'T WAIT
+                    TRY
+                    WANT
 - I like to dance (VF1)
 - I like to learn English (VF2)
 
 # VF11b:    S   +   V List  +   To Be V3/ed (Only Verb Transitive)
-                    LIKE
-                    LOVE
+#                   13 words
+                    CAN'T WAIT
+                    DECIDE
+                    EXPECT
                     HAVE
                     HATE
-                    WANT
-                    TRY
-                    NEED
                     INTEND
-                    EXPECT
+                    LIKE
+                    LOVE
+                    NEED
                     PLAN
                     REMEMBER
-                    DECIDE
-                    REMEMBER
-                    CAN'T WAIT
+                    TRY
+                    WANT
 - He likes to be rewarded
 - We expected to be respected
 
 # VF11c:    S   +   V List  +   PASSIVE (Gerund Or To Be V3/ed)
-                    Need
-                    Want
-                    Merit (xứng đáng)
+#                   5 words
                     Be worth (xứng đáng)
                     Deserve (xứng đáng)
+                    Merit (xứng đáng)
+                    Need
+                    Want
 - This book is worth reading
 - He deserves rewarding
 
