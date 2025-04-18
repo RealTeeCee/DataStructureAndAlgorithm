@@ -1,0 +1,5 @@
+imperative /ɪmˈperətɪv/: (a/n) mệnh lệnh – rất cần thiết hoặc mang tính ra lệnh. Ex: It is imperative to act now. (Hành động ngay là điều bắt buộc)
+emphatic /ɪmˈfætɪk/: (a) nhấn mạnh – thể hiện sự chắc chắn, mạnh mẽ. Ex: He was emphatic in his denial. (Anh ấy phủ nhận một cách dứt khoát)
+inversion /ɪnˈvɜːʃən/: (n) đảo ngữ – thay đổi thứ tự từ để nhấn mạnh trong câu. Ex: Rarely have I seen such beauty. (Hiếm khi tôi thấy vẻ đẹp như thế)
+exclamatory /ɪkˈsklæmətəri/: (a) cảm thán – thể hiện cảm xúc mạnh. Ex: What a beautiful day! (Thật là một ngày đẹp!)
+implied /ɪmˈplaɪd/: (a) ngụ ý – không nói rõ nhưng hiểu ngầm. Ex: An implied threat. (Một lời đe dọa ngụ ý)
