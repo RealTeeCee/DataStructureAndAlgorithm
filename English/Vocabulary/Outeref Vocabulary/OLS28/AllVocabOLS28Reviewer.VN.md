@@ -130,7 +130,7 @@
 (v) Khoe khoang – nói tự hào một cách phô trương: 
 (n) Bờ biển – nơi đất liền giáp với đại dương hoặc biển: 
 (n) Huấn luyện viên – người hướng dẫn trong thể thao hoặc kỹ năng; (n) xe khách: 
-(v) Yêu mến mù quáng – yêu một cách mê muội: 
+(v) Yêu mến mù quáng; cưng chiều – yêu thương một cách mê muội: 
 (n) Đám mây – khối hơi nước lơ lửng trên bầu trời: 
 (n) Ranh giới – đường phân chia giữa hai khu vực hoặc điều gì đó: 
 (n) Cá chình – loài cá thân dài trơn trượt giống rắn: 
