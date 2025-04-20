@@ -130,7 +130,7 @@ foam /fəʊm/:
 boast /bəʊst/: 
 coast /kəʊst/: 
 coach /kəʊtʃ/: 
-doat (cổ, ít dùng): /dəʊt/: 
+dote (hoặc doat - cổ, ít dùng) /dəʊt/:
 cloud /klaʊd/: 
 boundary /ˈbaʊn.dər.i/: 
 eel /iːl/: 

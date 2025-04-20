@@ -130,7 +130,7 @@ foam /fəʊm/: (n) Bọt – chất nhẹ nổi lên như trong xà phòng, nư�
 boast /bəʊst/: (v) Khoe khoang – nói tự hào một cách phô trương .Ex: He boasted about his achievements. (Anh ta khoe khoang thành tích của mình)
 coast /kəʊst/: (n) Bờ biển – nơi đất liền giáp với đại dương hoặc biển .Ex: We walked along the coast. (Chúng tôi đi dọc theo bờ biển)
 coach /kəʊtʃ/: (n) Huấn luyện viên – người hướng dẫn trong thể thao hoặc kỹ năng; (n) xe khách .Ex: The football team hired a new coach. (Đội bóng thuê huấn luyện viên mới)
-dote (hoặc doat - cổ, ít dùng): /dəʊt/: (v) Yêu mến mù quáng – yêu một cách mê muội .Ex: She dotes on her grandchildren. (Bà ấy yêu chiều cháu mình)
+dote (hoặc doat - cổ, ít dùng) /dəʊt/: (v) Yêu mến mù quáng – yêu một cách mê muội .Ex: She dotes on her grandchildren. (Bà ấy yêu chiều cháu mình)
 cloud /klaʊd/: (n) Đám mây – khối hơi nước lơ lửng trên bầu trời .Ex: A dark cloud covered the sun. (Một đám mây đen che khuất mặt trời)
 boundary /ˈbaʊn.dər.i/: (n) Ranh giới – đường phân chia giữa hai khu vực hoặc điều gì đó .Ex: The river forms the boundary between the two countries. (Con sông là ranh giới giữa hai quốc gia)
 eel /iːl/: (n) Cá chình – loài cá thân dài trơn trượt giống rắn .Ex: The fisherman caught a big eel. (Ngư dân bắt được một con cá chình lớn)
