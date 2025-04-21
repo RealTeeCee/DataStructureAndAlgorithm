@@ -344,83 +344,83 @@
 (v) Phục vụ – giúp đỡ hoặc phục vụ khách hàng: 
 (v) Rời bỏ – bỏ mặc ai đó hoặc điều gì đó một cách đột ngột: 
 (v) Dần thích – bắt đầu cảm thấy thoải mái hoặc thích ai đó hay điều gì đó: 
-(n) cơ sở, tiện nghi. Ex: The hotel has excellent sports facilities. – Khách sạn có các tiện nghi thể thao tuyệt vời.
-(n) nguyên vật liệu. Ex: This dress is made from recycled materials. – Chiếc váy này được làm từ vật liệu tái chế.
-(n) buổi diễn tập. Ex: We have a rehearsal tonight for the school play. – Tối nay chúng tôi có buổi diễn tập cho vở kịch của trường.
-(n) trang phục. Ex: Formal attire is required at the event. – Sự kiện yêu cầu trang phục trang trọng.
-(n) bầu không khí. Ex: The restaurant has a cozy atmosphere. – Nhà hàng có bầu không khí ấm cúng.
-(adj) có ích, dẫn đến (thường là môi trường phù hợp). Ex: A quiet room is conductive to studying. – Một căn phòng yên tĩnh phù hợp cho việc học.
-(adj) quan trọng, nghiêm trọng. Ex: Timing is critical in this operation. – Thời điểm là yếu tố cực kỳ quan trọng trong ca phẫu thuật này.
-(adj) bắt buộc. Ex: Wearing helmets is mandatory for motorcyclists. – Đội mũ bảo hiểm là điều bắt buộc đối với người đi xe máy.
-(adj) thích hợp, liên quan. Ex: Please keep your comments pertinent to the topic. – Hãy giữ cho ý kiến của bạn liên quan đến chủ đề.
-(adj) thích hợp, đúng đắn. Ex: You should wear proper clothing for hiking. – Bạn nên mặc trang phục phù hợp khi đi bộ đường dài.
-(n) hội nghị từ xa. Ex: We have a teleconference with the head office at 10 a.m. – Chúng tôi có cuộc hội nghị từ xa với trụ sở chính lúc 10 giờ sáng.
-(n) người sáng lập. Ex: Steve Jobs was the founder of Apple. – Steve Jobs là người sáng lập Apple.
-(n) xung đột. Ex: The two countries are trying to avoid conflict. – Hai quốc gia đang cố gắng tránh xung đột.
-(n) sự dàn xếp, giải quyết. Ex: They reached a settlement after months of negotiation. – Họ đạt được một thỏa thuận sau nhiều tháng đàm phán.
-(n) cư dân. Ex: The inhabitants of the island are very friendly. – Cư dân trên đảo rất thân thiện.
-(n) gia súc (bò). Ex: The farmer owns hundreds of cattle. – Người nông dân sở hữu hàng trăm con bò.
-(n) quỹ đạo. Ex: The satellite is now in orbit around the Earth. – Vệ tinh hiện đang ở trong quỹ đạo quanh Trái Đất.
-(n) sự sống sót. Ex: Clean water is essential for survival. – Nước sạch là yếu tố thiết yếu cho sự sống còn.
-(n) phúc lợi, hạnh phúc. Ex: The government should care about the welfare of its people. – Chính phủ nên quan tâm đến phúc lợi của người dân.
-(adj, n) bản địa, người bản xứ. Ex: English is her native language. – Tiếng Anh là tiếng mẹ đẻ của cô ấy.
-(adj) lan tràn, mất kiểm soát. Ex: Corruption is rampant in some areas. – Tham nhũng đang lan tràn ở một số khu vực.
-(v) làm cho dời chỗ, chiếm chỗ. Ex: The flood displaced thousands of people. – Lũ lụt đã làm cho hàng ngàn người phải rời khỏi chỗ ở.
-(v) tuyên bố. Ex: The country declared independence in 1945. – Quốc gia này tuyên bố độc lập vào năm 1945.
-(v) mở rộng. Ex: The company plans to expand into Asia. – Công ty có kế hoạch mở rộng sang châu Á.
-(v) đạt được, thu được. Ex: He acquired a lot of experience from that job. – Anh ấy thu được nhiều kinh nghiệm từ công việc đó.
-(v) dần dần thiếp đi. Ex: He drifted off during the lecture. – Anh ấy thiếp đi trong lúc giảng bài.
-(v) bỏ học giữa chừng. Ex: She dropped out of college last year. – Cô ấy bỏ học đại học năm ngoái.
-(v) đối mặt với. Ex: You need to face up to your responsibilities. – Bạn cần đối mặt với trách nhiệm của mình.
-(v) phải lòng. Ex: He fell for her the moment they met. – Anh ấy phải lòng cô ấy ngay lần đầu gặp.
-(v) kết thân, hoà nhập với. Ex: She quickly fell in with the new team. – Cô ấy nhanh chóng hoà nhập với nhóm mới.
-(v) trốn thoát, thoát khỏi. Ex: The thief got away before the police arrived. – Tên trộm trốn thoát trước khi cảnh sát tới.
-(v) thoát khỏi, tránh né. Ex: He got out of doing chores by pretending to be sick. – Anh ấy tránh làm việc nhà bằng cách giả vờ ốm.
-(v) quay lại. Ex: I’ll never go back to that restaurant again. – Tôi sẽ không bao giờ quay lại nhà hàng đó nữa.
-(v) thất hứa. Ex: He went back on his word. – Anh ấy thất hứa.
-(v) chần chừ, lùi lại. Ex: She hung back, unsure whether to enter. – Cô ấy chần chừ, không chắc có nên vào hay không.
-(v) kìm nén, giữ lại. Ex: He couldn’t hold back his tears. – Anh ấy không thể kìm nén nước mắt.
-(v) làm chậm trễ; cướp. Ex: Sorry I'm late, I was held up in traffic. – Xin lỗi tôi đến trễ, tôi bị kẹt xe.
-(v) tha, không phạt. Ex: The teacher let him off with a warning. – Giáo viên tha cho anh ấy bằng một lời cảnh cáo.
-(v) để lộ (bí mật). Ex: Don’t let on about the surprise party. – Đừng để lộ bữa tiệc bất ngờ nhé.
-(v) xếp hàng. Ex: The students lined up outside the classroom. – Học sinh xếp hàng bên ngoài lớp học.
-(v) hồi tưởng lại. Ex: I often look back on my childhood. – Tôi thường hồi tưởng lại thời thơ ấu.
-(v) gặp phải (phản ứng, khó khăn...). Ex: His idea met with strong opposition. – Ý tưởng của anh ấy vấp phải sự phản đối mạnh mẽ.
-(v) qua đời. Ex: Her grandmother passed away peacefully. – Bà của cô ấy qua đời trong yên bình.
-(v) chọn ra. Ex: Can you pick out the mistakes in this essay? – Bạn có thể chỉ ra lỗi sai trong bài luận này không?
-(v) đồng lòng, hợp sức. Ex: If we all pull together, we can finish this on time. – Nếu mọi người hợp sức, ta có thể hoàn thành đúng hạn.
-(v) gọi (ai đó, bằng chuông, điện thoại...). Ex: He rang for the waiter. – Anh ấy gọi bồi bàn.
-(v) ổn định (cuộc sống, công việc...). Ex: He moved to the countryside to settle down. – Anh ấy chuyển về quê để ổn định cuộc sống.
-(v) thức cùng ai (thường là người bệnh). Ex: She sat up with her sick child all night. – Cô ấy thức suốt đêm cùng con ốm.
-(v) ủng hộ, ở bên cạnh. Ex: True friends will always stand by you. – Những người bạn thực sự sẽ luôn ở bên bạn.
-(v) thử sức, thi tuyển vào. Ex: She’s trying out for the school play. – Cô ấy đang thử sức vào vở kịch của trường.
-(n) béo phì. Ex: Obesity can lead to serious health problems. – Béo phì có thể dẫn đến các vấn đề sức khỏe nghiêm trọng.
-(n) tuyến (trong cơ thể). Ex: The thyroid is a gland in your neck. – Tuyến giáp là một tuyến nằm ở cổ bạn.
-(adj) thuộc về di truyền. Ex: Eye color is determined by genetic factors. – Màu mắt được quyết định bởi các yếu tố di truyền.
-(n) chức năng. Ex: The liver has many vital functions. – Gan có nhiều chức năng quan trọng.
-(v) quá nhiệt. Ex: The engine overheated due to a lack of coolant. – Động cơ bị quá nhiệt do thiếu nước làm mát.
-(v) thèm, khao khát. Ex: She craves chocolate every afternoon. – Cô ấy thèm sô-cô-la mỗi buổi chiều.
-(v) thừa hưởng. Ex: He inherited his father's talent for music. – Anh ấy thừa hưởng tài năng âm nhạc từ cha mình.
-(adj) thuộc tuyến (trong cơ thể). Ex: She suffers from a glandular disorder. – Cô ấy bị rối loạn tuyến nội tiết.
-(adj) thuộc hoóc-môn. Ex: Teenagers often go through hormonal changes. – Thanh thiếu niên thường trải qua những thay đổi về hoóc-môn.
-(adj) thiếu hụt. Ex: The diet is deficient in vitamin C. – Chế độ ăn này thiếu hụt vitamin C.
-(adj) suy dinh dưỡng. Ex: Many children in the region are undernourished. – Nhiều trẻ em trong khu vực bị suy dinh dưỡng.
-(n) sự nghiện. Ex: He is seeking help for his drug addiction. – Anh ấy đang tìm kiếm sự hỗ trợ cho chứng nghiện ma túy.
-(n) nhu cầu, đòi hỏi. Ex: There is high demand for electric cars. – Có nhu cầu cao về xe điện.
-(v) ảnh hưởng đến. Ex: The weather can affect your mood. – Thời tiết có thể ảnh hưởng đến tâm trạng của bạn.
-(v) đóng góp, góp phần. Ex: Everyone contributed to the success of the project. – Mọi người đều góp phần vào thành công của dự án.
-(v) làm cạn kiệt, rút hết. Ex: The long meetings drained my energy. – Những cuộc họp dài khiến tôi mất hết năng lượng.
-(adj) bất hợp pháp. Ex: It's illegal to drive without a license. – Lái xe không có bằng là hành vi bất hợp pháp.
-(adj) bạo lực. Ex: The movie was too violent for young children. – Bộ phim quá bạo lực đối với trẻ nhỏ.
-(n) sự ma sát; mâu thuẫn. Ex: There was a lot of friction between the team members. – Có nhiều mâu thuẫn giữa các thành viên trong nhóm.
-(n) động lực. Ex: Money is not the only motivation for working. – Tiền không phải là động lực duy nhất để làm việc.
-(n) sự trung thực. Ex: I admire his honesty. – Tôi ngưỡng mộ sự trung thực của anh ấy.
-(n) sự chính trực. Ex: A leader must have integrity. – Một người lãnh đạo cần phải có sự chính trực.
-(n) hiệu suất, màn trình diễn. Ex: Her performance in the play was outstanding. – Màn trình diễn của cô ấy trong vở kịch rất xuất sắc.
-(v) đòi hỏi, kéo theo. Ex: The job entails a lot of travel. – Công việc này đòi hỏi phải đi lại nhiều.
-(v) tương tác. Ex: The app allows users to interact with each other. – Ứng dụng cho phép người dùng tương tác với nhau.
-(v) xuất hiện, đến. Ex: She didn't show up at the meeting. – Cô ấy đã không xuất hiện tại cuộc họp.
-(n, adj) tiềm năng; có tiềm năng. Ex: He has great potential as a leader. – Anh ấy có tiềm năng lớn để trở thành một nhà lãnh đạo.
+(n) cơ sở, tiện nghi: 
+(n) nguyên vật liệu: 
+(n) buổi diễn tập: 
+(n) trang phục: 
+(n) bầu không khí: 
+(adj) có ích, dẫn đến (thường là môi trường phù hợp): 
+(adj) quan trọng, nghiêm trọng: 
+(adj) bắt buộc: 
+(adj) thích hợp, liên quan: 
+(adj) thích hợp, đúng đắn: 
+(n) hội nghị từ xa: 
+(n) người sáng lập: 
+(n) xung đột: 
+(n) sự dàn xếp, giải quyết: 
+(n) cư dân: 
+(n) gia súc (bò): 
+(n) quỹ đạo: 
+(n) sự sống sót: 
+(n) phúc lợi, hạnh phúc: 
+(adj, n) bản địa, người bản xứ: 
+(adj) lan tràn, mất kiểm soát: 
+(v) làm cho dời chỗ, chiếm chỗ: 
+(v) tuyên bố: 
+(v) mở rộng: 
+(v) đạt được, thu được: 
+(v) dần dần thiếp đi: 
+(v) bỏ học giữa chừng: 
+(v) đối mặt với: 
+(v) phải lòng: 
+(v) kết thân, hoà nhập với: 
+(v) trốn thoát, thoát khỏi: 
+(v) thoát khỏi, tránh né: 
+(v) quay lại: 
+(v) thất hứa: 
+(v) chần chừ, lùi lại: 
+(v) kìm nén, giữ lại: 
+(v) làm chậm trễ; cướp: 
+(v) tha, không phạt: 
+(v) để lộ (bí mật): 
+(v) xếp hàng: 
+(v) hồi tưởng lại: 
+(v) gặp phải (phản ứng, khó khăn...): 
+(v) qua đời: 
+(v) chọn ra: 
+(v) đồng lòng, hợp sức: 
+(v) gọi (ai đó, bằng chuông, điện thoại...): 
+(v) ổn định (cuộc sống, công việc...): 
+(v) thức cùng ai (thường là người bệnh): 
+(v) ủng hộ, ở bên cạnh: 
+(v) thử sức, thi tuyển vào: 
+(n) béo phì: 
+(n) tuyến (trong cơ thể): 
+(adj) thuộc về di truyền: 
+(n) chức năng: 
+(v) quá nhiệt: 
+(v) thèm, khao khát: 
+(v) thừa hưởng: 
+(adj) thuộc tuyến (trong cơ thể): 
+(adj) thuộc hoóc-môn: 
+(adj) thiếu hụt: 
+(adj) suy dinh dưỡng: 
+(n) sự nghiện: 
+(n) nhu cầu, đòi hỏi: 
+(v) ảnh hưởng đến: 
+(v) đóng góp, góp phần: 
+(v) làm cạn kiệt, rút hết: 
+(adj) bất hợp pháp: 
+(adj) bạo lực: 
+(n) sự ma sát; mâu thuẫn: 
+(n) động lực: 
+(n) sự trung thực: 
+(n) sự chính trực: 
+(n) hiệu suất, màn trình diễn: 
+(v) đòi hỏi, kéo theo: 
+(v) tương tác: 
+(v) xuất hiện, đến: 
+(n, adj) tiềm năng; có tiềm năng: 
 (v) Rút lui – không thực hiện điều đã hứa hoặc đã cam kết: 
 (v) Thổi tắt – dập tắt bằng cách thổi; (n) nổ lốp xe: 
 (v) Hư hỏng – ngừng hoạt động (máy móc); suy sụp (tinh thần): 
@@ -489,35 +489,35 @@
 (v) Phục hồi và tăng trưởng mạnh – lấy lại đà phát triển: 
 (n) Mức thị trường – giá trị hoặc chỉ số hiện tại của thị trường: 
 (n) Sự riêng tư – quyền được sống không bị làm phiền hoặc theo dõi: 
-(v) làm chậm tiến độ – khiến ai/cái gì bị trì trệ, không thể tiến triển. Ex: The meeting got bogged down in details. (Cuộc họp bị trì trệ vì các chi tiết nhỏ nhặt)
-(v) tích lũy, gia tăng – làm cho điều gì đó lớn mạnh hơn hoặc tốt hơn. Ex: She built up her confidence over time. (Cô ấy dần dần xây dựng sự tự tin của mình)
-(v) làm lại từ đầu – thực hiện lại một việc gì đó vì chưa hài lòng. Ex: I’ll have to do the report over. (Tôi phải làm lại bản báo cáo)
-(v) thả xuống – đưa ai đó hoặc cái gì đến một nơi; giảm đi. Ex: I’ll drop you off at the station. (Tôi sẽ thả bạn ở nhà ga)
-(v) sửa chữa, chuẩn bị – làm cho cái gì đó tốt hơn hoặc sẵn sàng. Ex: They fixed up the old house. (Họ đã sửa lại ngôi nhà cũ)
-(v) đi sâu vào, thảo luận kỹ – bắt đầu tham gia hoặc giải thích chi tiết. Ex: I won’t go into detail now. (Tôi sẽ không đi sâu vào chi tiết lúc này)
-(v) giúp đỡ – hỗ trợ ai đó khi họ cần. Ex: He helped out with the cooking. (Anh ấy đã giúp việc nấu ăn)
-(v) kiên trì đợi cái gì tốt hơn – từ chối chấp nhận điều gì không mong muốn. Ex: They’re holding out for a better deal. (Họ đang chờ một thỏa thuận tốt hơn)
-(v) di chuyển chậm chạp – tiến dần từng chút. Ex: The traffic inched along slowly. (Giao thông di chuyển chậm chạp từng chút)
-(v) sa thải – cho ai nghỉ việc vì thiếu công việc. Ex: The company laid off 200 workers. (Công ty đã sa thải 200 công nhân)
-(v) sống nhờ – duy trì cuộc sống nhờ vào nguồn gì đó. Ex: They live on a small pension. (Họ sống nhờ vào lương hưu ít ỏi)
-(v) trả hết nợ – thanh toán toàn bộ khoản nợ. Ex: He finally paid off his car loan. (Anh ấy đã trả hết khoản vay mua xe)
-(v) dự định – lên kế hoạch cho việc gì. Ex: I plan on traveling this summer. (Tôi định đi du lịch mùa hè này)
-(v) tiết kiệm – để dành tiền hoặc thứ gì đó. Ex: She’s saving up for a new phone. (Cô ấy đang tiết kiệm để mua điện thoại mới)
-(v) gọi đến – yêu cầu ai đó đến nơi bạn đang ở. Ex: We had to send for a doctor. (Chúng tôi phải gọi bác sĩ đến)
-(v) thiết lập, thành lập – bắt đầu một hệ thống, công ty. Ex: He set up a new business. (Anh ấy đã thành lập một doanh nghiệp mới)
-(v) ghi danh – đăng ký tham gia. Ex: I signed up for the yoga class. (Tôi đã ghi danh lớp yoga)
-(v) giảm tốc – trở nên chậm hoặc yếu hơn. Ex: Work has slackened off lately. (Công việc gần đây đã chậm lại)
-(v) suy nghĩ thêm – dành thêm thời gian để cân nhắc. Ex: I’ll sleep on it and decide tomorrow. (Tôi sẽ suy nghĩ thêm và quyết định vào ngày mai)
-(v) tiếp quản – giành quyền điều hành. Ex: He took over the family business. (Anh ấy tiếp quản công ty gia đình)
-(v) điều chỉnh – bảo dưỡng hoặc điều chỉnh để hoạt động tốt hơn. Ex: I need to tune up my car. (Tôi cần điều chỉnh lại xe của mình)
-(v) diễn ra tốt đẹp – tìm ra giải pháp hoặc thành công. Ex: Everything worked out fine. (Mọi việc đã ổn thỏa)
-(v) giải quyết – tính toán hoặc hiểu ra điều gì. Ex: We need to work out the total cost. (Chúng ta cần tính tổng chi phí)
-(v) khơi dậy, kích thích – phát triển cảm xúc hoặc trạng thái. Ex: He worked up a good appetite. (Anh ấy đã khơi dậy cảm giác thèm ăn tốt)
-(a/n) mệnh lệnh – rất cần thiết hoặc mang tính ra lệnh. Ex: It is imperative to act now. (Hành động ngay là điều bắt buộc)
-(a) nhấn mạnh – thể hiện sự chắc chắn, mạnh mẽ. Ex: He was emphatic in his denial. (Anh ấy phủ nhận một cách dứt khoát)
-(n) đảo ngữ – thay đổi thứ tự từ để nhấn mạnh trong câu. Ex: Rarely have I seen such beauty. (Hiếm khi tôi thấy vẻ đẹp như thế)
-(a) cảm thán – thể hiện cảm xúc mạnh. Ex: What a beautiful day! (Thật là một ngày đẹp!)
-(a) ngụ ý – không nói rõ nhưng hiểu ngầm. Ex: An implied threat. (Một lời đe dọa ngụ ý)
+(v) làm chậm tiến độ – khiến ai/cái gì bị trì trệ, không thể tiến triển: 
+(v) tích lũy, gia tăng – làm cho điều gì đó lớn mạnh hơn hoặc tốt hơn: 
+(v) làm lại từ đầu – thực hiện lại một việc gì đó vì chưa hài lòng: 
+(v) thả xuống – đưa ai đó hoặc cái gì đến một nơi; giảm đi: 
+(v) sửa chữa, chuẩn bị – làm cho cái gì đó tốt hơn hoặc sẵn sàng: 
+(v) đi sâu vào, thảo luận kỹ – bắt đầu tham gia hoặc giải thích chi tiết: 
+(v) giúp đỡ – hỗ trợ ai đó khi họ cần: 
+(v) kiên trì đợi cái gì tốt hơn – từ chối chấp nhận điều gì không mong muốn: 
+(v) di chuyển chậm chạp – tiến dần từng chút: 
+(v) sa thải – cho ai nghỉ việc vì thiếu công việc: 
+(v) sống nhờ – duy trì cuộc sống nhờ vào nguồn gì đó: 
+(v) trả hết nợ – thanh toán toàn bộ khoản nợ: 
+(v) dự định – lên kế hoạch cho việc gì: 
+(v) tiết kiệm – để dành tiền hoặc thứ gì đó: 
+(v) gọi đến – yêu cầu ai đó đến nơi bạn đang ở: 
+(v) thiết lập, thành lập – bắt đầu một hệ thống, công ty: 
+(v) ghi danh – đăng ký tham gia: 
+(v) giảm tốc – trở nên chậm hoặc yếu hơn: 
+(v) suy nghĩ thêm – dành thêm thời gian để cân nhắc: 
+(v) tiếp quản – giành quyền điều hành: 
+(v) điều chỉnh – bảo dưỡng hoặc điều chỉnh để hoạt động tốt hơn: 
+(v) diễn ra tốt đẹp – tìm ra giải pháp hoặc thành công: 
+(v) giải quyết – tính toán hoặc hiểu ra điều gì: 
+(v) khơi dậy, kích thích – phát triển cảm xúc hoặc trạng thái: 
+(a/n) mệnh lệnh – rất cần thiết hoặc mang tính ra lệnh: 
+(a) nhấn mạnh – thể hiện sự chắc chắn, mạnh mẽ: 
+(n) đảo ngữ – thay đổi thứ tự từ để nhấn mạnh trong câu: 
+(a) cảm thán – thể hiện cảm xúc mạnh: 
+(a) ngụ ý – không nói rõ nhưng hiểu ngầm: 
 (n) Hồ sơ: 
 (n) Tài khoản vĩnh viễn: 
 (n) Tin học: 
