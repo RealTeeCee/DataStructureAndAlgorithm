@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Exit Clearance Form</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      font-size: 13px;
+      margin: 40px;
+      color: #000;
+    }
+    h2 {
+      text-align: center;
+      margin-bottom: 20px;
+      text-transform: uppercase;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-bottom: 20px;
+    }
+    th, td {
+      border: 1px solid #999;
+      padding: 6px 8px;
+      vertical-align: top;
+    }
+    th {
+      background: #f4f4f4;
+      text-align: left;
+    }
+    .header-table td {
+      border: none;
+      padding: 4px 8px;
+    }
+    .section-header {
+      background: #006400;
+      color: #fff;
+      font-weight: bold;
+    }
+    .signature-table td {
+      height: 60px;
+      vertical-align: bottom;
+      text-align: center;
+    }
+    .note {
+      font-size: 12px;
+      font-style: italic;
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+  <h2>Exit Clearance Form</h2>
+
+  <table class="header-table">
+    <tr>
+      <td>Full Name:</td>
+      <td><span id="empName">[EmployeeName]</span></td>
+      <td>WO No:</td>
+      <td><span id="woNo">[WorkOrderNumber]</span></td>
+    </tr>
+    <tr>
+      <td>Division:</td>
+      <td><span id="division">[Division]</span></td>
+      <td>Last Working Day:</td>
+      <td><span id="lastWorkingDay">[LastWorkingDay]</span></td>
+    </tr>
+    <tr>
+      <td>Work Department Email:</td>
+      <td><span id="workDeptEmail">[WorkDeptEmail]</span></td>
+      <td>Line Manager Email:</td>
+      <td><span id="managerEmail">[ManagerEmail]</span></td>
+    </tr>
+  </table>
+
+  <table>
+    <thead>
+      <tr>
+        <th>Facilities<br><small>Vật dụng</small></th>
+        <th>Quantity<br><small>Số lượng</small></th>
+        <th>Status<br><small>Tình trạng</small></th>
+        <th>Vendor<br><small>Người nhận</small></th>
+        <th>Confirmation<br><small>Xác nhận</small></th>
+      </tr>
+    </thead>
+    <tbody id="facilityList">
+      <!-- Example section -->
+      <tr class="section-header"><td colspan="5">1. Confirmation of Return - IT</td></tr>
+      <tr>
+        <td>Laptop</td>
+        <td>1</td>
+        <td></td>
+        <td>IT Dept</td>
+        <td>Approved</td>
+      </tr>
+      <tr>
+        <td>Access Card</td>
+        <td>1</td>
+        <td></td>
+        <td>Admin</td>
+        <td>Approved</td>
+      </tr>
+    </tbody>
+  </table>
+
+  <table class="signature-table">
+    <tr>
+      <td>Employee’s Confirmation</td>
+      <td>Manager’s Confirmation</td>
+    </tr>
+    <tr>
+      <td>Approved</td>
+      <td>Approved</td>
+    </tr>
+  </table>
+
+  <p class="note">
+    If you wish to receive the HR Exit Clearance form after completion, please provide your personal email address.
+  </p>
+</body>
+</html>

@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Exit Clearance Form</title>
+<style>
+  body {
+    font-family: Arial, sans-serif;
+    margin: 40px;
+    color: #000;
+  }
+  h2 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+  }
+  th, td {
+    border: 1px solid #999;
+    padding: 8px;
+    text-align: left;
+    font-size: 13px;
+  }
+  th {
+    background-color: #006400;
+    color: white;
+    text-align: center;
+  }
+  .section-header {
+    background-color: #006400;
+    color: #fff;
+    font-weight: bold;
+    text-transform: uppercase;
+  }
+  .info-table td {
+    border: none;
+    padding: 6px;
+  }
+  .info-label {
+    font-weight: bold;
+    width: 25%;
+  }
+  .signature-table td {
+    height: 80px;
+    vertical-align: top;
+    text-align: center;
+  }
+  .approved {
+    color: green;
+    font-weight: bold;
+  }
+  .note {
+    font-size: 12px;
+    margin-top: 20px;
+  }
+</style>
+</head>
+<body>
+  <h2>EXIT CLEARANCE FORM</h2>
+
+  <!-- Employee Info -->
+  <table class="info-table">
+    <tr>
+      <td class="info-label">Full Name:</td>
+      <td id="fullName">[Employee Name]</td>
+      <td class="info-label">WID No.:</td>
+      <td id="widNo">[WID]</td>
+    </tr>
+    <tr>
+      <td class="info-label">Division:</td>
+      <td id="division">[Division]</td>
+      <td class="info-label">Last Working Day:</td>
+      <td id="lastDay">[Date]</td>
+    </tr>
+    <tr>
+      <td class="info-label">Work Department:</td>
+      <td id="department">[Department]</td>
+      <td class="info-label">Line Manager Name:</td>
+      <td id="manager">[Manager]</td>
+    </tr>
+  </table>
+
+  <!-- Facility Table -->
+  <table>
+    <thead>
+      <tr>
+        <th>Facilities<br/>Vật dụng</th>
+        <th>Quantity<br/>Số lượng</th>
+        <th>Status<br/>Tình trạng</th>
+        <th>Vendor<br/>Người nhận</th>
+        <th>Confirmation<br/>Xác nhận</th>
+      </tr>
+    </thead>
+    <tbody id="facilityTable">
+      <!-- Example section -->
+      <tr class="section-header"><td colspan="5">1. Confirmation of IT Facilities</td></tr>
+      <tr>
+        <td>Advanced Payment (if any)</td>
+        <td></td>
+        <td></td>
+        <td>HR Admin</td>
+        <td class="approved">Approved</td>
+      </tr>
+    </tbody>
+  </table>
+
+  <!-- Signatures -->
+  <br><br>
+  <table class="signature-table">
+    <tr>
+      <th>Employee’s Confirmation</th>
+      <th>Manager’s Confirmation</th>
+    </tr>
+    <tr>
+      <td class="approved">Approved</td>
+      <td class="approved">Approved</td>
+    </tr>
+  </table>
+
+  <p class="note">If you wish to receive the final Clearance Form after completion, please provide your personal email address.</p>
+</body>
+</html>
